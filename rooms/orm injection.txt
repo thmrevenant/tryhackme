@@ -1,0 +1,44 @@
+ORM Injection
+https://tryhackme.com/room/orminjection
+
+What is the default ORM for Ruby on Rails applications?
+Active Record
+
+Which of the following is NOT a feature of ORM?
+c
+
+What is the method used in our Laravel code snippet to define the structure of the users table?
+up()
+
+What is the file name usually used to store database credentials in Laravel?
+.env
+
+What is the path in the DOCUMENT_ROOT variable?
+C:\Users\Administrator\Downloads\orminjection\public
+
+What is the ORM library for the Spring framework? (The one mentioned in this task)
+Hibernate
+
+Once you have reviewed the cookies to identify the ORM, what is the cookie's name that is responsible for maintaining the session in the attached application?
+laravel_session
+
+What email is associated with the name Jane Doe?
+jane@thm.com
+
+What is the name of the vulnerable Eloquent method that is used in this task?
+whereRaw()
+
+What is the flag value after submitting the payload in the secure input field?
+THM{SECURED_001}
+
+What is the total number of rows in the users table?
+5
+
+What is the password for the email john@thm.com?
+THM{101}
+
+Is it a good practice to write raw SQL queries in ORM? (yea/nay)
+nay
+
+Which side should input validation be carried out? Write the correct option only.
+c

@@ -1,0 +1,56 @@
+Network Security Solutions
+https://tryhackme.com/room/redteamnetsec
+
+What does an IPS stand for?
+Intrusion Prevention System
+
+What do you call a system that can detect malicious activity but not stop it?
+Intrusion Detection System
+
+What kind of IDS engine has a database of all known malicious packets’ contents?
+signature-based
+
+What kind of IDS engine needs to learn what normal traffic looks like instead of malicious traffic?
+anomaly-based
+
+What kind of IDS engine needs to be updated constantly as new malicious packets and activities are discovered?
+signature-based
+
+In the attached file, the logs show that a specific IP address has been detected scanning our system of IP address 10.10.112.168. What is the IP address running the port scan?
+10.14.17.226
+
+We use the following Nmap command, nmap -sU -F MACHINE_IP, to launch a UDP scan against our target. What is the option we need to add to set the source port to 161?
+-g 161
+
+The target allows Telnet traffic. Using ncat, how do we set a listener on the Telnet port?
+ncat -lvnp 23
+
+We are scanning our target using nmap -sS -F MACHINE_IP. We want to fragment the IP packets used in our Nmap scan so that the data size does not exceed 16 bytes. What is the option that we need to add?
+-ff
+
+Which of the above three arguments would return meaningful results when scanning MACHINE_IP?
+-sF
+
+What is the option in hping3 to set a custom TCP window size?
+-w
+
+Using base64 encoding, what is the transformation of cat /etc/passwd?
+Y2F0IC9ldGMvcGFzc3dkCg==
+
+The base32 encoding of a particular string is NZRWC5BAFVWCAOBQHAYAU===. What is the original string?
+ncat -l 8080
+
+Using the provided openssl command above. You created a certificate, which we gave the extension .crt, and a private key, which we gave the extension .key. What is the first line in the certificate file?
+-----BEGIN CERTIFICATE-----
+
+What is the last line in the private key file?
+-----END PRIVATE KEY-----
+
+On the attached machine from the previous task, browse to http://MACHINE_IP:8080, where you can write your Linux commands. Note that no output will be returned. A command like ncat -lvnp 1234 -e /bin/bash will create a bind shell that you can connect to it from the AttackBox using ncat MACHINE_IP 1234; however, some IPS is filtering out the command we are submitting on the form. Using one of the techniques mentioned in this task, try to adapt the command typed in the form to run properly. Once you connect to the bind shell using ncat MACHINE_IP 1234, find the user’s name.
+redteamnetsec
+
+Protocols used in proxy servers can be HTTP, HTTPS, SOCKS4, and SOCKS5. Which protocols are currently supported by Nmap?
+HTTP SOCKS4
+
+Which variable would you modify to add a random sleep time between beacon check-ins?
+Jitter

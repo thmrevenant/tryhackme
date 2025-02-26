@@ -1,0 +1,39 @@
+OWASP Broken Access Control
+https://tryhackme.com/room/owaspbrokenaccesscontrol
+
+What is IDOR?
+Insecure direct object reference
+
+What occurs when an attacker can access resources or data belonging to other users with the same level of access?
+Horizontal privilege escalation
+
+What occurs when an attacker can access resources or data from users with higher access levels?
+Vertical privilege escalation
+
+What is ABAC?
+Attribute-Based Access Control
+
+What is RBAC?
+Role-Based Access Control
+
+What is the type of server that is hosting the web application? This can be found in the response of the request in Burp Suite.
+Apache
+
+What is the name of the parameter in the JSON response from the login request that contains a redirect link?
+redirect_link
+
+What Burp Suite module allows us to capture requests and responses between ourselves and our target?
+Proxy
+
+What is the admin’s email that can be found in the online users’ table?
+admin@admin.com
+
+What kind of privilege escalation happened after accessing admin.php?
+Vertical
+
+What parameter allows the attacker to access the admin page?
+isadmin
+
+What is the flag in the admin page?
+THM{I_C4n_3xpl01t_B4c}
+

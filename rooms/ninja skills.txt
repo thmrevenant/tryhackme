@@ -1,0 +1,20 @@
+Ninja Skills
+https://tryhackme.com/room/ninjaskills
+
+Which of the above files are owned by the best-group group(enter the answer separated by spaces in alphabetical order)
+D8B3 v2Vb
+
+Which of these files contain an IP address?
+oiMO
+
+Which file has the SHA1 hash of 9d54da7584015647ba052173b84d45e8007eba94
+c4ZX
+
+Which file contains 230 lines?
+bny0
+
+Which file's owner has an ID of 502?
+X1Uy
+
+Which file is executable by everyone?
+8V2L

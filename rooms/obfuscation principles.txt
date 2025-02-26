@@ -1,0 +1,32 @@
+Obfuscation Principles
+https://tryhackme.com/room/obfuscationprinciples
+
+How many core layers make up the Layered Obfuscation Taxonomy?
+4
+
+What sub-layer of the Layered Obfuscation Taxonomy encompasses meaningless identifiers?
+Obfuscating Layout
+
+What obfuscation method will break or split an object?
+Data Splitting
+
+What obfuscation method is used to rewrite static data with a procedure call?
+Data Procedurization
+
+What flag is found after uploading a properly obfuscated snippet?
+THM{koNC473n473_4Ll_7H3_7H1n95}
+
+What are junk instructions referred to as in junk code?
+Code Stubs
+
+What obfuscation layer aims to confuse an analyst by manipulating the code flow and abstract syntax trees?
+Obfuscating Controls
+
+Can logic change and impact the control flow of a program? (T/F)
+T
+
+What flag is found after properly reversing the provided snippet?
+THM{D3cod3d!!!}
+
+What flag is found after uploading a properly obfuscated snippet?
+THM{Y0Ur_1NF0_15_M1N3}

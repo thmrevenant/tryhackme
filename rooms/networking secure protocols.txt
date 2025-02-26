@@ -1,0 +1,29 @@
+Networking Secure Protocols
+https://tryhackme.com/room/networkingsecureprotocols
+
+What is the protocol name that TLS upgraded and built upon?
+SSL
+
+Which type of certificates should not be used to confirm the authenticity of a server?
+self-signed certificate
+
+How many packets did the TLS negotiation and establishment take in the Wireshark HTTPS screenshots above?
+8
+
+What is the number of the packet that contain the GET /login when accessing the website over HTTPS?
+10
+
+If you capture network traffic, in which of the following protocols can you extract login credentials: SMTPS, POP3S, or IMAP?
+IMAP
+
+What is the name of the open-source implementation of the SSH protocol?
+OpenSSH
+
+Click on the View Site button to access the related site. Please follow the instructions on the site to obtain the flag.
+THM{Protocols_secur3d}
+
+What would you use to connect the various company sites so that users at a remote office can access resources located within the main branch?
+VPN
+
+One of the packets contains login credentials. What password did the user submit?
+THM{B8WM6P}

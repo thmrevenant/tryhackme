@@ -1,0 +1,14 @@
+PalsForLife
+https://tryhackme.com/room/palsforlife
+
+Flag 1
+flag{Stick_to_the_plan!}
+
+Flag 2
+flag{_G0ddamit_Leeroy_}
+
+Flag 3
+flag{Its_n0t_my_fault!}
+
+Flag 4
+flag{At_least_I_have_chicKen}

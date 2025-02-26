@@ -1,0 +1,8 @@
+Peak Hill
+https://tryhackme.com/room/peakhill
+
+What is the user flag?
+f1e13335c47306e193212c98fc07b6a0
+
+What is the root flag?
+e88f0a01135c05cf0912cf4bc335ee28

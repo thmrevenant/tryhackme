@@ -1,0 +1,29 @@
+Nmap Post Port Scans
+https://tryhackme.com/room/nmap04
+
+Start the target machine for this task and launch the AttackBox. Run nmap -sV --version-light MACHINE_IPvia the AttackBox. What is the detected version for port 143?
+Dovecot imapd
+
+Which service did not have a version detected with --version-light? 
+rpcbind
+
+Run nmap with -O option against MACHINE_IP. What OS did Nmap detect?
+Linux
+
+Knowing that Nmap scripts are saved in /usr/share/nmap/scripts on the AttackBox. What does the script http-robots.txt check for?
+disallowed entries
+
+Can you figure out the name for the script that checks for the remote code execution vulnerability MS15-034 (CVE2015-1635)?
+http-vuln-cve2015-1635
+
+Launch the AttackBox if you haven't already. After you ensure you have terminated the VM from Task 2, start the target machine for this task. On the AttackBox, run Nmap with the default scripts -sC against MACHINE_IP. You will notice that there is a service listening on port 53. What is its full version value?
+9.18.28-1~deb12u2-Debian
+
+Based on its description, the script ssh2-enum-algos “reports the number of algorithms (for encryption, compression, etc.) that the target SSH2 server offers.” What is the name of the server host key algorithm that relies on SHA2-512 and is supported by MACHINE_IP?
+rsa-sha2-512
+
+Check the attached Nmap logs. How many systems are listening on the HTTPS port?
+3
+
+What is the IP address of the system listening on port 8089?
+172.17.20.147

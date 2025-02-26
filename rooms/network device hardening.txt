@@ -1,0 +1,47 @@
+Network Device Hardening
+https://tryhackme.com/room/networkdevicehardening
+
+The device that is used to control and manage network resource is called?
+Network device
+
+A threat vector that includes disruption of critical devices and services to make them unavailable to genuine users is called?
+Denial of Service
+
+Suppose you are configuring a router; which of the following could be considered an insecure protocol:
+B
+
+The protocol for sending log messages to a centralised server for storage and analysis is called?
+Syslog
+
+Update the config file to use cipher AES-128-CBC. What is the flag value linked with the cipher directive?
+THM{CIPHER_UPDATED_1101}
+
+Update the config file to use auth SHA512. What is the flag value linked with the auth directive?
+THM{AUTH_UPDATED_123}
+
+As per the config file, what is the port number for the OpenVPN server?
+1194
+
+What is the default SSH port configured for OpenWrt in the attached VM?
+22
+
+Go through the General Settings option under the System tab in the attached VM. The administrator has left a special message in the Notes section. What is the flag value?
+THM{SYSTEM101}
+
+What is the default system log buffer size value for the OpenWrt router in the attached VM?
+64
+
+What is the start priority for the script uhttpd?
+50
+
+What is the name of the rule that accepts ICMP traffic from source zone WAN and destination zone as this device?
+Allow-Ping
+
+What is the name of the rule that forwards data coming from WAN port 9001 to LAN port 9002? 
+THM_PORT
+
+What is the version number for the available apk package?
+2.12.2-1
+
+Are network monitoring tools capable of detecting bandwidth bottlenecks? (yea/nay)
+yea

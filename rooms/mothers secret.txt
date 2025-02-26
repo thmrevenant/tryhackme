@@ -1,0 +1,23 @@
+Mother's Secret
+https://tryhackme.com/room/codeanalysis
+
+What is the number of the emergency command override?
+100375
+
+What is the special order number?
+937
+
+What is the hidden flag in the Nostromo route?
+Flag{X3n0M0Rph}
+
+What is the name of the Science Officer with permissions?
+Ash
+
+What are the contents of the classified "Flag" box?
+THM_FLAG{0RD3R_937}
+
+Where is Mother's secret?
+/opt/m0th3r
+
+What is Mother's secret?
+Flag{Ensure_return_of_organism_meow_meow!}

@@ -1,0 +1,132 @@
+Network Services
+https://tryhackme.com/room/networkservices
+
+What does SMB stand for?    
+Server Message Block
+
+What type of protocol is SMB?    
+response-request
+
+What do clients connect to servers using?    
+TCP/IP
+
+What systems does Samba run on?
+Unix
+
+Conduct an nmap scan of your choosing, How many ports are open?
+3
+
+What ports is SMB running on?
+139/445
+
+Let's get started with Enum4Linux, conduct a full basic enumeration. For starters, what is the workgroup name?    
+WORKGROUP
+
+What comes up as the name of the machine?        
+POLOSMB
+
+What operating system version is running?    
+6.1
+
+What share sticks out as something we might want to investigate?    
+profiles
+
+What would be the correct syntax to access an SMB share called "secret" as user "suit" on a machine with the IP 10.10.10.2 on the default port?
+smbclient //10.10.10.2/secret -U suit -p 445
+
+Does the share allow anonymous access? Y/N?
+Y
+
+Great! Have a look around for any interesting documents that could contain valuable information. Who can we assume this profile folder belongs to?
+John Cactus
+
+What service has been configured to allow him to work from home?
+ssh
+
+Okay! Now we know this, what directory on the share should we look in?
+.ssh
+
+This directory contains authentication keys that allow a user to authenticate themselves on, and then access, a server. Which of these keys is most useful to us?
+id_rsa
+
+What is the smb.txt flag?
+THM{smb_is_fun_eh?}
+
+What is Telnet?    
+application protocol
+
+What has slowly replaced Telnet?    
+ssh
+
+How would you connect to a Telnet server with the IP 10.10.10.3 on port 23?
+telnet 10.10.10.3 23
+
+The lack of what, means that all Telnet communication is in plaintext?
+encryption
+
+How many ports are open on the target machine?    
+1
+
+What port is this?
+8012
+
+This port is unassigned, but still lists the protocol it's using, what protocol is this?     
+tcp
+
+Now re-run the nmap scan, without the -p- tag, how many ports show up as open?
+0
+
+Based on the title returned to us, what do we think this port could be used for?
+a backdoor
+
+Who could it belong to? Gathering possible usernames is an important step in enumeration.
+Skidy
+
+Great! It's an open telnet connection! What welcome message do we receive?
+SKIDY'S BACKDOOR.
+
+Let's try executing some commands, do we get a return on any input we enter into the telnet session? (Y/N)
+N
+
+Now, use the command "ping [local THM ip] -c 1" through the telnet session to see if we're able to execute system commands. Do we receive any pings? Note, you need to preface this with .RUN (Y/N)
+Y
+
+What word does the generated payload start with?
+mkfifo
+
+What would the command look like for the listening port we selected in our payload?
+nc -lvnp 4444
+
+Success! What is the contents of flag.txt?
+THM{y0u_g0t_th3_t3ln3t_fl4g}
+
+What communications model does FTP use?
+client-server
+
+What's the standard FTP port?
+21
+
+How many modes of FTP connection are there?    
+2
+
+How many ports are open on the target machine? 
+2
+
+What port is ftp running on?
+21
+
+What variant of FTP is running on it?  
+vsftpd
+
+What is the name of the file in the anonymous FTP directory?
+PUBLIC_NOTICE.txt
+
+What do we think a possible username
+could be?
+mike
+
+What is the password for the user "mike"?
+password
+
+What is ftp.txt?
+THM{y0u_g0t_th3_ftp_fl4g}

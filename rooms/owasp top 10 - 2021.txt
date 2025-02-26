@@ -1,0 +1,80 @@
+OWASP Top 10 - 2021
+https://tryhackme.com/room/owasptop102021
+
+Look at other users' notes. What is the flag?
+flag{fivefourthree}
+
+What is the name of the mentioned directory?
+/assets
+
+Navigate to the directory you found in question one. What file stands out as being likely to contain sensitive data?
+webapp.db
+
+Use the supporting material to access the sensitive data. What is the password hash of the admin user?
+6eea9b7ef19179a06954edd0f6c05ceb
+
+What is the admin's plaintext password?
+qwertyuiop
+
+Log in as the admin. What is the flag?
+THM{Yzc2YjdkMjE5N2VjMzNhOTE3NjdiMjdl}
+
+What strange text file is in the website's root directory?
+drpepper.txt
+
+How many non-root/non-service/non-daemon users are there?
+0
+
+What user is this app running as?
+apache
+
+What is the user's shell set as?
+/sbin/nologin
+
+What version of Alpine Linux is running?
+3.16.0
+
+What is the value of the flag in joseph's account?
+THM{Not_3ven_c4tz_c0uld_sav3_U!}
+
+What is the database file name (the one with the .db extension) in the current directory?
+todo.db
+
+Modify the code to read the contents of the app.py file, which contains the application's source code. What is the value of the secret_flag variable in the source code?
+THM{Just_a_tiny_misconfiguration}
+
+What is the content of the /opt/flag.txt file?
+THM{But_1ts_n0t_my_f4ult!}
+
+What is the flag that you found in darren's account?
+fe86079416a21a3c99937fea8874b667
+
+What is the flag that you found in arthur's account?
+d9ac0f7db4fda460ac3edeb75d75e16e
+
+What is the SHA-256 hash of https://code.jquery.com/jquery-1.12.4.min.js?
+sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=
+
+Try logging into the application as guest. What is guest's account password?
+guest
+
+What is the name of the website's cookie containing a JWT token?
+jwt-session
+
+What is the flag presented to the admin user?
+THM{Dont_take_cookies_from_strangers}
+
+What IP address is the attacker using?
+49.99.13.16
+
+What kind of attack is being carried out?
+Brute Force
+
+Explore the website. What is the only host allowed to access the admin area?
+localhost
+
+Check the "Download Resume" button. Where does the server parameter point to?
+secure-file-storage.com
+
+Using SSRF, make the application send the request to your AttackBox instead of the secure file storage. Are there any API keys in the intercepted request?
+THM{Hello_Im_just_an_API_key}

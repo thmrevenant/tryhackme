@@ -1,0 +1,11 @@
+Plotted-EMR
+https://tryhackme.com/room/plottedemr
+
+What is flag 1?
+THM{EMR_PWn3d_CV3}
+
+What is user.txt?
+1aea32fbd5b592af1267d65dbcc3e212
+
+What is root.txt?
+827a0e697e1567f08022ba72106ace99

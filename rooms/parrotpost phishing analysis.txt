@@ -1,0 +1,41 @@
+ParrotPost: Phishing Analysis
+https://tryhackme.com/room/parrotpost
+
+According to the IP address, what country is the sending email server associated with?
+Latvia
+
+If Paul replies to this email, which email address will his reply be sent to?
+no-reply@postparr0t.thm
+
+What is the value of the custom header in the email?
+THM{y0u_f0und_7h3_h34d3r}
+
+What encoding scheme is used to obfuscate the web page contents?
+base64
+
+What is the built-in JavaScript function used to decode the web page before writing it to the page?
+atob()
+
+After the initial base64 decoding, what is the value of the leftover base64 encoded comment?
+THM{d0ubl3_3nc0d3d}
+
+After decoding the HTML Entity characters, what is the text inside of the <h1> tag?
+ParrotPost Secure Webmail Login
+
+What is the reverse of CSS Minify?
+CSS Beautify
+
+What is the URL that receives the login request when the login form is submitted?
+http://evilparrot.thm:8080/cred-capture.php
+
+What is the JavaScript property that can redirect the browser to a new URL?
+window.location.href
+
+What is the flag you receive after sending fake credentials to the /cred-capture.php endpoint?
+THM{c4p7ur3d_y0ur_cr3d5}
+
+What is the path on the web server hosting the log of captured credentials?
+/creds.txt
+
+Based on the log, what is Chris Smith's password?
+FlyL1ke!A~Bird

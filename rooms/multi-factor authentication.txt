@@ -1,0 +1,20 @@
+Multi-Factor Authentication
+https://tryhackme.com/room/multifactorauthentications
+
+When logging in to the application, you receive an SMS on your phone containing the OTP. What authentication factor is this?
+Something you have
+
+Is MFA an important factor in keeping our online and offline activities safe from threat actors? (yea/nay)
+yea
+
+What can be implemented to help prevent brute-forcing OTPs?
+rate limiting
+
+What is the flag in the dashboard?
+904c8ac84e44f0ba942e9e11ee7037b8
+
+What is the flag in the dashboard?
+87880e9d27001affdff90989f351c46
+
+What is the flag in the dashboard?
+20548e076dbb9ba30c9d94ae4aceb38e

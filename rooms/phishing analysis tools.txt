@@ -1,0 +1,60 @@
+Phishing Analysis Tools
+https://tryhackme.com/room/phishingemails3tryoe
+
+What is the official site name of the bank that capitai-one.com tried to resemble?
+capitalone.com
+
+How can you manually get the location of a hyperlink?
+Copy Link Location
+
+Look at the Strings output. What is the name of the EXE file?
+#454326_PDF.exe
+
+What brand was this email tailored to impersonate?
+
+Netflix
+Correct Answer
+What is the From email address?
+N e t f I i x <JGQ47wazXe1xYVBrkeDg-JOg7ODDQwWdR@JOg7ODDQwWdR-yVkCaBkTNp.gogolecloud.com>
+
+What is the originating IP? Defang the IP address. 
+209[.]85[.]167[.]226
+
+From what you can gather, what do you think will be a domain of interest? Defang the domain.
+etekno[.]xyz
+
+What is the shortened URL? Defang the URL.
+hxxps[://]t[.]co/yuxfZm8KPg?amp==1
+
+What does AnyRun classify this email as?
+Suspicious activity
+
+What is the name of the PDF file?
+Payment-updateid.pdf
+
+What is the SHA 256 hash for the PDF file?
+cc6f1a04b10bcb168aeec8d870b97bd7c20fc161e8310b5bce1af8ed420e2c24
+
+What two IP addresses are classified as malicious? Defang the IP addresses. (answer: IP_ADDR,IP_ADDR)
+2[.]16[.]107[.]24,2[.]16[.]107[.]83
+
+What Windows process was flagged as Potentially Bad Traffic?
+svchost.exe
+
+What is this analysis classified as?
+Malicious activity
+
+What is the name of the Excel file?
+CBJ200620039539.xlsx
+
+What is the SHA 256 hash for the file?
+5f94a66e0ce78d17afc2dd27fc17b44b3ffc13ac5f42d3ad6a5dcfb36715f3eb
+
+What domains are listed as malicious? Defang the URLs & submit answers in alphabetical order. (answer: URL1,URL2,URL3)
+biz9holdings[.]com,findresults[.]site,ww38[.]findresults[.]site
+
+What IP addresses are listed as malicious? Defang the IP addresses & submit answers from lowest to highest. (answer: IP1,IP2,IP3)
+75[.]2[.]11[.]242,103[.]224[.]182[.]251,204[.]11[.]56[.]48
+
+What vulnerability does this malicious attachment attempt to exploit?
+CVE-2017-11882

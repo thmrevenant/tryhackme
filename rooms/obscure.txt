@@ -1,0 +1,11 @@
+Obscure
+https://tryhackme.com/room/obscured
+
+What's the initial flag?
+THM{1243b64a3a01a8732ccb96217f593520}
+
+What's the user flag?
+THM{43b0b68ba2755dd6cac3b8bf5454db94}
+
+What's the root flag?
+THM{8bbc6221d009576d37e28acdd9da7aba}

@@ -1,0 +1,53 @@
+OWASP API Security Top 10 - 1
+https://tryhackme.com/room/owaspapisecuritytop105w
+
+In the LinkedIn breach (Jun 2021), how many million records (sample) were posted by a hacker on the dark web?
+1
+
+Is the API documentation a trivial item and not used after API development (yea/nay)?
+nay
+
+Suppose the employee ID is an integer with incrementing value. Can you check through the vulnerable API endpoint the total number of employees in the company?
+3
+
+What is the flag associated with employee ID 2?
+THM{838123}
+
+What is the username of employee ID 3?
+Bob
+
+Can you find the token of hr@mht.com?
+cOC%Aonyis%H)mZ&uJkuI?_W#4&m>Y
+
+To which country does sales@mht.com belong?
+China
+
+Is it a good practice to send a username and password in a GET request (yea/nay)?
+nay
+
+What is the device ID value for post-ID 2?
+iOS15.411
+
+What is the username value for post-ID 3?
+hacker#!
+
+Should we use network-level devices for controlling excessive data exposure instead of managing it through APIs (programmatically) - (yea/nay)?
+nay
+
+Can rate limiting be carried out at the network level through firewall etc. (yea/nay)?
+yea
+
+What is the HTTP response code when you send a POST request to /apirule4/sendOTP_s using the email address hr@mht.com?
+200
+
+What is the "msg key" value after an HTTP POST request to /apirule4/sendOTP_s using the email address sale@mht.com?
+Invalid Email
+
+What is the mobile number for the username Alice?
++1235322323
+
+Is it a good practice to send isAdmin value through the hidden fields in form requests - yea/nay?
+nay
+
+What is the address flag of username admin?
+THM{3432$@#2!}

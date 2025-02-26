@@ -1,0 +1,38 @@
+Network Security Protocols
+https://tryhackme.com/room/networksecurityprotocols
+
+What is the default port for HTTPS?
+443
+
+In a passive FTP connection, what does the client send the first command over the command channel?
+PASV
+
+What does PGP stand for?
+Pretty Good Privacy
+
+What does GPG stand for?
+Gnu Privacy Guard
+
+What command would you use to generate a key pair using gpg?
+gpg --gen-key
+
+Provide the number of the client that encrypts the traffic.
+3
+
+Does the hello message during the SSL handshake include the TLS version (yea/nay)?
+yea
+
+During the client initiation process of SOCKS5, what is the SOCKS version if the client sends the first 5 bytes (0x05)?
+5
+
+Click the View Site button at the top of the task to launch the static site in split view. What is the flag after completing the exercise?
+THM{GOT_THE_SSLKEY}
+
+What does ESP stand for?
+Encapsulating Security Payload
+
+Which protocol does the Cisco VPN client use to establish a VPN connection?
+IPsec
+
+Which protocol does the OpenVPN project use for encryption and authentication?
+SSL/TLS

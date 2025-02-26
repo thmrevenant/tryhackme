@@ -1,0 +1,8 @@
+Napping
+https://tryhackme.com/room/nappingis1337
+
+What is the user flag?
+THM{Wh@T_1S_Tab_NAbbiN6_&_PrinCIPl3_of_L3A$t_PriViL36E}
+
+What is the root flag?
+THM{Adm1n$_jU$t_c@n'T_stAy_Aw@k3_T$k_tsk_tSK}

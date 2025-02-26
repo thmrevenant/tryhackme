@@ -1,0 +1,32 @@
+Preparation
+https://tryhackme.com/room/preparation
+
+What is an observed occurrence within a system?
+Event
+
+What is described as a violation of security policies and practices?
+Incident
+
+Under which incident response phase do organisations lay down their procedures?
+Preparation
+
+Under which phase will an organisation resume business operations fully and update its response capabilities?
+Recovery and Lessons Learned
+
+A group that handles events involving cyber security breaches, comprising individuals with different skills and expertise, is known as?
+cyber security incident response team
+
+Which documents would be used to accompany any evidence collected and keeps track of who handles the investigation procedures?
+chain of custody documents
+
+What would a kit containing the necessary incident-handling tools be called?
+Jump bag
+
+What is the Event ID for the File Created rule associated with the test?
+11
+
+Under the Software Restriction Policies, what is the default security level assigned to all policies?
+Unrestricted
+
+Find the Audit Policy folder under Local Policies. What setting has been assigned to the policy Audit logon events?
+Failure

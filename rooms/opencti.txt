@@ -1,0 +1,35 @@
+OpenCTI
+https://tryhackme.com/room/opencti
+
+What is the name of the group that uses the 4H RAT malware?
+Putter Panda
+
+What kill-chain phase is linked with the Command-Line Interface Attack Pattern? 
+Execution-ics
+
+Within the Activities category, which tab would house the Indicators?
+Observations
+
+What Intrusion sets are associated with the Cobalt Strike malware with a Good confidence level? (Intrusion1, Intrusion2)
+CopyKittens, FIN7
+
+Who is the author of the entity?
+The MITRE Corporation
+
+What is the earliest date recorded related to CaddyWiper?  Format: YYYY/MM/DD
+2022/03/15
+
+Which Attack technique is used by the malware for execution?
+Native API
+
+How many malware relations are linked to this Attack technique?
+113
+
+Which 3 tools were used by the Attack Technique in 2016? (Ans: Tool1, Tool2, Tool3)
+BloodHound, Empire, ShimRatReporter
+
+What country is APT37 associated with?
+North Korea
+
+Which Attack techniques are used by the group for initial access? (Ans: Technique1, Technique2)
+T1189, T1566

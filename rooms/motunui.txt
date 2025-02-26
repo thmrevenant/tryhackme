@@ -1,0 +1,8 @@
+Motunui
+https://tryhackme.com/room/motunui
+
+What is the user flag?
+THM{m0an4_0f_M0tunu1}
+
+What is the root flag?
+THM{h34rT_r35T0r3d}

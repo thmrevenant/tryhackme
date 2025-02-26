@@ -1,0 +1,74 @@
+NahamStore
+https://tryhackme.com/room/nahamstore
+
+Jimmy Jones SSN
+521-61-6392
+
+Enter an URL ( including parameters ) of an endpoint that is vulnerable to XSS
+http://marketing.nahamstore.thm/?error=
+
+What HTTP header can be used to create a Stored XXS
+User-Agent
+
+What HTML tag needs to be escaped on the product page to get the XSS to work?
+title
+
+What JavaScript variable needs to be escaped to get the XSS to work?
+search
+
+What hidden parameter can be found on the shop home page that introduces an XSS vulnerability.
+q
+
+What HTML tag needs to be escaped on the returns page to get the XSS to work?
+textarea
+
+What is the value of the H1 tag of the page that uses the requested URL to create an XSS
+Page Not Found
+
+What other hidden parameter can be found on the shop which can introduce an XSS vulnerability
+discount
+
+Open Redirect One
+r
+
+Open Redirect Two
+redirect_url
+
+What URL has no CSRF protection
+http://nahamstore.thm/account/settings/password
+
+What field can be removed to defeat the CSRF protection
+csrf_protect
+
+What simple encoding is used to try and CSRF protect a form
+base64
+
+First Line of Address
+160 Broadway
+
+Order ID 3 date and time
+22/02/2021 11:42:13
+
+LFI Flag
+{7ef60e74b711f4c3a1fdf5a131ebf863}
+
+Credit Card Number For Jimmy Jones
+5190216301622131
+
+XXE Flag
+{9f18bd8b9acaada53c4c643744401ea8}
+
+Blind XXE Flag
+{d6b22cb3e37bef32d800105b11107d8f}
+
+First RCE flag
+{b42d2f1ff39874d56132537be62cf9e3}
+
+Second RCE flag
+{93125e2a845a38c3e1531f72c250e676}
+
+Flag 1
+{d890234e20be48ff96a2f9caab0de55c}
+
+Flag 2 ( blind )
+{212ec3b036925a38b7167cf9f0243015}

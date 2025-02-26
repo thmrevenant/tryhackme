@@ -1,0 +1,8 @@
+Oh My WebServer
+https://tryhackme.com/room/ohmyweb
+
+What is the user flag?
+THM{eacffefe1d2aafcc15e70dc2f07f7ac1}
+
+What is the root flag?
+THM{7f147ef1f36da9ae29529890a1b6011f}

@@ -1,0 +1,33 @@
+Packets & Frames
+https://tryhackme.com/room/packetsframes
+
+What is the name for a piece of data when it does have IP addressing information?
+Packet
+
+What is the name for a piece of data when it does not have IP addressing information?
+Frame
+
+What is the header in a TCP packet that ensures the integrity of data?
+checksum
+
+Provide the order of a normal Three-way handshake (with each step separated by a comma)
+SYN,SYN/ACK,ACK
+
+What is the value of the flag given at the end of the conversation?
+THM{TCP_CHATTER}
+
+What does the term "UDP" stand for?
+User Datagram Protocol
+
+What type of connection is "UDP"?
+stateless
+
+What protocol would you use to transfer a file?
+TCP
+
+What protocol would you use to have a video call?
+UDP
+
+What is the flag received from the challenge?
+THM{YOU_CONNECTED_TO_A_PORT}
+

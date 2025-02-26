@@ -1,0 +1,38 @@
+NoSQL Injection
+https://tryhackme.com/room/nosqlinjectiontutorial
+
+What is a group of documents in MongoDB is known as?
+collection
+
+Using the MongoDB Operator Reference, what operator is used to filter data when a field isn't equal to a given value?
+$ne
+
+Following the example of the 3 documents given before, how many documents would be returned by the following filter: ['gender' => ['$ne' => 'female'] , 'age' => ['$gt'=>'65'] ]?
+0
+
+What type of NoSQL Injection is similar to normal SQL Injection?
+Syntax
+
+What type of NoSQL Injection allows you to modify the behaviour of the query, even if you can't escape the syntax?
+Operator
+
+When bypassing the login screen using the $ne operator, what is the email of the user that you are logged in as?
+admin@nosql.int
+
+How many users are there in total?
+4
+
+There is a user that starts with the letter "p". What is his username?
+pedro
+
+What is john's password?
+10584312
+
+One of the users seems to be reusing his password for many services. Find which one and connect through SSH to retrieve the final flag!
+flag{N0Sql_n01iF3!}
+
+What common character is used to test for injection in both SQL and NoSQL solutions?
+'
+
+What is the email value of the super secret user returned in the last entry?
+Syntax@Injection.FTW

@@ -1,0 +1,56 @@
+Osquery: The Basics
+https://tryhackme.com/room/osqueryf8
+
+How many tables are returned when we query "table process" in the interactive mode of Osquery?
+3
+
+Looking at the schema of the processes table, which column displays the process id for the particular process?
+pid
+
+Examine the .help command, how many output display modes are available for the .mode command?
+5
+
+In Osquery version 5.5.1, how many common tables are returned, when we select both Linux and Window Operating system?
+56
+
+In Osquery version 5.5.1, how many tables for MAC OS are available?
+180
+
+In the Windows Operating system, which table is used to display the installed programs?
+programs
+
+In Windows Operating system, which column contains the registry value within the registry table?
+data
+
+Using Osquery, how many programs are installed on this host?
+19
+
+Using Osquery, what is the description for the user James?
+Creative Artist
+
+When we run the following search query, what is the full SID of the user with RID '1009'?
+S-1-5-21-1966530601-3185510712-10604624-1009
+
+When we run the following search query, what is the Internet Explorer browser extension installed on this machine?
+C:\Windows\System32\ieframe.dll
+
+After running the following query, what is the full name of the program returned?
+Wireshark 3.6.8 64-bit
+
+Which table stores the evidence of process execution in Windows OS?
+userassist
+
+One of the users seems to have executed a program to remove traces from the disk; what is the name of that program?
+DiskWipe.exe
+
+Create a search query to identify the VPN installed on this host. What is name of the software?
+ProtonVPN
+
+How many services are running on this host?
+214
+
+A table autoexec contains the list of executables that are automatically executed on the target machine. There seems to be a batch file that runs automatically. What is the name of that batch file (with the extension .bat)?
+batstartup.bat
+
+What is the full path of the batch file found in the above question? (Last in the List)
+C:\Users\James\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\batstartup.bat

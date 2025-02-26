@@ -1,0 +1,20 @@
+NanoCherryCTF
+https://tryhackme.com/room/nanocherryctf
+
+Gain access to Molly's Dashboard. What is the flag?
+THM{BL4CK_M4I1}
+
+What is the first part of Chad Cherry's password?
+n4n0ch3rry
+
+What is the second part of Chad Cherry's password?
+w1llb3
+
+What is the third part of Chad Cherry's password?
+7h3fu7ur3
+
+Put the three parts of Chad Cherry's password together and access his account. What is the flag you obtained?
+THM{P4SS3S_C0LL3CT3D}
+
+What is the root flag?
+THM{YOU_NEVER_WERE_A_SCRIPT_KIDDIE}

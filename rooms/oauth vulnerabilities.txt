@@ -1,0 +1,38 @@
+OAuth Vulnerabilities
+https://tryhackme.com/room/oauthvulnerabilities
+
+Which (optional) parameter can be used to prevent CSRF attacks?
+state
+
+What credentials can the client use to access protected resources on behalf of the resource owner?
+access token
+
+What is the grant type often used for server-server interaction?
+Client Credentials
+
+What is the cliend_id value after initiating the OAuth 2.0 workflow?
+zlurq9lseKqvHabNqOc2DkjChC000QJPQ0JvNoBt
+
+What parameter name determines the time validity of a token in the token response?
+expires_in
+
+What is the name of the toolkit used for implementing Oauth in the URL http://coffee.thm:8000/?
+django-oauth-toolkit
+
+What is the flag value after getting the access token?
+THM{GOT_THE_TOKEN007}
+
+What is the flag value after attaching the attacker's account with the victim's account?
+THM{CONTACTS_SYNCED}
+
+What parameter name does the client application include in the authorization request to avoid CSRF attacks?
+state
+
+What symbol separates the access token from the OAuth 2.0 implicit grant flow URL?
+#
+
+Visit the URL http://coffee.thm:8080/flagvalidator/ and enter the access token you acquired. What is the flag value?
+THM{TOKEN_HACKED}
+
+Which of the following has been omitted from OAuth 2.1?
+a

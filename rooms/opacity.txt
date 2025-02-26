@@ -1,0 +1,8 @@
+Opacity
+https://tryhackme.com/room/opacity
+
+What is the  local.txt flag?
+6661b61b44d234d230d06bf5b3c075e2
+
+What is the proof.txt flag?
+ac0d56f93202dd57dcb2498c739fd20e

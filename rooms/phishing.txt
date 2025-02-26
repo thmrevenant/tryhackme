@@ -1,0 +1,45 @@
+Phishing
+https://tryhackme.com/room/phishingyl
+
+What type of psychological manipulation is phishing part of?
+social engineering
+
+What type of phishing campaign do red teams get involved in?
+spear-phishing
+
+What tactic can be used to find brands or people a victim interacts with?
+OSINT
+
+What should be changed on an HTML anchor tag to disguise a link?
+anchor text
+
+What part of a red team infrastructure can make a website look more authentic?
+SSL/TLS Certificates
+
+What protocol has TXT records that can improve email deliverability?
+DNS
+
+What tool can automate a phishing campaign and include analytics?
+GoPhish
+
+What is the password for Brian?
+p4$$w0rd!
+
+Do droppers tend to be malicious?
+nay
+
+What is better, using an expired or new domain? (old/new)
+old
+
+What is the term used to describe registering a similar domain name with a spelling error?
+typosquatting
+
+What can Microsoft Office documents contain, which, when executed can run computer commands?
+macros
+
+Which recent CVE caused remote code execution?
+CVE-2021-40444
+
+What is the flag from the challenge?
+THM{I_CAUGHT_ALL_THE_PHISH}
+

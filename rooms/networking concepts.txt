@@ -1,0 +1,47 @@
+Networking Concepts
+https://tryhackme.com/room/networkingconcepts
+
+Which layer is responsible for connecting one application to another?
+4
+
+Which layer is responsible for routing packets to the proper network?
+3
+
+In the OSI model, which layer is responsible for encoding the application data?
+6
+
+Which layer is responsible for transferring data between hosts on the same network segment?
+2
+
+To which layer does HTTP belong in the TCP/IP model?
+Application Layer
+
+How many layers of the OSI model does the application layer in the TCP/IP model cover?
+3
+
+Which of the following IP addresses is not a private IP address?
+49.69.147.197
+
+Which of the following IP addresses is not a valid IP address?
+192.168.305.19
+
+Which protocol requires a three-way handshake?
+TCP
+
+What is the approximate number of port numbers (in thousands)?
+65
+
+On a WiFi, within what will an IP packet be encapsulated?
+Frame
+
+What do you call the UDP data unit that encapsulates the application data?
+Datagram
+
+What do you call the data unit that encapsulates the application data sent over TCP?
+Segment
+
+Use telnet to connect to the web server on MACHINE_IP. What is the name and version of the HTTP server?
+lighttpd/1.4.63
+
+What flag did you get when you viewed the page?
+THM{TELNET_MASTER}

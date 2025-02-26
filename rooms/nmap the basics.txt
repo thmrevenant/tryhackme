@@ -1,0 +1,23 @@
+Nmap: The Basics
+https://tryhackme.com/room/nmap
+
+What is the last IP address that will be scanned when your scan target is 192.168.0.1/27?
+192.168.0.31
+
+How many TCP ports are open on the target system at MACHINE_IP?
+6
+
+Find the listening web server on MACHINE_IP and access it with your browser. What is the flag that appears on its main page?
+THM{SECRET_PAGE_38B9P6}
+
+What is the name and detected version of the web server running on MACHINE_IP?
+lighttpd 1.4.74
+
+What is the non-numeric equivalent of -T4?
+-T aggressive
+
+What option must you add to your nmap command to enable debugging?
+-d
+
+What kind of scan will Nmap use if you run nmap MACHINE_IP with local user privileges?
+Connect Scan

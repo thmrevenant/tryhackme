@@ -1,0 +1,14 @@
+Phishing: HiddenEye
+https://tryhackme.com/room/phishinghiddeneye
+
+Which image shows a legit web-page? They are identical and most phishing pages nowadays have HTTPS enabled. (Image 1 or Image 2)
+Image 2
+
+What will you use this tool for?
+Educational Purposes
+
+What is the weakest link in cyber-security? 
+Humans
+
+Do most phishing pages have HTTPS (Yay/Nay)?
+Yay

@@ -1,0 +1,41 @@
+OWASP API Security Top 10 - 2
+https://tryhackme.com/room/owaspapisecuritytop10d0
+
+Is it a good practice to blindly insert/update user-provided data in the database (yea/nay)?
+nay
+
+What would be the returned credit value after performing Question#2?
+50
+
+Is it an excellent approach to show error logs from the stack trace to general visitors (yea/nay)?
+nay
+
+What is the HTTP response code?
+500
+
+What is the Error ID number in the HTTP response message?
+1401
+
+Can injection attacks be carried out to extract data from the database (yea/nay)?
+yea
+
+Can injection attacks result in remote code execution (yea/nay)?
+yea
+
+What is the HTTP response code if a user enters an invalid username or password?
+403
+
+Is it good practice to host all APIs on the same server (yea/nay)?
+nay
+
+What is the amount of balance associated with user Alice?
+100
+
+What is the country of the user Alice?
+USA
+
+Should the API logs be publically accessible so that the attacker must know they are being logged (yea/nay)?
+nay
+
+What is the HTTP response code in case of successful logging of user information?
+200

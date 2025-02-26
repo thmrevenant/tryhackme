@@ -1,0 +1,8 @@
+NoNameCTF
+https://tryhackme.com/room/nonamectf
+
+Compromise this machine and obtain user.txt
+THM{SSTI_AND_BUFFER_OVERFLOW_W4S_HERE}
+
+Escalate privileges and obtain root.txt  
+THN{F4KE_PIP_PACKAGE_INSTALL}

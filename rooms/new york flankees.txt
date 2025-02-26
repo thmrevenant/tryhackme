@@ -1,0 +1,14 @@
+New York Flankees
+https://tryhackme.com/room/thenewyorkflankees
+
+What is the cleartext value of the decrypted blob (the format is element1:element2)?
+stefan1197:ebb2B76@62#f??7cA6B76@6!@62#f6dacd2599
+
+What is the flag in the admin panel?
+THM{a4113536187c6e84637a1ee2ec5359eca17bbbd1b2629b23dbfd3b4ce2f30604}
+
+Dig around in the container. What is the second flag?
+THM{342878cd14051bd787352ee73c75381b1803491e4e5ac729a91a03e3c889c2bf}
+
+What is the final flag?
+THM{b3653cb04abf4a5b9c7a77ec52f550e73416b6e61015b8014fff9831a7eb61ce}

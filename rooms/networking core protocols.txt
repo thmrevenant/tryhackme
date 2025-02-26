@@ -1,0 +1,35 @@
+Networking Core Protocols
+https://tryhackme.com/room/networkingcoreprotocols
+
+Which DNS record type refers to IPv6?
+AAAA
+
+Which DNS record type refers to the email server?
+MX
+
+When was the x.com record created? Provide the answer in YYYY-MM-DD format.
+1993-04-02
+
+When was the twitter.com record created? Provide the answer in YYYY-MM-DD format.
+2000-01-21
+
+Use telnet to access the file flag.html on MACHINE_IP. What is the hidden flag?
+THM{TELNET-HTTP}
+
+Using the FTP client ftp on the AttackBox, access the FTP server at MACHINE_IP and retrieve flag.txt. What is the flag found?
+THM{FAST-FTP}
+
+Which SMTP command indicates that the client will start the contents of the email message?
+DATA
+
+What does the email client send to indicate that the email message has been fully entered?
+.
+
+Looking at the traffic exchange, what is the name of the POP3 server running on the remote server?
+Dovecot
+
+Use telnet to connect to MACHINE_IP’s POP3 server. What is the flag contained in the fourth message?
+THM{TELNET_RETR_EMAIL}
+
+What IMAP command retrieves the fourth email message?
+FETCH 4 body[]

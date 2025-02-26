@@ -1,0 +1,53 @@
+Phishing Prevention
+https://tryhackme.com/room/phishingemails4gkxh
+
+After visiting the link in the task, what is the MITRE ID for the "Software Configuration" mitigation technique?
+M1054
+
+Referencing the dmarcian SPF syntax table, what prefix character can be added to the "all" mechanism to ensure a "softfail" result?
+~
+
+What is the meaning of the -all tag?
+fail
+
+Which email header shows the status of whether DKIM passed or failed?
+Authentication-Results
+
+Which DMARC policy would you use not to accept an email if the message fails the DMARC check?
+p=reject
+
+What is nonrepudiation? (The answer is a full sentence, including the ".")
+The uniqueness of a signature prevents the owner of the signature from disowning the signature.
+
+What Wireshark filter can you use to narrow down the packet output using SMTP status codes?
+smtp.response.code
+
+Per the network traffic, what was the message for status code 220? (Do not include the status code (220) in the answer)
+[domain] Service ready
+
+One packet shows a response that an email was blocked using spamhaus.org. What were the packet number and status code? (no spaces in your answer)
+156,553
+
+Based on the packet from the previous question, what was the message regarding the mailbox?
+mailbox name not allowed
+
+What is the status code that will typically precede a SMTP DATA command?
+354
+
+What port is the SMTP traffic using?
+25
+
+How many packets are specifically SMTP?
+512
+
+What is the source IP address for all the SMTP traffic?
+10.12.19.101
+
+What is the filename of the third file attachment?
+attachment.scr
+
+How about the last file attachment?
+ .zip
+
+Per MITRE ATT&CK, which software is associated with using SMTP and POP3 for C2 communications?
+Zebrocy

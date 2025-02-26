@@ -1,0 +1,14 @@
+Olympus
+https://tryhackme.com/room/olympusroom
+
+What is Flag 1?
+flag{Sm4rt!_k33P_d1gGIng}
+
+What is Flag 2?
+flag{Y0u_G0t_TH3_l1ghtN1nG_P0w3R}
+
+What is Flag 3?
+flag{D4mN!_Y0u_G0T_m3_:)_}
+
+What is Flag 4?
+flag{Y0u_G0t_m3_g00d!}
