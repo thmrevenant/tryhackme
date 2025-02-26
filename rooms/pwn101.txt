@@ -1,0 +1,32 @@
+PWN101
+https://tryhackme.com/room/pwn101
+
+Submit the flag
+THM{7h4t's_4n_3zy_oveRflowwwww}
+
+Submit the flag
+THM{y3s_1_n33D_C0ff33_to_C0d3_<3}
+
+Submit the flag
+THM{w3lC0m3_4Dm1N}
+
+Submit the flag
+THM{0h_n0o0o0o_h0w_Y0u_Won??}
+
+Submit the flag
+THM{VerY_b4D_1n73G3rsss}
+
+Submit the flag
+THM{y0U_w0n_th3_Giv3AwaY_anD_th1s_1s_YouR_fl4G}
+
+Submit the flag
+THM{whY_i_us3d_pr1ntF()_w1thoUt_fmting??}
+
+Submit the flag
+THM{7urN3d_puts_in70_win}
+
+Submit the flag
+THM{w417_h0w_Y0u_l3ked_i7_w1th0uT_pr1ntF??}
+
+Submit the flag
+THM{n1c3_us3_0f_g4dg37s}

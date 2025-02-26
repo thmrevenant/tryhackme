@@ -1,0 +1,44 @@
+Psycho Break
+https://tryhackme.com/room/psychobreak
+
+How many ports are open?
+3
+
+What is the operating system that runs on the target machine?
+ubuntu
+
+Key to the looker room
+532219a04ab7a02b56faafbec1a4c1ea
+
+Key to access the map
+Grant_me_access_to_the_map_please
+
+The Keeper Key
+48ee41458eb0b43bf82b986cecf3af01
+
+What is the filename of the text file (without the file extension)
+you_made_it
+
+Who is locked up in the cell?
+joseph
+
+There is something weird with the .wav file. What does it say?
+SHOWME
+
+What is the FTP Username
+joseph
+
+What is the FTP User Password
+intotheterror445
+
+The key used by the program
+kidman
+
+What do the crazy long numbers mean when there decrypted.
+KIDMANSPASSWORDISSOSTRANGE
+
+user.txt
+4C72A4EF8E6FED69C72B4D58431C4254
+
+root.txt
+BA33BDF5B8A3BFC431322F7D13F3361E

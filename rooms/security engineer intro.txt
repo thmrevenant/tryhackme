@@ -1,0 +1,30 @@
+Security Engineer Intro
+https://tryhackme.com/room/securityengineerintro
+
+Who ensures that an organization's cyber security risk is minimized at all times?
+Security engineer
+
+Where are details about an organization's digital assets, such as name, IP address, and owner, stored?
+Asset inventory
+
+Sometimes security policies can't be followed because of business needs. What avenue does a security engineer have to fulfil business needs in these cases?
+Exceptions
+
+What philosophy, if followed, provides the most Return on Investment (ROI)?
+Secure by design
+
+What is considered the weakest link in an organization's security?
+humans
+
+An organization's security evolves with the organization. What helps a security engineer keep the organization secure through these changes?
+Change management
+
+What is a theoretical exercise carried out to gauge the operational readiness of an organization from a security point of view?
+Tabletop exercise
+
+What is the priority of the management in case of a disaster or crisis?
+Business Continuity
+
+What is the flag shown on the completion of the static site?
+THM{S3CUR1TY_3NG1N33R5_R0CK}
+

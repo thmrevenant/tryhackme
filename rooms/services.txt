@@ -1,0 +1,8 @@
+Services
+https://tryhackme.com/room/services
+
+What is the user flag?
+THM{ASr3p_R0aSt1n6}
+
+What is the Administrator flag?
+THM{S3rv3r_0p3rat0rS}

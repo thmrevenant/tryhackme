@@ -1,0 +1,26 @@
+Red Team OPSEC
+https://tryhackme.com/room/opsec
+
+Click on View Site and follow through till you get the flag.
+THM{OPSEC_CRITICAL_INFO}
+
+Your red team uses THC-Hydra to find the password for a specific login page. Moreover, they are using the Metasploit framework on the same system as THC-Hydra. Would you consider this an OPSEC vulnerability? (Y/N)
+Y
+
+One of the red team members posts a photo of his cat every day. Would this be considered an OPSEC vulnerability? (Y/N)
+N
+
+Your red team went for dinner, took a photo, and tagged every team member on a popular social media platform. Would you consider this an OPSEC vulnerability? (Y/N)
+Y
+
+Your red team posts on its website a list of clients you regularly conduct red team exercises with. Would you consider this an OPSEC vulnerability? (Y/N)
+Y
+
+One of your red team members posted a photo of her morning coffee. Would you consider this an OPSEC vulnerability? (Y/N)
+N
+
+Your red team uses THC-Hydra to find the password for a specific login page. Moreover, they are using the Metasploit framework on the same system as THC-Hydra. Knowing that your target uses a properly configured Intrusion Detection System (IDS), would you consider this vulnerability as high risk? (Y/N)
+Y
+
+Click on View Site and follow through till you get the flag.
+THM{OPSEC-RED-TEAM}

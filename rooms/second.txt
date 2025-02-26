@@ -1,0 +1,8 @@
+Second
+https://tryhackme.com/room/fearsecond
+
+What is the user flag?
+THM{WaF_wAf_2nd_0rd3r_SQl_1nJ3ct1on}
+
+What is the root flag?
+THM{M1nd_Y0uR_AcC3s$_C0nTr0l}

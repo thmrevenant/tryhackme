@@ -1,0 +1,23 @@
+Red Team Threat Intel
+https://tryhackme.com/room/redteamthreatintel
+
+How many Command and Control techniques are employed by Carbanak?
+2
+
+What signed binary did Carbanak use for defense evasion?
+Rundll32
+
+What Initial Access technique is employed by Carbanak? 
+Valid Accounts
+
+Once the chain is complete and you have received the flag, submit it below.
+THM{7HR347_1N73L_12 _4w35om3}
+
+What web shell is APT 41 known to use? 
+ASPXSpy
+
+What LOLBAS (Living Off The Land Binaries and Scripts) tool does APT 41 use to aid in file transfers? 
+certutil
+
+What tool does APT 41 use to mine and monitor SMS traffic? 
+MESSAGETAP

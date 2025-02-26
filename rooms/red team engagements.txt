@@ -1,0 +1,56 @@
+Red Team Engagements
+https://tryhackme.com/room/redteamengagements
+
+What CIDR range is permitted to be attacked?
+10.0.4.0/22
+
+Is the use of white cards permitted? (Y/N)
+Y
+
+Are you permitted to access "*.bethechange.xyz?" (Y/N)
+N
+
+How many explicit restriction are specified?
+3
+
+What is the first access type mentioned in the document?
+Phishing
+
+Is the red team permitted to attack 192.168.1.0/24? (Y/N)
+N
+
+How long will the engagement last?
+1 Month
+
+How long is the red cell expected to maintain persistence?
+3 Weeks
+
+What is the primary tool used within the engagement?
+Cobalt Strike
+
+When will the engagement end? (MM/DD/YYYY)
+11/14/2021
+
+What is the budget the red team has for AWS cloud cost?
+$1000
+
+Are there any miscellaneous requirements for the engagement? (Y/N)
+N
+
+What phishing method will be employed during the initial access phase?
+Spearphishing
+
+What site will be utilized for communication between the client and red cell?
+vectr.io
+
+If there is a system outage, the red cell will continue with the engagement. (T/F)
+F
+
+When will the phishing campaign end? (mm/dd/yyyy)
+10/23/2021
+
+Are you permitted to attack 10.10.6.78? (Y/N)
+N
+
+When a stopping condition is encountered, you should continue working and determine the solution yourself without a team lead. (T/F)
+F

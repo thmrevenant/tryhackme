@@ -1,0 +1,8 @@
+Pyrat
+https://tryhackme.com/room/pyrat
+
+What is the user flag?
+996bdb1f619a68361417cabca5454705
+
+What is the root flag?
+ba5ed03e9e74bb98054438480165e221

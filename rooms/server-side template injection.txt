@@ -1,0 +1,14 @@
+Server-side Template Injection
+https://tryhackme.com/room/serversidetemplateinjection
+
+What is the content of the hidden text file in the server directory?
+THM{0739eea78f5c7f4b1690737c6258e38b}
+
+What is the content of the hidden text file in the server directory?
+THM{1f8c3b32ad3217e84c145398bae00876} 
+
+What is the content of the hidden text file in the server directory?
+THM{ecc43642dd6934d37c69598174e6e126}
+
+What is the content of the hidden text file in the server directory?
+THM{w0rK1Ng_sST1}

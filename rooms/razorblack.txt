@@ -1,0 +1,35 @@
+RazorBlack
+https://tryhackme.com/room/raz0rblack
+
+What is the Domain Name?
+raz0rblack.thm
+
+What is Steven's Flag?
+THM{ab53e05c9a98def00314a14ccbfa8104}
+
+What is the zip file's password?
+electromagnetismo
+
+What is Ljudmila's Hash?
+f220d3988deb3f516c73f40ee16c431d
+
+What is Ljudmila's Flag?
+THM{694362e877adef0d85a92e6d17551fe4}
+
+What is Xyan1d3's password?
+cyanide9amine5628
+
+What is Xyan1d3's Flag?
+THM{62ca7e0b901aa8f0b233cade0839b5bb}
+
+What is the root Flag?
+THM{1b4f46cc4fba46348273d18dc91da20d}
+
+What is Tyson's Flag?
+THM{5144f2c4107b7cab04916724e3749fb0}
+
+What is the complete top secret?
+:wq
+
+Did you like your cookie?
+Yes

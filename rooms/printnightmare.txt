@@ -1,0 +1,71 @@
+PrintNightmare
+https://tryhackme.com/room/printnightmarehpzqlp8
+
+Where would you enable or disable Print Spooler Service?
+Services
+
+Provide the CVE of the Windows Print Spooler Remote Code Execution Vulnerability that doesn't require local access to the machine.
+CVE-2021-34527
+
+What date was the CVE assigned for the vulnerability in the previous question? (mm/dd/yyyy)
+07/02/2021
+
+What is the flag residing on the Administrator's Desktop?
+THM{SiGBQPMkSvejvmQNEL}
+
+Provide the first folder path where you would likely find the dropped DLL payload.
+C:\Windows\System32\spool\drivers\x64\3\
+
+Provide the function that is used to install printer drivers.
+pcAddPrinterDriverEx()
+
+What tool can the attacker use to scan for vulnerable print servers?
+rpcdump.py
+
+Provide the name of the dropped DLL, including the error code. (no space after the comma) 
+svch0st.dll,0x45A
+
+Provide the event log name and the event ID that detected the dropped DLL. (no space after the comma) 
+Microsoft-Windows-PrintService/Admin,808
+
+Find the source name and the event ID when the Print Spooler Service stopped unexpectedly and how many times was this event logged? (format: answer,answer,answer)
+Service Control Manager,7031,1
+
+After some threat hunting steps, you are more confident now that it's a PrintNightmare attack. Hunt for the attacker's shell connection. Provide the log name, event ID, and destination port. (format: answer,answer,answer)
+Microsoft-Windows-Sysmon/Operational,3,4747
+
+Oh no! You think you've found the attacker's connection. You need to know the attacker's IP address and the destination hostname in order to terminate the connection.  Provide the attacker's IP address and the hostname. (format: answer,answer)
+10.10.210.100,ip-10-10-210-100.eu-west-1.compute.internal
+
+A Sysmon FileCreated event was generated and logged. Provide the full path to the dropped DLL and the earliest creation time in UTC.  (format:answer,yyyy-mm-dd hh-mm-ss)
+C:\Windows\System32\spool\drivers\x64\3\New\svch0st.dll,2021-08-13 17:33:37
+
+What is the host name of the domain controller?
+WIN-1O0UJBNP9G7
+
+What is the local domain?
+printnightmare.local
+
+What user account was utilized to exploit the vulnerability?
+lowprivlarry
+
+What was the malicious DLL used in the exploit?
+letmein.dll
+
+What was the attacker's IP address?
+10.10.124.236
+
+What was the UNC path where the malicious DLL was hosted?
+\\10.10.124.236\sharez
+
+There are encrypted packets in the results. What was the associated protocol?
+SMB3
+
+Provide two ways to manually disable the Print Spooler Service. (format: answer,answer)
+PowerShell,Group Policy
+
+Where can you disable the Print Spooler Service in Group Policy? (format: no spaces between the forward slashes)
+Computer Configuration/Administrative Templates/Printers
+
+Provide the command in PowerShell to detect if Print Spooler Service is enabled and running.
+Get-Service -Name Spooler

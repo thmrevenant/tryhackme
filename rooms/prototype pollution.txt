@@ -1,0 +1,44 @@
+Prototype Pollution
+https://tryhackme.com/room/prototypepollution
+
+What is the default value of the age property in the user object?
+25
+
+What is the output once we run regularUser.greet() after executing the prototype code snippet?
+Hello, Ben S!
+
+After executing the inheritance code snippet, what is the total number of user-defined properties in the ContentCreatorProfile object?
+4
+
+After executing the above code, if you try to create a new person let josh = Person('Josh'), what would be the output of josh.introduce()?
+You've been hacked, I'm Bob
+
+What is the name of the property that the attacker polluted?
+__proto__
+
+What is the name of the vulnerable utility the application uses with the _.set function?
+lodash
+
+In the case of an expression like test[i][j], what would be the controllable parameter that may lead to prototype pollution?
+i
+
+What is the default value for the newly added newProperty field?
+hacked
+
+Which of the following was the main reason behind prototype pollution using merge operation? Write the correct option only.
+b
+
+Create a new property with the name isBanned with default value true. What is the flag value after creating the property? Visit http://MACHINE_IP:8080/getFlag.php to get the flag.
+THM{FAKEPROPERTY_ADDED}
+
+What is the flag value after crashing the server through toString()?
+THM{CRA5H#D)
+
+After overriding the built-in String function toLocaleString(), what is the flag value?
+THM{OV3RRID3}
+
+Does a better understanding of code provide a better insight while identifying prototype pollution? (yea/nay)
+yea
+
+What is the name of the process that regularly scans and updates third-party libraries and dependencies?
+Dependency Analysis and Exploitation

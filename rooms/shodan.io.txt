@@ -1,0 +1,29 @@
+Shodan.io
+https://tryhackme.com/room/shodan
+
+What command is used to find Eternal Blue exploits on Shodan using the vuln filter?
+vuln:ms17-010
+
+What is the top operating system for MYSQL servers in Google's ASN?    
+5.6.40-84.0-log
+
+What is the 2nd most popular country for MYSQL servers in Google's ASN?
+Netherlands
+
+Under Google's ASN, which is more popular for nginx, Hypertext Transfer Protocol or Hypertext Transfer Protocol with SSL?
+Hypertext Transfer Protocol
+
+Under Google's ASN, what is the most popular city?
+Kansas City
+
+Under Google's ASN in Los Angeles, what is the top operating system according to Shodan?
+Debian
+
+Using the top Webcam search from the explore page, does Google's ASN have any webcams? Yay / nay.
+Nay
+
+What URL takes you to Shodan Monitor?
+https://monitor.shodan.io/dashboard
+
+What dork lets us find PCs infected by Ransomware?
+has_screenshot:true encrypted attention

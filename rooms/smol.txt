@@ -1,0 +1,8 @@
+Smol
+https://tryhackme.com/room/smol
+
+What is the user flag?
+45edaec653ff9ee06236b7ce72b86963
+
+What is the root flag?
+bf89ea3ea01992353aef1f576214d4e4

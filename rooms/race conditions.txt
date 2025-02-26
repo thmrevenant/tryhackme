@@ -1,0 +1,29 @@
+Race Conditions
+https://tryhackme.com/room/raceconditionsattacks
+
+You downloaded an instruction booklet on how to make an origami crane. What would this instruction booklet resemble in computer terms?
+Program
+
+What is the name of the state where a process is waiting for an I/O event?
+Waiting
+
+Does the presented Python script guarantee which thread will reach 100% first? (Yea/Nay)
+Nay
+
+In the second execution of the Python script, what is the name of the thread that reached 100% first?
+Thread-1
+
+How many states did the original state diagram of “validating and conducting money transfer” have?
+2
+
+How many states did the updated state diagram of “validating and conducting money transfer” have?
+3
+
+How many states did the final state diagram of “validating coupon codes and applying discounts” have?
+5
+
+You need to get either of the accounts to get more than $100 of credit to get the flag. What is the flag that you obtained?
+THM{PHONE-RACE}
+
+What flag did you obtain after getting an account’s balance above $1000?
+THM{BANK-RED-FLAG}

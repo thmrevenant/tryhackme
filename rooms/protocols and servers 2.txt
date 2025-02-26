@@ -1,0 +1,27 @@
+Protocols and Servers 2
+https://tryhackme.com/room/protocolsandservers2
+
+What do you need to add to the command sudo tcpdump to capture only Telnet traffic?
+port 23
+
+What is the simplest display filter you can use with Wireshark to show only IMAP traffic?
+imap
+
+How many different interfaces does Ettercap offer?
+3
+
+In how many ways can you invoke Bettercap?
+3
+
+DNS can also be secured using TLS. What is the three-letter acronym of the DNS protocol that uses TLS?
+DoT
+
+Use SSH to connect to MACHINE_IP as mark with the password XBtc49AB. Using uname -r, find the Kernel release?
+5.15.0-119-generic
+
+Use SSH to download the file book.txt from the remote system. How many KBs did scp display as download size?
+415
+
+We learned that one of the email accounts is lazie. What is the password used to access the IMAP service on MACHINE_IP?
+butterfly
+

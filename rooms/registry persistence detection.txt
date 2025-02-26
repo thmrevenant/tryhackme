@@ -1,0 +1,53 @@
+Registry Persistence Detection
+https://tryhackme.com/room/registrypersistencedetection
+
+What is the value "Name" of the suspicious registry entry that runs during startup? Include the parenthesis.
+(Default)
+
+What is the value "Data" of the suspicious registry entry that runs during startup?
+C:\Users\Administrator\AppData\Local\bd84\24d9.bat
+
+What string is displayed on the console when the suspicious file runs?
+pleaseletmepersist
+
+What AutoRun function is used for getting and displaying the auto-run entries?
+Get-PSAutorun
+
+What AutoRun function is used for creating a baseline file from Autoruns artifact(s)?
+New-AutoRunsBaseLine
+
+What AutoRun function is used for comparing two baseline files of Autoruns artifact(s)?
+Compare-AutoRunsBaseLine
+
+What parameter switch is used for filtering for artifacts related to boot execution of images? 
+BootExecute
+
+How many entries are outputted using the parameter switch from the previous question?
+1
+
+What parameter switch is used for filtering for artifacts related to printer driver and status monitors?
+PrintMonitorDLLs
+
+How many entries are listed in the output using the parameter switch from the previous question?
+5
+
+What parameter is used to add a new column to show whether a file is digitally signed?
+VerifyDigitalSignature
+
+Searching all categories, how many entries have the "Signed" column set to "false"?
+3
+
+There is another suspicious logon Registry entry. What is the full path of this key?
+HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
+
+What is the value item name of the suspicious Registry entry from question #1?
+Userinit
+
+What is the value data of the suspicious Registry entry from question #1?
+C:\Windows\system32\userinit.exe,C:\Users\Administrator\AppData\Local\THM\789a.bat
+
+What is the category that AutoRuns assigned to the entry from question #1?
+Logon
+
+What string is displayed on the console when the suspicious file ran?
+letmestaymyfriend

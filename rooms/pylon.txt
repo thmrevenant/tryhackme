@@ -1,0 +1,14 @@
+pyLon
+https://tryhackme.com/room/pylonzf
+
+What is Flag 1?
+THM{homebrew_password_manager}
+
+What is User1 flag?
+TMM{easy_does_it}
+
+What is User2 flag?
+THM{homebrew_encryption_lol}
+
+What is root's flag?
+ThM{OpenVPN_script_pwn}

@@ -1,0 +1,20 @@
+Profiles
+https://tryhackme.com/room/profilesroom
+
+What is the exposed root password?
+Ftrccw45PHyq
+
+And what time was the users.db file approximately accessed? Format is YYYY-MM-DD HH:MM:SS 
+2023-11-07 03:49:45
+
+What is the MD5 hash of the malicious file found?
+0511ccaad402d6d13ce801e1e9136ba2
+
+What is the IP address and port of the malicious actor? Format is IP:Port
+10.0.2.72:1337
+
+What is the full path of the cronjob file and its inode number? Format is filename:inode number
+/var/spool/cron/crontabs/root:131127
+
+What command is found inside the cronjob file?
+* * * * * cp /opt/.bashrc /root/.bashrc

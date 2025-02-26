@@ -1,0 +1,29 @@
+Reversing ELF
+https://tryhackme.com/room/reverselfiles
+
+What is the flag?
+flag{not_that_kind_of_elf}
+
+What is the super secret password ?
+super_secret_password
+
+What is the flag ?
+flag{if_i_submit_this_flag_then_i_will_get_points}
+
+What is the flag?
+f0r_y0ur_5ec0nd_le55on_unbase64_4ll_7h3_7h1ng5
+
+What is the password ?
+my_m0r3_secur3_pwd
+
+What is the input ?
+OfdlDSA|3tXb32~X3tX@sX`4tXtz
+
+What is the password ?
+1337_pwd
+
+What is the flag ?
+flag{much_reversing_very_ida_wow}
+
+What is the flag ?
+flag{at_least_this_cafe_wont_leak_your_credit_card_numbers}

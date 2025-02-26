@@ -1,0 +1,11 @@
+Race Conditions Challenge
+https://tryhackme.com/room/raceconditions
+
+What is the flag for the /home/walk/flag binary?
+THM{R4c3_c0nd1710n5_1n_7h3_f1l35y573m}
+
+What is the flag for the /home/run/flag binary?
+THM{R4c1n6_f4573r_7h4n_y0ur_53cur17y_ch3ck5}
+
+What is the flag for the /home/sprint/flag binary?
+THM{R4c1n6_f0r_7h47_5w337_m0n3y_$$$$$}

@@ -1,0 +1,45 @@
+Recovering Active Directory
+https://tryhackme.com/room/recoveringactivedirectory
+
+What is the flag value after connecting to the machine?
+THM{I_CAN_CONNECT}
+
+What type of backups can be obtained from the Windows Server Backup utility (write the correct option only)? A: One-time B: Incremental C: Both A and B.
+C
+
+How would you launch the Windows Server Backup utility through the Run dialog box?
+wbadmin.msc
+
+Is it good practice to isolate the infected network infrastructure for detailed network monitoring? (yea/nay).
+yea
+
+How many machines in the domain can you find when using PowerView?
+11
+
+What is the name of the utility in Windows that displays and keeps track of all the events? 
+Event Viewer
+
+What is the email address for the user evil.guy?
+hack@crypto
+
+What is the total number of users logged on after Dec 1, 2022?
+1
+
+What event ID will be logged if a user is removed from a universal security group?
+4757
+
+What is the command to perform the password reset operation for a computer in the domain? 
+Reset-ComputerMachinePassword
+
+What is the security vulnerability that involves abusing Kerberos service tickets called?
+Silver ticket abuse
+
+The type of attack that allows attackers to impersonate a domain controller and receive/forward requests on behalf of the domain controller is called?
+DCSync
+
+Is synchronising time on all network devices important to correlate logs on different devices? (yea/nay).
+yea
+
+Click the View Site button at the top of the task to launch the static site in split view. What is the flag after completing the exercise?
+THM{I_HAVE_RECOVERED_AD}
+

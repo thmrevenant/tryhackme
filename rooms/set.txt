@@ -1,0 +1,11 @@
+Set
+https://tryhackme.com/room/set
+
+Flag 1
+THM{4c66e2b8d4c45a65e6a7d0c7ad4a5d7ff245dc14}
+
+Flag 2
+THM{690798b1780964f5f51cebd854da5a2ea236ebb5}
+
+Flag 3
+THM{934f7faaadab3b040edab8214789114c9d3049dd}

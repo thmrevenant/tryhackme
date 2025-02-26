@@ -1,0 +1,21 @@
+Signature Evasion
+https://tryhackme.com/room/signatureevasion
+
+To the nearest kibibyte, what is the first detected byte?
+51000
+
+At what offset was the end of bad bytes for the file? 
+0xC544
+
+What flag is found after uploading a properly obfuscated snippet?
+THM{70_D373C7_0r_70_N07_D373C7}
+
+Rounded to three decimal places, what is the Shannon entropy of the file?
+6.354
+
+What flag is found after uploading a properly obfuscated snippet?
+THM{N0_1MP0r75_F0r_Y0U}
+
+What is the flag found on the Administrator desktop?
+THM{08FU5C4710N_15 MY_10V3_14N6U463}
+

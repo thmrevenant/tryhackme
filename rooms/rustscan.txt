@@ -1,0 +1,38 @@
+RustScan
+https://tryhackme.com/room/rustscan
+
+What is the scripting file config called?
+rustscan_scripts.toml
+
+Can you run other binaries with RustScan? (T)rue / (F)alse.
+T
+
+Does RutScan support scripts in Javascript? (T)rue / (F)alse.
+F
+
+After scanning this, how many ports do we find open under 1000?
+2
+
+Perform a service version detection scan, what is the version of the software running on port 22?
+6.6.1p1
+
+Perform an aggressive scan, what flag isn't set under the results for port 80?
+httponly
+
+First, how do you access the help menu?
+-h
+
+Often referred to as "quiet" mode, What switch can do this?
+-q
+
+Which switch can help us to scan for a particular Range?
+-r
+
+What switch would you use to find out RustScan's version?
+-V
+
+Which switch will help us to select batch size?
+-b
+
+Which switch can set timeout?
+-t

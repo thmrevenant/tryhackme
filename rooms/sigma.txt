@@ -1,0 +1,41 @@
+Sigma
+https://tryhackme.com/room/sigma
+
+Which status level could lead to false results or be noisy, but could also identify interesting events?
+experimental
+
+The rule detection comprises two main elements: __ and condition expressions.
+search identifiers
+
+What two data structures are used for the search identifiers?
+lists and maps
+
+What command line tool is used to convert Sigma rules?
+Sigmac
+
+At what time was the AnyDesk installation event created? [MMM DD, YYYY @ HH:MM:SS]
+Jun 28, 2022 @ 22:19:00
+
+What version of AnyDesk was installed?
+7.0.10
+
+To detect the creation of the scheduled task, what detection value would be appropriate for the Sigma rule?
+\schtasks.exe
+
+What was the name of the scheduled task created?
+spawn
+
+What time is this task meant to run?
+20:10
+
+To detect ransomware activity, what logsource category would be appropriate for the Sigma rule?
+file_event
+
+What is the name of the created file?
+YOUR_FILES.txt
+
+What was the event code associated with the activity?
+11
+
+What were the contents of the created ransomware file?
+T1486 - Purelocker Ransom Note

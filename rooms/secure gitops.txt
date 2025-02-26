@@ -1,0 +1,32 @@
+Secure GitOps
+https://tryhackme.com/room/securegitops
+
+What tool apart from Flux, is commonly used in GitOps?
+Argo CD
+
+What type of configuration does GitOps have?
+declarative
+
+What acts as an execution engine for GitOps?
+Kubernetes
+
+What feature does Argo CD have to sync git repositories whenever there are changes?
+automated synchronisation
+
+What can you implement to improve the security of containerised applications?
+security context
+
+What status shows if the resource is in sync with the Git repository?
+synced
+
+What security context ensures the container is not running as root?
+runAsNonRoot
+
+What security context can specify a profile to restrict syscalls to the container?
+seccompProfile
+
+What is the kernel version of the minikube node?
+5.15.0-1066-aws
+
+What are the first 7 characters of the commit ID that it was synced to?
+a22f5a6

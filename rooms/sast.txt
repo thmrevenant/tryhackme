@@ -1,0 +1,53 @@
+SAST
+https://tryhackme.com/room/sast
+
+Are automated code reviews a substitute for manual reviewing? (yea/nay)
+nay
+
+What type of code review will run faster? (Manual/Automated)
+Automated
+
+What type of code review will be more thorough? (Manual/Automated)
+Manual
+
+Which of the mentioned functions is used in the project? (Include the parenthesis at the end of the function name)
+include()
+
+How many instances of the function found in question 2 exist in your project's code?
+9
+
+What file contains the vulnerable instance?
+view.php
+
+What line in the file found on the previous question is vulnerable to LFI?
+22
+
+Does SAST require a running instance of the application for analysis? (yea/nay)
+nay
+
+What kind of analysis would likely flag dead code segments?
+structural analysis
+
+What kind of analysis would likely detect flaws in configuration files?
+configuration analysis
+
+What kind of analysis is similar to grepping the code in search of flaws?
+semantic analysis
+
+What type of error occurs when the tool reports on a vulnerability that isn't present in the code?
+false positive
+
+How many errors are reported after annotating the code as instructed in this task and re-running Psalm?
+9
+
+How many problems in total are detected by Semgrep in this project?
+27
+
+How many problems are detected in the showrecipe.inc.php file?
+8
+
+What other problem identifier is reported by Semgrep in this file? (Write the id reported by Semgrep)
+echoed-request
+
+What type of vulnerability is associated with the problem identifier on the previous question?
+cross-site scripting

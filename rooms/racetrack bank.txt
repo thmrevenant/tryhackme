@@ -1,0 +1,8 @@
+Racetrack Bank
+https://tryhackme.com/room/racetrackbank
+
+User flag
+THM{178c31090a7e0f69560730ad21d90e70}
+
+Root flag
+THM{55a9d6099933f6c456ccb2711b8766e3}

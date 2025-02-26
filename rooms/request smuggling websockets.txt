@@ -1,0 +1,12 @@
+Request Smuggling: WebSockets
+https://tryhackme.com/room/wsrequestsmuggling
+
+Which status code signals a successful WebSocket upgrade? 
+101
+
+What is the value of the flag?
+THM{bf208caddc31c6bb52621fdc2b3a73e5}
+
+What is the value of the flag?
+THM{a87d4e5b777c010ed3266e59fb42ccac}
+

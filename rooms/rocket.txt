@@ -1,0 +1,8 @@
+Rocket
+https://tryhackme.com/room/rocket
+
+What is contained within the user.txt file?
+THM{9f87696626a585380d3c1697087e5b5b}
+
+What is contained within the root.txt file?
+THM{6613b7f76a88b32230eac584b0e18cfd}

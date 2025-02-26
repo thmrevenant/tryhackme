@@ -1,0 +1,11 @@
+Red Stone One Carat
+https://tryhackme.com/room/redstoneonecarat
+
+SSH password
+cheeseburger
+
+user.txt
+THM{3a106092635945849a0fbf7bac92409d}
+
+root.txt
+THM{58e53d1324eef6265fdb97b08ed9aadf}

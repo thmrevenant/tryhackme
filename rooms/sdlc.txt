@@ -1,0 +1,38 @@
+SDLC
+https://tryhackme.com/room/sdlc
+
+How many phases can an SDLC have? (Format X-Y)
+6-8
+
+What phase focuses on determining the first idea for a prototype?
+Requirements Definition
+
+What stage is also known as the "Feasibility Stage"?
+Planning Stage
+
+When do you outline the user interfaces and network requirements?
+Design and Prototyping
+
+What phase focuses on handling issues or bugs reported by end-users?
+Operations and Maintenance
+
+What phase involves releasing new versions of software?
+Deployment
+
+What phase ensures software meets the standards defined in the requirements phase?
+Testing
+
+What does CALMS stand for?
+Culture, Automation, Lean, Measurement, Sharing
+
+What 2 metrics are used to measure deployment agility?
+Deployment speed and frequency
+
+What is an essential rate for engineers in Production environments to know if code meets security requirements?
+Failure rate
+
+What is the measurement for recovery time after a failure?
+MTTR
+
+What is the flag that you receive once you have doubled the empire's investment?
+THM{Ruler.of.the.SDLC.Droids}

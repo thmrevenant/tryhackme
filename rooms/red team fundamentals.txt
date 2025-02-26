@@ -1,0 +1,36 @@
+Red Team Fundamentals
+https://tryhackme.com/room/redteamfundamentals
+
+Would vulnerability assessments prepare us to detect a real attacker on our networks? (Yay/Nay)
+Nay
+
+During a penetration test, are you concerned about being detected by the client? (Yay/Nay)
+Nay
+
+Highly organised groups of skilled attackers are nowadays referred to as ...
+Advanced Persistent Threats
+
+The goals of a red team engagement will often be referred to as flags or...
+crown jewels
+
+During a red team engagement, common methods used by attackers are emulated against the target. Such methods are usually called TTPs. What does TTP stand for?
+Tactics, techniques and procedures
+
+The main objective of a red team engagement is to detect as many vulnerabilities in as many hosts as possible (Yay/Nay)
+Nay
+
+What cell is responsible for the offensive operations of an engagement?
+Red Cell
+
+What cell is the trusted agent considered part of?
+White Cell
+
+If an adversary deployed Mimikatz on a target machine, where would they be placed in the Lockheed Martin cyber kill chain?
+Installation
+
+What technique's purpose is to exploit the target's system to execute code?
+Exploitation
+
+Click the "View Site" button and follow the example engagement to get the flag
+THM{RED_TEAM_ROCKS}
+

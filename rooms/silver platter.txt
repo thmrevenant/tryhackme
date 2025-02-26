@@ -1,0 +1,8 @@
+Silver Platter
+https://tryhackme.com/room/silverplatter
+
+What is the user flag? 
+THM{c4ca4238a0b923820dcc509a6f75849b}
+
+What is the root flag? 
+THM{098f6bcd4621d373cade4e832627b4f6}

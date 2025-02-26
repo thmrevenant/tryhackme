@@ -1,0 +1,32 @@
+PrintNightmare, thrice!
+https://tryhackme.com/room/printnightmarec3kj
+
+What remote address did the employee navigate to?
+20.188.56.147
+
+Per the PCAP, which user returns a STATUS_LOGON_FAILURE error?
+THM-PRINTNIGHT0\rjones
+
+Which user successfully connects to an SMB share?
+THM-PRINTNIGHT0/gentilguest
+
+What is the first remote SMB share the endpoint connected to? What was the first filename? What was the second? (format: answer,answer,answer)
+\\printnightmare.gentilkiwi.com\IPC$,srvsvc,spoolss
+
+From which remote SMB share was malicious DLL obtained? What was the path to the remote folder for the first DLL? How about the second? (format: answer,answer,answer)
+\\printnightmare.gentilkiwi.com\print$,\x64\3\mimispool.dll,\W32X86\3\mimispool.dll
+
+What was the first location the malicious DLL was downloaded to on the endpoint? What was the second?
+C:\Windows\system32\spool\drivers\X64\3,C:\Windows\system32\spool\drivers\W32X86\3
+
+What is the folder that has the name of the remote printer server the user connected to? (provide the full folder path)
+C:\Windows\System32\spool\SERVERS\printnightmare.gentilkiwi.com
+
+What is the name of the printer the DLL added?
+Kiwi Legit Printer
+
+What was the process ID for the elevated command prompt? What was its parent process? (format: answer,answer)
+5408,spoolsv.exe
+
+What command did the user perform to elevate privileges?
+net localgroup administrators rjones /add

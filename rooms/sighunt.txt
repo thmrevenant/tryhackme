@@ -1,0 +1,29 @@
+SigHunt
+https://tryhackme.com/room/sighunt
+
+What is the Challenge #1 flag?
+THM{ph1sh1ng_msht4_101}
+
+What is the Challenge #2 flag?
+THM{n0t_just_4_c3rts}
+
+What is the Challenge #3 flag?
+THM{cl4ss1c_n3tc4t_r3vs}
+
+What is the Challenge #4 flag?
+THM{p0wp0wp0w3rup_3num}
+
+What is the Challenge #5 flag?
+THM{ov3rpr1v1l3g3d_s3rv1c3}
+
+What is the Challenge #6 flag?
+THM{h1d3_m3_1n_run0nc3}
+
+What is the Challenge #7 flag?
+THM{c0ll3ct1ng_7z_ftw}
+
+What is the Challenge #8 flag?
+THM{cUrling_0n_w1nd0ws}
+
+What is the Challenge #9 flag?
+THM{huntm3_pl34s3}

@@ -1,0 +1,11 @@
+Revenge
+https://tryhackme.com/room/revenge
+
+flag1
+thm{br3ak1ng_4nd_3nt3r1ng}
+
+flag2
+thm{4lm0st_th3re}
+
+flag3
+thm{m1ss10n_acc0mpl1sh3d}

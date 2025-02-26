@@ -1,0 +1,35 @@
+Search Skills
+https://tryhackme.com/room/searchskills
+
+What do you call a cryptographic method or product considered bogus or fraudulent?
+Snake oil
+
+What is the name of the command replacing netstat in Linux systems?
+ss
+
+How would you limit your Google search to PDF files containing the terms cyber warfare report?
+filetype:pdf cyber warfare report
+
+What phrase does the Linux command ss stand for?
+Socket Statistics
+
+What is the top country with lighttpd servers?
+United States
+
+What does BitDefenderFalx detect the file with the hash 2de70ca737c1f4602517c555ddd54165432cf231ffc0e21fb2e23b9dd14e7fb4 as?
+Android.Riskware.Agent.LHH
+
+What utility does CVE-2024-3094 refer to?
+xz
+
+What does the Linux command cat stand for?
+Concatenate
+
+What is the netstat parameter in MS Windows that displays the executable associated with each active connection and listening port?
+-b
+
+You are hired to evaluate the security of a particular company. What is a popular social media website you would use to learn about the technical background of one of their employees?
+LinkedIn
+
+Continuing with the previous scenario, you are trying to find the answer to the secret question, “Which school did you go to as a child?”. What social media website would you consider checking to find the answer to such secret questions?
+Facebook

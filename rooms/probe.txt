@@ -1,0 +1,41 @@
+Probe
+https://tryhackme.com/room/probe
+
+What is the version of the Apache server?
+2.4.41
+
+What is the port number of the FTP service?
+1338
+
+What is the FQDN for the website hosted using a self-signed certificate and contains critical server information as the homepage?
+dev.probe.thm
+
+What is the email address associated with the SSL certificate used to sign the website mentioned in Q3?
+probe@probe.thm
+
+What is the value of the PHP Extension Build on the server?
+API20190902,NTS
+
+What is the banner for the FTP service?
+THM{WELCOME_101113}
+
+What software is used for managing the database on the server?
+phpmyadmin
+
+What is the Content Management System (CMS) hosted on the server?
+Wordpress
+
+What is the version number of the CMS hosted on the server?
+6.2.2
+
+What is the username for the admin panel of the CMS?
+joomla
+
+During vulnerability scanning, OSVDB-3092 detects a file that may be used to identify the blogging site software. What is the name of the file?
+license.txt
+
+What is the name of the software being used on the standard HTTP port?
+lighttpd
+
+What is the flag value associated with the web page hosted on port 8000?
+THM{CONTACT_US_1100}

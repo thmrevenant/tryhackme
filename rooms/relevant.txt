@@ -1,0 +1,8 @@
+Relevant
+https://tryhackme.com/room/relevant
+
+User Flag
+THM{fdk4ka34vk346ksxfr21tg789ktf45}
+
+Root Flag
+THM{1fk5kf469devly1gl320zafgl345pv}

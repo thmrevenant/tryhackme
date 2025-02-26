@@ -1,0 +1,23 @@
+Sandbox Evasion
+https://tryhackme.com/room/sandboxevasion
+
+Sandboxes are a form of ______ Analysis
+Dynamic
+
+What type of Sandboxes analyze attachments attached to emails?
+Mail Sandbox
+
+Which Sandbox Evasion method would you use to abuse a Sandbox that runs for a short period of time?
+Sleeping
+
+Which Sandbox Evasion method would you use to check the Sandboxes system information for virtualised devices?
+Checking System Information
+
+Which evasion method involves reaching out to a host to identify your IP Address?
+Geolocation Filtering
+
+Which evasion technique involves burning compute-time to escape the sandbox?
+Sleeping
+
+Run the "SandboxChecker.exe" in a command prompt (example above) providing your executable as the argument. All checks must be implemented correctly for the flag to reveal.
+THM{6c1f95ec}

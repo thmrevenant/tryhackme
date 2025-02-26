@@ -1,0 +1,32 @@
+PS Eclipse
+https://tryhackme.com/room/posheclipse
+
+A suspicious binary was downloaded to the endpoint. What was the name of the binary?
+OUTSTANDING_GUTTER.exe
+
+What is the address the binary was downloaded from? Add http:// to your answer & defang the URL.
+hxxp[://]886e-181-215-214-32[.]ngrok[.]io
+
+What Windows executable was used to download the suspicious binary? Enter full path.
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+
+What command was executed to configure the suspicious binary to run with elevated privileges?
+"C:\Windows\system32\schtasks.exe" /Create /TN OUTSTANDING_GUTTER.exe /TR C:\Windows\Temp\COUTSTANDING_GUTTER.exe /SC ONEVENT /EC Application /MO *[System/EventID=777] /RU SYSTEM /f
+
+What permissions will the suspicious binary run as? What was the command to run the binary with elevated privileges? (Format: User + ; + CommandLine)
+NT AUTHORITY\SYSTEM;"C:\Windows\system32\schtasks.exe" /Run /TN OUTSTANDING_GUTTER.exe
+
+The suspicious binary connected to a remote server. What address did it connect to? Add http:// to your answer & defang the URL.
+hxxp[://]9030-181-215-214-32[.]ngrok[.]io
+
+A PowerShell script was downloaded to the same location as the suspicious binary. What was the name of the file?
+script.ps1
+
+The malicious script was flagged as malicious. What do you think was the actual name of the malicious script?
+BlackSun.ps1
+
+A ransomware note was saved to disk, which can serve as an IOC. What is the full path to which the ransom note was saved?
+C:\Users\keegan\Downloads\vasg6b0wmw029hd\BlackSun_README.txt
+
+The script saved an image file to disk to replace the user's desktop wallpaper, which can also serve as an IOC. What is the full path of the image?
+C:\Users\Public\Pictures\blacksun.jpg

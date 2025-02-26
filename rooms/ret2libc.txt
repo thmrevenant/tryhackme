@@ -1,0 +1,23 @@
+ret2libc
+https://tryhackme.com/room/ret2libc
+
+What is the name of the function which is essential for ret2libc attack?
+system
+
+What are the permissions of the exploit_me binary?
+-rwsrwxr-x 1 root root
+
+At which address will exploit_me binary start?
+0x400000
+
+What is the overflow offset that we found in gdb?
+18
+
+What is the name of the section of the binary which is important for our leak?
+.got.plt
+
+What is the name of the function that is under gets in .got.plt?
+setuid
+
+What is the flag?
+thm{dGhlIG1vc3QgcmFuZG9tIHZhbHVlIHlvdSBjb3VsZCBldmVyIGd1ZXNz}

@@ -1,0 +1,56 @@
+Servidae: Log Analysis in ELK
+https://tryhackme.com/room/servidae
+
+What is the name of the open-source search engine library that Elasticsearch is built on?
+Apache Lucene
+
+Which component of the Elastic Stack would you use to perform advanced filtering and processing of data before it gets stored?
+Logstash
+
+Update the date and time filter as specified. How many total hits were captured within the selected time period?
+920
+
+Look at the Top values under the destination.ip field. Which IP address stands out?
+84.237.252.156
+
+Use an IP address lookup tool (such as iplocation.io). What country does this IP address originate from?
+Latvia
+
+Which process name is running the most frequently on the compromised workstation?
+curl.exe
+
+What was the process ID (PID) of the potentially malicious PowerShell script?
+6712
+
+What was the parent process name of the process that spawned powershell.exe?
+explorer.exe
+
+What is the domain name of the attacker's server hosting the winPEAS executable?
+evilparrot.thm
+
+What is the full path of the HKEY_LOCAL_MACHINE registry entry that was queried?
+HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Installer
+
+What is the name of the malicious .msi file?
+adminshell.msi
+
+What is the name of the user account that the attacker created to maintain privileged access?
+backdoor
+
+What is the flag sent via cURL requests to the evilparrot.thm server?
+THM{C4N_y0U_h34r_m3}
+
+What is the name of the registry value that the attacker added?
+BackdoorShell
+
+What was the password that the attacker used to access Bill's user account on the internal payroll website?
+Password123!
+
+What flag was included within the HTTP requests during the attacker's successful logins?
+THM{1m_1N_Y0ur_P4YR0LL}
+
+What was the session cookie value that the attacker included in the cURL request at 18:58:08.001?
+dt5qhq423goknmq269rg1tal1a
+
+What is the name of the sensitive file that the attacker downloaded?
+bank-details.csv

@@ -1,0 +1,17 @@
+Skynet
+https://tryhackme.com/room/skynet
+
+What is Miles password for his emails?
+cyborg007haloterminator
+
+What is the hidden directory?
+/45kra24zxs28v3yd
+
+What is the vulnerability called when you can include a remote file for malicious purposes?
+remote file inclusion 
+
+What is the user flag?
+7ce5c2109a40f958099283600a9ae807
+
+What is the root flag?
+3f0372db24753accc7179a282cd6a949

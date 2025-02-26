@@ -1,0 +1,20 @@
+Recovery
+https://tryhackme.com/room/recovery
+
+Flag 0
+THM{d8b5c89061ed767547a782e0f9b0b0fe}
+
+Flag 1
+THM{4c3e355694574cb182ca3057a685509d}
+
+Flag 2
+THM{72f8fe5fd968b5817f67acecdc701e52}
+
+Flag 3
+THM{70f7de17bb4e08686977a061205f3bf0}
+
+Flag 4
+THM{b0757f8fb8fe8dac584e80c6ac151d7d}
+
+Flag 5
+THM{088a36245afc7cb935f19f030c4c28b2}

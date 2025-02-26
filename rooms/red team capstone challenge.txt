@@ -1,0 +1,62 @@
+Red Team Capstone Challenge
+https://tryhackme.com/room/redteamcapstonechallenge
+
+Flag-1: Breaching the Perimeter
+THM{18800db2-ef64-4544-9bb7-56ba2dfa31ea}
+
+Flag-2: Breaching Active Directory
+THM{febcc4c0-b939-11ed-afa1-0242ac120002}
+
+Flag-3: Foothold on Corporate Division Tier 2 Infrastructure
+THM{0ad79d03-5078-4970-ab91-ab24de6892a4}
+
+Flag-4: Administrative access to Corporate Division Tier 2 Infrastructure
+THM{2540046c-b93b-11ed-afa1-0242ac120002}
+
+Flag-5: Foothold on Corporate Division Tier 1 Infrastructure
+THM{30924538-a5c8-4499-993e-45f646f0b814}
+
+Flag-6: Administrative access to Corporate Division Tier 1 Infrastructure
+THM{13b800c8-b2eb-49e2-bb43-4ea1b8c4a53a}
+
+Flag-7: Foothold on Corporate Division Tier 0 Infrastructure
+THM{703d2509-a6e8-4bc8-bc53-788543e6f405}
+
+Flag-8: Administrative access to Corporate Division Tier 0 Infrastructure
+THM{bd4f60cd-57a9-4cd5-88b9-0957e08c0df3}
+
+Flag-9: Foothold on Bank Division Tier 2 Infrastructure
+THM{a00af774-cf0d-483c-a1e1-bb082df4ab18}
+
+Flag-10: Administrative access to Bank Division Tier 2 Infrastructure
+THM{1111d961-5086-40e9-804e-f512b55066bc}
+
+Flag-11: Foothold on Bank Division Tier 1 Infrastructure
+THM{9505045e-de3c-4d82-a621-8474f8256033}
+
+Flag-12: Administrative access to Bank Division Tier 1 Infrastructure
+THM{347b0f8d-e819-44e7-bbf5-5a49fc601bca}
+
+Flag-13: Foothold on Bank Division Tier 0 Infrastructure
+THM{2d2b9799-b378-403a-9600-fab5b1ba7b05}
+
+Flag-14: Administrative access to Bank Division Tier 0 Infrastructure
+THM{fbf52b9c-b61d-4a3c-85ab-31e466532ef7}
+
+Flag-15: Foothold on Parent Domain
+THM{ee8d8803-0551-4867-b665-e4cbf70d2652}
+
+Flag-16: Administrative access to Parent Domain
+THM{354ef832-add1-42f5-aba7-677062939ada}
+
+Flag-17: Access to SWIFT application
+THM{6bc2f0f0-1eda-47bd-9eb2-8abff4a5d4d1}
+
+Flag-18: Access to SWIFT application as capturer
+THM{204768b4-0d1d-4e0d-82b5-6015ec81f548}
+
+Flag-19: Access to SWIFT application as approver
+THM{e53f46e8-389b-4edb-bb44-34f87993969e}
+
+Flag-20: Simulated fraudulent transfer made
+THM{fd1ad4d0-b01d-455d-a17c-5a4b046e5361}

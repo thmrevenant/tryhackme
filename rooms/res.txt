@@ -1,0 +1,23 @@
+Res
+https://tryhackme.com/room/res
+
+Scan the machine, how many ports are open?
+2
+
+What's is the database management system installed on the server?
+redis
+
+What port is the database management system running on?
+6379
+
+What's is the version of management system installed on the server?
+6.0.7
+
+Compromise the machine and locate user.txt
+thm{red1s_rce_w1thout_credent1als}
+
+What is the local user account password?
+beautiful1
+
+Escalate privileges and obtain root.txt
+thm{xxd_pr1v_escalat1on}

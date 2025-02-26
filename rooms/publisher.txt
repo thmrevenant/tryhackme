@@ -1,0 +1,8 @@
+Publisher
+https://tryhackme.com/room/publisher
+
+What is the user flag?
+fa229046d44eda6a3598c73ad96f4ca5
+
+What is the root flag?
+3a4225cc9e85709adda6ef55d6a4f2ca

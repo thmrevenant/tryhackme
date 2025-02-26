@@ -1,0 +1,29 @@
+PrintNightmare, again!
+https://tryhackme.com/room/printnightmarec2bn7l
+
+The user downloaded a zip file. What was the zip file saved as?
+levelup.zip
+
+What is the full path to the exploit the user executed?
+C:\Users\bmurphy\Downloads\CVE-2021-1675-main\CVE-2021-1675.ps1
+
+What was the temp location the malicious DLL was saved to? 
+C:\Users\bmurphy\AppData\Local\Temp\3\nightmare.dll
+
+What was the full location the DLL loads from?
+C:\Windows\system32\spool\DRIVERS\x64\3\nightmare.dll
+
+What is the primary registry path associated with this attack?
+HKLM\System\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\THMPrinter\
+
+What was the PID for the process that would have been blocked from loading a non-Microsoft-signed binary?
+2600
+
+What is the username of the newly created local administrator account?
+backup
+
+What is the password for this user?
+ucGGDMyFHkqMRWwHtQ
+
+What two commands did the user execute to cover their tracks? (no space after the comma)
+rmdir .\CVE-2021-1675-main\,del .\levelup.zip

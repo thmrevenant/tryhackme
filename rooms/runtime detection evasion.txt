@@ -1,0 +1,21 @@
+Runtime Detection Evasion
+https://tryhackme.com/room/runtimedetectionevasion
+
+What runtime detection measure is shipped natively with Windows?
+AMSI
+
+What response value is assigned to 32768?
+AMSI_RESULT_DETECTED
+
+Will AMSI be instrumented if the file is only on disk? (Y/N)
+N
+
+Enter the flag obtained from the desktop after executing the command in cmd.exe.
+THM{p0w3r5h3ll_d0wn6r4d3!}
+
+Enter the flag obtained from the desktop after executing the command.
+THM{r3fl3c7_4ll_7h3_7h1n65}
+
+Enter the flag obtained from the desktop after executing the command.
+THM{p47ch1n6_15n7_ju57_f0r_7h3_600d_6uy5}
+

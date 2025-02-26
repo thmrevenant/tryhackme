@@ -1,0 +1,11 @@
+Scripting
+https://tryhackme.com/room/scripting
+
+What is the final string?
+HackBack2019=
+
+Once you have done all operations, what number do you get (rounded to 2 decimal places at the end of your calculation)?
+344769.12
+
+What is the flag?
+THM{eW-sCrIpTiNg-AnD-cRyPtO}

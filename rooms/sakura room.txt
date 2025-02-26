@@ -1,0 +1,47 @@
+Sakura Room
+https://tryhackme.com/room/sakura
+
+Are you ready to begin?
+Let's Go!
+
+What username does the attacker go by?
+SakuraSnowAngelAiko
+
+What is the full email address used by the attacker?
+SakuraSnowAngel83@protonmail.com
+
+What is the attacker's full real name?
+Aiko Abe
+
+What cryptocurrency does the attacker own a cryptocurrency wallet for?
+Ethereum
+
+What is the attacker's cryptocurrency wallet address?
+0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef
+
+What mining pool did the attacker receive payments from on January 23, 2021 UTC?
+Ethermine
+
+What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet?
+Tether
+
+What is the attacker's current Twitter handle?
+SakuraLoverAiko
+
+What is the URL for the location where the attacker saved their WiFi  SSIDs and passwords?
+http://deepv2w7p33xa4pwxzwi2ps4j62gfxpyp44ezjbmpttxz3owlsp4ljid.onion
+
+What is the BSSID for the attacker's Home WiFi?
+84:af:ec:34:fc:f8
+
+What airport is closest to the location the attacker shared a photo from prior to getting on their flight?
+DCA
+
+What airport did the attacker have their last layover in?
+HND
+
+What lake can be seen in the map shared by the attacker as they were on their final flight home?
+Lake Inawashiro
+
+What city does the attacker likely consider "home"?
+Hirosaki

@@ -1,0 +1,8 @@
+SafeZone
+https://tryhackme.com/room/safezone
+
+user flag
+THM{c296539f3286a899d8b3f6632fd62274}
+
+root flag
+THM{63a9f0ea7bb98050796b649e85481845}

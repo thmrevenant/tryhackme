@@ -1,0 +1,62 @@
+Session Management
+https://tryhackme.com/room/sessionmanagement
+
+Which state in the session management lifecycle deals with user's pressing the logout button?
+Session Termination
+
+Which state in the session management lifecycle deals with user's providing their credentials?
+Session Creation
+
+Which state in the session management lifecycle deals with user's actions performed after authentication?
+Session Tracking
+
+Which state in the session management lifecycle deals with user's that forget to log out of the application?
+Session Expiry
+
+What is the name of the process in the IAAA model that would be responsible for tracking your actions and logging them?
+Accountability
+
+What is the name of the process in the IAAA model that would be responsible for granting you a session value?
+Authentication
+
+What is the name of the process in the IAAA model that would be responsible for verifying that you have the relevant permissions to perform an action?
+Authorisation
+
+What cookie attribute can be used to ensure that the cookie is only transmitted via secure HTTPS channels?
+secure
+
+What HTTP header is used in the response to inform the browser that a cookie is being sent?
+Set-Cookie
+
+What HTTP header is often used in requests to indicate the transmission of a JWT?
+Authorization: Bearer
+
+What phase of the session management lifecycle would be vulnerable if you could predict what the value of a session would be?
+Session Creation
+
+What phase of the session management lifecycle would be vulnerable if you don't have the ability to flush a threat actor's access to your session?
+Session Termination
+
+What phase of the session management lifecycle would be vulnerable if there wasn't sufficient information to piece together what happened during an incident?
+Session Tracking
+
+What phase of the session management lifecycle would be vulnerable if the session value itself was transmitted through an insecure redirect?
+Session Creation
+
+What is the username of the student with the name X?
+THM{Got.the.User}
+
+How many lecturers are registered on the application?
+1
+
+Excluding the unauthenticated user, how many roles does the application have?
+3
+
+How many test attempts in total have been performed on the application?
+4
+
+What is the highest score that student1 has achieved on a test?
+3
+
+What is the sequence of correct answers for the Database Types test? (Format y=yes and n=no, separated by commas)
+y,n,n
