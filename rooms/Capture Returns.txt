@@ -1,0 +1,5 @@
+Capture Returns
+https://tryhackme.com/room/capturereturns
+
+What is the value of flag.txt?
+

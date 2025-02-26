@@ -1,0 +1,53 @@
+Advent of Cyber '24 Side Quest
+https://tryhackme.com/room/adventofcyber24sidequest
+
+What is the password the attacker used to register on the site?
+QU9DMjAyNHtUaW55X1R
+
+What is the password that the attacker captured?
+pbnlfVGlueV9TaDNsbF
+
+What is the password of the zip file transferred by the attacker?
+9jYW5fRW5jcnlwVF9iVXR
+
+What is McSkidy's password that was inside the database file stolen by the attacker?
+faXRfSXNfTjB0X0YwMGxwcm8wZn0=
+
+What is the flag for YIN?
+THM{Yin.cannot.exist.without.a.little.bit.of.Yang}
+
+What is the flag for YANG?
+THM{Yang.also.needs.Yin.to.survive}
+
+What is the content of the file foothold.txt?
+THM{th1s-1s-jusT-th3-B3g1nn1ng}
+
+What is the content of the file user.txt?
+THM{h4v1ng-fun-w1th-a-g00d-old-heap-overflowww-in-a-l4t3st-gl1bc}
+
+What is the content of the file root.txt?
+THM{w00t-w00t-y0u-escap3-the-may0r-permits}
+
+What is the content of flag.txt?
+THM{unlock_the_door_to_darkness_0nly_f0r_the_brave}
+
+What is the content of user.txt?
+
+
+What is the content of root.txt?
+
+
+What is the value of flag 1?
+THM{09a3f8918a32ea38a2c833c98214336a}
+
+What is the value of flag 2?
+THM{647aff4143b04972ba816f040e9b81c2}
+
+What is the value of flag 3?
+THM{ff2e079bc7bc3eb925478aa5bc2466a6}
+
+What is the value of flag 4?
+THM{05a830d2f52649c96318cce20c562b63}
+
+What is the flag you get at the end of the survey? Please make sure to copy the flag before closing the tab! 
+THM{bigger_and_maybe_not_as_mean_in_2025}

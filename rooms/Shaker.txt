@@ -1,0 +1,12 @@
+Shaker
+https://tryhackme.com/room/shaker
+
+Get a shell and find the first flag!
+
+
+Can you find Bob's flag?
+
+
+Now that you're here, go on, root me :)
+
+

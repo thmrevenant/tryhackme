@@ -1,0 +1,32 @@
+K2
+https://tryhackme.com/room/k2room
+
+What is the user flag?
+THM{9e04a7419a2b7a86163496271a8a95dd}
+
+What is the root flag?
+THM{c6f684e3b1089cd75f205f93de9fe93d}
+
+What are the usernames and passwords that had access to the server? List the usernames in alphabetical order with their corresponding password separated by a comma. Format is username:password.
+james:Pwd@9tLNrC3!,root:RdzQ7MSKt)fNaz3!,rose:vRMkaVgdfxhW!8
+
+Two users have their full names on display. What are their names? In Alphabetical order. Format is first name last name separated by a comma.
+James Bold, Rose Bud
+
+What is the user flag?
+
+
+What are the usernames found on the server? List the usernames in alphabetical order separated by a comma. Exclude the Administrator user.
+
+
+What is the root flag?
+
+
+What is the Administrator's NTLM hash?
+
+
+What is the user flag?
+
+
+What is the root flag?
+
