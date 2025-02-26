@@ -1,0 +1,8 @@
+Kitty
+https://tryhackme.com/room/kitty
+
+What is the user flag?
+THM{31e606998972c3c6baae67bab463b16a}
+
+What is the root flag?
+THM{581bfc26b53f2e167a05613eecf039bb}

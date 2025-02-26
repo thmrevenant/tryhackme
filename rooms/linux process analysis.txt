@@ -1,0 +1,38 @@
+Linux Process Analysis
+https://tryhackme.com/room/linuxprocessanalysis
+
+After updating the PATH and LD_LIBRARY_PATH environment variables, run the command check-env. What is the flag that is returned in the output?
+THM{8c860435f00c943c21f6b6e0f1b2f854}
+
+Which command lists all open files and the processes that opened them?
+lsof
+
+Use pstree to list out the process hierarchies. What is the name of the nc processes parent?
+abzkd83o4jakxld
+
+Search around the system for suspicious system-level cronjob entries. What is the full URL of the C2 server?
+http://c2.intelligent-software.thm:8310/beacon
+
+List the user-level cronjobs in the system. What is the hidden flag in one of the scripts?
+THM{4682786cf2d92f01c4d30a2bbf4621f7}
+
+Use pspy64 to monitor executions occurring through the system. What is the decoded flag value that is echoed every 15 seconds?
+THM{851a981445dbfb9485c3771510a53568}
+
+List all running services on the system. What is the flag you discover in the backdoor service's description?
+THM{4922066dc6494e8d4d507eef2205c262}
+
+View the journalctl logs associated with the backdoor service. What is the flag you discover?
+THM{053c12e620acea8a77b4bdcba578ca19}
+
+What is the full URL that receives Janice's private SSH key on system startup?
+http://aabab.best-it-services.thm/id_rsa
+
+Identify and investigate the remaining .desktop files on the system. What is the command that executes with the Show Network Interfaces autostart script?
+ifconfig
+
+Analyse Janice's .viminfo log. What flag do you find within the Vim search history?
+THM{4a8fd984228d89999342d189e6b916de}
+
+Use DumpZilla to investigate Eduardo's Firefox bookmarks. What flag do you find in one of the entries?
+THM{5d5cb0ffe8369ab08f1e90aa9e9bc24e}

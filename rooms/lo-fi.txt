@@ -1,0 +1,5 @@
+Lo-Fi
+https://tryhackme.com/room/lofi
+
+Climb the filesystem to find the flag!
+flag{e4478e0eab69bd642b8238765dcb7d18}

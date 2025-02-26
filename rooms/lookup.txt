@@ -1,0 +1,8 @@
+Lookup
+https://tryhackme.com/room/lookup
+
+What is the user flag?
+38375fb4dd8baa2b2039ac03d92b820e
+
+What is the root flag?
+5a285a9f257e45c68bb6c9f9f57d18e8

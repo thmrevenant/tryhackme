@@ -1,0 +1,56 @@
+Log Universe
+https://tryhackme.com/room/loguniverse
+
+What is the Thread ID of the user creation event?
+744
+
+What is the account name that creates the new user?
+Administrator
+
+What is the name of the created account name?
+Adminstrator
+
+What is the "SubjectLogonID" value of the "account reset attempt" event?
+0x4B666
+
+What is the number of successful sync events done by the NTPD service?
+28
+
+Which user logged in using the SSHD service?
+THMjohn-p
+
+What is the PID number of the Apache web server?
+5678
+
+Which service is stopped due to RAM issues?
+nginx
+
+Which service is stopped due to CPU issues?
+Apache Tomcat
+
+What is the timestamp of the second time reset event?
+03/27 15:51:56
+
+What is the user's IP address who accessed "/secure.html"? (In defanged format)
+203[.]45[.]78[.]102
+
+Which user failed to access the settings page?
+buyer986
+
+Which user accessed the malicious page?
+adv8779
+
+What is the user agent that discovered the malicious page?
+nikto/2.1.5 (OpenVAS)
+
+What is the PID of the process that causes permission error?
+7654
+
+What is the request that contains an invalid method?
+\x80\x03\x01\x00\x01
+
+What pattern match triggered the access error in ModSecurity?
+"SELECT.+FROM"
+
+What is the path value of the file that tries to remove data from the system?
+/etc/httpd/conf.d/malicious.conf

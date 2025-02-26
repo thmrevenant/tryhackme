@@ -1,0 +1,23 @@
+Log Operations
+https://tryhackme.com/room/logoperations
+
+Which of the given log purposes would be suitable to measure the cost of using a service?
+Operational
+
+Which of the given log purposes would be suitable for investigating application logs for enhancement and stability? 
+Debug
+
+Which question's answer can be "as much as mentioned in the PCI DSS requirements."?
+How much do you need to log?
+
+Which requirements are non-negotiable?
+operational and security requirements
+
+Which of the given logging principles would be implemented and improved?
+Archiving and Accessibility
+
+In this case, which of the given difficulties occurs?
+Process and Archive
+
+What you would call this? (Mistake or Practice?)
+Mistake

@@ -1,0 +1,26 @@
+Jurassic Park
+https://tryhackme.com/room/jurassicpark
+
+What is the name of the SQL database serving the shop information?
+park
+
+How many columns does the table have?
+5
+
+What is the system version?
+Ubuntu 16.04
+
+What is Dennis' password?
+ih8dinos
+
+What are the contents of the first flag?
+b89f2d69c56b9981ac92dd267f
+
+What are the contents of the second flag?
+96ccd6b429be8c9a4b501c7a0b117b0a
+
+What are the contents of the third flag?
+b4973bbc9053807856ec815db25fb3f1
+
+What are the contents of the fifth flag?
+2a7074e491fcacc7eeba97808dc5e2ec

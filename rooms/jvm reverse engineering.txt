@@ -1,0 +1,32 @@
+JVM Reverse Engineering
+https://tryhackme.com/room/jvmreverseengineering
+
+Which value is now at the top of the stack?
+-3
+
+Which opcode is used to get the XOR of two longs? (answer in lowercase)
+lxor
+
+What does the -v flag on javap stand for? (answer in lowercase)
+verbose
+
+Find the name of the file that this class was compiled from (AKA Source File)
+SecretSourceFile.java
+
+What is the super class of the Main class? (Using internal name format, i.e. /)
+java/lang/Object
+
+What is the value of the local variable in slot 1 when the method returns? (In decimal format)
+2
+
+What is the correct password
+yxvF2ho95ANJVCX
+
+What is the correct password?
+aSc2mRT7C6fKql6RD
+
+Find the correct password
+YafLa7T4m06e1c5R73wkEo4692G
+
+What is the correct password?
+TsVwBSiA2IDqClTtWg6D6p5cM3k

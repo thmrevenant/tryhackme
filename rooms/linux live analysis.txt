@@ -1,0 +1,47 @@
+Linux Live Analysis
+https://tryhackme.com/room/linuxliveanalysis
+
+What hostname is returned after running the following query?
+attacker.thm
+
+On the official website, how many tables are listed for Linux OS?
+154
+
+What is the Machine ID of the machine we are investigating?
+dc7c8ac5c09a4bbfaf3d09d399f10d96
+
+What is the architecture of the host we are investigating?
+x86_64
+
+What is the name of the process running from the tmp directory? (Note: Not Hidden one)
+sshdd
+
+What is the name of the suspicious process running in the memory of the infected host?
+.systm_updater
+
+What is the name of the process running from the user directory?
+rdp_updater
+
+What is the state of the local port that is listening on port 80?
+ESTABLISHED
+
+Investigate the opened files. What is the opened file associated with the suspicious process running on the system?
+keylogger.log
+
+What is the name of the process that is associated with the suspicious file found in the above question?
+sshdd
+
+What is the name of the hidden binary found in the root directory?
+.systmd
+
+What is the name of the suspicious package installed on the host?
+datacollector
+
+The suspicious package contains a secret code. What is the code hidden in the description?
+{NOT_SO_BENIGN_Package}
+
+Which suspicious service was observed to be installed on this infected machine using netcat?
+systm.service
+
+What is the full path of the process found in the cron table?
+/home/badactor/storage/.secret_docs/rdp_updater

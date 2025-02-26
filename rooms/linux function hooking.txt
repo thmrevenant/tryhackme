@@ -1,0 +1,30 @@
+Linux Function Hooking
+https://tryhackme.com/room/linuxfunctionhooking
+
+What is the name of the dynamic linker/loader on linux?
+ld.so, ld-linux.so
+
+What environment variable let's you load your own shared library before all others? 
+LD_PRELOAD
+
+Which file contains a whitespace-separated list of ELF shared objects to be loaded before running a program?
+/etc/ld.so.preload
+
+If both the environment variable and the file are employed, the libraries specified by which would be loaded first?
+Environment Variable
+
+How many arguments does write() take?
+3
+
+Which feature test macro must be defined in order to obtain the  definitions  of RTLD_NEXT from <dlfcn.h>? 
+_GNU_SOURCE
+
+When compiling our code to produce a Shared Object, which flag is used to create position independent code?
+-fPIC
+
+Can hooking libc functions affect the behavior of Python3? (Yay/Nay)
+Yay
+
+There are two mandatory fields of a dirent structure. One is d_name, and the other one is?
+d_ino
+

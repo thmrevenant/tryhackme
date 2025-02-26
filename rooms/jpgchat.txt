@@ -1,0 +1,8 @@
+JPGChat
+https://tryhackme.com/room/jpgchat
+
+Establish a foothold and get user.txt
+JPC{487030410a543503cbb59ece16178318}
+
+Escalate your privileges to root and read root.txt
+JPC{665b7f2e59cf44763e5a7f070b081b0a}

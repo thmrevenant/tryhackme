@@ -1,0 +1,32 @@
+Mnemonic
+https://tryhackme.com/room/mnemonic
+
+How many open ports?
+3
+
+what is the ssh port number?
+1337
+
+what is the name of the secret file?
+backups.zip
+
+ftp user name?
+ftpuser
+
+ftp password?
+love4ever
+
+What is the ssh username?
+james
+
+What is the ssh password?
+bluelove
+
+What is the condor password?
+pasificbell1981
+
+user.txt
+THM{a5f82a00e2feee3465249b855be71c01}
+
+root.txt
+THM{2a4825f50b0c16636984b448669b0586}

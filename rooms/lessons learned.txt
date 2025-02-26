@@ -1,0 +1,33 @@
+Lessons Learned
+https://tryhackme.com/room/lessonslearned
+
+What phase of the IR process focuses on people, documentations, and technological capabilities?
+Preparation
+
+What phase of the IR process is reliant on the effectivity and synergy of all the other phases?
+Eradication, Remediation, and Recovery
+
+What malicious file type has been found with two different versions?
+Dropper
+
+What's the name of the malicious file found in the Jenkins server?
+backup.sh
+
+What are the two technical details removed in the revised paragraph? (Separate them with a comma and a space; format: technical detail 1, technical detail 2)
+alex.swift@swiftspend[.]finance, Ticket#2023012398704232
+
+What technical detail in the fifth paragraph of the draft can be removed? (The answer is the entire string that you will be removing to make the paragraph more concise.)
+(i.e., SPF, DKIM, DMARC)
+
+
+In the draft, the third paragraph talks about the discovery of numerous artefacts via the review of a packet capture. What are those artefacts? (Separate them with a comma and a space; format: technical detail 1, technical detail 2)
+3[.]250[.]38[.]141, Dropper.exe
+
+The fourth paragraph talked about a swiftspend domain being hijacked to host the threat actor’s exfiltration IP. How did the investigators find out about this? (The answer is the entire string as described in the SoD)
+Pivoting from backup.sh
+
+What did we use to transform IOCs as detection rules in a vendor-agnostic format?
+Sigma
+
+In the Sigma Rule that we've created, what is the logsource category used by the author?
+create_stream_hash

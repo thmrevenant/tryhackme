@@ -1,0 +1,35 @@
+Linux Incident Surface
+https://tryhackme.com/room/linuxincidentsurface
+
+Connect with the lab. How many files and folders are in the /home/activities/processes directory?
+3
+
+What is the remote IP to which the process netcom establishes the connection?
+68.53.23.246
+
+Update the osquery command. What is the remote port the netcom process is communicating to?
+443
+
+What is the default path that contains all the installed services in Linux?
+/etc/systemd/system
+
+Which suspicious service was found to be running on the host?
+benign.service
+
+What process does this service point to?
+benign
+
+Before getting this service stopped on 11th Sept, how many log entries were observed in the journalctl against this service?
+7
+
+Create a suspicious Debian package on the disk by following the steps mentioned in the task. How many log entries are observed in the dpkg.log file associated with this installation activity?
+6
+
+What package was installed on the system on the 17th of September, 2024?
+c2comm
+
+Examine the auth.log files. Which user attempted to connect with SSH on 11th Sept 2024?
+saqib
+
+From which IP was this failed SSH connection attempt made?
+10.11.75.247

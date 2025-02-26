@@ -1,0 +1,113 @@
+Linux Modules
+https://tryhackme.com/room/linuxmodules
+
+Is there a difference between egrep and fgrep? (Yea/Nay)
+Yea
+
+Which flag do you use to list out all the lines NOT containing the 'PATTERN'?
+-v
+
+What user did you find in that file?
+bobthebuilder
+
+What is the password of that user?
+LinuxIsGawd
+
+Can you find the comment that user just left?
+fs0ciety
+
+Run tr --help command and tell how will you select any digit character in the string?
+:digit:
+
+What sequence is equivalent to [a-zA-Z] set?
+:alpha:
+
+What sequence is equivalent to selecting hexadecimal characters?
+:xdigit:
+
+Download the above given file, and use awk command  to print the following output:
+awk 'BEGIN{FS=" "; OFS=":"} {print $1,$4}' awk.txt
+
+How will you make the output as following (there can be multiple; answer it using the above specified variables in BEGIN pattern):
+awk 'BEGIN{ORS=", "} {print $1}' awk.txt
+
+How would you substitute every 3rd occurrence of the word 'hack' to 'back' on every line inside the file file.txt?
+sed 's/hack/back/3g' file.txt
+
+How will you do the same operation only on 3rd and 4th line in file.txt?
+sed '3,4 s/hack/back/3g' file.txt
+
+Download the given file, and try formatting the trailing spaces in sed1.txt with a colon(:).
+sed 's/  */:/g' sed1.txt
+
+View the  sed2 file in the directory. Try putting all alphabetical values together, to get the answer for this question.
+CONGRATULATIONS YOU MADE IT THROUGH THIS SMALL LITTLE CHALLENGE
+
+What pattern did you use to reach that answer string?
+'s/[[:digit:]]//g'
+
+What did she sed?(In double quotes)
+"That's What"
+
+Take argument as "files"
+cat file | xargs -I files -t sh -c "touch files; chmod 400 files"
+
+You can find the files for this task in two folder.
+ls | xargs -I word -n 1 -t sh -c 'echo word >> shortrockyou; rm word'
+
+Which flag to use to specify max number of arguments in one line.
+-n
+
+How will you escape command line flags to positional arguments?
+--
+
+Download the file given for this task, find the uniq items after sorting the file. What is the 2271st word in the output.
+lollol
+
+What was the index of term 'michele'
+2550
+
+Which flag allows you to limit the download/upload rate of a file?
+--limit-rate
+
+How will you curl the webpage of https://tryhackme.com/ specifying user-agent as 'juzztesting'
+curl -A 'juzztesting' https://tryhackme.com/
+
+Can curl perform upload operations?(Yea/Nah)
+Yea
+
+How will you enable time logging at every new activity that this tool initiates?
+-N
+
+What command will you use to download https://xyz.com/mypackage.zip using wget, appending logs to an existing file named "package-logs.txt"
+wget -a package-logs.txt https://xyz.com/mypackage.zip
+
+Write the command to read URLs from "file.txt" and limit the download speed to 1mbps.
+wget -i file.txt --limit-rate=1m
+
+How will you seek at 10th byte(in hex) in file.txt and display only 50 bytes?
+xxd -s 0xa -l 50 -b file.txt 
+
+How to display a n bytes of hexdump in 3 columns with a group of 3 octets per row from file.txt? (Use flags alphabetically)
+xxd -c 9 -g 3 file.txt
+
+Which has more precedence over the other -c flag or -g flag?
+-c
+
+Download the file and find the value of flag.
+flag{wh3sdw0lw1gl9oqasad2fs48as}
+
+It's safe to run systemctl command and experiment on your main linux system neither following a proper guide or having any prior knowledge? (Right/Wrong)
+Wrong
+
+How will you import a given PGP private key. (Suppose the name of the file is key.gpg)
+gpg --import key.gpg
+
+How will you list all port activity if netstat is not available on a machine? (Full Name)
+Socket Statistics
+
+What command can be used to fix a broken/irregular/weird acting terminal shell?
+reset
+
+Press F to pay respect
+F

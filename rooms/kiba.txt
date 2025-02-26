@@ -1,0 +1,20 @@
+kiba
+https://tryhackme.com/room/kiba
+
+What is the vulnerability that is specific to programming languages with prototype-based inheritance?
+Prototype pollution
+
+What is the version of visualization dashboard installed in the server?
+6.5.4
+
+What is the CVE number for this vulnerability? This will be in the format: CVE-0000-0000
+CVE-2019-7609
+
+Compromise the machine and locate user.txt
+THM{1s_easy_pwn3d_k1bana_w1th_rce}
+
+How would you recursively list all of these capabilities?
+getcap -r /
+
+Escalate privileges and obtain root.txt
+THM{pr1v1lege_escalat1on_us1ng_capab1l1t1es}

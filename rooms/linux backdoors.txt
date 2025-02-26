@@ -1,0 +1,14 @@
+Linux Backdoors
+https://tryhackme.com/room/linuxbackdoors
+
+In what directory do we place our keys ?
+.ssh
+
+What flag in ssh do we use to show our private key?
+-i
+
+What does the letter "m" mean in cronjobs?
+minute
+
+What does the letter "h" mean in cronjobs?
+hour

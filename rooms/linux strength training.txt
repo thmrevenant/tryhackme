@@ -1,0 +1,86 @@
+Linux Strength Training
+https://tryhackme.com/room/linuxstrengthtraining
+
+What is the correct option for finding files based on group
+-group
+
+What is format for finding a file with the user named Francis and with a size of 52 kilobytes in the directory /home/francis/
+find /home/francis -type f -user francis -size 52k
+
+SSH as topson using his password topson. Go to the /home/topson/chatlogs directory and type the following: grep -iRl 'keyword'. What is the name of the file that you found using this command?
+2019-10-11
+
+What are the characters subsequent to the word you found?
+ttitor
+
+Read the file named 'ReadMeIfStuck.txt'. What is the Flag?
+Flag{81726350827fe53g}
+
+Hypothetically, you find yourself in a directory with many files and want to move all these files to the directory of /home/francis/logs. What is the correct command to do this?
+mv * /home/francis/logs
+
+Hypothetically, you want to transfer a file from your /home/james/Desktop/ with the name script.py to the remote machine (192.168.10.5) directory of /home/john/scripts using the username of john. What would be the full command to do this?
+scp /home/james/Desktop/script.py john@192.168.10.5:/home/john/scripts
+
+How would you rename a folder named -logs to -newlogs
+mv -- -logs -newlogs
+
+How would you copy the file named encryption keys to the directory of /home/john/logs
+cp "encryption keys" /home/john/logs
+
+Find a file named readME_hint.txt inside topson's directory and read it. Using the instructions it gives you, get the second flag.
+Flag{234@i4s87u5hbn$3}
+
+Download the hash file attached to this task and attempt to crack the MD5 hash. What is the password?
+secret123
+
+What is the hash type stored in the file hashA.txt
+MD4
+
+Crack hashA.txt using john the ripper, what is the password?
+admin
+
+What is the hash type stored in the file hashB.txt
+SHA-1
+
+Find a wordlist  with the file extention of '.mnf' and use it to crack the hash with the filename hashC.txt. What is the password?
+unacvaolipatnuggi
+
+Crack hashB.txt using john the ripper, what is the password?
+letmein
+
+what is the name of the tool which allows us to decode base64 strings?
+base64
+
+find a file called encoded.txt. What is the special answer?
+john
+
+You wish to encrypt a file called history_logs.txt using the AES-128 scheme. What is the full command to do this?
+gpg --cipher-algo AES-128 --symmetric history_logs.txt
+
+What is the command to decrypt the file you just encrypted?
+gpg history_logs.txt.gpg
+
+Find an encrypted file called layer4.txt, its password is bob. Use this to locate the flag. What is the flag?
+Flag{B07$f854f5ghg4s37}
+
+Find an encrypted file called personal.txt.gpg and find a wordlist called data.txt. Use tac to reverse the wordlist before brute-forcing it against the encrypted file. What is the password to the encrypted file?
+valamanezivonia
+
+What is written in this now decrypted file?
+getting stronger in linux
+
+Find a file called employees.sql and read the SQL database. (Sarah and Sameer can log both into mysql using the password: password). Find the flag contained in one of the tables. What is the flag?
+Flag{13490AB8} 
+
+What is Sameer's SSH password?
+thegreatestpasswordever000
+
+What is the password for the sql database back-up copy
+ebqattle
+
+Find the SSH password of the user James. What is the password?
+vuimaxcullings
+
+What is the root flag?
+Flag{6$8$hyJSJ3KDJ3881}

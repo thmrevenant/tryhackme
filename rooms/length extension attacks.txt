@@ -1,0 +1,26 @@
+Length Extension Attacks
+https://tryhackme.com/room/lengthextensionattacks
+
+What property prevents an attacker from reversing a hash to get the original input?
+Pre-image Resistance
+
+What property ensures that no two different messages produce the same hash?
+Collision Resistance
+
+What block size does SHA-256 use?
+512
+
+What function ensures data is aligned to fit block size requirements?
+Padding
+
+How many words does SHA-256’s internal state have?
+8
+
+What hashing method prevents length extension attacks by using a secret key?
+HMAC
+
+What is the flag in the image?
+THM{L3n6th_3Xt33ns10nssss}
+
+What is the flag?
+THM{l3n6th_2_4dM1n}

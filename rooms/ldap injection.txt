@@ -1,0 +1,9 @@
+LDAP Injection
+https://tryhackme.com/room/ldapinjection
+
+What is the flag?
+THM{!b451c_ld4p_inj3ct1ON!}
+
+What is the flag in the dashboard?
+THM{!!bl1nDLd4P1nj3ct10n!!}
+

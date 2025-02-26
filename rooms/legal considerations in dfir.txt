@@ -1,0 +1,38 @@
+Legal Considerations in DFIR
+https://tryhackme.com/room/dfirprocesslegalconsiderations
+
+What is the Ticket# of the reported incident?
+2024011900041521
+
+What is the email of the primary person of interest (POI)?
+aliceranallo@swiftspend.finance
+
+Who is the POI reporting to?
+Michael Ascot
+
+What specific kind of logs was requested from IT?
+Exchange Server IIS logs
+
+What is the timestamp of IT's response to the request for logs?
+Fri 1/19/2024 7:34 PM
+
+Based on email communications, what clause of the Acceptable Use Policy (AUP) email received by the POI did they violate?
+Personal Use of Corporate Email
+
+Based on email communications, what anomaly did your colleague suggest looking for within the Front-end and Back-end IIS logs of the Server?
+Unauthorised Remote Logins
+
+What is the User-Agent of the anomalous IP address with a successful login attempt?
+Mozilla/5.0+(X11;+Linux+x86_64;+rv:109.0)+Gecko/20100101+Firefox/115.0
+
+What username was used by this IP address to login successfully?
+michaelascot
+
+Who took the SHA1 hashes of the IIS log files of the Exchange Server?
+Stan Simon
+
+What is the SHA1 hash of the "u_ex240117.log" file of the Exchange IIS Front-end?
+911da019ee3cb99bdcab48f49a2bf9a49e124c68
+
+What is the SHA1 hash of the Offline Storage Table (OST) file from the POI's device?
+84FAD3490157D94031E8CDF3ED96973ADE5599C4

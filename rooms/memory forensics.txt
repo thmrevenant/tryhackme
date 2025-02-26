@@ -1,0 +1,14 @@
+Memory Forensics
+https://tryhackme.com/room/memoryforensics
+
+What is John's password?
+charmander999
+
+When was the machine last shutdown?
+2020-12-27 22:50:12
+
+What did John write?
+You_found_me
+
+What is the TrueCrypt passphrase?
+forgetmenot

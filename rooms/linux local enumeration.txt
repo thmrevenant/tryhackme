@@ -1,0 +1,35 @@
+Linux: Local Enumeration
+https://tryhackme.com/room/lle
+
+How would you execute /bin/bash with perl?
+perl -e 'exec "/bin/bash";'
+
+Where can you usually find the id_rsa file? (User = user)
+/home/user/.ssh/id_rsa
+
+Is there an id_rsa file on the box? (yay/nay)
+nay
+
+How would you print machine hardware name only?
+uname -m
+
+Where can you find bash history?
+~/.bash_history
+
+What's the flag?
+thm{clear_the_history}
+
+Can you read /etc/passwd on the box? (yay/nay)
+yay
+
+What's the password you found?
+THMSkidyPass
+
+Did you find a flag?
+thm{conf_file}
+
+Which SUID binary has a way to escalate your privileges on the box?
+grep
+
+What's the payload you can use to read /etc/shadow with this SUID?
+grep '' /etc/shadow

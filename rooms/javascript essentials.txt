@@ -1,0 +1,47 @@
+JavaScript Essentials
+https://tryhackme.com/room/javascriptessentials
+
+What term allows you to run a code block multiple times as long as it is a condition?
+loop
+
+What is the code output if the value of x is changed to 10?
+The result is: 20
+
+Is JavaScript a compiled or interpreted language?
+Interpreted
+
+Which type of JavaScript integration places the code directly within the HTML document?
+Internal
+
+Which method is better for reusing JS across multiple web pages?
+External
+
+What is the name of the external JS file that is being called by external_test.html?
+thm_external.js
+
+What attribute links an external JS file in the <script> tag?
+src
+
+In the file invoice.html, how many times does the code show the alert Hacked?
+3
+
+Which of the JS interactive elements should be used to display a dialogue box that asks the user for input?
+prompt
+
+If the user enters Tesla, what value is stored in the carName= prompt("What is your car name?")? in the carName variable?
+Tesla
+
+What is the message displayed if you enter the age less than 18?
+You are a minor.
+
+What is the password for the user admin?
+ComplexPassword
+
+What is the alert message shown after running the file hello.html?
+Welcome to THM
+
+What is the value of the age variable in the following obfuscated code snippet?
+21
+
+Is it a good practice to blindly include JS in your code from any source (yea/nay)?
+nay

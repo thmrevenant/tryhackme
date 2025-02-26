@@ -1,0 +1,62 @@
+Linux System Hardening
+https://tryhackme.com/room/linuxsystemhardening
+
+What command can you use to create a password for the GRUB bootloader?
+grub2-mkpasswd-pbkdf2
+
+What does PBKDF2 stand for?
+Password-Based Key Derivation Function 2
+
+What does LUKS stand for?
+Linux Unified Key Setup
+
+We cannot attach external storage to the VM, so we have created a /home/tryhackme/secretvault.img file instead. It is encrypted with the password 2N9EdZYNkszEE3Ad. To access it, you need to open it using cryptsetup and then mount it to an empty directory, such as myvault. What is the flag in the secret vault?
+THM{LUKS_not_LUX}
+
+There is a firewall running on the Linux VM. It is allowing port 22 TCP as we can ssh into the machine. It is allowing another TCP port; what is it?
+12526
+
+What is the allowed UDP port?
+14298
+
+What flag is hidden in the sshd_config file?
+THM{secure_SEA_shell}
+
+One way to disable an account is to edit the passwd file and change the account’s shell. What is the suggested value to use for the shell?
+/sbin/nologin
+
+What is the name of the RedHat and Fedora systems sudoers group?
+wheel
+
+What is the name of the sudoers group on Debian and Ubuntu systems?
+sudo
+
+Other than tryhackme and ubuntu, what is the username that belongs to the sudoers group?
+blacksmith
+
+Besides FTPS, what is another secure replacement for TFTP and FTP?
+SFTP
+
+What command would you use to update an older Red Hat system?
+yum update
+
+What command would you use to update a modern Fedora system?
+dnf update
+
+What two commands are required to update a Debian system? (Connect the two commands with &&.)
+apt update && apt upgrade
+
+What does yum stand for?
+Yellowdog Updater, Modified
+
+What does dnf stand for?
+Dandified YUM
+
+What flag is hidden in the sources.list file?
+THM{not_Advanced_Persistent_Threat}
+
+What command can you use to display the last 15 lines of kern.log?
+tail -n 15 kern.log
+
+What command can you use to display the lines containing the word denied in the file secure?
+grep denied secure

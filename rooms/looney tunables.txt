@@ -1,0 +1,8 @@
+Looney Tunables
+https://tryhackme.com/room/looneytunes
+
+Whats the flag?
+THM{D0C_Ph1sh3r}
+
+What's the value of the flag in /root/root.txt?
+THM{TH-TH-THATS-SECURE-FOLKS!}

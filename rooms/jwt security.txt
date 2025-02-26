@@ -1,0 +1,35 @@
+JWT Security
+https://tryhackme.com/room/jwtsecurity
+
+What is the common header used to transport the JWT in a request?
+Authorization: Bearer
+
+HS256 is an example of what type of signing algorithm?
+Symmetric
+
+RS256 is an example of what type of signing algorithm?
+Asymmetric
+
+What is the name used for encrypted JWTs?
+JWE
+
+What is the flag for example 1?
+THM{9cc039cc-d85f-45d1-ac3b-818c8383a560}
+
+What is the flag for example 2?
+THM{6e32dca9-0d10-4156-a2d9-5e5c7000648a}
+
+What is the flag for example 3?
+THM{fb9341e4-5823-475f-ae50-4f9a1a4489ba}
+
+What is the flag for example 4?
+THM{e1679fef-df56-41cc-85e9-af1e0e12981b}
+
+What is the flag for example 5?
+THM{f592dfe2-ec65-4514-a135-70ba358f22c4}
+
+What is the flag for example 6?
+THM{a450ae48-7226-4633-a63d-38a625368669}
+
+What is the flag for example 7?
+THM{f0d34fe1-2ba1-44d4-bae7-99bd555a4128}

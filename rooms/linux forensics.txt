@@ -1,0 +1,35 @@
+Linux Forensics
+https://tryhackme.com/room/linuxforensics
+
+Which two users are the members of the group audio?
+ubuntu,pulse
+
+In the attached VM, there is a user account named tryhackme. What is the uid of this account?
+1001
+
+A session was started on this machine on Sat Apr 16 20:10. How long did this session last?
+01:32
+
+What is the hostname of the attached VM?
+Linux4n6
+
+What is the timezone of the attached VM?
+Asia/Karachi
+
+What program is listening on the address 127.0.0.1:5901?
+Xtigervnc
+
+What is the full path of this program?
+/usr/bin/Xtigervnc
+
+In the bashrc file, the size of the history file is defined. What is the size of the history file that is set for the user Ubuntu in the attached machine?
+2000
+
+The user tryhackme used apt-get to install a package. What was the command that was issued?
+sudo apt-get install apache2
+
+What was the current working directory when the command to install net-tools was issued?
+/home/ubuntu
+
+Though the machine's current hostname is the one we identified in Task 4. The machine earlier had a different hostname. What was the previous hostname of the machine?
+tryhackme

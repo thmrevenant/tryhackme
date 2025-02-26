@@ -1,0 +1,5 @@
+Lesson Learned?
+https://tryhackme.com/room/lessonlearned
+
+What's the flag?
+THM{aab02c6b76bb752456a54c80c2d6fb1e}

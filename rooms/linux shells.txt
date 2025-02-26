@@ -1,0 +1,41 @@
+Linux Shells
+https://tryhackme.com/room/linuxshells
+
+Who is the facilitator between the user and the OS?
+Shell
+
+What is the default shell in most Linux distributions?
+Bash
+
+Which command utility is used to list down the contents of a directory?
+ls
+
+Which command utility can help you search for anything in a file?
+grep
+
+Which shell comes with syntax highlighting as an out-of-the-box feature?
+Fish
+
+Which shell does not have auto spell correction?
+Bash
+
+Which command displays all the previously executed commands of the current session?
+history
+
+What is the shebang used in a Bash script?
+#!/bin/bash
+
+Which command gives executable permissions to a script?
+chmod +x
+
+Which scripting functionality helps us configure iterative tasks?
+loops
+
+What would be the correct PIN to authenticate in the locker script?
+7385
+
+Which file has the keyword?
+authentication.log
+
+Where is the cat sleeping?
+under the table

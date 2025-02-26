@@ -1,0 +1,8 @@
+Mindgames
+https://tryhackme.com/room/mindgames
+
+User flag.
+thm{411f7d38247ff441ce4e134b459b6268}
+
+Root flag.
+thm{1974a617cc84c5b51411c283544ee254}

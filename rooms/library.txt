@@ -1,0 +1,8 @@
+Library
+https://tryhackme.com/room/bsidesgtlibrary
+
+user.txt
+6d488cbb3f111d135722c33cb635f4ec
+
+root.txt
+e8c8c6c256c35515d1d344ee0488c617

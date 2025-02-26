@@ -1,0 +1,8 @@
+Lumberjack Turtle
+https://tryhackme.com/room/lumberjackturtle
+
+What is the first flag?
+THM{LOG4SHELL_FTW}
+
+What is the "real" root flag?
+THM{C0NT41N3R_3SC4P3_FTW}

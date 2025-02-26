@@ -1,0 +1,8 @@
+magician
+https://tryhackme.com/room/magician
+
+user.txt
+THM{simsalabim_hex_hex}
+
+root.txt
+THM{magic_may_make_many_men_mad}

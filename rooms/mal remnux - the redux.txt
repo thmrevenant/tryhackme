@@ -1,0 +1,29 @@
+MAL: REMnux - The Redux
+https://tryhackme.com/room/malremnuxv2
+
+How many types of categories of "Suspicious elements" are there in "notsuspicious.pdf"
+3
+
+Use peepdf to extract the javascript from "notsuspicious.pdf". What is the flag?
+THM{Luckily_This_Isn't_Harmful}
+
+How many types of categories of "Suspicious elements" are there in "advert.pdf"
+6
+
+Now use peepdf to extract the javascript from "advert.pdf". What is the value of "cName"?
+notsuspicious
+
+What is the name of the Macro for "DefinitelyALegitInvoice.doc"
+DefoLegit
+
+What is the URL the Macro in "Taxes2020.doc" would try to launch?
+http://tryhackme.com/notac2cserver.sh
+
+What is the highest file entropy a file can have?
+8
+
+What is the lowest file entropy a file can have?
+0
+
+Name a common packer that can be used for applications?
+UPX

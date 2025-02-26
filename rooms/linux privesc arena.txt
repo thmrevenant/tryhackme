@@ -1,0 +1,37 @@
+Linux PrivEsc Arena
+https://tryhackme.com/room/linuxprivescarena
+
+What password did you find?
+password321
+
+What user's credentials were exposed in the OpenVPN auth file?
+user
+
+What was TCM trying to log into?
+mysql
+
+Who was TCM trying to log in as?
+root
+
+Naughty naughty.  What was the password discovered?
+password123
+
+What were the file permissions on the /etc/shadow file?
+-rw-rw-r--
+
+What's the full file path of the sensitive file you discovered?
+/backups/supersecretkeys/id_rsa
+
+What CVE is being exploited in this task?
+CVE-2016-1247
+
+What binary is SUID enabled and assists in the attack?
+sudo
+
+What is the last line of the "strings /usr/local/bin/suid-env" output?
+service apache2 start
+
+What is the last line of the "strings /usr/local/bin/suid-env2" output?
+/usr/sbin/service apache2 start
+
+

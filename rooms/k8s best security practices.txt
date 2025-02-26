@@ -1,0 +1,47 @@
+K8s Best Security Practices
+https://tryhackme.com/room/k8sbestsecuritypractices
+
+What are the credentials associated with a ServiceAccount stored as?
+secrets
+
+Kubernetes ServiceAccounts are Lightweight, Namespaced and which other attribute?
+Portable
+
+You have defined a "Role". What should you now define to associate that role with an identity?
+RoleBinding
+
+You now want to define permissions at a cluster level; what do you define?
+ClusterRole
+
+In which field under "rules" would you define the actions that can be performed on a resource? (in the role YAML/spec)
+verbs
+
+In which field under "rules" would you define to what those actions should be applied? (in the role YAML/spec)
+resources
+
+Which cluster access method would be vulnerable to a MITM attack?
+Auth Token
+
+Which API request stage would RBAC be involved in?
+Authorisation
+
+In which API request stage would we find the words "Mutating" and "Validating"? 
+Admission Controllers
+
+In which API request stage would a ServiceAccount token be used to verify a ServiceAccount?
+Authentication
+
+Which best security practice should be introduced to the CI/CD pipeline?
+Image Scanning
+
+What should be set as "false" in configuration to ensure a container cannot have its privileges escalated?
+allowPrivilegeEscalation
+
+To ensure the security of etcd , it should be isolated, behind a firewall and?
+encrypted
+
+How many cluster upgrades would you have to do to go from version 1.21 to 1.25
+4
+
+What's the encoded role?
+TmFtZTogICAgICAgICBwb2QtY2hlY2tlci1yb2xlCkxhYmVsczogICAgICAgPG5vbmU+CkFubm90YXRpb25zOiAgPG5vbmU+ClBvbGljeVJ1bGU6CiAgUmVzb3VyY2VzICBOb24tUmVzb3VyY2UgVVJMcyAgUmVzb3VyY2UgTmFtZXMgIFZlcmJzCiAgLS0tLS0tLS0tICAtLS0tLS0tLS0tLS0tLS0tLSAgLS0tLS0tLS0tLS0tLS0gIC0tLS0tCiAgcG9kcyAgICAgICBbXSAgICAgICAgICAgICAgICAgW10gICAgICAgICAgICAgIFtnZXQgbGlzdF0=

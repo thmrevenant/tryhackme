@@ -1,0 +1,29 @@
+Metasploit: Meterpreter
+https://tryhackme.com/room/meterpreter
+
+What is the computer name?
+ACME-TEST
+
+What is the target domain?
+FLASH
+
+What is the name of the share likely created by the user?
+speedster
+
+What is the NTLM hash of the jchambers user?
+69596c7aa1e8daee17f8e78870e25a5c
+
+What is the cleartext password of the jchambers user?
+Trustno1
+
+Where is the "secrets.txt"  file located? (Full path of the file)
+c:\Program Files (x86)\Windows Multimedia Platform\secrets.txt
+
+What is the Twitter password revealed in the "secrets.txt" file?
+KDSvbsw3849!
+
+Where is the "realsecret.txt" file located? (Full path of the file)
+c:\inetpub\wwwroot\realsecret.txt
+
+What is the real secret?
+The Flash is the fastest man alive

@@ -1,0 +1,17 @@
+Kubernetes for Everyone
+https://tryhackme.com/room/kubernetesforyouly
+
+Find the username?
+vagrant
+
+Find the password?
+hereiamatctf907
+
+What secret did you find?
+THM{yes_there_$s_no_$ecret}
+
+What is the volume flag?
+THM{this_joke_is_cold_joke}
+
+What's the secret to the FANG interview?
+chidori

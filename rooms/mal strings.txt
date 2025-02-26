@@ -1,0 +1,41 @@
+MAL: Strings
+https://tryhackme.com/room/malstrings
+
+What is the name of the account that had the passcode of "12345678" in the intellian example discussed above?
+intellian
+
+What is the CVE entry disclosed by the company "Teradata" in their "Viewpoint" Application that has a password within a string?
+CVE-2019-6499
+
+According to OWASP's list of "Top Ten IoT" vulnerabilities, name the ranking this vulnerability would fall within, represented as text.
+one
+
+What is the correct username required by the "LoginForm"?
+cmnatic
+
+What is the required password to authenticate with?
+TryHackMeMerchWhen
+
+What is the "hidden" THM{} flag?
+THM{Not_So_Hidden_Flag}
+
+What is the key term to describe a server that Botnets recieve instructions from?
+Command and Control
+
+Name the discussed example malware that uses "strings" to store the bitcoin wallet addresses for payment
+Wannacry
+
+What was the date of the first transaction made in the Bitcoin wallet of the "WannaCry" developers?
+5/12/2017
+
+What is the Bitcoin Address stored within "ComplexCalculator.exe"
+1LVB65imeojrgC3JPZGBwWhK1BdVZ2vYNC
+
+What is the name of the toolset provided by Microsoft that allows you to extract the "strings" of an application?
+Sysinternals
+
+What operator would you use to "pipe" or store the output of the strings command?
+>
+
+What is the name of the currency that ransomware often uses for payment?
+bitcoin

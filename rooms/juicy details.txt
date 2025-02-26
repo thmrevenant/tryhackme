@@ -1,0 +1,38 @@
+Juicy Details
+https://tryhackme.com/room/juicydetails
+
+Are you ready?
+I am ready!
+
+What tools did the attacker use? (Order by the occurrence in the log)
+nmap, hydra, sqlmap, curl, feroxbuster
+
+What endpoint was vulnerable to a brute-force attack?
+/rest/user/login
+
+What endpoint was vulnerable to SQL injection?
+/rest/products/search
+
+What parameter was used for the SQL injection?
+q
+
+What endpoint did the attacker try to use to retrieve files? (Include the /)
+/ftp
+
+What section of the website did the attacker use to scrape user email addresses?
+product reviews
+
+Was their brute-force attack successful? If so, what is the timestamp of the successful login? (Yay/Nay, 11/Apr/2021:09:xx:xx +0000)
+Yay, 11/Apr/2021:09:16:31 +0000
+
+What user information was the attacker able to retrieve from the endpoint vulnerable to SQL injection?
+email, password
+
+What files did they try to download from the vulnerable endpoint? (endpoint from the previous task, question #5)
+coupons_2013.md.bak, www-data.bak
+
+What service and account name were used to retrieve files from the previous question? (service, username)
+ftp, anonymous
+
+What service and username were used to gain shell access to the server? (service, username)
+ssh, www-data

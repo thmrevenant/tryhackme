@@ -1,0 +1,77 @@
+Logstash: Data Processing Unit
+https://tryhackme.com/room/logstash
+
+What is the default port Elasticsearch runs on?
+9200
+
+What version of Elasticsearch we have installed in this task?
+8.8.1
+
+What is the command used to check the status of Elasticsearch service?
+systemctl status elasticsearch.service
+
+What is the default value of the network.host variable found in the elasticsearch.yml file?
+192.168.0.1
+
+What is the configuration reload interval set by default in logstash.yml?
+3s
+
+What is the Logstash version we just installed?
+8.8.1
+
+What is the default port Kibana runs on?
+5601
+
+How many files are found in /etc/kibana/ directory?
+3
+
+Which plugin is used to perform mutation of event fields?
+Mutate
+
+Which plugin can be used to drop events based on certain conditions?
+drop
+
+Which plugin parses unstructured log data using custom patterns?
+grok
+
+Is index a mandatory option in Elasticsearch plugin? (yay / nay)
+nay
+
+Look at the file input plugin documentation; which field is required in the configuration?
+path
+
+Look at the filter documentation for CSV; what is the third field option mentioned?
+columns
+
+Which output plugin is used in the above example?
+elasticsearch
+
+If we want to read a constant stream from a TCP port 5678, which input plugin will be used?
+tcp
+
+According to the Logstash documentation, the codec plugins are used to change the data representation. Which codec plugin is used for the CSV based data representation?
+csv
+
+Which filter plugin is used to remove empty fields from the events?
+prune
+
+Which filter plugin is used to rename, replace, and modify event fields?
+mutate
+
+Answer only the corrected third line.
+rename => { "src_ip" => "source_ip" }
+
+Can we use multiple output plugins at the same time in order to send data to multiple destinations? (yay / nay)
+yay
+
+Which Logstash output plugin is used to print events to the console?
+stdout
+
+Update the following configuration to send the event to the Syslog server.
+syslog,host,port
+
+Which command is used to run the logstash.conf configuration from the command line?
+logstash -f logstash.conf
+
+Answer format: input_plugin,filter_plugin,output_plugin
+stdin,csv,stdout

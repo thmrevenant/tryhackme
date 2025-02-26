@@ -1,0 +1,23 @@
+MISP
+https://tryhackme.com/room/misp
+
+How many distribution options does MISP provide to share threat information?
+4
+
+Which user has the role to publish events?
+Organisation Admin
+
+What event ID has been assigned to the PupyRAT event?
+1145
+
+The event is associated with the adversary gaining ______ into organisations.
+Remote Access
+
+What IP address has been mapped as the PupyRAT C2 Server
+89.107.62.39
+
+From the Intrusion Set Galaxy, what attack group is known to use this form of attack?
+Magic Hound
+
+There is a taxonomy tag set with a Certainty level of 50. Which one is it?
+OSINT

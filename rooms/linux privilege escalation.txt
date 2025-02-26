@@ -1,0 +1,80 @@
+Linux Privilege Escalation
+https://tryhackme.com/room/linprivesc
+
+What is the hostname of the target system?
+wade7363
+
+What is the Linux kernel version of the target system?
+3.13.0-24-generic
+
+What Linux is this?
+Ubuntu 14.04 LTS
+
+What version of the Python language is installed on the system?
+2.7.6
+
+What vulnerability seem to affect the kernel of the target system? (Enter a CVE number)
+CVE-2015-1328
+
+What is the content of the flag1.txt file?
+THM-28392872729920
+
+How many programs can the user "karen" run on the target system with sudo rights?
+3
+
+What is the content of the flag2.txt file?
+THM-402028394
+
+How would you use Nmap to spawn a root shell if your user had sudo rights on nmap?
+sudo nmap --interactive
+
+What is the hash of frank's password?
+$6$2.sUUDsOLIpXKxcr$eImtgFExyr2ls4jsghdD3DHLHHP9X50Iv.jNmwo/BJpphrPRJWjelWEz2HH.joV14aDEwW1c3CahzB1uaqeLR1
+
+Which user shares the name of a great comic book writer?
+gerryconway
+
+What is the password of user2?
+Password1
+
+What is the content of the flag3.txt file?
+THM-3847834
+
+How many binaries have set capabilities?
+6
+
+What other binary can be used through its capabilities?
+view
+
+What is the content of the flag4.txt file?
+THM-9349843
+
+How many user-defined cron jobs can you see on the target system?
+4
+
+What is the content of the flag5.txt file?
+THM-383000283
+
+What is Matt's password?
+123456
+
+What is the odd folder you have write access for?
+/home/murdoch
+
+What is the content of the flag6.txt file?
+THM-736628929
+
+How many mountable shares can you identify on the target system?
+3
+
+How many shares have the "no_root_squash" option enabled?
+3
+
+What is the content of the flag7.txt file?
+THM-89384012
+
+What is the content of the flag1.txt file?
+THM-42828719920544
+
+What is the content of the flag2.txt file?
+THM-168824782390238

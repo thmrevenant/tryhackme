@@ -1,0 +1,11 @@
+Lookback
+https://tryhackme.com/room/lookback
+
+What is the service user flag?
+THM{Security_Through_Obscurity_Is_Not_A_Defense}
+
+What is the user flag?
+THM{Stop_Reading_Start_Doing}
+
+What is the root flag?
+THM{Looking_Back_Is_Not_Always_Bad}

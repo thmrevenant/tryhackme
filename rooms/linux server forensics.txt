@@ -1,0 +1,39 @@
+Linux Server Forensics
+https://tryhackme.com/room/linuxserverforensics
+
+How many different tools made requests to the server?
+2
+
+Name a path requested by Nmap.
+/nmaplowercheck1618912425
+
+What page allows users to upload files?
+contact.php
+
+What IP uploaded files to the server?
+192.168.56.24
+
+Who left an exposed security notice on the server?
+Fred
+
+What command and option did the attacker use to establish a backdoor?
+sh -i
+
+What is the password of the second root account?
+mrcake
+
+Name one of the non-standard HTTP Requests.
+GXWR
+
+At what time was the Nmap scan performed? (format: HH:MM:SS)
+13:30:15
+
+What username and hostname combination can be found in one of the authorized_keys files? (format: username@hostname)
+kali@kali
+
+What is the first command present in root's bash_history file?
+nano /etc/passwd
+
+Figure out what's going on and find the flag.
+[gh0st_1n_the_machine]
+

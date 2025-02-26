@@ -1,0 +1,47 @@
+Jupyter 101
+https://tryhackme.com/room/jupyter101
+
+What do "Cells" act like?
+Interpreter
+
+What would be the In[#] value of the first Cell when it is ran for the first time? (Where # would be the numerical value)
+1
+
+What keyboard shortcut can you press to execute a cell?
+Shift + Enter
+
+If you was to execute the first Cell again, what would the value of In[#] now become? (Where # would be the numerical value)
+2
+
+What are the two main types of data within Pandas?
+Series and Dataframes
+
+What is the name of the Pandas function that reads a CSV file?
+read_csv
+
+Name the Pandas function you would use if you only wanted to display the first few rows
+head
+
+Name the Pandas function you would use if you only wanted to display the last few rows
+tail
+
+What Pandas function will give you a numerical count of the amount of columns and rows the dataset contains?
+shape
+
+How do you display a plot? 
+plot()
+
+How would you label the "x" axis on a plot?
+xlabel
+
+How would you label the "y" axis on a plot?
+ylabel
+
+How would you add a "Title" to a plot?
+title
+
+What word would you use to change the color of the plot?
+color
+
+How would you label the "z" axis on a plot?
+zlabel

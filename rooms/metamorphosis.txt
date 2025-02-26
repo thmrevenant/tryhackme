@@ -1,0 +1,8 @@
+Metamorphosis
+https://tryhackme.com/room/metamorphosis
+
+user.txt
+4ce794a9d0019c1f684e07556821e0b0
+
+root.txt
+7ffca2ec63534d165525bf37d91b4ff4

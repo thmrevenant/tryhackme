@@ -1,0 +1,50 @@
+Linux Logs Investigations
+https://tryhackme.com/room/linuxlogsinvestigations
+
+Which type of logs provide messages related to hardware events and system errors?
+Kernel
+
+What is the memory space used to store system messages?
+Kernel ring buffer
+
+What is the default log level used to inform about non-imminent errors? 
+WARNING
+
+Which log file can be used to record failed login attempts only?
+btmp
+
+What severity level keyword is used to indicate immediate action is needed in a syslog message?
+alert
+
+What facility code is used for cron jobs?
+9
+
+To configure the persistence of journal logs, which parameter has to be modified within the journald configuration file?
+Storage
+
+Which utility is used to search for auditd logs?
+ausearch
+
+What command can be used to search logs related to a session opened for a user?
+sudo grep -i "session opened" /var/log/auth.log
+
+Which folder contains Apache2 logs?
+/var/log/apache2
+
+What is the IP address from which the application was exploited?
+10.10.190.69
+
+What file contains the reverse shell?
+cmd.php
+
+At which port was the reverse shell running?
+5000
+
+What is the file name that was being executed with sudo privileges?
+tests.sh
+
+What is the name of the user created using the service?
+attacker
+
+Was the new account ever logged in to? y/n
+n

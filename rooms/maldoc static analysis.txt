@@ -1,0 +1,50 @@
+MalDoc: Static Analysis
+https://tryhackme.com/room/maldoc
+
+From which family does the Locky malware belong to?
+ransomware
+
+What is the Sub-technique ID assigned to Spearphishing Attachment?
+T1566.001
+
+Who is the author of the simple.pdf document?
+ben
+
+What is the flag found inside the JavaScript code?
+THM{Luckily_This_Isn't_Harmful}
+
+How many OpenAction objects were found within the document?
+1
+
+How many Encoded objects were found in the document?
+2
+
+What are the numbers of encoded objects? (Separate with a comma)
+15,18
+
+What is the name of the dumped file that contains information about the URLs?
+urls.json
+
+How many URLs were extracted from JavaScript?
+9
+
+What is the full URL which contains the keyword slideshow? (defang the URL)
+hxxp://aristonbentre[.]com/slideshow/O1uPzXd2YscA/
+
+What is the author name of the document found during the analysis?
+CMNatic
+
+How many macros are embedded in the document?
+2
+
+What is the URL extracted from the suspicious.doc file?
+http://thmredteam.thm/stage2.exe
+
+What is the value used in the sleep function?
+15000
+
+The cURL command is being used to download from a URL and saving the payload in a png file. What is that file name?
+index1.png
+
+How many objects are found in the invoice.one document?
+6

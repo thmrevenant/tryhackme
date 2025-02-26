@@ -1,0 +1,20 @@
+Lunizz CTF
+https://tryhackme.com/room/lunizzctfnd
+
+What is the default password for mysql
+CTF_script_cave_changeme
+
+I can't run commands, there must be a mysql column that controls command executer
+run
+
+a folder shouldn't be...
+proct
+
+hi adam, do you remember our place?
+northern lights
+
+user.txt
+thm{23cd53cbb37a37a74d4425b703d91883}
+
+root.txt
+thm{ad23b9c63602960371b50c7a697265db}

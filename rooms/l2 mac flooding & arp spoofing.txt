@@ -1,0 +1,96 @@
+L2 MAC Flooding & ARP Spoofing
+https://tryhackme.com/room/layer2
+
+Now, can you (re)gain access? (Yay/Nay)
+Yay
+
+What is your IP address?
+192.168.12.66
+
+What's the network's CIDR prefix?
+/24
+
+How many other live hosts are there?
+2
+
+What's the hostname of the first host (lowest IP address) you've found?
+alice
+
+Can you see any traffic from those hosts? (Yay/Nay)
+Yay
+
+Who keeps sending packets to eve?
+Bob
+
+What type of packets are sent?
+ICMP
+
+What's the size of their data section? (bytes)
+666
+
+What kind of packets is Alice continuously sending to Bob? 
+ICMP
+
+What's the size of their data section? (bytes)
+1337
+
+Can ettercap establish a MITM in between Alice and Bob? (Yay/Nay)
+Nay
+
+Would you expect a different result when attacking hosts without ARP packet validation enabled? (Yay/Nay)
+Yay
+
+Scan the network on eth1. Who's there? Enter their IP addresses in ascending order.
+192.168.12.10, 192.168.12.20
+
+Which machine has an open well-known port?
+192.168.12.20
+
+What is the port number?
+80
+
+Can you access the content behind the service from your current position? (Nay/Yay)
+Nay
+
+Can you see any meaningful traffic to or from that port passively sniffing on you interface eth1? (Nay/Yay)
+Nay
+
+Now launch the same ARP spoofing attack as in the previous task. Can you see some interesting traffic, now? (Nay/Yay)
+Yay
+
+Who is using that service?
+alice
+
+What's the hostname the requests are sent to?
+www.server.bob
+
+Which file is being requested?
+test.txt
+
+What text is in the file?
+OK
+
+Which credentials are being used for authentication? (username:password)
+admin:s3cr3t_P4zz
+
+Now, stop the attack (by pressing q). What is ettercap doing in order to leave its man-in-the-middle position gracefully and undo the poisoning?
+RE-ARPing the victims
+
+Can you access the content behind that service, now, using the obtained credentials? (Nay/Yay)
+Yay
+
+What is the user.txt flag?
+THM{wh0s_$n!ff1ng_0ur_cr3ds}
+
+You should also have seen some  rather questionable kind of traffic. What kind of remote access (shell) does Alice have on the server?
+reverse shell
+
+What commands are being executed? Answer in the order they are being executed.
+whoami, pwd, ls
+
+Which of the listed files do you want?
+root.txt
+
+What is the root.txt flag?
+THM{wh4t_an_ev1l_M!tM_u_R}
+

@@ -1,0 +1,32 @@
+Logs Fundamentals
+https://tryhackme.com/room/logsfundamentals
+
+Where can we find the majority of attack traces in a digital system?
+Logs
+
+Which type of logs contain information regarding the incoming and outgoing traffic in the network?
+Network Logs
+
+Which type of logs contain the authentication and authorization events?
+Security Logs
+
+What is the name of the last user account created on this system?
+hacked
+
+Which user account created the above account?
+Administrator
+
+On what date was this user account enabled? Format: M/D/YYYY
+6/7/2024
+
+Did this account undergo a password reset as well? Format: Yes/No
+Yes
+
+What is the IP which made the last GET request to URL: “/contact”?
+10.0.0.1
+
+When was the last POST request made by IP: “172.16.0.1”? 
+06/Jun/2024:13:55:44
+
+Based on the answer from question number 2, to which URL was the POST request made?
+/contact

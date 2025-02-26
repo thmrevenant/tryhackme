@@ -1,0 +1,56 @@
+KaffeeSec - SoMeSINT
+https://tryhackme.com/room/somesint
+
+Who hired you?
+ks{H}
+
+Who are you investigating? (ks{firstname lastname})
+ks{thomas straussman}
+
+What is Thomas' favorite holiday?
+Christmas
+
+What is Thomas' birth date?
+12-20-1990
+
+What is Thomas' fiancee's Twitter handle?
+@fhodgelink
+
+What is Thomas' background picture of?
+Buddha
+
+What was the source module used to find these accounts?
+sfp_accounts
+
+Check the shadowban API. What is the value of "search"?
+ks{1346173539712380929}
+
+Where did Thomas and his fiancee vacation to?
+Koblenz, Germany
+
+When is Francesca's Mother's birthday? (without the year)
+December 25th
+
+What is the name of their cat?
+Gotank
+
+What show does Francesca like to watch?
+90 Day Fiancee
+
+What is the name of Thomas' coworker?
+Hans Minik
+
+Where does his coworker live?
+Nuuk, Greenland
+
+What is the paste ID for the link we found? (flag format)
+ks{ww4ju}
+
+Password for the next link? (flag format)
+ks{1qaz2wsx}
+
+What is the name of Thomas' mistress?
+Emilia Moller
+
+What is Thomas' Email address?
+straussmanthom@mail.com

@@ -1,0 +1,44 @@
+Microservices Architectures
+https://tryhackme.com/room/microservicearchitectures
+
+Which Pod Security Standard level would you use to ensure cluster hardening best practices are followed?
+Restricted
+
+Which Pod Security Standard level allows known privilege escalations?
+Privileged
+
+Which Pod Security Admission mode rejects a request upon policy violation?
+Enforce
+
+What would the syntax of a label enforcing a restricted policy look like?
+pod-security.kubernetes.io/enforce=restricted
+
+A Microservice architecture is an alternative to what style of architecture?
+Monolithic
+
+A problem with microservice architectures is that service-to-service communication is usually?
+Unencrypted
+
+The solution to the above problem would be to have both sides of a connection authenticated using?
+mTLS
+
+A Service Mesh separates which logic from the rest?
+Business
+
+The rest are separated into a separate proxy, which runs alongside the application pod, known as?
+Sidecar
+
+In this task, we looked at an implementation of a Service Mesh named what?
+Istio
+
+In this Service Mesh implementation, what is used to achieve the proxies?
+Envoy
+
+What is the name given to this area of the architecture where the proxies communicate with services (and other proxies)?
+Data Plane
+
+What is the name of the component that makes up the Control Plane?
+Istiod
+
+What value is contained within the API version field when you describe the authentication policy?
+security.istio.io/v1

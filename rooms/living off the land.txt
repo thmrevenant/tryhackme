@@ -1,0 +1,18 @@
+Living Off the Land
+https://tryhackme.com/room/livingofftheland
+
+Visit the LOLBAS project's website and check out its functionalities. Then, using the search bar, find the ATT&CK ID: T1040. What is the binary's name?
+Pktmon.exe
+
+Use the search bar to find more information about MSbuild.exe. What is the ATT&CK ID?
+T1127.001
+
+Use the search bar to find more information about Scriptrunner.exe. What is the function of the binary?
+Execute
+
+What is the file content?
+THM{ea4e2b9f362320d098635d4bab8a568e}
+
+Replicate the steps of the No PowerShell technique to receive a reverse shell on port 4444. Once a connection is established, a flag will be created automatically on the desktop. What is the content of the flag file?
+THM{23005dc4369a0eef728aa39ff8cc3be2}
+

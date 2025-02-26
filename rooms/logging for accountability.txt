@@ -1,0 +1,38 @@
+Logging for Accountability
+https://tryhackme.com/room/loggingforaccountability
+
+A user being held accountable for their actions, as proven by logs, is known as what?
+non-repudiation
+
+What component of an SIEM is responsible for searching data?
+search head
+
+How many years must all audit data be stored to be PCI DSS compliant?
+1
+
+A change log is an example of what log source?
+Manual
+
+An application log is an example of what log source?
+Automated
+
+What is the process of using multiple log types and sources as part of incident response formally known as?
+correlation
+
+How many total events are indexed by Splunk?
+12,256
+
+How many events were indexed from April 15th to 16th 2022?
+12,250
+
+How many unique users appear in the data set?
+4
+
+How many events are associated with the user "James"?
+5
+
+What utility was used in the oldest event associated with "James"?
+wmic
+
+What event ID followed process creation events associated with "James"?
+3

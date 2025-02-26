@@ -1,0 +1,11 @@
+Light
+https://tryhackme.com/room/lightroom
+
+What is the admin username?
+TryHackMeAdmin
+
+What is the password to the username mentioned in question 1?
+mamZtAuMlrsEy5bp6q17
+
+What is the flag?
+THM{SQLit3_InJ3cTion_is_SimplE_nO?}

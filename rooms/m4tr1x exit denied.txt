@@ -1,0 +1,32 @@
+M4tr1x: Exit Denied
+https://tryhackme.com/room/m4tr1xexitdenied
+
+Where did that white rabbit lead you to?
+/reportPanel.php
+
+What is the name of that interesting plugin?
+modManagerv2
+
+What is the name of that encrypted file that you found?
+p.txt.gpg
+
+Interesting... I believe only the keymaker could help you crack it. Find him. Where did he tell you to go to?
+/0100101101100101011110010110110101100001011010110110010101110010
+
+What is the login_key of Ellie?
+G9KY2siJp9OOymdCiQclQn9UhxL6rSpoA3MXHCDgvHCcrCOOuT
+
+What is the name of that secret algorithm? (answer format: acronym)
+SSH-TOTP
+
+What is the user flag?
+fL4g{Ia]\/[bEGYngn1nGT0bel13v3} 
+
+What is the root flag?
+Flag{R3ALw0r1D4507Ez09WExit}
+
+What is the admin's ACP pin?
+718008
+
+What is the web flag?
+fL4g{|amFre3N0w}

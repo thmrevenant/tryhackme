@@ -1,0 +1,14 @@
+Minotaur's Labyrinth
+https://tryhackme.com/room/labyrinth8llv
+
+What is flag 1?
+fl4g{tHa75_TH3_$7Ar7_ftPFLA9}
+
+What is flag 2?
+fla6{7H@Ts_tHe_Dat48as3_F149}
+
+What is the user flag?
+fla9{5upeR_secr37_uSEr_flaG}
+
+What is the root flag?
+fL4G{YoU_R0OT3d_1T_coN9ra7$}
