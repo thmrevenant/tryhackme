@@ -1,0 +1,5 @@
+0x41haz
+https://tryhackme.com/room/0x41haz
+
+What is the password?
+THM{2@@25$gfsT&@L}

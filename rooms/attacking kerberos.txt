@@ -1,0 +1,60 @@
+Attacking Kerberos
+https://tryhackme.com/room/attackingkerberos
+
+What does TGT stand for?
+Ticket Granting Ticket
+
+What does SPN stand for?
+Service Principal Name
+
+What does PAC stand for?
+Privilege Attribute Certificate
+
+What two services make up the KDC?
+AS, TGS
+
+How many total users do we enumerate?
+10
+
+What is the SQL service account name?
+SQLService
+
+What is the second "machine" account name?
+Machine2
+
+What is the third "user" account name?
+User3
+
+Which domain admin do we get a ticket for when harvesting tickets?
+Administrator
+
+Which domain controller do we get a ticket for when harvesting tickets?
+CONTROLLER-1
+
+What is the HTTPService Password?
+Summer2020
+
+What is the SQLService Password?
+MYPassword123#
+
+What hash type does AS-REP Roasting use?
+Kerberos 5 AS-REP etype 23
+
+Which User is vulnerable to AS-REP Roasting?
+User3
+
+What is the User's Password?
+Password3
+
+Which Admin is vulnerable to AS-REP Roasting?
+Admin2
+
+What is the Admin's Password?
+P@$$W0rd2
+
+What is the SQLService NTLM Hash?
+cd40c9ed96265531b21fc5b1dafcfb0a
+
+What is the Administrator NTLM Hash?
+2777b7fec870e04dda00cd7260f7bee6
+

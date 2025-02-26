@@ -1,0 +1,17 @@
+broker
+https://tryhackme.com/room/broker
+
+Do a TCP portscan on all ports with port number greater than 1000 and smaller than 10000! Which TCP ports do you find to be open? (counting up)
+1883,8161
+
+What is the name of the software they use?
+ActiveMQ
+
+Which videogame are Paul and Max talking about?
+Hacknet
+
+flag.txt
+THM{you_got_a_m3ss4ge}
+
+root.txt
+THM{br34k_br0k3_br0k3r}

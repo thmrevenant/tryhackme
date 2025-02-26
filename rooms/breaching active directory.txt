@@ -1,0 +1,62 @@
+Breaching Active Directory
+https://tryhackme.com/room/breachingad
+
+What popular website can be used to verify if your email address or password has ever been exposed in a publicly disclosed data breach?
+HaveIBeenPwned
+
+What is the name of the challenge-response authentication mechanism that uses NTLM?
+NetNtlm
+
+What is the username of the third valid credential pair found by the password spraying script?
+gordon.stevens
+
+How many valid credentials pairs were found by the password spraying script?
+4
+
+What is the message displayed by the web application when authenticating with a valid credential pair?
+Hello World
+
+What type of attack can be performed against LDAP Authentication systems not commonly found against Windows Authentication systems?
+LDAP Pass-back Attack
+
+What two authentication mechanisms do we allow on our rogue LDAP server to downgrade the authentication and make it clear text?
+LOGIN,PLAIN
+
+What is the password associated with the svcLDAP account?
+tryhackmeldappass1@
+
+What is the name of the tool we can use to poison and capture authentication requests on the network?
+Responder
+
+What is the username associated with the challenge that was captured?
+svcFileCopy
+
+What is the value of the cracked password associated with the challenge that was captured?
+FPassword1!
+
+What Microsoft tool is used to create and host PXE Boot images in organisations?
+Microsoft Deployment Toolkit
+
+What network protocol is used for recovery of files from the MDT server?
+TFTP
+
+What is the username associated with the account that was stored in the PXE Boot image?
+svcMDT
+
+What is the password associated with the account that was stored in the PXE Boot image?
+PXEBootSecure1@
+
+What type of files often contain stored credentials on hosts?
+Configuration Files
+
+What is the name of the McAfee database that stores configuration including credentials used to connect to the orchestrator?
+ma.db
+
+What table in this database stores the credentials of the orchestrator?
+AGENT_REPOSITORIES
+
+What is the username of the AD account associated with the McAfee service?
+svcAV
+
+What is the password of the AD account associated with the McAfee service?
+MyStrongPassword!

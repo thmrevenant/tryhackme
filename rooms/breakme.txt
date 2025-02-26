@@ -1,0 +1,11 @@
+Breakme
+https://tryhackme.com/room/breakmenu
+
+What is the first flag?
+5c3ea0d312568c7ac68d213785b26677
+
+What is the second flag?
+df5b1b7f4f74a416ae27673b22633c1b
+
+What is the root flag?
+e257d58481412f8772e9fb9fd47d8ca4

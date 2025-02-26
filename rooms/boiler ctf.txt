@@ -1,0 +1,32 @@
+Boiler CTF
+https://tryhackme.com/room/boilerctf2
+
+File extension after anon login
+txt
+
+What is on the highest port?
+ssh
+
+What's running on port 10000?
+webmin
+
+Can you exploit the service running on that port? (yay/nay answer)
+nay
+
+What's CMS can you access?
+joomla
+
+The interesting file name in the folder?
+log.txt
+
+Where was the other users pass stored(no extension, just the name)?
+backup
+
+user.txt
+You made it till here, well done.
+
+What did you exploit to get the privileged user?
+find
+
+root.txt
+It wasn't that hard, was it?

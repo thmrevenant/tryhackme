@@ -1,0 +1,65 @@
+Biohazard
+https://tryhackme.com/room/biohazard
+
+How many open ports?
+3
+
+What is the team name in operation
+STARS alpha team
+
+What is the emblem flag
+emblem{fec832623ea498e20bf4fe1821d58727}
+
+What is the lock pick flag
+lock_pick{037b35e2ff90916a9abf99129c8e1837}
+
+What is the music sheet flag
+music_sheet{362d72deaf65f5bdc63daece6a1f676e}
+
+What is the gold emblem flag
+gold_emblem{58a8c41a9d08b8a4e38d02a4d7ff4843}
+
+What is the shield key flag
+shield_key{48a7a9227cd7eb89f0a062590798cbac}
+
+What is the blue gem flag
+blue_jewel{e1d457e96cac640f863ec7bc475d48aa}
+
+What is the FTP username
+hunter
+
+What is the FTP password
+you_cant_hide_forever
+
+Where is the hidden directory mentioned by Barry
+/hidden_closet/
+
+Password for the encrypted file
+plant42_can_be_destroy_with_vjolt
+
+What is the helmet key flag
+helmet_key{458493193501d2b94bbab2e727f8db4b}
+
+What is the SSH login username
+umbrella_guest
+
+What is the SSH login password
+T_virus_rules
+
+Who the STARS bravo team leader
+Enrico
+
+Where you found Chris
+jailcell
+
+Who is the traitor
+weasker
+
+The login password for the traitor
+stars_members_are_my_guinea_pig
+
+The name of the ultimate form
+Tyrant
+
+The root flag
+3c5794a00dc56c35f2bf096571edf3bf

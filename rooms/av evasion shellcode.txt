@@ -1,0 +1,65 @@
+AV Evasion: Shellcode
+https://tryhackme.com/room/avevasionshellcode
+
+Which Antivirus software is running on the VM?
+Windows Defender
+
+What is the name of the user account to which you have access?
+av-victim
+
+Establish a working shell on the victim machine and read the file on the user's desktop. What is the flag?
+THM{H3ll0-W1nD0ws-Def3nd3r!}
+
+What is the last 6 digits of the MD5 hash value of the thm-intro2PE.exe file? 
+530949
+
+What is the Magic number value of the thm-intro2PE.exe file (in Hex)?
+5A4D
+
+What is the Entry Point value of the thm-intro2PE.exe file?
+12E4
+
+How many Sections does the thm-intro2PE.exe file have?
+7
+
+A custom section could be used to store extra data. Malware developers use this technique to create a new section that contains their malicious code and hijack the flow of the program to jump and execute the content of the new section. What is the name of the extra section?
+.flag
+
+Check the content of the extra section. What is the flag?
+THM{PE-N3w-s3ction!}
+
+Modify your C program to execute the following shellcode. What is the flag?
+THM{y0ur-1s7-5h311c0d3}
+
+Do staged payloads deliver the full content of our payload in a single package? (yea/nay)
+nay
+
+Is the Metasploit payload windows/x64/meterpreter_reverse_https a staged payload? (yea/nay)
+nay
+
+Is the stage0 of a staged payload in charge of downloading the final payload to be executed? (yea/nay)
+yea
+
+Is encoding shellcode only enough to evade Antivirus software? (yea/nay)
+nay
+
+Do encoding techniques use a key to encode strings or files? (yea/nay)
+nay
+
+Do encryption algorithms use a key to encrypt strings or files? (yea/nay)
+yea
+
+Will packers help you obfuscate your malicious code to bypass AV solutions? (yea/nay)
+yea
+
+Will packers often unpack the original code in-memory before running it? (yea/nay)
+yea
+
+Are some packers detected as malicious by some AV solutions? (yea/nay)
+yea
+
+Will a binder help with bypassing AV solutions? (yea/nay)
+nay
+
+Can a binder be used to make a payload appear as a legitimate executable? (yea/nay)
+yea

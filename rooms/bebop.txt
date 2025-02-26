@@ -1,0 +1,23 @@
+Bebop
+https://tryhackme.com/room/bebop
+
+What is your codename?
+pilot
+
+What is the User Flag?
+THM{r3m0v3_b3f0r3_fl16h7}
+
+What is the Root Flag?
+THM{h16hw4y_70_7h3_d4n63r_z0n3}
+
+What is the low privilleged user?
+pilot
+
+What binary was used to escalate privileges?
+busybox
+
+What service was used to gain an initial shell?
+telnet
+
+What Operating System does the drone run?
+FreeBSD

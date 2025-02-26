@@ -1,0 +1,38 @@
+Baselines and Anomalies
+https://tryhackme.com/room/baselineanomalies
+
+What is the name of the workstation that has the anomalous IP address?
+WS-LON-004
+
+What is the name of the server with the anomalous IP address?
+SVR-NYC-BKUP01
+
+Which workstation has a device model different from the rest?
+WS-NYC-004
+
+There are two installed software programs that should not be included in Anna's list. Which ones are they? Share their serial numbers. Answer format: X, Y 
+9, 15
+
+When trying to identify if an activity was performed by the administrator or not, what is the biggest tool that a defender can use?
+communication
+
+Which process can be used to track and approve changes to the firewall Access Control List?
+Change Management and Approvals
+
+If we are looking for DNS traffic bypassing the local DNS server, what should we exclude from the search of all queries to the DNS port?
+Internal DNS server
+
+What kind of alert should be generated if a user logs in from two vastly geographically different places in a short amount of time?
+Impossible travel
+
+You have been alerted of a login outside of normal office hours on the 27th of July, 2024. Can you identify the time this login happened?
+06:37:07.659259000
+
+Which user logged in at this time?
+Mia Perez
+
+This user performed anomalous activities from two different machines; what is the IP address of the other machine?
+192.168.1.36
+
+What suspicious domain does this user connect to?
+c2server.com

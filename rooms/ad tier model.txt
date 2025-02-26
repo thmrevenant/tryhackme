@@ -1,0 +1,47 @@
+AD Tier Model
+https://tryhackme.com/room/adtiermodel
+
+A database server should go in which tier?
+Tier 1
+
+Should a tier 2 admin be able to log into a tier 0 machine? (yea/nay)
+nay
+
+Domain controllers should be contained in which tier?
+Tier 0
+
+What is the value of Flag 1?
+THM{1cbe1745bb323359f0505ec3d89a6a73}
+
+What is the value of Flag 2?
+THM{8f88da49cf77bffa2174e81d568e19a0}
+
+What is the value of Flag 3?
+THM{17449a8edcc47635a459416209e8a84b}
+
+What is the value of Flag 4?
+THM{ce6f77b2a7f0f1d32828be502e2442bd}
+
+Which of the following users can be used to RDP into THMWRK2 at this point?
+THM\t2_bob
+
+When logging into THMWRK2 with the user from the previous question, do you have administrative privileges over the machine? (yea/nay)
+yea
+
+Is it possible to RDP into the THMWRK2 machine with the THM\Administrator user? (yea/nay)
+nay
+
+What is the value of Flag 5?
+THM{48d9885bdfdf308982467f39459d8bcb}
+
+What is the value of Flag 6?
+THM{c42c75ccd141e36c8ee0610de31e8e12}
+
+What is the value of Flag 7?
+THM{cef897d4ca15a66441eb96f4fd315bb8}
+
+What is the value of Flag 8?
+THM{f92c14396e0a01ba220aaea6a32ca5fa}
+
+What is the value of Flag 9?
+THM{4eb7d17ba6e8b455231269a49fa50cf7}

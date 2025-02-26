@@ -1,0 +1,11 @@
+Anonymous Playground
+https://tryhackme.com/room/anonymousplayground
+
+User 1 Flag
+9184177ecaa83073cbbf36f1414cc029
+
+User 2 Flag
+69ee352fb139c9d0699f6f399b63d9d7
+
+Root Flag
+bc55a426e98deb673beabda50f24ce66

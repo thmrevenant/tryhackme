@@ -1,0 +1,47 @@
+Badbyte
+https://tryhackme.com/room/badbyte
+
+How many ports are open?
+2
+
+What service is running on the lowest open port?
+ssh
+
+What non-standard port is open?
+30024
+
+What service is running on the non-standard port?
+ftp
+
+What username do we find during the enumeration process?
+errorcauser
+
+What is the passphrase for the RSA private key?
+cupcake
+
+What main TCP ports are listening on localhost?
+80,3306
+
+What protocols are used for these ports?
+http, mysql
+
+What CMS is running on the machine?
+wordpress
+
+What is the CVE number for directory traversal vulnerability?
+CVE-2020-11738
+
+What is the CVE number for remote code execution vulnerability?
+CVE-2020-25213
+
+What is the name of user that was running CMS?
+cth
+
+What is the user flag?
+THM{227906201d17d9c45aa93d0122ea1af7}
+
+What is the user's old password?
+G00dP@$sw0rd2020
+
+What is the root flag?
+THM{ad485b44f63393b6a9225974909da5fa}

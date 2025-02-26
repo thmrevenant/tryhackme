@@ -1,0 +1,38 @@
+Basic Dynamic Analysis
+https://tryhackme.com/room/basicdynamicanalysis
+
+If an analyst wants to analyze Linux malware, what OS should their sandbox's Virtual Machine have?
+Linux
+
+Monitor the sample ~Desktop\Samples\1.exe using ProcMon. This sample makes a few network connections. What is the first URL on which a network connection is made?
+94-73-155-12.cizgi.net.tr:2448
+
+What network operation is performed on the above-mentioned URL?
+TCP Reconnect
+
+What is the name with the complete full path of the first process created by this sample?
+C:\Users\Administrator\Desktop\samples\1.exe
+
+The sample ~Desktop\samples\1.exe creates a file in the C:\ directory. What is the name with the full path of this file?
+C:\myapp.exe
+
+What API is used to create this file?
+CreateFileA
+
+In Question 1 of the previous task, we identified a URL to which a network connection was made. What API call was used to make this connection?
+InternetConnectW
+
+We noticed in the previous task that after some time, the sample's activity slowed down such that there was not much being reported against the sample. Can you look at the API calls and see what API call might be responsible for it?
+Sleep
+
+What is the name of the first Mutex created by the sample ~Desktop\samples\1.exe? If there are numbers in the name of the Mutex, replace them with X.
+\Sessions\X\BaseNamedObjects\SMX:XXXX:XXX:WilStaging_XX
+
+Is the file signed by a known organization? Answer with Y for Yes and N for No.
+N
+
+Is the process in the memory the same as the process on disk? Answer with Y for Yes and N for No.
+N
+
+Analyze the sample ~Desktop\Samples\3.exe using Regshot. There is a registry value added that contains the path of the sample in the format HKU\S-X-X-XX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXX-XXX\. What is the path of that value after the format mentioned here?
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store\C:\Users\Administrator\Desktop\samples\3.exe

@@ -1,0 +1,29 @@
+AD Certificate Templates
+https://tryhackme.com/room/adcertificatetemplates
+
+What does the user create to ask the CA for a certificate?
+Certificate Signing Request
+
+What is the name of Microsoft's PKI implementation?
+Active Directory Certificate Services
+
+What AD group will allow all AD user accounts to request a certificate?
+Domain Users
+
+What AD group will allow all domain-joined computers to request a certificate?
+Domain Computers
+
+Which EKU allows us to use the generated certificate for Kerberos authentication?
+Client Authentication
+
+Which certificate template is misconfigured based on the three provided parameters?
+User Request
+
+In which field do we inject the User Principal Name of the account we want to impersonate?
+Subject Alternative Name
+
+If we had administrative access, when adding the snap-in, which option would we select to use the machine account of the host instead of our authenticated AD account for certificate generation?
+Computer account
+
+What is the value of the flag stored on the Administrator's Desktop?
+THM{AD.Certs.Can.Get.You.DA}

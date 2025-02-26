@@ -1,0 +1,32 @@
+AllSignsPoint2Pwnage
+https://tryhackme.com/room/allsignspoint2pwnage
+
+How many TCP ports under 1024 are open?
+6
+
+What is the hidden share where images should be copied to?
+images$
+
+What user is signed into the console session?
+sign
+
+What hidden, non-standard share is only remotely accessible as an administrative account?
+installs$
+
+What is the content of user_flag.txt?
+thm{48u51n9_5y573m_func710n4117y_f02_fun_4nd_p20f17}
+
+What is the Users Password?
+gKY1uxHLuU1zzlI4wwdAcKUw35TPMdv7PAEE5dAFbV2NxpPJVO7eeSH
+
+What is the Administrators Password?
+RCYCc3GIjM0v98HDVJ1KOuUm4xsWUxqZabeofbbpAss9KCKpYfs2rCi
+
+What executable is used to run the installer with the Administrator username and password? 
+PsExec.exe
+
+What is the VNC Password?
+5upp0rt9
+
+What is the contents of the admin_flag.txt?
+thm{p455w02d_c4n_83_f0und_1n_p141n_73x7_4dm1n_5c21p75}

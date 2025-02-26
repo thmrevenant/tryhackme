@@ -1,0 +1,11 @@
+Backtrack
+https://tryhackme.com/room/backtrack
+
+What is the content of flag1.txt?
+THM{823e4e40ead9683b06a8194eab01cee8}
+
+What is the content of flag2.txt?
+THM{01d8e83d0ea776345fa9bf4bc08c249d}
+
+What is the content of flag3.txt?
+THM{f728e7c00162e6d316720155a4a06fa8}

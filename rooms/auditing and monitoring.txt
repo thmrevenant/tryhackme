@@ -1,0 +1,50 @@
+Auditing and Monitoring
+https://tryhackme.com/room/auditingandmonitoringse
+
+What do you call the systematic review of an organisation’s technological infrastructure, policies and operations?
+Auditing
+
+What do you call the continuous observation of an organisation’s computer technologies and related resources?
+Monitoring
+
+Which type of audit is conducted by independent auditors?
+External Audit
+
+Which type of audit is conducted by an organisation’s own personnel?
+Internal Audit
+
+What is the standard used by organisations that process card payments?
+PCI DSS
+
+Who developed ITIL?
+CCTA
+
+Who developed COBIT?
+ISACA
+
+Which step do we present our findings about non-conformities, weaknesses and issues noted?
+4
+
+At which stage does an organisation review the steps based on recommendations for proper and satisfactory implementation?
+5
+
+At which stage do the auditors establish the audit scope and define its objectives?
+1
+
+Using aureport, how many failed logins have occurred so far?
+263
+
+Using ausearch, how many failed logins are related to the username mike?
+4
+
+Using ausearch, how many failed logins are related to the username root?
+227
+
+What is the event ID for a failed login attempt?
+4625
+
+How many failed login attempts do you have under the security events?
+2
+
+How many failed login attempts took place in 2021?
+1

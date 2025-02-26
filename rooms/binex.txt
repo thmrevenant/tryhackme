@@ -1,0 +1,14 @@
+Binex
+https://tryhackme.com/room/binex
+
+What are the login credential for initial access.
+tryhackme:thebest
+
+What is the contents of /home/des/flag.txt?
+THM{exploit_the_SUID}
+
+What is the contents of /home/kel/flag.txt?
+THM{buffer_overflow_in_64_bit}
+
+What is the contents of /root/root.txt?
+THM{SUID_binary_and_PATH_exploit}

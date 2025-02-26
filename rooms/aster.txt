@@ -1,0 +1,8 @@
+Aster
+https://tryhackme.com/room/aster
+
+Compromise the machine and locate user.txt
+thm{bas1c_aster1ck_explotat1on}
+
+Reverse file and get root.txt
+thm{fa1l_revers1ng_java}

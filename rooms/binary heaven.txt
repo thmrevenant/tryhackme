@@ -1,0 +1,17 @@
+Binary Heaven
+https://tryhackme.com/room/binaryheaven
+
+What is the username?
+guardian
+
+What is the password?
+GOg0esGrrr!
+
+What is the flag?
+THM{crack3d_th3_gu4rd1an}
+
+binexgod_flag.txt
+THM{b1n3xg0d_pwn3d}
+
+root.txt
+THM{r00t_of_th3_he4v3n}

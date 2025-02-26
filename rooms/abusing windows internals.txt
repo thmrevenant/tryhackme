@@ -1,0 +1,32 @@
+Abusing Windows Internals
+https://tryhackme.com/room/abusingwindowsinternals
+
+What flag is obtained after injecting the shellcode?
+THM{1nj3c710n_15_fun!}
+
+What flag is obtained after hollowing and injecting the shellcode?
+THM{7h3r35_n07h1n6_h3r3}
+
+What flag is obtained after hijacking the thread?
+THM{w34p0n1z3d_53w1n6}
+
+What flag is obtained after injecting the DLL?
+THM{n07_4_m4l1c10u5_dll}
+
+What protocol is used to execute asynchronously in the context of a thread?
+Asynchronous Procedure Call
+
+What is the Windows API call used to queue an APC function?
+QueueUserAPC
+
+Can the void function pointer be used on a remote process? (y/n)
+n
+
+What alternative Windows API call was used by TrickBot to create a new user thread?
+RtlCreateUserThread
+
+Was the injection techniques employed by TrickBot reflective? (y/n)
+y
+
+What function name was used to manually write hooks?
+write_hook_iter

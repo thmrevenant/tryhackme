@@ -1,0 +1,53 @@
+Attacking ICS Plant #1
+https://tryhackme.com/room/attackingics1
+
+Which is the function used to read holding registers in pymodbus library?
+read_holding_registers
+
+Which is the function used to write holding registers in pymodbus library?
+write_register
+
+How many phases can we observe?
+3
+
+How many sensors can we observe?
+2
+
+How many actuators can we observe?
+3
+
+Using the script discovery.py, how many registers can we count?
+16
+
+After the plant is started and a bottle is loaded, how many registers are continuously changing their values?
+4
+
+Which is the minimum observed value?
+0
+
+Which is the maximum observed value?
+1
+
+Which registry is holding its value?
+16
+
+Which registries are set to 1 while the nozzle is filling a bottle?
+2 4
+
+Which registries are set to 1 while the roller is moving the bottles?
+1 3
+
+Which is the color of the water level sensor?
+red
+
+Which is the color of the bottle sensor?
+green
+
+If you observe the plant at the very beginning, which is the registry associated with the roller?
+3
+
+Based on the previous answer, which is the registry associated with the water level sensor?
+1
+
+Which is the registry associated with the nozzle?
+4

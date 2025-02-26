@@ -1,0 +1,12 @@
+Become a Hacker
+https://tryhackme.com/room/becomeahackeroa
+
+Which of the following options better represents the process where you simulate a hacker's actions to find vulnerabilities in a system?
+Offensive Security
+
+What is the name of the hidden web page you discovered?
+login
+
+What is the secret message that you have discovered?
+born_to_be_a_hacker
+

@@ -1,0 +1,17 @@
+Adventure Time
+https://tryhackme.com/room/adventuretime
+
+Content of flag1 – format is tryhackme{************}
+tryhackme{Th1s1sJustTh3St4rt}
+
+Content of flag2 – format is tryhackme{************}
+tryhackme{N1c30n3Sp0rt}
+
+Content of flag3 – format is tryhackme{************}
+tryhackme{N0Bl4ckM4g1cH3r3}
+
+Content of flag4 – format is tryhackme{************}
+tryhackme{P1ngu1nsRul3!}
+
+Content of flag5 – format is tryhackme{************}
+tryhackme{Th1s1s4c0d3F0rBM0}

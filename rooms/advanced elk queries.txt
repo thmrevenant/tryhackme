@@ -1,0 +1,45 @@
+Advanced ELK Queries
+https://tryhackme.com/room/advancedelkqueries
+
+How do you escape the text "password:Me&Try=Hack!" (Not including the double quotes) 
+password:Me\&Try\=Hack!
+
+Using wildcards, what will your query be if you want to search for all documents that contain the words "hacking" and "hack" in the "activity" field? 
+activity:hack*
+
+Task 3 - Q1 - How many incidents exist where the affected file is "marketing_strategy_2023_07_23.pptx"?
+4
+
+How many incidents exist where the affected files in file servers are titled "marketing_strategy"?
+135
+
+There is a true positive alert on a webserver where the admin and it users were logged on. What is the name of the webserver?
+web-server-77
+
+How many "Data Leak" incidents have a severity level of 9 and up?
+52
+
+How many incidents before December 1st, 2022 has AJohnston investigated where the affected system is either an Email or Web server?
+63
+
+From the incident IDs 1 to 500, what is the email address of the SOC Analyst that left a comment on an incident that the data leak on file-server-65 is a false positive?
+jlim@cybert.com
+
+Including the misspellings, how many incidents has JLim handled where he misspelt the word “true”?
+110
+
+How many incidents has JLim handled where he misspelt the word “negative”?
+4
+
+How many incidents are there when you want to look for the words "data leak" and "true negative" in the comments that are at least 3 words in between them?
+33
+
+How many incidents has AJohnston investigated that have the words "detected" and "negative" in the comments that are two words apart?
+40
+
+How many incidents are there where a "client_list" file was affected by ransomware?
+70
+
+What is the name of the affected system at the earliest incident date that EVenis investigated with a filename containing the word "project"?
+file-server-78
+

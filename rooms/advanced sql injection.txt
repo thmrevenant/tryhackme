@@ -1,0 +1,50 @@
+Advanced SQL Injection
+https://tryhackme.com/room/advancedsqlinjection
+
+What is the port on which MySQL service is running?
+3306
+
+What type of SQL injection uses the same communication channel for both the injection and data retrieval?
+In-band
+
+In out-of-band SQL injection, which protocol is usually used to send query results to the attacker's server?
+HTTP
+
+What is the flag value after updating the title of all books to "compromised"?
+THM{SO_HACKED}
+
+What is the flag value once you drop the table hello from the database?
+THM{Table_Dropped}
+
+What is the MySQL error code once an invalid query is entered with bad characters?
+1064
+
+What is the name of the book where book ID=6?
+Animal Series
+
+What is the password for the username "attacker"?
+tesla
+
+Which of the following can be used if the SELECT keyword is banned? Write the correct option only.
+c
+
+What is the output of the @@version on the MySQL server?
+10.4.24-MariaDB
+
+What is the value of @@basedir variable?
+C:/xampp/mysql
+
+What is the value of the flag field in the books table where book_id =1?
+THM{HELLO}
+
+What field is detected on the server side when extracting the user agent?
+User-Agent
+
+Does the dynamic nature of SQL queries assist a pentester in identifying SQL injection (yea/nay)?
+nay
+
+What command does MSSQL support to execute system commands?
+xp_cmdshell
+
+
+

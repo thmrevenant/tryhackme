@@ -1,0 +1,25 @@
+Anonymous
+https://tryhackme.com/room/anonymous
+
+Enumerate the machine.  How many ports are open?
+
+4
+Correct Answer
+What service is running on port 21?
+
+ftp
+Correct Answer
+What service is running on ports 139 and 445?
+
+smb
+Correct Answer
+There's a share on the user's computer.  What's it called?
+
+pics
+Correct Answer
+user.txt
+
+90d6f992585815ff991e68748c414740
+
+root.txt
+4d930091c31a622a7ed10f27999af363

@@ -1,0 +1,23 @@
+Borderlands
+https://tryhackme.com/room/borderlands
+
+What is the API key that fits the following pattern: "AND*"
+ANDVOWLDLAS5Q8OQZ2tuIPGcOu2mXk
+
+What is the API key that fits the following pattern: "WEB*"
+WEBLhvOJAH8d50Z4y5G5g4McG1GMGD
+
+What is the API key that fits the following pattern: "GIT*"
+GITtFi80llzs4TxqMWtCotiTZpf0HC
+
+What is the flag in the /var/www directory of the web app host? {FLAG:Webapp:XXX}
+{FLAG:Webapp:48a5f4bfef44c8e9b34b926051ad35a6}
+
+What is the flag in the /root/ directory of router1? {FLAG:Router1:XXX}
+{FLAG:Router1:c877f00ce2b886446395150589166dcd}
+
+What flag is transmitted from flag_server to flag_client over UDP? {FLAG:UDP:XXX}
+{FLAG:UDP:3bb271d020df6cbe599a46d20e9fcb3c}
+
+What flag is transmitted from flag_server to flag_client over TCP? {FLAG:TCP:XXX}
+{FLAG:TCP:8fb04648d6b2bd40af6581942fcf483e}

@@ -1,0 +1,14 @@
+b3dr0ck
+https://tryhackme.com/room/b3dr0ck
+
+What is the barney.txt flag?
+THM{f05780f08f0eb1de65023069d0e4c90c}
+
+What is fred's password?
+YabbaDabbaD0000!
+
+What is the fred.txt flag?
+THM{08da34e619da839b154521da7323559d}
+
+What is the root.txt flag?
+THM{de4043c009214b56279982bf10a661b7}

@@ -1,0 +1,77 @@
+APIWizards Breach
+https://tryhackme.com/room/apiwizardsbreach
+
+Which programming language is a web application written in?
+Python
+
+What is the IP address that attacked the web server?
+149.34.244.142
+
+Which vulnerability was found and exploited in the API service?
+OS command injection
+
+Which file contained the credentials used to privesc to root?
+/home/dev/apiservice/src/config.py
+
+What file did the hacker drop and execute to persist on the server?
+/tmp/rooter2
+
+Which service was used to host the “rooter2” malware?
+transfer.sh
+
+Which two system files were infected to achieve cron persistence?
+/etc/crontab, /etc/environment
+
+What is the C2 server IP address of the malicious actor?
+5.230.66.147
+
+What port is the backdoored bind bash shell listening at?
+3578
+
+How does the bind shell persist across reboots?
+systemd service
+
+What is the absolute path of the malicious service?
+/etc/systemd/system/socket.service
+
+Which port is blocked on the victim's firewall?
+3578
+
+How do the firewall rules persist across reboots?
+/root/.bashrc
+
+How is the backdoored local Linux user named?
+support
+
+Which privileged group was assigned to the user?
+sudo
+
+What is the strange word on one of the backdoored SSH keys?
+ntsvc
+
+Can you spot and name one more popular persistence method? Not a MITRE technique name.
+SUID binary
+
+What are the original and the backdoored binaries from question 6?
+/usr/bin/bash, /usr/bin/clamav
+
+What technique was used to hide the backdoor creation date?
+Timestomping
+
+What file was dropped which contained gathered victim information?
+/root/.dump.json
+
+According to the dropped dump, what is the server’s kernel version?
+5.15.0-78-generic
+
+Which active internal IPs were found by the “rooter2” network scan?
+192.168.0.21, 192.168.0.22
+
+How did the hacker find an exposed HTTP index on another internal IP?
+nc -zv 192.168.0.22 1024-10000 2>&1 | grep -v failed
+
+What command was used to exfiltrate the CDE database from the internal IP?
+wget 192.168.0.22:8080/cde-backup.csv
+
+What is the most secret and precious string stored in the exfiltrated database?
+pwned{v3ry-secur3-cardh0ld3r-data-environm3nt}

@@ -1,0 +1,47 @@
+Becoming a First Responder
+https://tryhackme.com/room/becomingafirstresponder
+
+What priority order for preservation (number only) is given for the Disk?
+4
+
+What priority order for preservation (number only) is given for Archival Media?
+7
+
+What priority order for preservation (number only) is given for the Register and Cache?
+1
+
+What is the term used to describe ensuring that evidence can be used in legal proceedings?
+Chain of Custody
+
+What is the term that describes a defined process that the blue team follows during an incident?
+Playbook
+
+What is the term that describes the structure used to inform all the relevant parties about the incident?
+Call Tree
+
+What containment method can be performed remotely using the EDR?
+Virtual Isolation
+
+What containment method requires the blue team to collect the infected host?
+Physical Isolation
+
+What containment method aims to ensure that the infected host cannot communicate with other hosts?
+Network Segmentation
+
+What does BCP stand for?
+Business Continuity Plan
+
+What does DRP stand for?
+Disaster Recovery Plan
+
+What BCP metric is used to describe the amount of time required to recover the hardware of our system?
+Recovery Time Objective
+
+What BCP metric is used to describe the average amount of time required to recover our system?
+Mean Time to Repair
+
+What time format should be used in our incident notes to ensure that all times match?
+UTC
+
+What is the value of the flag you receive after responding to the incident?
+THM{I.am.ready.to.become.a.first.responder}

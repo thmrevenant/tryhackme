@@ -1,0 +1,8 @@
+Aratus
+https://tryhackme.com/room/aratus
+
+What is the user.txt flag?
+THM{ba8d3b87bfdb9d10115cbe24feabbc20}
+
+What is the root.txt flag?
+THM{d8afc85983603342f6c6979b20e06cf6}

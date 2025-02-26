@@ -1,0 +1,41 @@
+Anti-Reverse Engineering
+https://tryhackme.com/room/antireverseengineering
+
+What is the name of the Windows API function used in a common anti-debugging technique that detects if a debugger is running?
+IsDebuggerPresent
+
+What is the Windows API function that enumerates windows on the screen so the malware can check the window name?
+EnumWindows
+
+What is the hex value of a nop instruction?
+90
+
+What is the instruction found at memory location 004011CB?
+add esp,8
+
+What is the name of the identifiable process used by malware to check if the machine is running inside VirtualBox?
+vboxservice
+
+What is the OUI automatically assigned specifically to VMware?
+00:50:56
+
+Using Task Manager, what process indicates that the machine for this room is an Amazon EC2 Virtual Machine?
+amazon-ssm-agent.exe
+
+In the C code snippet, what is the full WQL query used to get the temperature from the Win32_TemperatureProbe class?
+SELECT * FROM MSAcpi_ThermalZoneTemperature
+
+What register holds the memory address that tells the debugger what instruction to execute next?
+EIP
+
+Before uReturn is compared to zero, what is the memory location pointed to by [ebp-4]
+0019FF1C
+
+What is the decoded string of the base64 encoded string "VGhpcyBpcyBhIEJBU0U2NCBlbmNvZGVkIHN0cmluZy4="?
+This is a BASE64 encoded string.
+
+According to DetectItEasy, what is the version of the Microsoft Linker used for linking packed.exe?
+14.16
+
+According to pestudio, what is the entropy of the UPX2 section of packed.exe?
+2.006

@@ -1,0 +1,8 @@
+Annie
+https://tryhackme.com/room/annie
+
+What is user.txt?
+THM{N0t_Ju5t_ANY_D3sk}
+
+What is root.txt?
+THM{0nly_th3m_5.5.2_D3sk}

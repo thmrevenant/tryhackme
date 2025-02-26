@@ -1,0 +1,41 @@
+Brim
+https://tryhackme.com/room/brim
+
+Process the "sample.pcap" file and look at the details of the first DNS log that appear on the dashboard. What is the "qclass_name"?
+C_INTERNET
+
+Look at the details of the first NTP log that appear on the dashboard. What is the "duration" value?
+0.005
+
+Look at the details of the STATS packet log that is visible on the dashboard. What is the "reassem_tcp_size"?
+540
+
+Investigate the files. What is the name of the detected GIF file?
+cat01_with_hidden_text.gif
+
+Investigate the conn logfile. What is the number of the identified city names?
+2
+
+Investigate the Suricata alerts. What is the Signature id of the alert category "Potential Corporate Privacy Violation"?
+2,012,887
+
+What is the name of the file downloaded from the CobaltStrike C2 connection?
+4564.exe
+
+What is the number of CobaltStrike connections using port 443?
+328
+
+There is an additional C2 channel in used the given case. What is the name of the secondary C2 channel?
+IcedID
+
+How many connections used port 19999?
+22
+
+What is the name of the service used by port 6666?
+irc
+
+What is the amount of transferred total bytes to "101.201.172.235:8888"?
+3,729
+
+What is the detected MITRE tactic id?
+TA0040

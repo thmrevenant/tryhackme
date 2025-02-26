@@ -1,0 +1,8 @@
+biteme
+https://tryhackme.com/room/biteme
+
+What is the user flag?
+THM{6fbf1fb7241dac060cd3abba70c33070}
+
+What is the root flag?
+THM{0e355b5c907ef7741f40f4a41cc6678d}

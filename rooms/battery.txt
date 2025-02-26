@@ -1,0 +1,11 @@
+battery
+https://tryhackme.com/room/battery
+
+Base Flag : 
+THM{6f7e4dd134e19af144c88e4fe46c67ea}
+
+User Flag :
+THM{20c1d18791a246001f5df7867d4e6bf5}
+
+Root Flag :
+THM{db12b4451d5e70e2a177880ecfe3428d}

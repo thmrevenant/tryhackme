@@ -1,0 +1,20 @@
+Block
+https://tryhackme.com/room/blockroom
+
+What is the username of the first person who accessed our server?
+mrealman
+
+What is the password of the user in question 1?
+Blockbuster1
+
+What is the flag that the first user got access to?
+THM{SmB_DeCrypTing_who_Could_Have_Th0ughT}
+
+What is the username of the second person who accessed our server?
+eshellstrop
+
+What is the hash of the user in question 4?
+3f29138a04aadc19214e9c04028bf381
+
+What is the flag that the second user got access to?
+THM{No_PasSw0Rd?_No_Pr0bl3m}

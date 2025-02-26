@@ -1,0 +1,26 @@
+Active Directory Hardening
+https://tryhackme.com/room/activedirectoryhardening
+
+What is the root domain in the attached AD machine?
+tryhackme.loc
+
+What is the default minimum password length (number of characters) in the attached VM?
+7
+
+Computers and Printers must be added to Tier 0 - yea/nay?
+nay
+
+Suppose a vendor arrives at your facility for a 2-week duration task. Being a System Administrator, you should create a high privilege account for him - yea/nay?
+nay
+
+Find and open BaselineLocalInstall script in PowerShell editor - Can you find the flag?
+THM{00001}
+
+Find and open MergePolicyRule script (Policy Analyser) in PowerShell editor - Can you find the flag?
+{THM00191}
+
+Does Kerberoasting utilise an offline-attack scheme for cracking encrypted passwords - yea/nay?
+yea
+
+As per the generated report, how many users have the same password as aaron.booth?
+186

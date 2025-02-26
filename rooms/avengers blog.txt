@@ -1,0 +1,20 @@
+Avengers Blog
+https://tryhackme.com/room/avengers
+
+On the deployed Avengers machine you recently deployed, get the flag1 cookie value.
+cookie_secrets
+
+Look at the HTTP response headers and obtain flag 2.
+headers_are_important
+
+Look around the FTP share and read flag 3!
+8fc651a739befc58d450dc48e1f1fd2e
+
+What is the directory that has an Avengers login?
+/portal
+
+Log into the Avengers site. View the page source, how many lines of code are there?
+223
+
+Read the contents of flag5.txt
+d335e2d13f36558ba1e67969a1718af7

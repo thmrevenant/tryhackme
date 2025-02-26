@@ -1,0 +1,8 @@
+Bookstore
+https://tryhackme.com/room/bookstoreoc
+
+User flag
+4ea65eb80ed441adb68246ddf7b964ab
+
+Root flag
+e29b05fba5b2a7e69c24a450893158e3

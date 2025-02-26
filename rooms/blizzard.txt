@@ -1,0 +1,48 @@
+Blizzard
+https://tryhackme.com/room/blizzard
+
+When did the attacker access this machine from another internal machine? (format: MM/DD/YYYY HH:MM:SS)
+03/24/2024 19:38:48
+
+What is the full file path of the binary used by the attacker to exfiltrate data?
+C:\Users\dbadmin\.rclone\rclone-v1.66.0-windows-amd64\rclone.exe
+
+What email is used by the attacker to exfiltrate sensitive data?
+annajones291@hotmail.com
+
+Where did the attacker store a persistent implant in the registry? Provide the registry value name.
+SecureUpdate
+
+Aside from the registry implant, another persistent implant is stored within the machine. When did the attacker implant the alternative backdoor? (format: MM/DD/YYYY HH:MM:SS)
+03/24/2024 20:04:05
+
+When did the attacker send the malicious email? (format: MM/DD/YYYY HH:MM:SS)
+03/24/2024 19:06:27
+
+When did the victim open the malicious payload? (format: MM/DD/YYYY HH:MM:SS)
+03/24/2024 19:07:46
+
+When was the malicious persistent implant created? (format: MM/DD/YYYY HH:MM:SS)
+03/24/2024 19:16:23
+
+What is the domain accessed by the malicious implant? (format: defanged)
+advancedsolutions[.]net
+
+What file did the attacker leverage to gain access to the database server? Provide the password found in the file.
+db@dm1nS3cur3Pass!
+
+When did the victim receive the malicious phishing message? (format: MM/DD/YYYY HH:MM:SS)
+03/24/2024 18:36:34
+
+What is the display name of the attacker?
+Microsoft Identity Provider
+
+What is the URL of the malicious phishing link? (format: defanged)
+hxxps[://]login[.]sourcesecured[.]com/support/id/XkSkj321
+
+What is the title of the phishing website?
+Sign in to your account
+
+When did the victim first access the phishing website? (format: MM/DD/YYYY HH:MM:SS in UTC)
+03/24/2024 18:38:29
+

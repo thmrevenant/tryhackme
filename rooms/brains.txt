@@ -1,0 +1,14 @@
+Brains
+https://tryhackme.com/room/brains
+
+What is the content of flag.txt in the user's home folder?
+THM{faa9bac345709b6620a6200b484c7594}
+
+What is the name of the backdoor user which was created on the server after exploitation?
+eviluser
+
+What is the name of the malicious-looking package installed on the server?
+datacollector
+
+What is the name of the plugin installed on the server after successful exploitation?
+AyzzbuXY.zip

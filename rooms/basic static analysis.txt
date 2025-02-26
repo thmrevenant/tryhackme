@@ -1,0 +1,29 @@
+Basic Static Analysis
+https://tryhackme.com/room/staticanalysis1
+
+On the Desktop in the attached VM, there is a directory named 'mal' with malware samples 1 to 6. Use floss to identify obfuscated strings found in the samples named 2, 5, and 6. Which of these samples contains the string 'DbgView.exe'?
+6
+
+In the samples located at Desktop\mal\ directory in the attached VM, which of the samples has the same imphash as file 3?
+1
+
+Using the ssdeep utility, what is the percentage match of the above-mentioned files?
+93
+
+How many matches for anti-VM execution techniques were identified in the sample?
+86
+
+Does the sample have to capability to suspend or resume a thread? Answer with Y for yes and N for no.
+Y
+
+What MBC behavior is observed against the MBC Objective 'Anti-Static Analysis'?
+Disassembler Evasion::Argument Obfuscation [B0012.001]
+
+At what address is the function that has the capability 'Check HTTP Status Code'?
+0x486921
+
+Open the sample Desktop\mal\4 in PEstudio. Which library is blacklisted?
+rpcrt4.dll
+
+What does this dll do?
+Remote Procedure Call Runtime

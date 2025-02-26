@@ -1,0 +1,29 @@
+Atomic Bird Goes Purple #1
+https://tryhackme.com/room/atomicbirdone
+
+What is the flag?
+THM{Emulation_is_fun_but_needs_focus_and_exploration}
+
+What is the required command to clear all generated artefacts and restore the affected files from test T0123-4?
+Invoke-AtomicTest T0123-4 -Cleanup
+
+What is the OS Build info?
+10.0.17763 N/A Build 17763
+
+What is the flag?
+THM{THM_Emulation_Room}
+
+Examine the logs; what is the failed command?
+<!bin/bash>
+
+What is the SHA256 value of the ".txt" document?
+3CA9FB42ACF0A347BDFDC78E0435331BC458194E4BC7FBFFB255BC4CF02CDC1A
+
+Re-calculate the SHA256 value of the document. What is the hash value?
+626DBB861DCFF600DABEFCE7BF93F2C72C0F6462CC5729B963FC8242D7D43990
+
+Find the malicious history dump file. What is the flag?
+THM{THM_analytics_to_exfiltration_with_NexGenHunt}
+
+Find the malicious system file modification activity. What is the flag?
+THM{NextGenHunt.thm.jhn}

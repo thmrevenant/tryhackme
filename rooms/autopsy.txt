@@ -1,0 +1,53 @@
+Autopsy
+https://tryhackme.com/room/btautopsye0
+
+What is the file extension of the Autopsy files?
+.aut
+
+What is the disk image name of the "e01" format?
+EnCase
+
+Expand the "Data Sources" option; what is the number of available sources?
+4
+
+What is the number of the detected "Removed" files?
+10
+
+What is the filename found under the "Interesting Files" section?
+googledrivesync.exe
+
+What is the full name of the operating system version?
+Windows 7 Ultimate Service Pack 1
+
+What percentage of the drive are documents? Include the % in your answer.
+40.8%
+
+What is the job number of the "Interesting Files Identifier" module?
+10
+
+What is the name of an Installed Program with the version number of 6.2.0.2962?
+Eraser
+
+A user has a Password Hint. What is the value?
+IAMAN
+
+Numerous SECRET files were accessed from a network drive. What was the IP address?
+10.11.11.128
+
+What web search term has the most entries?
+information leakage cases
+
+What was the web search conducted on 3/25/2015 21:46:44?
+anti-forensic tools
+
+What MD5 hash value of the binary is listed as an Interesting File?
+fe18b02e890f7a789c576be8abccdc99
+
+What self-assuring message did the 'Informant' write for himself on a Sticky Note? (no spaces)
+Tomorrow...Everything will be OK...
+
+Using the Timeline, how many results were there on 2015-01-12?
+46
+
+The majority of file events occurred on what date? (MONTH DD, YYYY)
+March 25, 2015

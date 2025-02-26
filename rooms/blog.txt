@@ -1,0 +1,17 @@
+Blog
+https://tryhackme.com/room/blog
+
+root.txt
+9a0b2b618bef9bfa7ac28c1353d9f318
+
+user.txt
+c8421899aae571f7af486492b71a8ab7
+
+Where was user.txt found?
+/media/usb
+
+What CMS was Billy using?
+Wordpress
+
+What version of the above CMS was being used?
+5.0

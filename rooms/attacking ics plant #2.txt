@@ -1,0 +1,8 @@
+Attacking ICS Plant #2
+https://tryhackme.com/room/attackingics2
+
+Read flag1.txt
+0df2936b4cfbd5ce3ae91ef7021d925a
+
+Read flag2.txt
+fdee450ac6627276d115dd905a256d49

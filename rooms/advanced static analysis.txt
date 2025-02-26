@@ -1,0 +1,72 @@
+Advanced Static Analysis
+https://tryhackme.com/room/advancedstaticanalysis
+
+Does advanced static analysis require executing the malware in a controlled environment? (yay/nay)
+nay
+
+How many files are present in the Code_Constructs folder on the Desktop?
+5
+
+How many function calls are present in the Exports section?
+1
+
+What is the only API call found in the User32.dll under the Imports section?
+MessageBoxA
+
+How many times can the "Hello World" string be found with the Search for Strings utility?
+1
+
+What is the virtual address of the CALL function that displays "Hello World" in a messagebox?
+004073d7
+
+What value gets printed by the while loop in the while-loop.exe program?
+_ITs_Fun_to_Learn_at_THM_
+
+How many times, the while loop will run until the condition is met?
+4
+
+Examine the while-loop.exe in Ghidra. What is the virtual address of the instruction, that CALLS to print out the sentence "That's the end of while loop .."?
+00401543
+
+In the if-else.exe program, examine the strings and complete the sentence "This program demonstrates..........."
+This program demonstrates if-else statement  
+
+What is the virtual address of the CALL to the main function in the if-else.exe program?
+00401509
+
+When a process is created in suspended state, which hexadecimal value is assigned to the dwCreationFlags parameter?
+0x00000004
+
+Which API is used to to write malicious code to the allocated memory during process hollowing?
+WriteProcessMemory()
+
+What is the MD5 hash of the benign.exe sample?
+e60a461b80467a4b1187ae2081f8ca24
+
+How many API calls are returned if we search for the term 'Create' in the Symbol Tree section?
+2
+
+What is the first virtual address where the CreateProcessA function is called?
+0040108f
+
+Which process is being created in suspended state by using the CreateProcessA API call?
+iexplore.exe
+
+What is the first virtual address where the CreateFileA function is called?
+004010f0
+
+What is the suspicious process being injected into the victim process?
+evil.exe
+
+Based on the Function Graph, what is the virtual address of the code block that will be executed if the program doesn’t find the suspicious process?
+00401101
+
+Which API call is found in the import functions used to unmap the process's memory?
+NtUnmapViewOfSection
+
+How many calls to the WriteProcessMemory function are found in the code? (.text section)
+2
+
+What is the full path of the suspicious process shown in the strings?
+C:\\Users\\THM-Attacker\\Desktop\\Injectors\\evil.exe
+

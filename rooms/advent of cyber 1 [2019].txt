@@ -1,0 +1,218 @@
+Advent of Cyber 1 [2019]
+https://tryhackme.com/room/25daysofchristmas
+
+What is the name of the cookie used for authentication?
+authid
+
+If you decode the cookie, what is the value of the fixed part of the cookie?
+v4er9ll1!ss
+
+After accessing his account, what did the user mcinventory request?
+firewall
+
+What is the path of the hidden page?
+/sysadmin
+
+What is the password you found?
+defaultpass
+
+What do you have to take to the 'partay'
+Eggnog
+
+Whats the destination IP on packet number 998?
+63.32.89.195
+
+What item is on the Christmas list?
+ps4
+
+Crack buddy's password!
+rainbow
+
+How many visible files are there in the home directory(excluding ./ and ../)?
+8
+
+What is the content of file5?
+recipes
+
+Which file contains the string ‘password’?
+file6
+
+What is the IP address in a file in the home folder?
+10.0.0.05
+
+How many users can log into the machine?
+3
+
+What is the sha1 hash of file8?
+fa67ee594358d83becdd2cb6c466b25320fd2835
+
+What is mcsysadmin’s password hash?
+$6$jbosYsU/$qOYToX/hnKGjT0EscuUIiIqF8GHgokHdy/Rg/DaB.RgkrbeBXPdzpHdMLI6cQJLdFlS4gkBMzilDBYcQvu2ro/
+
+What is Lola's date of birth? Format: Month Date, Year(e.g November 12, 2019)
+December 29, 1900
+
+What is Lola's current occupation?
+Santa's Helper
+
+What phone does Lola make?
+iPhone X
+
+What date did Lola first start her photography? Format: dd/mm/yyyy
+23/10/2014
+
+What famous woman does Lola have on her web page?
+ada lovelace
+
+What data was exfiltrated via DNS?
+Candy Cane Serial Number 8491
+
+What did Little Timmy want to be for Christmas?
+PenTester
+
+What was hidden within the file?
+RFC527
+
+How many TCP ports under 1000 are open?
+3
+
+What is the name of the OS of the host?
+Linux
+
+What version of SSH is running?
+7.4
+
+What is the name of the file that is accessible on the server you found running?
+interesting.file
+
+What port is SSH running on?
+65534
+
+Find and run a file as igor. Read the file /home/igor/flag1.txt
+THM{d3f0708bdd9accda7f937d013eaf2cd8}
+
+Find another binary file that has the SUID bit set. Using this file, can you become the root user and read the /root/flag2.txt file?
+THM{8c8211826239d849fa8d6df03749c3a2}
+
+What is the value of the flag?
+sCrIPtKiDd
+
+Compromise the web server using Metasploit. What is flag1?
+THM{3ad96bb13ec963a5ca4cb99302b37e12}
+
+Now you've compromised the web server, get onto the main system. What is Santa's SSH password?
+rudolphrednosedreindeer
+
+Who is on line 148 of the naughty list?
+Melisa Vanhoose
+
+Who is on line 52 of the nice list?
+Lindsey Gaffney
+
+What is the password inside the creds.txt file?
+securepassword123
+
+What is the name of the file running on port 21?
+file.txt
+
+What is the password after enumerating the database?
+bestpassword
+
+What is the md5 hashsum of the encrypted note1 file?
+24cf615e2a4f42718f2ff36b35614f8f
+
+Where was elf Bob told to meet Alice?
+Santa's Grotto
+
+Decrypt note2 and obtain the flag!
+THM{ed9ccb6802c5d0f905ea747a310bba23}
+
+A web server is running on the target. What is the hidden directory which the website lives on?
+/retro
+
+Gain initial access and read the contents of user.txt
+THM{HACK_PLAYER_ONE}
+
+[Optional] Elevate privileges and read the content of root.txt
+THM{COIN_OPERATED_EXPLOITATION}
+
+What is the name of the file you found?
+employee_names.txt
+
+What is in the file?
+mcchef
+
+What is Charlie going to book a holiday to?
+Hawaii
+
+Read /etc/shadow and crack Charlies password.
+password1
+
+What is flag1.txt?
+THM{4ea2adf842713ad3ce0c1f05ef12256d}
+
+How many files did you extract(excluding all the .zip files)
+50
+
+How many files contain Version: 1.1 in their metadata?
+3
+
+Which file contains the password?
+dL6w.txt
+
+Use Hydra to bruteforce molly's web password. What is flag 1? (The flag is mistyped, its THM, not TMH)
+THM{2673a7dd116de68e85c48ec0b1f2612e}
+
+Use Hydra to bruteforce molly's SSH password. What is flag 2?
+THM{c8eeb0468febbadea859baeb33b2541b}
+
+What is the admin's authid cookie value?
+2564799a4e6689972f6d9e1c7b406f87065cbf65
+
+What are the contents of the user.txt file?
+5W7WkjxBWwhe3RNsWJ3Q
+
+What port is SSH running on?
+4567
+
+Crack sam's password and read flag1.txt
+THM{dec4389bc09669650f3479334532aeab}
+
+Escalate your privileges by taking advantage of a cronjob running every minute. What is flag2?
+THM{b27d33705f97ba2e1f444ec2da5f5f61}
+
+What is the value of local_ch when its corresponding movl instruction is called(first if multiple)?
+1
+
+What is the value of eax when the imull instruction is called?
+6
+
+What is the value of local_4h before eax is set to 0?
+6
+
+what is the value of local_8h before the end of the main function?
+9
+
+What is the value of local_4h before the end of the main function?
+2
+
+Which field is SQL injectable? Use the input name used in the HTML code.
+log_email
+
+What is Santa Claus' email address?
+bigman@shefesh.com
+
+What is Santa Claus' plaintext password?
+saltnpepper
+
+Santa has a secret! Which station is he meeting Mrs Mistletoe in?
+Waterloo
+
+Once you're logged in to LapLANd, there's a way you can gain a shell on the machine! Find a way to do so and read the file in /home/user/
+THM{SHELLS_IN_MY_EGGNOG}
+
+Find the password in the database
+9Qs58Ol3AXkMWLxiEyUyyf
+
+Read the contents of the /root.txt file
+someELKfun

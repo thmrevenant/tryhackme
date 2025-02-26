@@ -1,0 +1,41 @@
+Aurora EDR
+https://tryhackme.com/room/auroraedr
+
+What does EDR stand for?
+Endpoint Detection and Response
+
+Which applications produce event logs?
+Providers
+
+Applications that subscribe to event logs are called?
+Consumers
+
+Which event level would be used to describe a significant problem with a service?
+Error
+
+What is the Windows Eventlog category responsible for recording events associated with programs currently running called?
+System
+
+Which Aurora preset supports the highest CPU limit?
+Intense
+
+Which process would be terminated when the response flag ancestors:3 is used?
+Great grandparent
+
+When the Aurora agent is terminated, which event id will be used?
+103
+
+What is the title of the first event rule?
+Process Reconnaissance Via Wmic.EXE
+
+What is the Rule ID of the matched Sigma rule?
+221b251a-357a-49a9-920a-271802777cc0
+
+What is the Sigma rule level of the event?
+medium
+
+What is the Rule Title of the second Event?
+Suspicious Creation TXT File in User Desktop
+
+Based on the Rule's characteristics, what malicious activity is associated with the event?
+Ransomware

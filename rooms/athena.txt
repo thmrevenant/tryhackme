@@ -1,0 +1,8 @@
+Athena
+https://tryhackme.com/room/4th3n4
+
+What is the user flag?
+857c4a4fbac638afb6c7ee45eb3e1a28
+
+What is the root flag?
+aecd4a3497cd2ec4bc71a2315030bd48
