@@ -1,0 +1,162 @@
+Holo
+https://tryhackme.com/room/hololive
+
+What flag can be found inside of the container?
+HOLO{175d7322f8fc53392a417ccde356c3fe}
+
+What flag can be found after gaining user on L-SRV01?
+HOLO{3792d7d80c4dcabb8a533afddf06f666}
+
+What flag can be found after rooting L-SRV01?
+HOLO{e16581b01d445a05adb2e6d45eb373f7}
+
+What flag can be found on the Web Application on S-SRV01?
+HOLO{bcfe3bcb8e6897018c63fbec660ff238}
+
+What flag can be found after rooting S-SRV01?
+HOLO{50f9614809096ffe2d246e9dd21a76e1}
+
+What flag can be found after gaining user on PC-FILESRV01?
+HOLO{2cb097ab8c412d565ec3cab49c6b082e}
+
+What flag can be found after rooting PC-FILESRV01?
+HOLO{ee7e68a69829e56e1d5b4a73e7ffa5f0}
+
+What flag can be found after rooting DC-SRV01?
+HOLO{29d166d973477c6d8b00ae1649ce3a44}
+
+What is the last octet of the IP address of the public-facing web server?
+33
+
+How many ports are open on the web server?
+3
+
+What CME is running on port 80 of the web server?
+WordPress
+
+What version of the CME is running on port 80 of the web server?
+5.5.3
+
+What is the HTTP title of the web server?
+holo.live
+
+What domains loads images on the first web page?
+www.holo.live
+
+What are the two other domains present on the web server? Format: Alphabetical Order
+admin.holo.live, dev.holo.live
+
+What file leaks the web server's current directory?
+robots.txt
+
+What file loads images for the development domain?
+img.php
+
+What is the full path of the credentials file on the administrator domain?
+/var/www/admin/supersecretdir/creds.txt
+
+What file is vulnerable to LFI on the development domain?
+img.php
+
+What parameter in the file is vulnerable to LFI?
+file
+
+What file found from the information leak returns an HTTP error code 403 on the administrator domain?
+/var/www/admin/supersecretdir/creds.txt
+
+Using LFI on the development domain read the above file. What are the credentials found from the file?
+admin:DBManagerLogin!
+
+What file is vulnerable to RCE on the administrator domain?
+dashboard.php
+
+What parameter is vulnerable to RCE on the administrator domain?
+cmd
+
+What user is the web server running as?
+www-data
+
+What is the Default Gateway for the Docker Container?
+192.168.100.1
+
+What is the high web port open in the container gateway?
+8080
+
+What is the low database port open in the container gateway?
+3306
+
+What is the server address of the remote database?
+192.168.100.1
+
+What is the password of the remote database?
+!123SecureAdminDashboard321!
+
+What is the username of the remote database?
+admin
+
+What is the database name of the remote database?
+DashboardDB
+
+What username can be found within the database itself?
+gurag
+
+What user is the database running as?
+www-data
+
+What is the full path of the binary with an SUID bit set on L-SRV01?
+/usr/bin/docker
+
+What is the full first line of the exploit for the SUID bit?
+sudo install -m =xs $(which docker) .
+
+What non-default user can we find in the shadow file on L-SRV01?
+linux-admin
+
+What is the plaintext cracked password from the shadow hash?
+linuxrulez
+
+What user can we control for a password reset on S-SRV01?
+gurag
+
+What is the name of the cookie intercepted on S-SRV01?
+user_token
+
+What is the size of the cookie intercepted on S-SRV01?
+110
+
+What page does the reset redirect you to when successfully authenticated on S-SRV01?
+reset.php
+
+What domain user's credentials can we dump on S-SRV01?
+watamet
+
+What is the domain user's password that we can dump on S-SRV01?
+Nothingtoworry!
+
+What is the hostname of the remote endpoint we can authenticate to?
+PC-FILESRV01
+
+What anti-malware product is employed on PC-FILESRV01?
+AMSI
+
+What anti-virus product is employed on PC-FILESRV01?
+Windows Defender
+
+What CLR version is installed on PC-FILESRV01?
+4.0.30319
+
+What PowerShell version is installed on PC-FILESRV01?
+5.1.17763.1
+
+What Windows build is PC-FILESRV01 running on?
+17763.1577
+
+What is the name of the vulnerable application found on PC-FILESRV01?
+kavremover
+
+What is the first listed vulnerable DLL located in the Windows folder from the application
+wow64log.dll
+
+What host has SMB signing disabled?
+DC-SRV01
+

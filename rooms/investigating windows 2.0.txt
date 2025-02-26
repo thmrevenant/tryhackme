@@ -1,0 +1,92 @@
+Investigating Windows 2.0
+https://tryhackme.com/room/investigatingwindows2
+
+What registry key contains the same command that is executed within a scheduled task?
+HKCU\Environment\UserIntMprLogonScript
+
+What analysis tool will immediately close if/when you attempt to launch it?
+procexp64.exe
+
+What is the full WQL Query associated with this script?
+SELECT * FROM Win32_ProcessStartTrace WHERE ProcessName = 'procexp64.exe'	
+
+What is the script language?
+VBScript
+
+What is the name of the other script?
+LaunchBeaconingBackdoor
+
+What is the name of the software company visible within the script?
+Motobit Software
+
+What 2 websites are associated with this software company? (answer, answer)
+http://www.motobit.com, http://motobit.cz
+
+Search online for the name of the script from Q5 and one of the websites from the previous answer. What attack script comes up in your search?
+WMIBackdoor.ps1
+
+What is the location of this file within the local machine?
+C:\TMP
+
+Which 2 processes open and close very quickly every few minutes? (answer, answer)
+mim.exe, powershell.exe
+
+What is the parent process for these 2 processes?
+svchost.exe
+
+What is the first operation for the first of the 2 processes?
+Process Start
+
+Inspect the properties for the 1st occurrence of this process. In the Event tab what are the 4 pieces of information displayed? (answer, answer, answer, answer)
+Parent PID, Command line, Current directory, Environment
+
+Inspect the disk operations, what is the name of the unusual process?
+No process
+
+Run Loki. Inspect the output. What is the name of the module after `Init`?
+WMIScan
+
+Regarding the 2nd warning, what is the name of the eventFilter?
+ProcessStartTrigger
+
+For the 4th warning, what is the class name?
+__FilterToConsumerBinding
+
+What binary alert has the following 4d5a90000300000004000000ffff0000b8000000 as FIRST_BYTES?
+nbtscan.exe
+
+According to the results, what is the description listed for reason 1?
+Known Bad / Dual use classics
+
+Which binary alert is marked as APT Cloaked?
+p.exe
+
+What are the matches? (str1, str2)
+psexesvc.exe, Sysinternals PsExec
+
+Which binary alert is associated with somethingwindows.dmp found in C:\TMP?
+schtasks-backdoor.ps1
+
+Which binary is encrypted that is similar to a trojan?
+xCmd.exe
+
+There is a binary that can masquerade itself as a legitimate core Windows process/image. What is the full path of this binary?
+C:\Users\Public\svchost.exe
+
+What is the full path location for the legitimate version?
+C:\Windows\System32
+
+What is the description listed for reason 1?
+Stuff running where it normally shouldn't
+
+There is a file in the same folder location that is labeled as a hacktool. What is the name of the file?
+en-US.js
+
+What is the name of the Yara Rule MATCH?
+CACTUSTORCH
+
+Which binary didn't show in the Loki results?
+mim.exe
+
+Complete the yar rule file located within the Tools folder on the Desktop. What are 3 strings to complete the rule in order to detect the binary Loki didn't hit on? (answer, answer, answer)
+mk.ps1, mk.exe, v2.0.50727

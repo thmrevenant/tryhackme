@@ -1,0 +1,53 @@
+Hashing Basics
+https://tryhackme.com/room/hashingbasics
+
+What is the SHA256 hash of the passport.jpg file in ~/Hashing-Basics/Task-2?
+77148c6f605a8df855f2b764bcc3be749d7db814f5f79134d2aa539a64b61f02
+
+What is the output size in bytes of the MD5 hash function?
+16
+
+If you have an 8-bit hash output, how many possible hash values are there?
+256
+
+What is the 20th password in rockyou.txt?
+qwerty
+
+Manually check the hash “4c5923b6a6fac7b7355f53bfe2b8f8c1” using the rainbow table above.
+inS3CyourP4$$
+
+Crack the hash “5b31f93c09ad1d065c0491b764d04933” using an online tool.
+tryhackme
+
+Should you encrypt passwords in password-verification systems? Yea/Nay
+Nay
+
+What is the hash size in yescrypt?
+256
+
+What’s the Hash-Mode listed for Cisco-ASA MD5?
+2410
+
+What hashing algorithm is used in Cisco-IOS if it starts with $9$?
+scrypt
+
+Use hashcat to crack the hash, $2a$06$7yoU3Ng8dHTXphAg913cyO6Bjs3K5lBnwq5FJyA6d01pMSrddr1ZG, saved in ~/Hashing-Basics/Task-6/hash1.txt.
+85208520
+
+Use hashcat to crack the SHA2-256 hash, 9eb7ee7f551d2f0ac684981bd1f1e2fa4a37590199636753efe614d4db30e8e1, saved in saved in ~/Hashing-Basics/Task-6/hash2.txt.
+halloween
+
+Use hashcat to crack the hash, $6$GQXVvW4EuM$ehD6jWiMsfNorxy5SINsgdlxmAEl3.yif0/c3NqzGLa0P.S7KRDYjycw5bnYkF5ZtB8wQy8KnskuWQS3Yr1wQ0, saved in ~/Hashing-Basics/Task-6/hash3.txt.
+spaceman
+
+Crack the hash, b6b0d451bbf6fed658659a9e7e5598fe, saved in ~/Hashing-Basics/Task-6/hash4.txt.
+funforyou
+
+What is SHA256 hash of libgcrypt-1.11.0.tar.bz2 found in ~/Hashing-Basics/Task-7?
+09120c9867ce7f2081d6aaa1775386b98c2f2f246135761aae47d81f58685b9c
+
+What’s the hashcat mode number for HMAC-SHA512 (key = $pass)?
+1750
+
+Use base64 to decode RU5jb2RlREVjb2RlCg==, saved as decode-this.txt in ~/Hashing-Basics/Task-8. What is the original word?
+ENcodeDEcode

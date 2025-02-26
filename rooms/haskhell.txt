@@ -1,0 +1,8 @@
+HaskHell
+https://tryhackme.com/room/haskhell
+
+Get the flag in the user.txt file.
+flag{academic_dishonesty}
+
+Obtain the flag in root.txt
+flag{im_purely_functional}

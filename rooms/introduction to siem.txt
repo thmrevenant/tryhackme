@@ -1,0 +1,38 @@
+Introduction to SIEM
+https://tryhackme.com/room/introtosiem
+
+What does SIEM stand for?
+Security Information and Event Management system
+
+Is Registry-related activity host-centric or network-centric?
+host-centric
+
+Is VPN related activity host-centric or network-centric?
+network-centric
+
+In which location within a Linux environment are HTTP logs stored?
+/var/log/httpd
+
+Which Event ID is generated when event logs are removed?
+104
+
+What type of alert may require tuning?
+False Alarm
+
+Click on Start Suspicious Activity, which process caused the alert?
+cudominer.exe
+
+Find the event that caused the alert, which user was responsible for the process execution?
+chris.fort
+
+What is the hostname of the suspect user?
+HR_02
+
+Examine the rule and the suspicious process; which term matched the rule that caused the alert?
+miner
+
+What is the best option that represents the event? Choose from the following:
+True-Positive
+
+Selecting the right ACTION will display the FLAG. What is the FLAG?
+THM{000_SIEM_INTRO}

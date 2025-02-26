@@ -1,0 +1,27 @@
+HTTP Browser Desync
+https://tryhackme.com/room/requestsmugglingbrowserdesync
+
+Which HTTP feature allows you to send multiple requests at once?
+Pipelining
+
+Which HTTP feature allows you to reuse a TCP connection for multiple requests?
+Keep-Alive
+
+Which component is desynchronized during this attack?
+Browser
+
+How many HTTP requests are sent during a Browser Desync attack?
+Three
+
+Which JavaScript function can help to perform a Browser Desync attack?
+fetch
+
+Which security mechanism is bypassed via the Browser Desync attack?
+CORS
+
+Which technique can be combined to a Browser Desync attack to steal a user session?
+XSS
+
+What is the victim flag?
+THM{SMUGGLING_IS_FUN}
+

@@ -1,0 +1,29 @@
+Insekube
+https://tryhackme.com/room/insekube
+
+What ports are open? (comma separated)
+22,80
+
+What is flag 1?
+flag{5e7cc6165f6c2058b11710a26691bb6b}
+
+What is flag 2?
+flag{df2a636de15108a4dc41135d930d8ec1}
+
+What is the version of Grafana running on the machine?
+8.3.0-beta2
+
+What is the CVE you've found?
+CVE-2021-43798
+
+What is the name of the service account running the Grafana service?
+developer
+
+How many pods are running?
+2
+
+What is flag 3?
+flag{288232b2f03b1ec422c5dae50f14061f}
+
+What is root.txt?
+flag{30180a273e7da821a7fe4af22ffd1701}

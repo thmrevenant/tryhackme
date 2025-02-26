@@ -1,0 +1,21 @@
+HTTP Request Smuggling
+https://tryhackme.com/room/httprequestsmuggling
+
+What sits in front of one or more web servers and forwards client requests to the appropriate web server?
+Reverse Proxy
+
+What request header indicates the request or response body size in bytes? This informs the receiving server how much data to expect, ensuring the entire content is received.
+Content-Length
+
+What does CL.TE stand for?
+Content-Length/Transfer-Encoding
+
+What does TE.CL stand for?
+Transfer-Encoding/Content-Length
+
+What does TE.TE stand for?
+Transfer-Encoding/Transfer-Encoding
+
+What is the flag in the dashboard?
+THM{1c4N_$mU66l3!!}
+

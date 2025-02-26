@@ -1,0 +1,35 @@
+Intro to Cloud Security
+https://tryhackme.com/room/introductiontocloudsecurityc6
+
+In Infrastructure as a Service, what will be deployed by the vendor (Hardware or Software)?
+Hardware
+
+What is the type of cloud dedicated to a single customer called?
+Private
+
+What is the first phase in the cloud data lifecycle?
+Create
+
+Click the View Site button at the top of the task to launch the static site in split view. What is the flag after completing the exercise?
+THM{CLOUD_11101}
+
+In which cloud model does the customer become the hostage of cloud providers (vendor locked in)?
+Public
+
+Is it challenging to enforce specific business decisions and procedures in the community cloud (yea/nay)?
+yea
+
+Are FaceID and biometric types of Authentication factors (yea/nay)?
+yea
+
+In a cloud environment, can we create a policy to enable Database access for a user at a specific time of the day (yea/nay)?
+yea
+
+Is it a good practice to operate security groups on the principle of “deny all unless allowed explicitly” (yea/nay)?
+yea
+
+Encryption of data at rest is unnecessary if we carry out encryption at transit (yea/nay)?
+nay
+
+Is it a good practice to keep Disaster Recovery Backups of a server in the same vicinity or data centre (yea/nay)?
+nay

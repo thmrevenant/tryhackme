@@ -1,0 +1,8 @@
+Include
+https://tryhackme.com/room/include
+
+What is the flag value after logging in to the SysMon app?
+THM{!50_55Rf_1S_d_k3Y??!}
+
+What is the content of the hidden text file in /var/www/html?
+THM{505eb0fb8a9f32853b4d955e1f9123ea}

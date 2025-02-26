@@ -1,0 +1,47 @@
+Introduction to CryptOps
+https://tryhackme.com/room/introductiontocryptops
+
+Which key process might involve using HSMs?
+key storage
+
+What can you set so that a key is recoverable after x days?
+purge period
+
+What process invalidates a key before its expiry date?
+Key Revocation
+
+What does RNGs stand for?
+Random number generators
+
+In the context of key generation, what do you call securely configured cloud hosts or jump servers?
+bastion hosts
+
+What does PKI stand for?
+Public Key Infrastructure
+
+What's an example protocol for KDC?
+Kerberos
+
+What types of keys are used in VPNs? (Use the acronym)
+PSK
+
+What access control strategy relies on user attributes, resources, and the current environment? 
+ABAC
+
+What storage solution offers tamper-resistant hardware? 
+HSM
+
+What are CRLs?
+certificate revocation lists
+
+What term refers to a key's lifespan before rotation?
+cryptoperiod
+
+What command checks the overall vault information?
+vault status
+
+What is the token_accessor value after logging in with the root token?
+uSIMacGCxh8Hj14YHTYg6j0o
+
+What's the default Time To Live (TTL) for a token in Vault? (in hours)
+768

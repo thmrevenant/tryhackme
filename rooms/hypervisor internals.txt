@@ -1,0 +1,41 @@
+Hypervisor Internals
+https://tryhackme.com/room/hypervisorinternals
+
+What type of Hypervisors have direct access to bare metal?
+type 1
+
+What type of Hypervisors do not have access to bare metal but run inside and through another Operating System?
+type 2
+
+What is the name of the Hypervisor that can be found as both a type 1 and type 2 Hypervisor?
+Hyper-V
+
+What is the name of the open-source Hypervisor developed by Oracle?
+VirtualBox
+
+As of the time of writing, what is the maximum amount that Microsoft offers for disclosed Hyper-V vulnerabilities?
+$250,000
+
+What category of use do cyber security analysts use Hypervisors to analyse malicious code?
+Research
+
+What is the name of one of the APT groups that has been identified as targeting ESXi Hypervisors?
+ALPHAV
+
+What is the acronym for a virtual CPU?
+vCPU
+
+What is the acronym for a virtual network adapter?
+vNIC
+
+What virtualisation method allows for a Hypervisor to be ran within a virtual machine?
+Nested virtualisation
+
+What is the full CVE of the vulnerability that allowed attackers to exploit guest additions to escape the guest environment? Format: CVE-XXXX-XXXX
+CVE-2018-2693
+
+What name does the VMware guest additions process show up as on the guest?
+VMware Tools Core Service
+
+What is the flag from the practical?
+THM{LAYERS_UPON_LAYERS}

@@ -1,0 +1,24 @@
+Intro to IR and IM
+https://tryhackme.com/room/introtoirandim
+
+At what level (number only) of an incident would the SOC be placed at high alert and to deal with an incident?
+3
+
+At what level (number only) of an incident would it be classified as a cyber crisis?
+4
+
+Which component (IR or IM) is responsible for trying to answer the question: How do we respond to what happened?
+IM
+
+Which component (IR or IM) is responsible for trying to answer the question: What happened?
+IR
+
+What is the value of the flag you receive after matching the roles and responsibilities?
+THM{Roles.and.Responsibilities.of.IR.and.IM}
+
+What is the value of the flag you receive after correctly matching the steps of the incident management process?
+THM{Preparation.is.Key.for.Incident.Management}
+
+What is the value of the flag you receive when you overcome the common pitfalls of a cyber incident?
+THM{Avoiding.the.Common.IM.Mistakes}
+

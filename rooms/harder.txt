@@ -1,0 +1,8 @@
+harder
+https://tryhackme.com/room/harder
+
+Hack the machine and obtain the user Flag (user.txt)
+7e88bf11a579dc5ed66cc798cbe49f76
+
+Escalate your privileges and get the root Flag (root.txt)
+3a7bd72672889e0756b09f0566935a6c

@@ -1,0 +1,8 @@
+How to use TryHackMe
+https://tryhackme.com/room/howtousetryhackme
+
+On your machine (right-hand side), lets list what files and folders there are. We can do this by typing "ls". What is the name of the folder you see?
+testdir
+
+We can see a files content by typing "cat <filename>". List the files in the folder you are in, what is content of the hello.txt file?
+hacking labs

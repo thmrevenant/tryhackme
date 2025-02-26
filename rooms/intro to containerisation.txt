@@ -1,0 +1,29 @@
+Intro to Containerisation
+https://tryhackme.com/room/introtocontainerisation
+
+What is the name of the kernel feature that allows for processes to use resources of the Operating System without being able to interact with other processes? 
+namespace
+
+In a normal configuration, can other containers interact with each other? (yay/nay)
+nay
+
+What does an application become when it is published using Docker? Format: An xxxxx (fill in the x's) 
+An Image
+
+What is the abbreviation of the programming syntax language that Docker uses?
+YAML
+
+In what year was Docker originally created?
+2013
+
+Where was Docker first showcased?
+PyCon
+
+What version of Unix had the first concepts of containerisation?
+V7
+
+What command can we use to view a list of running processes?
+ps aux
+
+Containerise the applications in the static site. What is the flag? 
+THM{APPLICATION_SHIPPED}

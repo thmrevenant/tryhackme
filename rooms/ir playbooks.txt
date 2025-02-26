@@ -1,0 +1,38 @@
+IR Playbooks
+https://tryhackme.com/room/irplaybooks
+
+Can multiple use cases trigger a single playbook? y/n
+y
+
+What stage of the IR process can be translated into prerequisites for the playbooks?
+Preparation
+
+What steps should we follow if the incident is a False Positive?
+Close incident
+
+To recover systems affected by an incident, which configuration should we bring them back to?
+last known good configuration
+
+What is the last stage of the IR process?
+Post-incident activity
+
+What is the name of the process that initiated this communication?
+taskhsvc.exe
+
+Is this process malicious, as per VirusTotal? y/n
+n
+
+What is the name of the parent process of this process?
+@WanaDecryptor@.exe
+
+This process's parent was launched by another process, which is a notorious ransomware. Which ransomware is that?
+Wannacry
+
+Which playbook should be followed to respond to this incident?
+malware playbook
+
+Is this incident an FP (False Positive) or a TP (True Positive)?
+TP
+
+In case the incident is a TP, what will be the next step in the IR process?
+Containment

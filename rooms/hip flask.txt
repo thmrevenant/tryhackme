@@ -1,0 +1,11 @@
+Hip Flask
+https://tryhackme.com/room/hipflask
+
+Is the network portion internal or external?
+External
+
+What subdomain hosts the webapp we're looking for?
+hipper
+
+What is the root user's password hash?
+$6$./Fh3mWMsk8X29kq$6CvaDzV7zlXKn1MMQjXtO.abB4/7ecNKBFkQvEWsLkgM8raAZeuSHZurnXG01pqZ4BY2ubk/WgIbo4ee.wnaP0

@@ -1,0 +1,8 @@
+Jacob the Boss
+https://tryhackme.com/room/jacobtheboss
+
+user.txt
+f4d491f280de360cc49e26ca1587cbcc
+
+root.txt
+29a5641eaa0c01abe5749608c8232806

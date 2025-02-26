@@ -1,0 +1,11 @@
+Introduction to OWASP ZAP
+https://tryhackme.com/room/learnowaspzap
+
+What does ZAP stand for?
+Zed Attack Proxy
+
+What IP do we use for the proxy?            
+127.0.0.1
+
+Use ZAP to bruteforce the DVWA 'brute-force' page. What's the password?
+password

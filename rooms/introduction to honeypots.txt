@@ -1,0 +1,41 @@
+Introduction To Honeypots
+https://tryhackme.com/room/introductiontohoneypots
+
+Create a file and then log back in is the file still there? (Yay/Nay)
+Nay
+
+How many passwords include the word "password" or some other variation of it e.g "p@ssw0rd"
+15
+
+What is arguably the most common tool for brute-forcing SSH?
+hydra
+
+What intrusion prevention software framework is commonly used to mitigate SSH brute-force attacks?
+Fail2Ban
+
+What CPU does the honeypot "use"?
+Intel(R) Core(TM) i9-11900KB CPU @ 3.30GHz
+
+Does the honeypot return the correct values when uname -a is run? (Yay/Nay)
+Nay
+
+What flag must be set to pipe wget output into bash?
+-O
+
+How would you disable bash history using unset?
+unset HISTFILE
+
+What brand of device is the bot in the first sample searching for? (BotCommands/Sample1.txt)
+Mikrotik
+
+What are the commands in the second sample changing? (BotCommands/Sample2.txt)
+root password
+
+What is the name of the group that runs the botnet in the third sample? (BotCommands/Sample3.txt)
+Outlaw
+
+What application is being targetted in the first sample? (Tunnelling/Sample1.txt)
+WordPress
+
+Is the URL in the second sample malicious? (Tunnelling/Sample2.txt) (Yay/Nay)
+Nay

@@ -1,0 +1,38 @@
+JavaScript Basics
+https://tryhackme.com/room/javascriptbasics
+
+What type of data type is this: 'Neo'?
+String
+
+What data type is true/false?
+boolean
+
+What is John's occupation?
+Master Hacker
+
+What tag is used for linking a JavaScript file to HTML?
+script
+
+What type of brackets are used for arrays?
+[]
+
+What color pill did we choose?
+Red Pill
+
+﻿What is the output of this code?
+Tyrell
+
+Loops repeat until the written code is finished running (true/false)
+true
+
+What loop doesn't require the condition to be true for it execute at least once?
+do...while
+
+What is the DOM?
+Document Object Model
+
+What is it called when XSS is used to record keystrokes?
+Keylogging
+
+Sort the array [1,10,5,15,2,7,28,900,45,18,27]
+[1,2,5,7,10,15,18,27,28,45,900]

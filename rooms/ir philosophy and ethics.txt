@@ -1,0 +1,38 @@
+IR Philosophy and Ethics
+https://tryhackme.com/room/irphilosophyethics
+
+During containment, what must be done to compromised systems to prevent more damage?
+Isolate and quarantine
+
+An adversary's entry point to an organisation can be identified as?
+Ground zero
+
+What key action must be taken during recovery?
+Patch vulnerabilities
+
+As a DFIR analyst, one must avoid any bias. What principle would you be embodying?
+Objectivity
+
+Creating a map of the data handling journey during evidence preservation is establishing a what?
+chain of custody
+
+What does providing regular updates to stakeholders ensure?
+Transparency
+
+Which duty involves building and maintaining trust with stakeholders during a cyber breach investigation?
+Trustworthiness
+
+To ensure transparency, DFIR teams have a duty to?
+Inform
+
+Based on the duty to inform case study, what should be considered when deciding whether to investigate a breach? (Answer1 vs Answer2)
+Risk vs Embarrassment
+
+Based on the duty to responsible collection case section, what should be set in advance to prevent excessive data collection?
+Clear policies and procedures
+
+Under which duty would teams ensure to operate within the bounds of the law and organisational policies?
+Authorisation
+
+What is the flag?
+THM{Face_Your_DFIR_Ethical_Dilemmas}

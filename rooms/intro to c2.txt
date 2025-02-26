@@ -1,0 +1,41 @@
+Intro to C2
+https://tryhackme.com/room/introtoc2
+
+What is the term for the software on a compromised computer that communicates back to a command and control (C2) server?
+Agent
+
+What is the beaconing option that introduces a random delay value to the sleep timer?
+Jitter
+
+What is the term for the first portion of a Staged payload?
+Dropper
+
+What is the name of the communication method that can potentially allow access to a restricted network segment that communicates via TCP ports 139 and 445?
+SMB Beacon
+
+Which listener should you choose if you have a device that cannot easily access the internet?
+DNS
+
+Which listener should you choose if you're accessing a restricted network segment?
+SMB
+
+Which listener should you choose if you are dealing with a Firewall that does protocol inspection?
+HTTPS
+
+What is the Administrator's NTLM hash?
+c156d5d108721c5626a6a054d6e0943c
+
+What flag can be found after gaining Administrative access to the PC?
+THM{bd6ea6c871dced619876321081132744}
+
+What flag can be found after gaining access to Ted's user account?
+THM{217fa45e35f8353ffd04cfc0be28e760}
+
+What is Ted's NTLM Hash?
+2e2618f266da8867e5664425c1309a5c
+
+What setting name that allows you to modify the User Agent field in a Meterpreter payload?
+HttpUserAgent
+
+What setting name that allows you to modify the Host header in a Meterpreter payload?
+HttpHostHeader

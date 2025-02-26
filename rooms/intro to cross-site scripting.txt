@@ -1,0 +1,32 @@
+Intro to Cross-site Scripting
+https://tryhackme.com/room/xss
+
+What does XSS stand for?
+Cross-Site Scripting
+
+Which document property could contain the user's session token?
+document.cookie
+
+Which JavaScript method is often used as a Proof Of Concept?
+alert
+
+Where in an URL is a good place to test for reflected XSS?
+parameters
+
+How are stored XSS payloads usually stored on a website?
+database
+
+What unsafe JavaScript method is good to look for in source code?
+eval()
+
+What tool can you use to test for Blind XSS?
+XSS Hunter Express
+
+What type of XSS is very similar to Blind XSS?
+Stored XSS
+
+What is the flag you received from level six?
+THM{XSS_MASTER}
+
+What is the value of the staff-session cookie?
+4AB305E55955197693F01D6F8FD2D321

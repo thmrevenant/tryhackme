@@ -1,0 +1,44 @@
+Hunt Me I: Payment Collectors
+https://tryhackme.com/room/paymentcollectors
+
+What was the name of the ZIP attachment that Michael downloaded?
+Invoice_AT_2023-227.zip
+
+What was the contained file that Michael extracted from the attachment?
+Payment_Invoice.pdf.lnk.lnk
+
+What was the name of the command-line process that spawned from the extracted file attachment?
+powershell.exe
+
+What URL did the attacker use to download a tool to establish a reverse shell connection?
+https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1
+
+What port did the workstation connect to the attacker on?
+19282
+
+What was the first native Windows binary the attacker ran for system enumeration after obtaining remote access?
+systeminfo.exe
+
+What is the URL of the script that the attacker downloads to enumerate the domain?
+https://raw.githubusercontent.com/PowerShellEmpire/PowerTools/master/PowerView/powerview.ps1
+
+What was the name of the file share that the attacker mapped to Michael's workstation?
+SSF-FinancialRecords
+
+What directory did the attacker copy the contents of the file share to?
+C:\Users\michael.ascot\downloads\exfiltration
+
+What was the name of the Excel file the attacker extracted from the file share?
+ClientPortfolioSummary.xlsx
+
+What was the name of the archive file that the attacker created to prepare for exfiltration?
+exfilt8me.zip
+
+What is the MITRE ID of the technique that the attacker used to exfiltrate the data?
+T1048
+
+What was the domain of the attacker's server that retrieved the exfiltrated data?
+haz4rdw4re.io
+
+The attacker exfiltrated an additional file from the victim's workstation. What is the flag you receive after reconstructing the file?
+THM{1497321f4f6f059a52dfb124fb16566e}

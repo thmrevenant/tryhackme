@@ -1,0 +1,30 @@
+Intro to SSRF
+https://tryhackme.com/room/ssrfqi
+
+What does SSRF stand for?
+Server-Side Request Forgery
+
+As opposed to a regular SSRF, what is the other type?
+Blind
+
+What is the flag from the SSRF Examples site?
+THM{SSRF_MASTER}
+
+Based on simple observation, which of the following URLs is more likely to be vulnerable to SSRF?
+3
+
+What method can be used to bypass strict rules?
+Open Redirect
+
+What IP address may contain sensitive data in a cloud environment?
+169.254.169.254
+
+What type of list is used to permit only certain input?
+Allow List
+
+What type of list is used to stop certain input?
+Deny List
+
+What is the flag from the /private directory?
+THM{YOU_WORKED_OUT_THE_SSRF}
+

@@ -1,0 +1,65 @@
+Intro to Kubernetes
+https://tryhackme.com/room/introtok8s
+
+Which benefit of Kubernetes means that it can run anywhere on any type of infrastructure?
+highly portable
+
+Fill in the blank "Kubernetes is a _________ _____________ system".
+container orchestration
+
+What is the smallest deployable unit of computing you can create in Kubernetes?
+pod
+
+Which control plane component is a key/value store which contains data pertaining to the cluster and its current state?
+etcd
+
+Which worker node component is responsible for network communication within the cluster?
+kube-proxy
+
+Which Kubernetes component exposes pods and serves as an access point?
+service
+
+Which Kubernetes component can guarantee the availability of X number of pods? 
+replicaset
+
+What Kubernetes component is used to define a desired state?
+deployments
+
+In a config file, you have just declared that you want 4 nginx pods. In which one of the 'required fields' has this been declared?
+spec
+
+The configuration file is for a deployment. In which one of the 'required fields' is this declared?
+kind
+
+The pods in this deployment will be exposed by a service. In the service configuration file, the target port was set to 80. What should you put as the 'containerPort'?
+80
+
+...troubleshoot a pod by gathering some details about it?
+describe
+
+...access the container's shell?
+exec
+
+...check the status of running pods?
+get
+
+...turn a defined configuration (YAML file) into a running process?
+apply
+
+Which best container security practice is used to regulate access to a Kubernetes cluster and its resources?
+RBAC
+
+What is used to define security policies at 3 levels?
+Pod Security Standards
+
+What enforces these policies?
+Pod Security Admission
+
+What Kubernetes object can be used to store sensitive information and should, therefore, be managed securely?
+Secret
+
+Can you master the basics of Kubernetes and retrieve the flag?
+THM{k8s_k3nno1ssarus}
+
+What apiVersion is used for the RoleBinding?
+rbac.authorization.k8s.io/v1

@@ -1,0 +1,50 @@
+IR Difficulties and Challenges
+https://tryhackme.com/room/irdifficultiesandchallenges
+
+Who are the primary individuals or groups that must be kept informed and involved to ensure an understanding of current risks?
+Stakeholders
+
+What kind of report updates key individuals and establishes a unified source of truth regarding risks?
+Situation Report
+
+When prioritising tool investments, what strategic focus should teams consider to ensure alignment with the organisation's security concerns?
+Threat Model
+
+What prioritisation method involves conducting a comprehensive risk assessment to identify critical assets?
+Risk-Based Prioritisation
+
+What centralised system can IT and security teams use to track an up-to-date inventory across an organisation's environments?
+Asset Management
+
+What type of policy dictates how long and in what manner an organisation must retain and manage its data?
+Data Retention Policy
+
+What technique involves removing embedded information from files, such as creation date, author details, and modification date, to hinder the investigation process?
+Metadata Stripping
+
+What technique involves altering log files within a computer system or network to conceal activities and mislead investigators?
+Log Manipulation
+
+Use ExifTool to look at the metadata attached to office.jpg. What is the flag you discover?
+THM{M3T4_M4DN3SS}
+
+Use OutGuess to check for hidden data embedded inside office.jpg. What is the flag you discover?
+THM{ST3G_T4STIC}
+
+As a combative measure of cognitive bias, what can teams use to facilitate objective and rational decisions?
+Decision-making frameworks
+
+What flag do you receive after completing the Culture challenge?
+THM{19fc1cb5da49c8d9e1fa59ddc65ca48d}
+
+What flag do you receive after completing the Resource Constraints challenge?
+THM{242f97166d3d03a3d3bab6bb11011623}
+
+What flag do you receive after completing the Data Visibility challenge?
+THM{4c7ed9e2bba7d998954cdf0980923788}
+
+What flag do you receive after completing the Anti-Forensics challenge?
+THM{7644848b64724d84a0bc4165c4fab2ce}
+
+What flag do you receive after completing the Human Error challenge?
+THM{c042f61657bc18591514d602a641f106}

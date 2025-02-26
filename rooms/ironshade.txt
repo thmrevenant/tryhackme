@@ -1,0 +1,38 @@
+IronShade
+https://tryhackme.com/room/ironshade
+
+What is the Machine ID of the machine we are investigating?
+dc7c8ac5c09a4bbfaf3d09d399f10d96
+
+What backdoor user account was created on the server?
+mircoservice
+
+What is the cronjob that was set up by the attacker for persistence?
+@reboot /home/mircoservice/printer_app
+
+Examine the running processes on the machine. Can you identify the suspicious-looking hidden process from the backdoor account?
+.strokes
+
+How many processes are found to be running from the backdoor account’s directory?
+2
+
+What is the name of the hidden file in memory from the root directory?
+.systmd
+
+What suspicious services were installed on the server? Format is service a, service b in alphabetical order.
+backup.service, strokes.service
+
+Examine the logs; when was the backdoor account created on this infected system?
+Aug  5 22:05:33
+
+From which IP address were multiple SSH connections observed against the suspicious backdoor account?
+10.11.75.247 
+
+How many failed SSH login attempts were observed on the backdoor account?
+8
+
+Which malicious package was installed on the host?
+pscanner
+
+What is the secret code found in the metadata of the suspicious package?
+{_tRy_Hack_ME_}

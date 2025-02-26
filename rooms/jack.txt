@@ -1,0 +1,8 @@
+Jack
+https://tryhackme.com/room/jack
+
+Gain initial access and obtain the user flag.
+0052f7829e48752f2e7bf50f1231548a
+
+Escalate your privileges to root. Whats the root flag?
+b8b63a861cc09e853f29d8055d64bffb

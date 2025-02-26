@@ -1,0 +1,23 @@
+IDOR
+https://tryhackme.com/room/idor
+
+What does IDOR stand for?
+Insecure Direct Object Reference
+
+What is the Flag from the IDOR example website?
+THM{IDOR-VULN-FOUND}
+
+What is a common type of encoding used by websites?
+base64
+
+What is a common algorithm used for hashing IDs?
+md5
+
+What is the minimum number of accounts you need to create to check for IDORs between accounts?
+2
+
+What is the username for user id 1?
+adam84
+
+What is the email address for user id 3?
+j@fakemail.thm

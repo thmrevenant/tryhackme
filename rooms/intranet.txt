@@ -1,0 +1,23 @@
+Intranet
+https://tryhackme.com/room/securesolacodersintra
+
+What is the first web application flag?
+THM{3d60bb5209e4574fc3dc4df418999836}
+
+What is the second web application flag?
+THM{98aa3c0ce224d523e84f2675d63d0971}
+
+What is the third web application flag?
+THM{4ccacfd73710ac18b4ac15646b32380a}
+
+What is the fourth web application flag?
+THM{4f3f2ebe2cec24589d4140e484b0ecd1}
+
+What is the user.txt flag?
+THM{79445fbd3ed0b87ae248fc01a44a06fd}
+
+What is the user2.txt flag?
+THM{5c8f3b3bcbeeecded0f2541daf15a57c}
+
+What is the root.txt flag?
+THM{6cc71ed813c926df497f8c6001131b77}

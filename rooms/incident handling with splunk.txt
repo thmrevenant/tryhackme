@@ -1,0 +1,62 @@
+Incident handling with Splunk
+https://tryhackme.com/room/splunk201
+
+One suricata alert highlighted the CVE value associated with the attack attempt. What is the CVE value?
+CVE-2014-6271
+
+What is the CMS our web server is using?
+joomla
+
+What is the web scanner, the attacker used to perform the scanning attempts?
+acunetix
+
+What is the IP address of the server imreallynotbatman.com?
+192.168.250.70
+
+What was the URI which got multiple brute force attempts?
+/joomla/administrator/index.php
+
+Against which username was the brute force attempt made?
+admin
+
+What was the correct password for admin access to the content management system running imreallynotbatman.com?
+batman
+
+How many unique passwords were attempted in the brute force attempt?
+412
+
+What IP address is likely attempting a brute force password attack against imreallynotbatman.com?
+23.22.63.114
+
+After finding the correct password, which IP did the attacker use to log in to the admin panel?
+40.80.148.42
+
+Sysmon also collects the Hash value of the processes being created. What is the MD5 HASH of the program 3791.exe?
+AAE3F5A29935E6ABCC2C2754D12A9AF0
+
+Looking at the logs, which user executed the program 3791.exe on the server?
+NT AUTHORITY\IUSR
+
+Search hash on the virustotal. What other name is associated with this file 3791.exe?
+ab.exe
+
+What is the name of the file that defaced the imreallynotbatman.com website ?
+poisonivy-is-coming-for-you-batman.jpeg
+
+Fortigate Firewall 'fortigate_utm' detected SQL attempt from the attacker's IP 40.80.148.42. What is the name of the rule that was triggered during the SQL Injection attempt?
+HTTP.URI.SQL.Injection
+
+This attack used dynamic DNS to resolve to the malicious IP. What fully qualified domain name (FQDN) is associated with this attack?
+prankglassinebracket.jumpingcrab.com
+
+What IP address has P01s0n1vy tied to domains that are pre-staged to attack Wayne Enterprises?
+23.22.63.114
+
+Based on the data gathered from this attack and common open-source intelligence sources for domain names, what is the email address that is most likely associated with the P01s0n1vy APT group?
+lillian.rose@po1s0n1vy.com
+
+What is the HASH of the Malware associated with the APT group?
+c99131e0169171935c5ac32615ed6261
+
+What is the name of the Malware associated with the Poison Ivy Infrastructure?
+MirandaTateScreensaver.scr.exe

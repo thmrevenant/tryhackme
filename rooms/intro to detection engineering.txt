@@ -1,0 +1,23 @@
+Intro to Detection Engineering
+https://tryhackme.com/room/introtodetectionengineering
+
+Which detection type focuses on misalignments within the current infrastructure?
+Configuration
+
+Which detection approach involves building an asset or activity baseline profile for detection?
+Modelling
+
+Which type of detection integrates with defensive playbooks?
+Threat Behaviour
+
+Which framework looks at how to make it difficult for an adversary to change their approach when detected?
+Pyramid of Pain
+
+What is the improved Cyber Kill Chain framework called?
+The Unified Kill Chain
+
+How many phases are in the improved kill chain?
+18
+
+What is the flag?
+THM{Sup3r-D3t3ct1v3}

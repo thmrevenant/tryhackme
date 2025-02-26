@@ -1,0 +1,50 @@
+Investigating Windows
+https://tryhackme.com/room/investigatingwindows
+
+Whats the version and year of the windows machine?
+Windows Server 2016
+
+Which user logged in last?
+Administrator
+
+When did John log onto the system last?
+03/02/2019 5:48:32 PM
+
+What IP does the system connect to when it first starts?
+10.34.2.3
+
+What two accounts had administrative privileges (other than the Administrator user)?
+Jenny, Guest
+
+Whats the name of the scheduled task that is malicous.
+Clean file system
+
+What file was the task trying to run daily?
+nc.ps1
+
+What port did this file listen locally for?
+1348
+
+When did Jenny last logon?
+Never
+
+At what date did the compromise take place?
+03/02/2019
+
+During the compromise, at what time did Windows first assign special privileges to a new logon?
+03/02/2019 4:04:49 PM
+
+What tool was used to get Windows passwords?
+Mimikatz
+
+What was the attackers external control and command servers IP?
+76.32.97.132
+
+What was the extension name of the shell uploaded via the servers website?
+.jsp
+
+What was the last port the attacker opened?
+1337
+
+Check for DNS poisoning, what site was targeted?
+google.com

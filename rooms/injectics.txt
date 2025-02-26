@@ -1,0 +1,8 @@
+Injectics
+https://tryhackme.com/room/injectics
+
+What is the flag value after logging into the admin panel?
+THM{INJECTICS_ADMIN_PANEL_007}
+
+What is the content of the hidden text file in the flags folder?
+THM{5735172b6c147f4dd649872f73e0fdea}

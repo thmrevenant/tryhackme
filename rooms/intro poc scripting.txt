@@ -1,0 +1,47 @@
+Intro PoC Scripting
+https://tryhackme.com/room/intropocscripting
+
+What is the target's platform and version number?
+Webmin 1.580
+
+What is the associated CVE for this platform?
+CVE-2012-2982
+
+Which file does the vulnerability exist in?
+file/show.cgi
+
+What program/command would be the most effective to use in this exploit?
+system shell
+
+What's the original disclosure date of this exploit?
+September 6 2012
+
+What HTTP response code do we expect after the initial POST request?
+302
+
+What does sid stand for and what is it's purpose?
+Session ID, authentication
+
+In the check function, what is it doing to the cookies?
+format
+
+In the second request of the check function, what method is piped into the command?
+rand_text_alphanumeric
+
+Which HTTP response header allows us to send an authenticated POST request?
+Set-Cookie
+
+Which is the correct method for formatting cookies in this example?
+any
+
+What data type does the payload need to be?
+string
+
+Why do we need to use "bash -c exec" instead of just "bash -i"
+replaces current shell process
+
+What is the purpose of "<&1" in the payload function?
+redirects socket output stream to bash input stream
+
+Run the program and listen for the shell. What is the /root/root.txt flag?
+THM{ur_So_1337!@#$}

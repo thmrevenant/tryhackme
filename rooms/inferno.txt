@@ -1,0 +1,8 @@
+Inferno
+https://tryhackme.com/room/inferno
+
+Locate and find local.txt
+77f6f3c544ec0811e2d1243e2e0d1835
+
+Locate and find proof.txt
+f332678ed0d0767d7434b8516a7c6144

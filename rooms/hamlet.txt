@@ -1,0 +1,23 @@
+Hamlet
+https://tryhackme.com/room/hamlet
+
+What is Michael's password?
+vnsanctified
+
+Flag 1
+THM{1_most_mechanical_and_dirty_hand}
+
+Flag 2
+THM{2_ophelia_s_grave}
+
+Flag 3
+THM{3_i_was_the_more_deceived}
+
+Flag 4
+THM{4_the_murder_of_gonzago}
+
+Flag 5
+THM{5_murder_most_foul}
+
+Flag 6
+THM{6_though_this_be_madness_yet_there_is_method_in_t}

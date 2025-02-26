@@ -1,0 +1,30 @@
+Hosted Hypervisors
+https://tryhackme.com/room/hostedhypervisors
+
+What is the PID of the process vmware.exe on the memory dump: memdump.mem?
+8096
+
+What is the name of VirtualBox service process in Windows?
+VBoxSVC.exe
+
+Where is the VboxManage tool typically located?
+C:\Program Files\Oracle\VirtualBox
+
+Which file contains logs about the installation and the OS?
+Vbox.log
+
+What file should you look at to determine which VMs have an autostart functionality?
+vmautostart.xml
+
+Where are the Hypervisor logs typically located?
+C:\ProgramData\VMware\logs
+
+Investigate the VMware logs. Can you find the flag that starts with THM{}?
+THM{You_f1nd_th3_l0g!}
+
+Analyze the processes on the memory dump  C:\Users\Administrator\Desktop\exercise.mem on the room VM. What is the PID of the VBoxSVC.exe process?
+6052
+
+Analyze the processes on the memory dump  C:\Users\Administrator\Desktop\exercise.mem on the room VM. What is the IP of the Virtual Network Adapter?
+192.168.182.139
+

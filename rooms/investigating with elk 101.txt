@@ -1,0 +1,38 @@
+Investigating with ELK 101
+https://tryhackme.com/room/investigatingwithelk101
+
+Logstash is used to visualize the data. (yay / nay)
+nay
+
+Elasticstash supports all data formats apart from JSON. (yay / nay)
+nay
+
+Select the index vpn_connections and filter from 31st December 2021 to 2nd Feb 2022. How many hits are returned?
+2861
+
+Which IP address has the max number of connections?
+238.163.231.224
+
+Which user is responsible for max traffic?
+James
+
+Apply Filter on UserName Emanda; which SourceIP has max hits?
+107.14.1.247
+
+On 11th Jan, which IP caused the spike observed in the time chart?
+172.201.60.191
+
+How many connections were observed from IP 238.163.231.224, excluding the New York state?
+48
+
+Create a search query to filter out the logs from Source_Country as the United States and show logs from User James or Albert. How many records were returned?
+161
+
+As User Johny Brown was terminated on 1st January 2022, create a search query to determine how many times a VPN connection was observed after his termination.
+1
+
+Which user was observed with the greatest number of failed attempts?
+Simon
+
+How many wrong VPN connection attempts were observed in January?
+274

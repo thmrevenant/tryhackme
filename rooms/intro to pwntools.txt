@@ -1,0 +1,71 @@
+Intro To Pwntools
+https://tryhackme.com/room/introtopwntools
+
+Does Intro2pwn1 have FULL RELRO (Y or N)?
+Y
+
+Does Intro2pwn1 have RWX segments (Y or N)?
+N
+
+Does Intro2pwn2 have a stack canary (Y or N)?
+N
+
+Does Intro2pwn2 not have PIE (Y or N)?
+Y
+
+Cause a buffer overflow on intro2pwn1 by inputting a long string such as AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. What was detected? 
+Stack Smashing
+
+Now cause a buffer overflow on intro2pwn2. What error do you get?
+Segmentation Fault
+
+Which user owns both the flag.txt and intro2pwn3 file?
+dizmas
+
+Use checksec on intro2pwn3. What bird-themed protection is missing?
+canary
+
+What ascii letter sequence is 0x4a4a4a4a (pwndbg should tell you).
+JJJJ
+
+What is the output of "cyclic 12"?
+aaaabaaacaaa
+
+What pattern, in hex, was the eip overflowed with?
+0x6161616a
+
+What is the flag?
+flag{13@rning_2_pwn!}
+
+What port is serving our challenge?
+1337
+
+Please use checksec on serve_test. Is there a stack canary? (Y or N)
+Y
+
+What is the flag?
+flag{n3tw0rk!ng_!$_fun}
+
+What does ASLR stand for?
+address space layout randomization
+
+Who owns intro2pwnFinal?
+root
+
+Use checksec on intro2pwn final. Is NX enabled? (Y or N)
+N
+
+Please use the cyclic tool and gdb to find the eip. What letter sequence fills the eip?
+taaa
+
+Run your exploit with the breakpoint outside of gdb (./intro2pwnFinal < output_file). What does it say when you hit the breakpoint?
+Trace/breakpoint trap
+
+Run the command "shellcraft i386.linux.sh -f a", which will print our shellcode in assembly format. The first line will tell you that it is running a function from the Unix standard library, with the parameters of "(path='/bin///sh', argv=['sh'], envp=0)." What function is it using?
+execve
+
+Run whoami once you have the shell. Who are you?
+root
+
+What is the flag?
+flag{pwn!ng_!$_fr33d0m}

@@ -1,0 +1,32 @@
+Identification & Scoping
+https://tryhackme.com/room/identificationandscoping
+
+What is the Subject of Ticket#2023012398704232?
+Weird Error in Outlook
+
+According to your colleague John, the issue outlined on Ticket#2023012398704232 could be related to what?
+SPF, DKIM & DMARC records
+
+Your colleague requested what kind of data pertaining to the machine WKSTN-02?
+Web Proxy logs
+
+Based on Ticket#2023012398704231 and Asset Inventory shown in this task, who owns the computer that needs Endpoint Protection definitions updated?
+Derick Marshall
+
+Based on the email exchanges and SoD shown in this task, what was the phishing domain where the compromised credentials in Ticket#2023012398704232 were submitted?
+b24b-158-62-19-6.ngrok-free.app
+
+Based on Ticket#2023012398704233, what phishing domain should be added to the SoD?
+kennaroads.buzz
+
+Concerning Ticket#2023012398704232 and according to your colleague John, what domain should be added to the SoD since it was used for email spoofing?
+emkei.cz
+
+Concerning the available artefacts gathered for analysis of Ticket#2023012398704232, who is the other user that received a similar phishing email but did not open a ticket nor report the issue?
+alexander.swift@swiftspend.finance
+
+Concerning Ticket#2023012398704232, what additional IoC could be added to the SoD and be used as a pivot point for discovery?
+sales.tal0nix@gmail.com
+
+Based on the email exchanges and attachments in those exchanges, what is the password of the compromised user?
+Passw0rd!

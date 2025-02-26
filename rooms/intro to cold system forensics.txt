@@ -1,0 +1,29 @@
+Intro to Cold System Forensics
+https://tryhackme.com/room/introtocoldsystemforensics
+
+Under what two system states are cold system forensics mainly applied?
+Dormant or Powered-off
+
+What type of attack provided a research basis for cold system forensics?
+cold boot attack
+
+The making of a bit-by-bit copy of forensic data is known as?
+Disk imaging
+
+What restricts access to sensitive data?
+Access control
+
+Which sources of evidence are part of the most volatile on a host?
+CPU registers and cache
+
+Using hash functions seeks to minimise risks associated with what element?
+data integrity
+
+What is the name of the documentation responsible for listing the forensic evidence and its accompanying responsibilities?
+chain of custody
+
+What flag do you receive after completing the Order of Volatility challenge?
+THM{729a68a1253a5f4c7126110c0c600740}
+
+What flag do you receive after completing the Chain of Custody challenge?
+THM{4de91692a4057c140d5a09875aba0431}

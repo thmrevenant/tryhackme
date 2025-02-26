@@ -1,0 +1,8 @@
+Hammer
+https://tryhackme.com/room/hammer
+
+What is the flag value after logging in to the dashboard?
+THM{AuthBypass3D}
+
+What is the content of the file /home/ubuntu/flag.txt?
+THM{RUNANYCOMMAND1337}

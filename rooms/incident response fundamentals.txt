@@ -1,0 +1,41 @@
+Incident Response Fundamentals
+https://tryhackme.com/room/incidentresponsefundamentals
+
+What is triggered after an event or group of events point at a harmful activity?
+Alert
+
+If a security solution correctly identifies a harmful activity from a set of events, what type of alert is it?
+true positive
+
+If a fire alarm is triggered by smoke after cooking, is it a true positive or a false positive?
+false positive
+
+A user's system got compromised after downloading a file attachment from an email. What type of incident is this?
+malware infection
+
+What type of incident aims to disrupt the availability of an application?
+Denial of service 
+
+The Security team disables a machine's internet connection after an incident. Which phase of the SANS IR lifecycle is followed here?
+containment
+
+Which phase of NIST corresponds with the lessons learned phase of the SANS IR lifecycle?
+Post Incident Activity
+
+Step-by-step comprehensive guidelines for incident response are known as?
+Playbooks
+
+What was the name of the malicious email sender? 
+Jeff Johnson
+
+What was the threat vector?
+Email Attachment
+
+How many devices downloaded the email attachment?
+3
+
+How many devices executed the file?
+1
+
+What is the flag found at the end of the exercise? 
+THM{My_First_Incident_Response}

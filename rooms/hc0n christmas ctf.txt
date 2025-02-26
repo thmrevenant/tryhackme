@@ -1,0 +1,8 @@
+hc0n Christmas CTF
+https://tryhackme.com/room/hc0nchristmasctf
+
+What is the user flag?
+thm{hc0n_christmas_2019!!!}
+
+What is the root flag?
+thm{3xplo1t_my_m1nd}

@@ -1,0 +1,62 @@
+Intro to Docker
+https://tryhackme.com/room/introtodockerk8pdqk
+
+If we wanted to pull a docker image, what would our command look like?
+docker pull
+
+If we wanted to list all images on a device running Docker, what would our command look like?
+docker image ls
+
+Let's say we wanted to pull the image "tryhackme" (no quotations); what would our command look like?
+docker pull tryhackme
+
+Let's say we wanted to pull the image "tryhackme" with the tag "1337" (no quotations). What would our command look like?
+docker pull tryhackme:1337
+
+What would our command look like if we wanted to run a container interactively?
+docker run -it
+
+What would our command look like if we wanted to run a container in "detached" mode?
+docker run -d
+
+Let's say we want to run a container that will run and bind a webserver on port 80. What would our command look like?
+docker run -p 80:80
+
+How would we list all running containers?
+docker ps
+
+Now, how would we list all containers (including stopped)?
+docker ps -a
+
+What instruction would we use to specify what base image the container should be using?
+FROM
+
+What instruction would we use to tell the container to run a command?
+RUN
+
+What docker command would we use to build an image using a Dockerfile?
+build
+
+Let's say we want to name this image; what argument would we use?
+-t
+
+I want to use docker-compose  to start up a series of containers. What argument allows me to do this?
+up
+
+I want to use docker-compose  to delete the series of containers. What argument allows me to do this?
+down
+
+What is the name of the .yml file that docker-compose uses?
+docker-compose.yml
+
+What does the term "IPC" stand for?
+Interprocess Communication
+
+What technology can the Docker Server be equalled to?
+API
+
+Connect to the machine. What is the name of the container that is currently running?
+CloudIsland
+
+After starting the container, try to connect to https://LAB_WEB_URL.p.thmlabs.com/ in your browser. What is the flag?
+THM{WEBSERVER_CONTAINER}

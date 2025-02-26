@@ -1,0 +1,42 @@
+Introductory Researching
+https://tryhackme.com/room/introtoresearch
+
+In the Burp Suite Program that ships with Kali Linux, what mode would you use to manually send a request (often repeating a captured request numerous times)?
+Repeater
+
+What hash format are modern Windows login passwords stored in?
+NTLM
+
+What are automated tasks called in Linux?
+Cron Jobs
+
+What number base could you use as a shorthand for base 2 (binary)?
+Base 16
+
+If a password hash starts with $6$, what format is it (Unix variant)?
+sha512crypt
+
+What is the CVE for the 2020 Cross-Site Scripting (XSS) vulnerability found in WPForms?
+CVE-2020-10385
+
+There was a Local Privilege Escalation vulnerability found in the Debian version of Apache Tomcat, back in 2016. What's the CVE for this vulnerability?
+CVE-2016-1240
+
+What is the very first CVE found in the VLC media player?
+CVE-2007-0017
+
+If you wanted to exploit a 2020 buffer overflow in the sudo program, which CVE would you use?
+CVE-2019-18634
+
+What switch would you use to copy an entire directory?
+-r
+
+What switch would you use to list the current partitions?
+-l
+
+What switch would you use to make a backup when opening a file with nano?
+-B
+
+What command would you use to start netcat in listen mode, using port 12345?
+nc -l -p 12345
+

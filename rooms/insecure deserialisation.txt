@@ -1,0 +1,47 @@
+Insecure Deserialisation
+https://tryhackme.com/room/insecuredeserialisation
+
+What is the function used in PHP for serialisation?
+serialize()
+
+What is the base score for the vulnerability CVE-2015-4852?
+7.5
+
+Does serialisation allow only saving to a byte stream file? (yea/nay)
+nay
+
+What is the base64 encoded output after pickling the string You got it in Python? Utilise the notes app found at http://MACHINE_IP:5000.
+gASVNQAAAAAAAACMCF9fbWFpbl9flIwFTm90ZXOUk5QpgZR9lIwFbm90ZXOUXZSMCllvdSBnb3QgaXSUYXNiLg==
+
+What is the output after serialising the string You got it in PHP?
+O:5:"Notes":1:{s:7:"content";s:10:"You got it";}
+
+What is the renowned binary serialisation module used in Ruby?
+Marshal
+
+Visit the URL http://MACHINE_IP/who/index.php and identify what is the user-defined function used for serialisation?
+HelloTHMSerialization
+
+What is the flag value after sharing a note with a valid subscription?
+THM{10101}
+
+What is the default role value once the user loads the notes application?
+guest
+
+What is the flag value after getting the reverse shell?
+THM{GOT_THE_SH#LL}
+
+What is the output of the whoami command after getting the shell?
+www-data
+
+What is the vector for exploiting CodeIgniter4/FR1 as per the PHPGGC?
+__toString
+
+What is the output of the whoami command on the vulnerable Laravel application?
+root
+
+What is the output of the uname -r command on the vulnerable Laravel application?
+5.4.0-1029-aws
+
+Is it a good practice to blindly use the eval() function in your code? (yea/nay)
+nay

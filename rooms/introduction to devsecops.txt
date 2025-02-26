@@ -1,0 +1,59 @@
+Introduction to DevSecOps
+https://tryhackme.com/room/introductiontodevsecops
+
+What methodology relies on self-organising teams that focus on constructive collaboration?
+agile
+
+What methodology relies on automation and integration to drive cultural change and unite teams?
+DevOps
+
+What traditional approach to project management led to mistrust and poor communication between development teams?
+waterfall
+
+What does DevOps emphasize?
+building trust
+
+What helps in adding tests in an automated manner and deals with the frequent merging of small code changes?
+CI/CD
+
+What process focuses on collecting data to analyse the performance and stability of services?
+Monitoring
+
+What is a way to provision infrastructure through reusable and consistent pieces of code?
+IaC
+
+What term is it used to describe accounting for security from the earliest stages in a development lifecycle?
+shift left
+
+What is the development approach where security is introduced from the early stages of a development lifecycle until the final stages?
+DevSecOps
+
+What DevSecOps challenge can lead to a siloed culture?
+Security Silos
+
+What DevSecOps challenge can affect not prioritizing the right risks at the right times?
+Lack of visibility
+
+What DevSecOps challenge stems from needlessly overcomplicated security processes?
+Stringent Processes
+
+How can you make security scalable so it's not left behind when start ups face hypergrowth or in large corporations?
+promote autonomy of teams
+
+How can you support teams in understanding risk and educating on security flaws?
+Visibility and Transparency
+
+What are key factors to successfully instill security in the development process by accounting for flexibility?
+Understanding and Empathy
+
+What Software Development Model did the team in Comic 1 follow?
+Waterfall
+
+What Software Development Model did the team in Comic 2 follow?
+Agile
+
+What Software Development Model did the team in Comic 3 follow?
+DevOps
+
+What is the flag?
+THM{ONE_TWO_THREE}

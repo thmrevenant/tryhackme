@@ -1,0 +1,56 @@
+IR Timeline Analysis
+https://tryhackme.com/room/dfirtimelineanalysis
+
+When security events are reviewed sequentially against time, what is this known as?
+Timeline analysis
+
+When a file is created, what timestamp tag would it have?
+Birth
+
+Converting event timestamps into UTC can be described as?
+Time synchronization
+
+What specific data source provides detailed information regarding user interactions within a digital environment?
+File system metadata
+
+What option can be used with Log2Timeline to indicate the timeline output file?
+--storage-file
+
+Based on the Jimmy_timeline.plaso file, how many event sources are parsed after running pinfo.py against the storage file?
+4982
+
+On the same timeline file, how many events were generated for the firefox_history? 
+50
+
+Based on the B4DM755 timeline, what time was the interview.txt file created? (hh:mm:ss)
+14:02:34
+
+How many data types were in the Jimmy Supertimeline sketch?
+48
+
+How many entries were in the EVTX Gap Analysis under the Jimmy Supertimeline?
+34870
+
+Which search engine did Jimmy Wilson use to search for "how to disappear without a trace?"
+Bing
+
+What is the path of the program that was called to initiate Microsoft Antimalware Service?
+C:\Program Files\Microsoft Security Client\MsMpEng.exe
+
+How many event sources were identified?
+189100
+
+How many events were generated from the dpkg parser?
+14718
+
+How many total tags were set?
+5408
+
+What is the highest tagged element?
+login_failed
+
+Under which username does the cronjob that executes app.py run?
+smokey
+
+What is the hash of the successful SSH login with the PID 1669?
+a2407e0f3c80d01d2369f15e2b8aa279e790eaa0b1d20ab71cd35c2c7f5aee71

@@ -1,0 +1,29 @@
+Incident Response Process
+https://tryhackme.com/room/incidentresponseprocess
+
+What is the phase of the NIST Incident Response Framework in which incident responders are usually called to action?
+Detection and Analysis
+
+What is the name of the process active in the attached VM that we suspect could be a miner?
+32th4ckm3.exe
+
+What is the combination IP:port of the C2 server of the malware?
+45.33.32.156:42424
+
+What is the name of the document containing the malicious macro?
+invoice n. 65748224.docm
+
+What is the website from which the miner was downloaded?
+http://172.233.61.246/
+
+What is the utility that the macro leveraged to download the malware?
+certutil
+
+Which folder should we navigate to in order to find and delete the malicious process? (Full path)
+C:\Users\TryCleanUser\AppData\Local\Temp\2
+
+In the Run registry key, what is the name of the string value that has been added by the miner for persistence?
+DefaultApp
+
+The goal of an effective preparation phase is to develop an:
+Incident Response Plan
