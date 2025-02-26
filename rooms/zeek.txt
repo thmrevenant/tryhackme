@@ -1,0 +1,83 @@
+Zeek
+https://tryhackme.com/room/zeekbro
+
+What is the installed Zeek instance version number?
+4.2.1
+
+What is the version of the ZeekControl module?
+2.4.0
+
+Investigate the "sample.pcap" file. What is the number of generated alert files?
+8
+
+Investigate the sample.pcap file. Investigate the dhcp.log file. What is the available hostname?
+Microknoppix
+
+Investigate the dns.log file. What is the number of unique DNS queries?
+2
+
+Investigate the conn.log file. What is the longest connection duration?
+332.319364
+
+Investigate the http.pcap file. Create the  HTTP signature shown in the task and investigate the pcap. What is the source IP of the first event?
+10.10.57.178
+
+What is the source port of the second event?
+38712
+
+What is the total number of the sent and received packets from source port 38706?
+20
+
+Investigate the notice.log. What is the number of unique events?
+1413
+
+What is the number of ftp-brute signature matches?
+1410
+
+Investigate the smallFlows.pcap file. Investigate the dhcp.log file. What is the domain value of the "vinlap01" host?
+astaro_vineyard
+
+Investigate the bigFlows.pcap file. Investigate the dhcp.log file. What is the number of identified unique hostnames?
+17
+
+Investigate the dhcp.log file. What is the identified domain value?
+jaalam.net
+
+Investigate the sample.pcap file with 103.zeek script. Investigate the terminal output. What is the number of the detected new connections?
+87
+
+Investigate the ftp.pcap file with ftp-admin.sig signature and  201.zeek script. Investigate the signatures.log file. What is the number of signature hits?
+1401
+
+Investigate the signatures.log file. What is the total number of "administrator" username detections?
+731
+
+Investigate the ftp.pcap file with all local scripts, and investigate the loaded_scripts.log file. What is the total number of loaded scripts?
+498
+
+Investigate the ftp-brute.pcap file with "/opt/zeek/share/zeek/policy/protocols/ftp/detect-bruteforcing.zeek" script. Investigate the notice.log file. What is the total number of brute-force detections?
+2
+
+Investigate the case1.pcap file with intelligence-demo.zeek script. Investigate the intel.log file. Look at the second finding, where was the intel info found? 
+IN_HOST_HEADER
+
+Investigate the http.log file. What is the name of the downloaded .exe file?
+knr.exe
+
+Investigate the case1.pcap file with hash-demo.zeek script. Investigate the files.log file. What is the MD5 hash of the downloaded .exe file?
+cc28e40b46237ab6d5282199ef78c464
+
+Investigate the case1.pcap file with file-extract-demo.zeek script. Investigate the "extract_files" folder. Review the contents of the text file. What is written in the file?
+Microsoft NCSI
+
+Investigate the http.pcap file with the zeek-sniffpass module. Investigate the notice.log file. Which username has more module hits?
+BroZeek
+
+Investigate the case2.pcap file with geoip-conn module. Investigate the conn.log file. What is the name of the identified City?
+Chicago
+
+Which IP address is associated with the identified City?
+23.77.86.54
+
+Investigate the case2.pcap file with sumstats-counttable.zeek script. How many types of status codes are there in the given traffic capture?
+4

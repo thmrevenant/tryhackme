@@ -1,0 +1,8 @@
+Zeno
+https://tryhackme.com/room/zeno
+
+Content of user.txt
+THM{070cab2c9dc622e5d25c0709f6cb0510}
+
+Content of root.txt
+THM{b187ce4b85232599ca72708ebde71791}
