@@ -1,0 +1,11 @@
+You Got Mail
+https://tryhackme.com/room/yougotmail
+
+What is the user flag?
+THM{l1v1n_7h3_br1ck_l1f3}
+
+What is the password of the user wrohit?
+superstar
+
+What is the password to access the hMailServer Administrator Dashboard?
+password

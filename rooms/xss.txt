@@ -1,0 +1,62 @@
+XSS
+https://tryhackme.com/room/axss
+
+Which XSS vulnerability relies on saving the malicious script?
+Stored XSS
+
+Which prevalent XSS vulnerability executes within the browser session without being saved?
+Reflected XSS
+
+What does DOM stand for?
+Document Object Model
+
+Based on the leading causes of XSS vulnerabilities, what operations should be performed on the user input?
+validation and sanitization
+
+To prevent XSS vulnerabilities, what operations should be performed on the data before it is output to the user?
+encoding
+
+Which one of the following characters do you expect to be encoded? ., ,, ;, &, or #?
+&
+
+Which one of the following characters do you expect to be encoded? +, -, *, <, =, or ^?
+<
+
+Which function can we use in JavaScript to replace (unsafe) special characters with HTML entities?
+escapeHtml()
+
+Which function did we use in PHP to replace HTML special characters?
+htmlspecialchars()
+
+What type of vulnerability is it?
+Reflected XSS
+
+Use the above exploit against the attached VM. What do you see on the second line after go to?
+/?h#cc
+
+What is the name of the JavaScript function we used to sanitize the user input before saving it?
+sanitizeHtml()
+
+Which method did we call in ASP.Net C# to sanitize user input?
+HttpUtility.HtmlEncode()
+
+What type of vulnerability is it?
+Stored XSS
+
+Go to the contact page and submit the following message <script>alert(document.cookie)</script>. Next, log in as the Receptionist. What is the name of the key from the displayed key-value pair?
+PHPSESSID
+
+DOM-based XSS is reflected via the server. (Yea/Nay)
+Nay
+
+DOM-based XSS happens only on the client side. (Yea/Nay)
+Yea
+
+Which JavaScript method was used to escape the user input?
+encodeURIComponent()
+
+Which character does &#x09 represent?
+Tab
+
+This room used a fictional static site to demonstrate one of the XSS vulnerabilities. Which XSS type was that?
+DOM-based XSS

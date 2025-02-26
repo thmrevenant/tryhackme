@@ -1,0 +1,72 @@
+Yara
+https://tryhackme.com/room/yara
+
+What is the name of the base-16 numbering system that Yara can detect?
+hexadecimal
+
+Would the text "Enter your Name" be a string in an application? (Yay/Nay)
+Yay
+
+Scan file 1. Does Loki detect this file as suspicious/malicious or benign?
+Suspicious
+
+What Yara rule did it match on?
+webshell_metaslsoft
+
+What does Loki classify this file as?
+Web Shell
+
+Based on the output, what string within the Yara rule did it match on?
+Str1
+
+What is the name and version of this hack tool?
+b374k 2.2
+
+Inspect the actual Yara file that flagged file 1. Within this rule, how many strings are there to flag this file?
+1
+
+Scan file 2. Does Loki detect this file as suspicious/malicious or benign?
+Benign
+
+Inspect file 2. What is the name and version of this web shell?
+b374k 3.2.3
+
+From within the root of the suspicious files directory, what command would you run to test Yara and your Yara rule against file 2?
+yara file2.yar file2/1ndex.php
+
+Did Yara rule flag file 2? (Yay/Nay)
+Yay
+
+Test the Yara rule with Loki, does it flag file 2? (Yay/Nay)
+Yay
+
+What is the name of the variable for the string that it matched on?
+Zepto
+
+Inspect the Yara rule, how many strings were generated?
+20
+
+One of the conditions to match on the Yara rule specifies file size. The file has to be less than what amount?
+700KB
+
+Enter the SHA256 hash of file 1 into Valhalla. Is this file attributed to an APT group? (Yay/Nay)
+Yay
+
+Do the same for file 2. What is the name of the first Yara rule to detect file 2?
+Webshell_b374k_rule1
+
+Examine the information for file 2 from Virus Total (VT). The Yara Signature Match is from what scanner?
+THOR APT Scanner
+
+Enter the SHA256 hash of file 2 into Virus Total. Did every AV detect this as malicious? (Yay/Nay)
+Nay
+
+Besides .PHP, what other extension is recorded for this file?
+EXE
+
+What JavaScript library is used by file 2?
+Zepto
+
+Is this Yara rule in the default Yara file Loki uses to detect these type of hack tools? (Yay/Nay)
+Nay
+

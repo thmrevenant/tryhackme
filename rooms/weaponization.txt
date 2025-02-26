@@ -1,0 +1,8 @@
+Weaponization
+https://tryhackme.com/room/weaponization
+
+Which method is used to distribute payloads to a victim at social events?
+USB Delivery
+
+What is the flag? Hint: Check the user desktop folder for the flag!
+THM{b4dbc2f16afdfe9579030a929b799719}

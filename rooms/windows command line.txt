@@ -1,0 +1,35 @@
+Windows Command Line
+https://tryhackme.com/room/windowscommandline
+
+What is the default command line interpreter in the Windows environment?
+cmd.exe
+
+What is the OS version of the Windows VM?
+10.0.20348.2655
+
+What is the hostname of the Windows VM?
+WINSRV2022-CORE
+
+Which command can we use to look up the server’s physical address (MAC address)?
+ipconfig /all
+
+What is the name of the process listening on port 3389?
+TermService
+
+What is the subnet mask?
+255.255.0.0
+
+What are the file’s contents in C:\Treasure\Hunt?
+THM{CLI_POWER}
+
+What command would you use to find the running processes related to notepad.exe?
+tasklist /FI "imagename eq notepad.exe"
+
+What command can you use to kill the process with PID 1516?
+taskkill /PID 1516
+
+The command shutdown /s can shut down a system. What is the command you can use to restart a system?
+shutdown /r
+
+What command can you use to abort a scheduled system shutdown?
+shutdown /a

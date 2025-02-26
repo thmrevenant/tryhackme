@@ -1,0 +1,53 @@
+Web Enumeration
+https://tryhackme.com/room/webenumerationv2
+
+Run a directory scan on the host. Other than the standard css, images and js directories, what other directories are available?
+public,Changes,VIDEO
+
+Run a directory scan on the host. In the "C******" directory, what file extensions exist?
+conf,js
+
+There's a flag out there that can be found by directory scanning! Find it!
+thm{n1c3_w0rk}
+
+There are some virtual hosts running on this server. What are they?
+learning,products
+
+There's another flag to be found in one of the virtual hosts! Find it!
+thm{gobuster_is_fun}
+
+What would be the full URL for the theme "twentynineteen" installed on the WordPress site: "http://cmnatics.playground"
+http://cmnatics.playground/wp-content/themes/twentynineteen
+
+What argument would we provide to enumerate a WordPress site?
+enumerate
+
+What is the name of the other aggressiveness profile that we can use in our WPScan command?
+passive
+
+Enumerate the site, what is the name of the theme that is detected as running?
+twentynineteen
+
+Enumerate the site, what is the name of the plugin that WPScan has found?
+nextgen-gallery
+
+Enumerate the site, what username can WPScan find?
+phreakazoid
+
+Construct a WPScan command to brute-force the site with this username, using the rockyou wordlist as the password list. What is the password to this user? 
+linkinpark
+
+What argument would we use if we wanted to scan port 80 and 8080 on a host?
+-p 80,8080
+
+What argument would we use if we wanted to see any cookies given by the web server? 
+-Display 2
+
+What is the name & version of the web server that  Nikto has determined running on port 80?
+Apache/2.4.7
+
+There is another web server running on another port. What is the name & version of this web server?
+Apache-Coyote/1.1
+
+What is the name of the Cookie that this JBoss server gives?
+JSESSIONID

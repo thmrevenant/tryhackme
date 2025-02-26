@@ -1,0 +1,56 @@
+TShark: CLI Wireshark Features
+https://tryhackme.com/room/tsharkcliwiresharkfeatures
+
+What is the byte value of the TCP protocol?
+62
+
+In which packet lengths row is our packet listed?
+40-79
+
+What is the summary of the expert info?
+Connection establish request (SYN): server port 80
+
+List the communications. What is the IP address that exists in all IPv4 conversations?
+145[.]254[.]160[.]237
+
+Which IP address has 7 appearances?
+216[.]239[.]59[.]99
+
+What is the "destination address percentage" of the previous IP address?
+6.98%
+
+Which IP address constitutes "2.33% of the destination addresses"?
+145[.]253[.]2[.]203
+
+What is the average "Qname Len" value?
+29.00
+
+What is the "Node 0" value?
+145[.]254[.]160[.]237:3009
+
+What is the "Referer" value?
+hxxp[://]www[.]ethereal[.]com/download[.]html
+
+What is the total number of detected credentials?
+75
+
+What is the HTTP packet number that contains the keyword "CAFE"?
+27
+
+What is the first time value found?
+May 13, 2004 10:17:08.222534000 UTC
+
+What is the total number of unique hostnames?
+30
+
+What is the total appearance count of the "prus-pc" hostname?
+12
+
+What is the total number of queries of the most common DNS query?
+472
+
+What is the total number of the detected "Wfuzz user agents"?
+12
+
+What is the "HTTP hostname" of the nmap scans?
+172[.]16[.]172[.]129

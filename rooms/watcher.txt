@@ -1,0 +1,23 @@
+Watcher
+https://tryhackme.com/room/watcher
+
+Flag 1
+FLAG{robots_dot_text_what_is_next}
+
+Flag 2
+FLAG{ftp_you_and_me}
+
+Flag 3
+FLAG{lfi_what_a_guy}
+
+Flag 4
+FLAG{chad_lifestyle}
+
+Flag 5
+FLAG{live_by_the_cow_die_by_the_cow}
+
+Flag 6
+FLAG{but_i_thought_my_script_was_secure}
+
+Flag 7
+FLAG{who_watches_the_watchers}

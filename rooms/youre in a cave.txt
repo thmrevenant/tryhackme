@@ -1,0 +1,14 @@
+You're in a cave
+https://tryhackme.com/room/inacave
+
+What was the weird thing carved on the door?
+^ed[h#f]{3}[123]{1,2}xf[!@#*]$
+
+What weapon you used to defeat the skeleton?
+bone-breaking-war-hammer
+
+What is the cave flag?
+THM{no_wall_can_stop_me}
+
+What is the outside flag?
+THM{digging_down_then_digging_up}

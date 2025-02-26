@@ -1,0 +1,29 @@
+Vulnerabilities 101
+https://tryhackme.com/room/vulnerabilities101
+
+An attacker has been able to upgrade the permissions of their system account from "user" to "administrator". What type of vulnerability is this?
+Operating System
+
+You manage to bypass a login panel using cookies to authenticate. What type of vulnerability is this?
+Application Logic
+
+What year was the first iteration of CVSS published?
+2005
+
+If you wanted to assess vulnerability based on the risk it poses to an organisation, what framework would you use?
+VPR
+
+If you wanted to use a framework that was free and open-source, what framework would that be?
+CVSS
+
+Using NVD, how many CVEs were published in July 2021?
+1554
+
+Who is the author of Exploit-DB?
+OffSec
+
+What type of vulnerability did we use to find the name and version of the application in this example?
+Version Disclosure
+
+Follow along with the showcase of exploiting ACKme's application to the end to retrieve a flag. What is this flag?
+THM{ACKME_ENGAGEMENT}

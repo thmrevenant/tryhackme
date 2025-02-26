@@ -1,0 +1,38 @@
+Windows User Account Forensics
+https://tryhackme.com/room/windowsuseraccountforensics
+
+What type of accounts are used by the Windows operating system and various apps?
+System and Service Accounts
+
+What centrally manages local user accounts and domain accounts?
+Domain Controller
+
+How many users were found using the DSInternals command?
+5
+
+What is the value of the "bootKey" variable?
+36c8d26ec0df8b23ce63bcefa6e2d821
+
+What is the SID of the domain user, m.ascot?
+S-1-5-21-1966530601-3185510712-10604624-1111
+
+What is the user name used for the NTLM authentication?
+admin
+
+What was the Server Challenge sent to the client during the Challenge stage of the NTLM handshake?
+212ba239356b3d82
+
+What is the Dns Name of the other result from the the DsGetDomainControllerInfo response?
+dcfr.lab.lan
+
+What is the name of the user specified as the apply target for this Policy?
+Michael Ascot
+
+Under Computer Configuration > Policies > Administrative Templates > Windows Components > Windows Defender Antivirus > Real-time Protection, what is the setting that was enabled?
+Turn off real-time protection
+
+There is an updated malicious startup PowerShell script. What is the filename of this script? (Without file extension)
+superimportant-updated
+
+What is the IP address of the C2 server the script would exfiltrate to?
+192.0.2.123

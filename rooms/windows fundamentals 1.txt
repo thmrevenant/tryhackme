@@ -1,0 +1,41 @@
+Windows Fundamentals 1
+https://tryhackme.com/room/windowsfundamentals1xbx
+
+What encryption can you enable on Pro that you can't enable in Home?
+BitLocker
+
+Which selection will hide/disable the Search box?
+Hidden
+
+Which selection will hide/disable the Task View button?
+Show Task View button
+
+Besides Clock and Network, what other icon is visible in the Notification Area?
+Action Center
+
+What is the meaning of NTFS?
+New Technology File System
+
+What is the system variable for the Windows folder?
+%windir%
+
+What is the name of the other user account?
+tryhackmebilly
+
+What groups is this user a member of?
+Remote Desktop Users,Users
+
+What built-in account is for guest access to the computer?
+Guest
+
+What is the account description?
+window$Fun1!
+
+What does UAC mean?
+User Account Control
+
+In the Control Panel, change the view to Small icons. What is the last setting in the Control Panel view?
+Windows Defender Firewall
+
+What is the keyboard shortcut to open Task Manager?
+Ctrl+Shift+Esc

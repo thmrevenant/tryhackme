@@ -1,0 +1,53 @@
+Windows Internals
+https://tryhackme.com/room/windowsinternals
+
+What is the process ID of "notepad.exe"?
+5984
+
+What is the parent process ID of the previous process?
+3412
+
+What is the integrity level of the process?
+High
+
+What is the thread ID of the first thread created by notepad.exe?
+5908
+
+What is the stack argument of the previous thread? 
+6584
+
+What is the total theoretical maximum virtual address space of a 32-bit x86 system?
+4 GB
+
+What default setting flag can be used to reallocate user process address space?
+increaseuserva
+
+What is the base address of "notepad.exe"?
+0x7ff652ec0000
+
+What is the base address of "ntdll.dll" loaded from "notepad.exe"?
+0x7ffd0be20000
+
+What is the size of "ntdll.dll" loaded from "notepad.exe"?
+0x1ec000
+
+How many DLLs were loaded by "notepad.exe"?
+51
+
+What PE component prints the message "This program cannot be run in DOS mode"?
+DOS Stub
+
+What is the entry point reported by DiE?
+000000014001acd0
+
+What is the value of "NumberOfSections"?
+0006
+
+What is the virtual address of ".data"?
+00024000
+
+What string is located at the offset "0001f99c"?
+Microsoft.Notepad
+
+Enter the flag obtained from the executable below.
+THM{1Nj3c7_4lL_7H3_7h1NG2}

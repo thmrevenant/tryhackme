@@ -1,0 +1,56 @@
+Wireshark: The Basics
+https://tryhackme.com/room/wiresharkthebasics
+
+Which file is used to simulate the screenshots?
+http1.pcapng
+
+Which file is used to answer the questions?
+Exercise.pcapng
+
+Read the "capture file comments". What is the flag?
+TryHackMe_Wireshark_Demo
+
+What is the total number of packets?
+58620
+
+What is the SHA256 hash value of the capture file?
+f446de335565fb0b0ee5e5a3266703c778b2f3dfad7efeaeccb2da5641a6d6eb
+
+View packet number 38. Which markup language is used under the HTTP protocol?
+eXtensible Markup Language
+
+What is the arrival date of the packet? (Answer format: Month/Day/Year)
+05/13/2004
+
+What is the TTL value?
+47
+
+What is the TCP payload size?
+424
+
+What is the e-tag value?
+9a01a-4696-7e354b00
+
+Search the "r4w" string in packet details. What is the name of artist 1?
+r4w8173
+
+Go to packet 12 and read the comments. What is the answer?
+911cd574a42865a956ccde2d04495ebf
+
+There is a ".txt" file inside the capture file. Find the file and read it; what is the alien's name?
+PACKETMASTER
+
+Look at the expert info section. What is the number of warnings?
+1636
+
+Go to packet number 4. Right-click on the "Hypertext Transfer Protocol" and apply it as a filter. Now, look at the filter pane. What is the filter query?
+http
+
+What is the number of displayed packets?
+1089
+
+Go to packet number 33790 and follow the stream. What is the total number of artists?
+3
+
+What is the name of the second artist?
+Blad3

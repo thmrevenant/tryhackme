@@ -1,0 +1,47 @@
+Windows PowerShell
+https://tryhackme.com/room/windowspowershell
+
+What do we call the advanced approach used to develop PowerShell?
+object-oriented
+
+How would you retrieve a list of commands that start with the verb Remove? [for the sake of this question, avoid the use of quotes (" or ') in your answer]
+Get-Command -Name Remove*
+
+What cmdlet has its traditional counterpart echo as an alias?
+Write-Output
+
+What is the command to retrieve some example usage for the cmdlet New-LocalUser?
+Get-Help New-LocalUser -examples
+
+What cmdlet can you use instead of the traditional Windows command type?
+Get-Content
+
+What PowerShell command would you use to display the content of the "C:\Users" directory? [for the sake of this question, avoid the use of quotes (" or ') in your answer]
+Get-ChildItem -Path C:\Users
+
+How many items are displayed by the command described in the previous question?
+4
+
+How would you retrieve the items in the current directory with size greater than 100? [for the sake of this question, avoid the use of quotes (" or ') in your answer]
+Get-ChildItem | Where-Object -Property Length -gt 100
+
+Other than your current user and the default "Administrator" account, what other user is enabled on the target machine?
+p1r4t3
+
+This lad has hidden his account among the others with no regard for our beloved captain! What is the motto he has so bluntly put as his account's description?
+A merry life and a short one.
+
+Can you navigate the filesystem and find the hidden treasure inside this pirate's home?
+THM{p34rlInAsh3ll}
+
+In the previous task, you found a marvellous treasure carefully hidden in the target machine. What is the hash of the file that contains it?
+71FC5EC11C2497A32F8F08E61399687D90ABE6E204D2964DF589543A613F3E08
+
+What property retrieved by default by Get-NetTCPConnection contains information about the process that has started the connection?
+OwningProcess
+
+With this information and the PowerShell knowledge you have built so far, can you find the service name?
+p1r4t3-s-compass
+
+What is the syntax to execute the command Get-Service on a remote computer named "RoyalFortune"? Assume you don't need to provide credentials to establish the connection. [for the sake of this question, avoid the use of quotes (" or ') in your answer]
+Invoke-Command -ComputerName RoyalFortune -ScriptBlock { Get-Service }

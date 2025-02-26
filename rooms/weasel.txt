@@ -1,0 +1,8 @@
+Weasel
+https://tryhackme.com/room/weasel
+
+What is the user.txt flag?
+THM{w3as3ls_@nd_pyth0ns}
+
+What is the root.txt flag?
+THM{evelated_w3as3l_l0ngest_boi}

@@ -1,0 +1,50 @@
+Windows Applications Forensics
+https://tryhackme.com/room/windowsapplications
+
+Who created the malicious scheduled tasks?
+mike.myers
+
+Based on the ones discovered from the logs, what URL is accessed by this malicious scheduled task? (format: defanged URL)
+hxxp[://]hrcbishtek[.]com/a
+
+Based on the logs, what is the name of the malicious service?
+server power
+
+Aside from the scheduled tasks from Windows Event Logs, what does the second malicious scheduled task execute?
+C:\Users\Public\pagefilerpqy.exe
+
+Based on Q1, what time does the second malicious task execute daily? (format: HH:MM, e.g. 18:30)
+17:21
+
+Aside from the service determined through logs, what is the full path of the binary executed by the second malicious service?
+C:\Windows\Temp\aKzjdD.exe
+
+What is the last write time of the second malicious service? (format: MM/DD/YYYY HH:MM:SS)
+03/07/2024 17:53:53
+
+What is the first URL accessed by the user related to the phishing website? (format: defanged URL)
+hxxps[://]login[.]lohelper[.]com/auth/client_id=59bcc3ad677
+
+Based on Q1, what time did the user access this URL in the UTC timezone? (format: MM/DD/YYYY HH:MM:SS)
+03/04/2024 20:53:32
+
+Which O365 cookie containing user session information was seen on the phishing website?
+ESTSAUTHPERSISTENT
+
+What URL does the malicious Chrome extension report to? (format: defanged URL)
+hxxps[://]kamehasuitens[.]info/track
+
+What is the first URL the Microsoft Edge user accessed related to the malicious domain? (format: defanged URL)
+hxxps[://]login[.]dxsupport[.]net/mmTQJpka
+
+What email is used by the phishing email sender?
+julianne.westcott@hotmail.com
+
+What is the file name of the malicious attachment sent via Microsoft Teams?
+system_update.zip
+
+What is the URL found inside the malicious attachment? (format: defanged URL)
+hxxp[://]cdn[.]nautilusco[.]net/a[.]ps1
+
+What is the URL of the unusual SharePoint site synced by the user?
+https://swiftspendlogistics.sharepoint.com/sites/ProjectManagement

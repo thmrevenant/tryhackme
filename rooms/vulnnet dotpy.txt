@@ -1,0 +1,8 @@
+VulnNet: dotpy
+https://tryhackme.com/room/vulnnetdotpy
+
+What is the user flag? (user.txt)
+THM{91c7547864fa1314a306f82a14cd7fb4}
+
+What is the root flag? (root.txt)
+THM{734c7c2f0a23a4f590aa8600676021fb}

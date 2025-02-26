@@ -1,0 +1,44 @@
+Zeek Exercises
+https://tryhackme.com/room/zeekbroexercises
+
+Investigate the dns-tunneling.pcap file. Investigate the dns.log file. What is the number of DNS records linked to the IPv6 address?
+320
+
+Investigate the conn.log file. What is the longest connection duration?
+9.420791
+
+Investigate the dns.log file. Filter all unique DNS queries. What is the number of unique domain queries?
+6
+
+There are a massive amount of DNS queries sent to the same domain. This is abnormal. Let's find out which hosts are involved in this activity. Investigate the conn.log file. What is the IP address of the source host?
+10.20.57.3
+
+Investigate the logs. What is the suspicious source address? Enter your answer in defanged format.
+10[.]6[.]27[.]102
+
+Investigate the http.log file. Which domain address were the malicious files downloaded from? Enter your answer in defanged format.
+smart-fax[.]com
+
+Investigate the malicious document in VirusTotal. What kind of file is associated with the malicious document?
+VBA
+
+Investigate the extracted malicious .exe file. What is the given file name in Virustotal?
+PleaseWaitWindow.exe
+
+Investigate the malicious .exe file in VirusTotal. What is the contacted domain name? Enter your answer in defanged format.
+hopto[.]org
+
+Investigate the http.log file. What is the request name of the downloaded malicious .exe file?
+knr.exe
+
+Investigate the log4shell.pcapng file with detection-log4j.zeek script. Investigate the signature.log file. What is the number of signature hits?
+3
+
+Investigate the http.log file. Which tool is used for scanning?
+Nmap
+
+Investigate the http.log file. What is the extension of the exploit file?
+.class
+
+Investigate the log4j.log file. Decode the base64 commands. What is the name of the created file?
+pwned

@@ -1,0 +1,8 @@
+WhyHackMe
+https://tryhackme.com/room/whyhackme
+
+What is the user flag?
+1ca4eb201787acbfcf9e70fca87b866a
+
+What is the root flag?
+4dbe2259ae53846441cc2479b5475c72

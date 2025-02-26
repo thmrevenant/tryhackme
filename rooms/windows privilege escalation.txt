@@ -1,0 +1,38 @@
+Windows Privilege Escalation
+https://tryhackme.com/room/windowsprivesc20
+
+Users that can change system configurations are part of which group?
+Administrators
+
+The SYSTEM account has more privileges than the Administrator user (aye/nay)
+aye
+
+A password for the julia.jones user has been left on the Powershell history. What is the password?
+ZuperCkretPa5z
+
+A web server is running on the remote host. Find any interesting password on web.config files associated with IIS. What is the password of the db_admin user?
+098n0x35skjD3
+
+There is a saved password on your Windows credentials. Using cmdkey and runas, spawn a shell for mike.katz and retrieve the flag from his desktop.
+THM{WHAT_IS_MY_PASSWORD}
+
+Retrieve the saved password stored in the saved PuTTY session under your profile. What is the password for the thom.smith user?
+CoolPass2021
+
+What is the taskusr1 flag?
+THM{TASK_COMPLETED}
+
+Get the flag on svcusr1's desktop.
+THM{AT_YOUR_SERVICE}
+
+Get the flag on svcusr2's desktop.
+THM{QUOTES_EVERYWHERE}
+
+Get the flag on the Administrator's desktop.
+THM{INSECURE_SVC_CONFIG}
+
+Get the flag on the Administrator's desktop.
+THM{SEFLAGPRIVILEGE}
+
+Get the flag on the Administrator's desktop.
+THM{EZ_DLL_PROXY_4ME}

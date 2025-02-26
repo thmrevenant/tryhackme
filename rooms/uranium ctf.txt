@@ -1,0 +1,20 @@
+Uranium CTF
+https://tryhackme.com/room/uranium
+
+What is the required password for the chat app?
+MBMD1vdpjg3kGv6SsIz56VNG
+
+What is the password of hakanbey user?
+Mys3cr3tp4sw0rD
+
+user_1.txt
+thm{2aa50e58fa82244213d5438187c0da7c}
+
+user_2.txt
+thm{804d12e6d16189075db2d45449aeda5f}
+
+web_flag.txt
+thm{019d332a6a223a98b955c160b3e6750a}
+
+root.txt
+thm{81498047439cc0426bafa1db5da699cd}

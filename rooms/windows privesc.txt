@@ -1,0 +1,20 @@
+Windows PrivEsc
+https://tryhackme.com/room/windows10privesc
+
+What is the original BINARY_PATH_NAME of the daclsvc service?
+C:\Program Files\DACL Service\daclservice.exe
+
+What is the BINARY_PATH_NAME of the unquotedsvc service?
+C:\Program Files\Unquoted Path Service\Common Files\unquotedpathservice.exe
+
+What was the admin password you found in the registry?
+password123
+
+What is the NTLM hash of the admin user?
+a9fdfa038c4b75ebc76dc855dd74f0da
+
+Name one user privilege that allows this exploit to work.
+SeImpersonatePrivilege
+
+Name the other user privilege that allows this exploit to work.
+SeAssignPrimaryTokenPrivilege

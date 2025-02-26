@@ -1,0 +1,8 @@
+Valley
+https://tryhackme.com/room/valleype
+
+What is the user flag?
+THM{k@l1_1n_th3_v@lley}
+
+What is the root flag?
+THM{v@lley_0f_th3_sh@d0w_0f_pr1v3sc}

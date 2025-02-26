@@ -1,0 +1,53 @@
+TShark: The Basics
+https://tryhackme.com/room/tsharkthebasics
+
+What is the "RIPEMD160" value?
+6ef5f0c165a1db4a3cad3116b0c5bcc0cf6b9ab7
+
+What is the installed TShark version in the given VM?
+3.2.3
+
+What is the number of available interfaces in the given VM?
+12
+
+What are the assigned TCP flags in the 29th packet?
+PSH, ACK
+
+What is the "Ack" value of the 25th packet?
+12421
+
+What is the "Window size value" of the 9th packet?
+9660
+
+Which parameter can help analysts to create a continuous capture dump?
+-b
+
+Can we combine autostop and ring buffer parameters with TShark? y/n
+y
+
+Which parameter is used to set "Capture Filters"?
+-f
+
+Which parameter is used to set "Display Filters"?
+-Y
+
+What is the number of packets with SYN bytes?
+2
+
+What is the number of packets sent to the IP address "10.10.10.10"?
+7
+
+What is the number of packets with ACK bytes?
+8
+
+What is the number of packets with a "65.208.228.223" IP address?
+34
+
+What is the number of packets with a "TCP port 3371"?
+7
+
+What is the number of packets with a "145.254.160.237" IP address as a source address?
+20
+
+What is the packet number of the "Duplicate" packet?
+37

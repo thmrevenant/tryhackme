@@ -1,0 +1,8 @@
+W1seGuy
+https://tryhackme.com/room/w1seguy
+
+What is the first flag?
+THM{p1alntExtAtt4ckcAnr3alLyhUrty0urxOr}
+
+What is the second and final flag?
+THM{BrUt3_ForC1nG_XOR_cAn_B3_FuN_nO?}

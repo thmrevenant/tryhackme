@@ -1,0 +1,8 @@
+Undiscovered
+https://tryhackme.com/room/undiscoveredup
+
+user.txt
+THM{8d7b7299cccd1796a61915901d0e091c}
+
+Whats the root user's password hash?
+$6$1VMGCoHv$L3nX729XRbQB7u3rndC.8wljXP4eVYM/SbdOzT1IET54w2QVsVxHSH.ghRVRxz5Na5UyjhCfY6iv/koGQQPUB0

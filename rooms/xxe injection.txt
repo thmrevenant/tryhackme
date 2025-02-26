@@ -1,0 +1,26 @@
+XXE Injection
+https://tryhackme.com/room/xxeinjection
+
+What is the meaning of the acronym SGML?
+Standard Generalized Markup Language
+
+What is the meaning of the acronym DTD?
+Document Type Definition
+
+What XML parser builds the entire XML document into a memory-based tree structure, allowing random access to all parts of the document?
+DOM Parser
+
+What XXE vulnerability occurs when the server's response is immediately disclosed to the attacker without the use of external channels?
+In-Band XXE
+
+What is the content of the file 14232d6db2b5fd937aa92e8b3c48d958.txt in the /opt directory?
+THM{1N_b4Nd_1$_34sYY}
+
+What kind of XXE vulnerability occurs when the response of the server is not visible to the attacker?
+Out-of-Band XXE
+
+What is the flag in the application running internally?
+THM{0O8_xx3!!}
+
+What port is the internal application hosted on?
+81

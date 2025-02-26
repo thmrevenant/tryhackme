@@ -1,0 +1,14 @@
+VulnNet: Internal
+https://tryhackme.com/room/vulnnetinternal
+
+What is the services flag? (services.txt)
+THM{0a09d51e488f5fa105d8d866a497440a}
+
+What is the internal flag? ("internal flag")
+THM{ff8e518addbbddb74531a724236a8221}
+
+What is the user flag? (user.txt)
+THM{da7c20696831f253e0afaca8b83c07ab}
+
+What is the root flag? (root.txt)
+THM{e8996faea46df09dba5676dd271c60bd}

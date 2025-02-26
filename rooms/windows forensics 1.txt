@@ -1,0 +1,83 @@
+Windows Forensics 1
+https://tryhackme.com/room/windowsforensics1
+
+What is the most used Desktop Operating System right now?
+Microsoft Windows
+
+What is the short form for HKEY_LOCAL_MACHINE?
+HKLM
+
+What is the path for the five main registry hives, DEFAULT, SAM, SECURITY, SOFTWARE, and SYSTEM?
+C:\Windows\System32\Config
+
+What is the path for the AmCache hive?
+C:\Windows\AppCompat\Programs\Amcache.hve
+
+What is the Current Build Number of the machine whose data is being investigated?
+19044
+
+Which ControlSet contains the last known good configuration?
+1
+
+What is the Computer Name of the computer?
+THM-4n6
+
+What is the value of the TimeZoneKeyName?
+Pakistan Standard Time
+
+What is the DHCP IP address
+192.168.100.58
+
+What is the RID of the Guest User account?
+501
+
+When was EZtools opened?
+2021-12-01 13:00:34
+
+At what time was My Computer last interacted with?
+2021-12-01 13:06:47
+
+What is the Absolute Path of the file opened using notepad.exe?
+C:\Program Files\Amazon\Ec2ConfigService\Settings
+
+When was this file opened?
+2021-11-30 10:56:19
+
+How many times was the File Explorer launched?
+26
+
+What is another name for ShimCache?
+AppCompatCache
+
+Which of the artifacts also saves SHA1 hashes of the executed programs?
+AmCache
+
+Which of the artifacts saves the full path of the executed programs?
+BAM/DAM
+
+What is the serial number of the device from the manufacturer 'Kingston'?
+1C6f654E59A3B0C179D366AE&0
+
+What is the name of this device?
+Kingston Data Traveler 2.0 USB Device
+
+What is the friendly name of the device from the manufacturer 'Kingston'?
+USB
+
+How many user created accounts are present on the system? 
+3
+
+What is the username of the account that has never been logged in?
+thm-user2
+
+What's the password hint for the user THM-4n6?
+count
+
+When was the file 'Changelog.txt' accessed?
+2021-11-24 18:18:48
+
+What is the complete path from where the python 3.8.2 installer was run? 
+Z:\setups\python-3.8.2.exe
+
+When was the USB device with the friendly name 'USB' last connected?
+2021-11-24 18:40:06

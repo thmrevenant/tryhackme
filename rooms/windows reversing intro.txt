@@ -1,0 +1,9 @@
+Windows Reversing Intro
+https://tryhackme.com/room/windowsreversingintro
+
+In the HelloWorld.exe sample, which instruction sets up the first parameter for the call to printf()? Provide the full instruction as shown in IDA, with single spaces. Example: mov RAX, RBX
+lea rcx, Format
+
+In the Loop.exe sample, what instruction is the key to finding out what register is the counter? Provide the full instruction as shown in IDA, with single spaces. For example: dec RAX
+inc rcx
+

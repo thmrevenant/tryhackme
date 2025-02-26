@@ -1,0 +1,14 @@
+TryPwnMe Two
+https://tryhackme.com/room/trypwnmetwo
+
+What is the content of the file flag.txt on the target?
+THM{TryExecMe-reveng3-with-no-s1sc4lls-nic3}
+
+What is the content of the file flag.txt on the target?
+THM{f0rm4t-str1ng-n0t-sp3cified-ag4in}
+
+What is the content of the file flag.txt on the target?
+THM{l3arning-h3ap-1nt3rn4ls-with-the-b3ar}
+
+What is the content of the file flag.txt on the target?
+THM{ab4d-w3b-s3rv3r-g00d-rop-my-fr1end}

@@ -1,0 +1,42 @@
+x86 Architecture Overview
+https://tryhackme.com/room/x8664arch
+
+In which part of the Von Neumann architecture are the code and data required for a program to run stored?
+Memory
+
+What part of the CPU stores small amounts of data?
+Registers
+
+In which unit are arithmetic operations performed?
+Arithmetic Logic Unit
+
+Which register holds the address to the next instruction that is to be executed?
+Instruction Pointer
+
+Which register in a 32-bit system is also called the Counter Register?
+ECX
+
+Which registers from the ones discussed above are not present in a 32-bit system?
+R8-R15
+
+Which flag is used by the program to identify if it is being run in a debugger?
+Trap Flag
+
+Which flag will be set when the most significant bit in an operation is set to 1?
+Sign Flag
+
+Which Segment register contains the pointer to the code section in memory?
+Code Segment
+
+When a program is loaded into Memory, does it have a full view of the system memory? Y or N?
+N
+
+Which section of the Memory contains the code?
+Code
+
+Which Memory section contains information related to the program's control flow?
+Stack
+
+Follow the instructions in the attached static site and find the flag. What is the flag?
+THM{SMASHED_THE_STACK}
+

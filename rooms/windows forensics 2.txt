@@ -1,0 +1,48 @@
+Windows Forensics 2
+https://tryhackme.com/room/windowsforensics2
+
+How many addressable bits are there in the FAT32 file system?
+28 bits
+
+What is the maximum file size supported by the FAT32 file system?
+4GB
+
+Which file system is used by digital cameras and SD cards?
+exFAT
+
+Parse the $MFT file placed in C:\users\THM-4n6\Desktop\triage\C\ and analyze it. What is the Size of the file located at .\Windows\Security\logs\SceSetupLog.etl
+49152
+
+What is the size of the cluster for the volume from which this triage was taken?
+4096
+
+There is another xlsx file that was deleted. What is the full name of that file?
+Tryhackme.xlsx
+
+What is the name of the TXT file that was deleted from the disk?
+TryHackMe2.txt
+
+Recover the TXT file from Question #2. What was written in this txt file?
+thm-4n6-2-4
+
+How many times was gkape.exe executed?
+2
+
+What is the last execution time of gkape.exe
+12/01/2021 13:04
+
+When Notepad.exe was opened on 11/30/2021 at 10:56, how long did it remain in focus?
+00:00:41
+
+What program was used to open C:\Users\THM-4n6\Desktop\KAPE\KAPE\ChangeLog.txt?
+Notepad.exe
+
+When was the folder C:\Users\THM-4n6\Desktop\regripper last opened?
+12/1/2021 13:01
+
+When was the above-mentioned folder first opened?
+12/1/2021 12:31
+
+Which artifact will tell us the first and last connection times of a removable drive?
+Setupapi.dev.log
+

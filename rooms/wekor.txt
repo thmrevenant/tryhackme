@@ -1,0 +1,8 @@
+Wekor
+https://tryhackme.com/room/wekorra
+
+What is the user flag?
+1a26a6d51c0172400add0e297608dec6
+
+What is the root flag?
+f4e788f87cc3afaecbaf0f0fe9ae6ad7

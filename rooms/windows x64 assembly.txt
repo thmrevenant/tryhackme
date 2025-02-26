@@ -1,0 +1,48 @@
+Windows x64 Assembly
+https://tryhackme.com/room/win64assembly
+
+What is 0xA in decimal?
+10
+
+What is decimal 25 in hexadecimal? Include the prefix for hexadecimal.
+0x19
+
+How many bytes is a WORD?
+2
+
+How many bits is a WORD?
+16
+
+What is the result of the binary operation: 1011 AND 1100?
+1000
+
+What is the result of the binary operation: 1011 NAND 1100? Include leading zeroes.
+0111
+
+How many bytes is RAX?
+8
+
+How many bytes is EAX?
+4
+
+What instruction returns from a function?
+ret
+
+What instruction will call/execute a function?
+call
+
+What instruction could be used to save a register in a way that it can later be restored?
+PUSH
+
+If two equal values are compared to each other, what will ZF be set to as result of the comparison?
+1
+
+In fastcall, what 64-bit register will hold the return value of a function?
+RAX
+
+In fastcall, what register is the first function parameter passed in?
+RCX
+
+In what order is data taken off of or put onto the stack? Provide the acronym.
+LIFO
+

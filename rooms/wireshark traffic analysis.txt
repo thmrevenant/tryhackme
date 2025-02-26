@@ -1,0 +1,98 @@
+Wireshark: Traffic Analysis
+https://tryhackme.com/room/wiresharktrafficanalysis
+
+What is the total number of the "TCP Connect" scans?
+1000
+
+Which scan type is used to scan the TCP port 80?
+TCP Connect
+
+How many "UDP close port" messages are there?
+1083
+
+Which UDP port in the 55-70 port range is open?
+68
+
+What is the number of ARP requests crafted by the attacker?
+284
+
+What is the number of HTTP packets received by the attacker?
+90
+
+What is the number of sniffed username&password entries?
+6
+
+What is the password of the "Client986"?
+clientnothere!
+
+What is the comment provided by the "Client354"?
+Nice work!
+
+What is the MAC address of the host "Galaxy A30"?
+9a:81:41:cb:96:6c
+
+How many NetBIOS registration requests does the "LIVALJM" workstation have?
+16
+
+Which host requested the IP address "172.16.13.85"?
+Galaxy-A12
+
+What is the IP address of the user "u5"? (Enter the address in defanged format.)
+10[.]1[.]12[.]2
+
+What is the hostname of the available host in the Kerberos packets?
+xp1$
+
+Investigate the anomalous packets. Which protocol is used in ICMP tunnelling?
+SSH
+
+Investigate the anomalous packets. What is the suspicious main domain address that receives anomalous DNS queries? (Enter the address in defanged format.)
+dataexfil[.]com
+
+How many incorrect login attempts are there?
+737
+
+What is the size of the file accessed by the "ftp" account?
+39424
+
+The adversary uploaded a document to the FTP server. What is the filename?
+resume.doc
+
+The adversary tried to assign special flags to change the executing permissions of the uploaded file. What is the command used by the adversary?
+CHMOD 777
+
+Investigate the user agents. What is the number of anomalous  "user-agent" types?
+6
+
+What is the packet number with a subtle spelling difference in the user agent field?
+52
+
+Locate the "Log4j" attack starting phase. What is the packet number?
+444
+
+Locate the "Log4j" attack starting phase and decode the base64 command. What is the IP address contacted by the adversary? (Enter the address in defanged format and exclude "{}".)
+62[.]210[.]130[.]250
+
+What is the frame number of the "Client Hello" message sent to "accounts.google.com"?
+16
+
+Decrypt the traffic with the "KeysLogFile.txt" file. What is the number of HTTP2 packets?
+115
+
+Go to Frame 322. What is the authority header of the HTTP2 packet? (Enter the address in defanged format.)
+safebrowsing[.]googleapis[.]com
+
+Investigate the decrypted packets and find the flag! What is the flag?
+FLAG{THM-PACKETMASTER}
+
+What is the packet number of the credentials using "HTTP Basic Auth"?
+237
+
+What is the packet number where "empty password" was submitted?
+170
+
+Select packet number 99. Create a rule for "IPFirewall (ipfw)". What is the rule for "denying source IPv4 address"?
+add deny ip from 10.121.70.151 to any in
+
+Select packet number 231. Create "IPFirewall" rules. What is the rule for "allowing destination MAC address"?
+add allow MAC 00:d0:59:aa:af:80 any in

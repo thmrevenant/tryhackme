@@ -1,0 +1,41 @@
+Windows Network Analysis
+https://tryhackme.com/room/windowsnetworkanalysis
+
+What is the full name of the Windows feature that tracks the last 30 to 60 days of system statistics?
+System Resource Usage Monitor
+
+What is the full path to the directory that Windows will output Firewall logs to?
+C:\Windows\System32\LogFiles\Firewall
+
+What cmdlet can be used to display active TCP connections?
+Get-NetTCPConnection
+
+What cmdlet can be used to display the DNS cache on the host?
+Get-DnsClientCache
+
+What command can be used to list all active RDP sessions on the host?
+qwinsta
+
+What netstat flag can we use to display the executable responsible for a connection?
+-b
+
+If we wanted to display all TCP connections and the associated process ID using netstat, what flag would we use?
+-o
+
+What special character can we use to save the output of netstat to a text file?
+>
+
+A popular port for reverse shells is currently active. What is the port number?
+4444
+
+What is the name of the process that is connecting to the C2 server?
+pythonw.exe
+
+What is the domain that has been added to the workstation's host file?
+attackerc2.thm
+
+Analyse the SRUM database. There is another process that has sent a large amount of bytes, indicating data exfil. What is the full path to the process (as listed in SRUM)?
+\device\harddiskvolume3\program files\updater\exfil.exe
+
+Finally, analyse the SMB shares present on the analyst machine. What is the name of the share that stands out?
+confidential

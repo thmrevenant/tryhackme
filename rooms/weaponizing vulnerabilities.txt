@@ -1,0 +1,44 @@
+Weaponizing Vulnerabilities
+https://tryhackme.com/room/weaponizingvulnerabilities
+
+What is the term for an exploit that is used to gain control of a system remotely?
+remote exploit
+
+A vulnerability not patched by the vendor and unknown to most people is called a?
+0-day
+
+What is a commonly used term for a demonstration that proves the exploitability of a newly discovered vulnerability?
+Proof of concept
+
+What does a product manufacturer typically release to prevent a known vulnerability from being exploited by adversaries?
+patch
+
+Can it take days, months, or even years to develop a 0-day exploit? (yea/nay)
+yea
+
+An exploit developed once the vendor has released the patch is called?
+n-day
+
+What is the technique called to string together multiple exploits?
+Exploit chaining
+
+After initial access to the system, the process for gaining higher access within the system is called?
+Privilege escalation
+
+The step in which the adversary tries to maintain long time access to the system is called?
+persistence
+
+What is the response when we enter email test@chatai.com' as user email and password 123 in the login form?
+undefined
+
+Execute the command whoami, what is the output you receive?
+nt authority\system
+
+Have you noticed the file flag.txt in the web root directory? What is the flag value?
+THM{010101_PAWNED}
+
+How many files are available in the C:\xampp\htdocs\img folder?
+2
+
+As a security engineer, is it important to ensure that automated scripts being executed are acquired from legitimate sources? (yea/nay)
+yea

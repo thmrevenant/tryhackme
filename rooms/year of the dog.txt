@@ -1,0 +1,8 @@
+Year of the Dog
+https://tryhackme.com/room/yearofthedog
+
+User Flag
+THM{OTE3MTQyNTM5NzRiN2VjNTQyYWM2M2Ji}
+
+Root Flag
+THM{MzlhNGY5YWM0ZTU5ZGQ0OGI0YTc0OWRh}

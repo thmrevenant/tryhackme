@@ -1,0 +1,8 @@
+VulnNet: dotjar
+https://tryhackme.com/room/vulnnetdotjar
+
+What is the user flag? (user.txt)
+THM{1ae87fa6ec2cd9f840c68cbad78e9351}
+
+What is the root flag? (root.txt)
+THM{464c29e3ffae05c2e67e6f0c5064759c}

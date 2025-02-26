@@ -1,0 +1,8 @@
+Year of the Rabbit
+https://tryhackme.com/room/yearoftherabbit
+
+What is the user flag?
+THM{1107174691af9ff3681d2b5bdb5740b1589bae53}
+
+What is the root flag?
+THM{8d6f163a87a1c80de27a4fd61aef0f3a0ecf9161}

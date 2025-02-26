@@ -1,0 +1,8 @@
+VulnNet: Roasted
+https://tryhackme.com/room/vulnnetroasted
+
+What is the user flag? (Desktop\user.txt)
+THM{726b7c0baaac1455d05c827b5561f4ed}
+
+What is the system flag? (Desktop\system.txt)
+THM{16f45e3934293a57645f8d7bf71d8d4c}

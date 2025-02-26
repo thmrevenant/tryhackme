@@ -1,0 +1,50 @@
+Windows Local Persistence
+https://tryhackme.com/room/windowslocalpersistence
+
+Insert flag1 here
+THM{FLAG_BACKED_UP!}
+
+Insert flag2 here
+THM{IM_JUST_A_NORMAL_USER}
+
+Insert flag3 here
+THM{TRUST_ME_IM_AN_ADMIN}
+
+Insert flag5 here
+THM{NO_SHORTCUTS_IN_LIFE}
+
+Insert flag6 here
+THM{TXT_FILES_WOULD_NEVER_HURT_YOU}
+
+Insert flag7 here
+THM{SUSPICIOUS_SERVICES}
+
+Insert flag8 here
+THM{IN_PLAIN_SIGHT}
+
+Insert flag9 here
+THM{JUST_A_MATTER_OF_TIME}
+
+Insert flag10 here
+THM{NO_NO_AFTER_YOU}
+
+Insert flag11 here
+THM{LET_ME_HOLD_THE_DOOR_FOR_YOU}
+
+Insert flag12 here
+THM{I_INSIST_GO_FIRST}
+
+Insert flag13 here
+THM{USER_TRIGGERED_PERSISTENCE_FTW}
+
+Insert flag14 here
+THM{BREAKING_THROUGH_LOGIN}
+
+Insert flag15 here
+THM{THE_LOGIN_SCREEN_IS_MERELY_A_SUGGESTION}
+
+Insert flag16 here
+THM{EZ_WEB_PERSISTENCE}
+
+Insert flag17 here
+THM{I_LIVE_IN_YOUR_DATABASE}

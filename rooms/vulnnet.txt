@@ -1,0 +1,8 @@
+VulnNet
+https://tryhackme.com/room/vulnnet1
+
+What is the user flag? (user.txt)
+THM{907e420d979d8e2992f3d7e16bee1e8b}
+
+What is the root flag? (root.txt)
+THM{220b671dd8adc301b34c2738ee8295ba}

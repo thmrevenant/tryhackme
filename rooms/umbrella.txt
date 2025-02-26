@@ -1,0 +1,11 @@
+Umbrella
+https://tryhackme.com/room/umbrella
+
+What is the DB password?
+Ng1-f3!Pe7-e5?Nf3xe5
+
+What is the user flag?
+THM{d832c0e4cf71312708686124f7a6b25e}
+
+What is the root flag?
+THM{1e15fbe7978061c6bb1924124fd9eab2}

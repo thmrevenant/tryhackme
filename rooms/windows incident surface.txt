@@ -1,0 +1,86 @@
+Windows Incident Surface
+https://tryhackme.com/room/winincidentsurface
+
+What tool did the adversary use to delete the logs?
+wevtutil
+
+What was the registry path used by the adversary to store and steal the login credentials?
+HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest
+
+What is the hostname of the compromised host?
+CCTL-WS-018-B21
+
+What is the OS version of the compromised host?
+10.0.17763
+
+What is the Time ID of the compromised host?
+Turkey Standard Time
+
+What is the total number of suspicious accounts?
+3
+
+What is the security identifier (SID) of the Guest account?
+S-1-5-21-1966530601-3185510712-10604624-501
+
+When was the last time the Admin account (the one with the deliberate typo) was logged in?
+2/28/2024 10:21:10 AM
+
+What is the name of the malicious process? Enter your answer in a defanged format.
+INITIAL_LANTERN[.]exe
+
+What is the directory path where the malicious process is located?
+C:\Users\Administrator\AppData\SpcTmp\
+
+What is the remote port used by the malicious process?
+8888
+
+What is the full path of the suspicious program for AnyDesk? Enter your answer in a defanged format.
+D:\AnyDesk[.]exe
+
+What port is used by the LMV Co. firewall rules?
+5985
+
+Which user account will be used to run the AnyDesk application?
+Public
+
+What is the value data stored in the "Userinit" key? Enter your answer in a defanged format.
+C:\Windows\system32\userinit[.]exe, cmd[.]exe /c "start /min netsh[.]exe -c"
+
+What is the name of the suspicious DLL linked under the netshell hive key?
+.\fwshield.dll
+
+What is the name of the suspicious active service?
+LMVCSS
+
+What is the SHA256 value of the suspicious active service executable?
+E9AA7564B2D1D612479E193A9F8CB70DF9CFBE02A39900EEE22FE266F5320EBF
+
+What is the name of the non-running service that caught our attention?
+aurora-agent
+
+What is the SHA256 value of the non-running service executable?
+D5C8BF2D3B56B21639D8152DB277DD714BA1A61BDAF2350BD0FF7E61D2A99003
+
+What is the original filename of the non-running service executable? Enter your answer in a defanged format.
+x3xv5weg[.]exe
+
+What is the parent process name of the suspicious executable (INITIAL_LANTERN) process? Enter your answer in a defanged format.
+services[.]exe
+
+Which user name is used for the SSH connection attempts?
+James
+
+What is the parent process of the malicious aurora process? Enter your answer in a defanged format.
+svchost[.]exe
+
+What is the file name located in the default user's temp directory? Enter your answer in a defanged format.
+jmp[.]exe
+
+What is the name of the potential proxy script located in the suspicious non-default temp folder? Enter your answer in a defanged format.
+Invoke-SocksProxy[.]psm1
+
+What is the SHA256 value of the potential proxy script located in the suspicious non-default temp folder?
+E7697645F36DE5978C1B640B6B3FC819E55B00EE8D9E9798919C11CC7A6FC88B
+
+What is the label of the hidden disc volume?
+Setups

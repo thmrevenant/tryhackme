@@ -1,0 +1,71 @@
+Velociraptor
+https://tryhackme.com/room/velociraptorhp
+
+Using the documentation, how would you launch an Instant Velociraptor on Windows?
+velociraptor.exe gui
+
+What is the hostname for the client?
+THM-VELOCIRAPTOR.eu-west-1.compute.internal
+
+What is listed as the agent version?
+2021-04-11T22:11:10Z
+
+In the Collected tab, what was the VQL command to query the client user accounts?
+LET Generic_Client_Info_Users_0_0=SELECT Name, Description, Mtime AS LastLogin FROM Artifact.Windows.Sys.Users()
+
+In the Collected tab, check the results for the PowerShell whoami command you executed previously. What is the column header that shows the output of the command?
+Stdout
+
+In the Shell, run the following PowerShell command Get-Date. What was the PowerShell command executed with VQL to retrieve the result?
+powershell -ExecutionPolicy Unrestricted -encodedCommand ZwBlAHQALQBkAGEAdABlAA==
+
+Earlier you created a new artifact collection for Windows.KapeFiles.Targets. You configured the parameters to include Ubuntu artifacts. Review the parameter description for this setting. What is this parameter specifically looking for?
+Ubuntu on Windows Subsystem for Linux
+
+Review the output. How many files were uploaded?
+20
+
+Which accessor can access hidden NTFS files and Alternate Data Streams? (format: xyz accessor)
+ntfs accessor
+
+Which accessor provides file-like access to the registry? (format: xyz accessor)
+registry accessor
+
+What is the name of the file in $Recycle.Bin?
+desktop.ini
+
+There is hidden text in a file located in the Admin's Documents folder. What is the flag?
+THM{VkVMT0NJUkFQVE9S}
+
+What is followed after the SELECT keyword in a standard VQL query?
+Column Selectors
+
+What goes after the FROM  keyword?
+VQL Plugin
+
+What is followed by the WHERE keyword?
+Filter expression
+
+What can you type in the Notepad interface to view a list of possible completions for a keyword?
+?
+
+What plugin would you use to run PowerShell code from Velociraptor?
+execve()
+
+What are the arguments for parse_mft()?
+parse_mft(filename="C:/$MFT", accessor="ntfs")
+
+What filter expression will ensure that no directories are returned in the results?
+IsDir
+
+What is the name in the Artifact Exchange to detect Printnightmare?
+Windows.Detection.PrintNightmare
+
+Per the above instructions, what is your Select clause? (no spaces after commas)
+SELECT "C:/" + FullPath AS Full_Path,FileName AS File_Name,parse_pe(file="C:/" + FullPath) AS PE
+
+What is the name of the DLL that was  placed by the attacker?
+nightmare.dll
+
+What is the PDB entry?
+C:\Users\caleb\source\repos\nightmare\x64\Release\nightmare.pdb

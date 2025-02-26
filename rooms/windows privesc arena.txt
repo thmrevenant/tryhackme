@@ -1,0 +1,8 @@
+Windows PrivEsc Arena
+https://tryhackme.com/room/windowsprivescarena
+
+Open a command prompt and run 'net user'. Who is the other non-default user on the machine?
+TCM
+
+What is the cleartext password found in Unattend.xml?
+password123

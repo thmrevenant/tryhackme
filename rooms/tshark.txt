@@ -1,0 +1,26 @@
+TShark
+https://tryhackme.com/room/tshark
+
+How many packets are in the dns.cap file?
+38
+
+How many A records are in the capture? (Including responses)
+6
+
+Which A record was present the most?
+GRIMM.utelsystems.local
+
+How many packets are in this capture?
+125
+
+How many DNS queries are in this pcap? (Not responses!)
+56
+
+What is the DNS transaction ID of the suspicious queries (in hex)?
+0xbeef
+
+What is the string extracted from the DNS queries?
+MZWGCZ33ORUDC427NFZV65BQOVTWQX3XNF2GQMDVG5PXI43IGRZGWIL5
+
+What is the flag?
+flag{th1s_is_t0ugh_with0u7_tsh4rk!}

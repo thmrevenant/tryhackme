@@ -1,0 +1,8 @@
+Unbaked Pie
+https://tryhackme.com/room/unbakedpie
+
+User Flag
+THM{ce778dd41bec31e1daed77ebebcd7423}
+
+Root Flag
+THM{1ff4c893b3d8830c1e188a3728e90a5f}

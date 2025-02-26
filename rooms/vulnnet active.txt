@@ -1,0 +1,8 @@
+VulnNet: Active
+https://tryhackme.com/room/vulnnetactive
+
+What is the user flag? (Desktop\user.txt)
+THM{3eb176aee96432d5b100bc93580b291e}
+
+What is the system flag? (Desktop\system.txt)
+THM{d540c0645975900e5bb9167aa431fc9b}

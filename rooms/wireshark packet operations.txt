@@ -1,0 +1,59 @@
+Wireshark: Packet Operations
+https://tryhackme.com/room/wiresharkpacketoperations
+
+Investigate the resolved addresses. What is the IP address of the hostname starts with "bbc"?
+199.232.24.81
+
+What is the number of IPv4 conversations?
+435
+
+How many bytes (k) were transferred from the "Micro-St" MAC address?
+7474
+
+What is the number of IP addresses linked with "Kansas City"?
+4
+
+Which IP address is linked with "Blicnet" AS Organisation?
+188.246.82.7
+
+What is the most used IPv4 destination address?
+10.100.1.33
+
+What is the max service request-response time of the DNS packets?
+0.467897
+
+What is the number of HTTP Requests accomplished by "rad[.]msn[.]com?
+39
+
+What is the number of IP packets?
+81420
+
+What is the number of packets with a "TTL value less than 10"?
+66
+
+What is the number of packets which uses "TCP port 4444"?
+632
+
+What is the number of "HTTP GET" requests sent to port "80"?
+527
+
+What is the number of "type A DNS Queries"?
+51
+
+Find all Microsoft IIS servers. What is the number of packets that did not originate from "port 80"?
+21
+
+Find all Microsoft IIS servers. What is the number of packets that have "version 7.5"?
+71
+
+What is the total number of packets that use ports 3333, 4444 or 9999?
+2235
+
+What is the number of packets with "even TTL numbers"?
+77289
+
+Change the profile to "Checksum Control". What is the number of "Bad TCP Checksum" packets?
+34185
+
+Use the existing filtering button to filter the traffic. What is the number of displayed packets?
+261

@@ -1,0 +1,44 @@
+Virtualization and Containers
+https://tryhackme.com/room/virtualizationandcontainers
+
+Is scalability a primary benefit of virtualization? (Y/N)
+Y
+
+What is the operating system of a virtual machine often referred to as?
+guest OS
+
+What type of hypervisor is VirtualBox considered?
+type 2
+
+What are type 1 hypervisors also known as?
+bare metal hypervisors
+
+Are containers completely abstracted from the host operating system? (Y/N)
+N
+
+What flag is obtained at MACHINE_IP:5000 after running the container?
+THM{this_is_running_in_docker}
+
+How many pods are running on the provided cluster?
+1
+
+How many system pods are running on the provided cluster?
+7
+
+What is the pod name on the provided cluster?
+hello-tryhackme-875767b84-sfk2c
+
+What is the deployment name on the provided cluster?
+hello-tryhackme
+
+What port is exposed by the service in question 5?
+8080
+
+How many replica sets are deployed on the provided cluster?
+1
+
+What is the replica set name on the provided cluster?
+hello-tryhackme-875767b84
+
+What command would be used to delete the deployment from question 5?
+kubectl delete deployment hello-tryhackme

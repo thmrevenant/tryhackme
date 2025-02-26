@@ -1,0 +1,47 @@
+Windows User Activity Analysis
+https://tryhackme.com/room/windowsuseractivity
+
+Connect with the Lab. How many tools / folders are in the EZ tools folder on the Desktop?
+12
+
+Which Hive stores information about installed software?
+SOFTWARE
+
+What is the current size of the SAM Hive in the attached lab? (In KB)
+128
+
+The suspect typed a suspicious path in the Windows Explorer, that points to a tmp directory in C drive. What is the full path?
+C:\system\home\tmp
+
+In the WordWheelQuery search, what was the latest term searched by the user?
+wipe
+
+Where was the last text file saved by the suspect?
+C:\system\home\tmp\code.txt
+
+From the Hacking-tools folder, which suspicious key logging tool was executed 5 times?
+keylogger.exe
+
+Which Disk Wiping utility was executed on this host?
+DiskWipe.exe
+
+What is the IP address of the Network Share, where the user accessed three folders?
+10.10.17.228
+
+What is the name of the second sub-folder within the Documents folder of the network share that the user accessed?
+secret-doc
+
+What is the document that was last opened by the user on this machine?
+10_ways_to_Exfiltrate_Data.pdf
+
+Analyzing the code.lnk file shows that it was accessed from the network shared drive. What is the full path of the network directory?
+\\10.10.17.228\Users\Administrator\Documents\secret-documents
+
+A text file named code.txt was accessed from a tmp directory. What is the full path of the tmp directory?
+C:\system\home\tmp\code.txt
+
+What URL was accessed using Internet Explorer?
+http://10.10.17.228/
+
+When did the user access the "How to Hack.pdf" file?
+2024-03-04 12:28:26
