@@ -1,0 +1,8 @@
+Cold VVars
+https://tryhackme.com/room/coldvvars
+
+User.txt
+ae39f419ce0a3a26f15db5aaa7e446ff
+
+Root.txt
+42f191b937ea71cd2052a06a7a08585a

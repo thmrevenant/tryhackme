@@ -1,0 +1,29 @@
+Deja Vu
+https://tryhackme.com/room/dejavu
+
+Perform an Nmap scan of the target. What version of SSH is in use?
+OpenSSH 8.0 (protocol 2.0)
+
+What page can be used to upload your own dog picture?
+/upload/
+
+What API route is used to provide the Title and Caption for a specific dog image?
+/dog/getmetadata
+
+What API route does the application use to retrieve further information about the dog picture?
+/dog/getexifdata
+
+What attribute in the JSON response from this endpoint specifies the version of ExifTool being used by the webapp?
+ExifToolVersion
+
+What version of ExifTool is in use?
+12.23
+
+What RCE exploit is present in this version of ExifTool? Give the CVE number in format CVE-XXXX-XXXXX
+CVE-2021-22204
+
+Retrieve the flag located in /home/dogpics/user.txt. What is the user flag?
+dejavu{735c0553063625f41879e57d5b4f3352}
+
+Retrieve the root flag from /root/root.txt. What is the root flag?
+dejavu{5ad931368bdc46f856febe4834ace627}

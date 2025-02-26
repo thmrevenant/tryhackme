@@ -1,0 +1,53 @@
+Cluster Hardening
+https://tryhackme.com/room/clusterhardening
+
+What lives at the highest level of Kubernetes architecture and is comprised of all lower-level components?
+Kubernetes cluster
+
+What mindset is always beneficial in the world of cyber?
+Security-first
+
+What standards are used to check a clusters’ level of security?
+security benchmarks
+
+What CIS security benchmark ensures anonymous traffic is disallowed? 
+4.2.1
+
+What open-source tool can perform automated security assessments on a Kubernetes cluster?
+Kube-bench
+
+Which port does Kubelet serve the kubelet-api and allow for full access?
+10250
+
+What value has to be set to "false" to ensure unauthorised traffic is locked down?
+authentication:anonymous:enabled
+
+One method of kubelet request authentication is "X509 Client Certificate Authentication", what is the other?
+API Bearer Token
+
+Which component acts as both a 'Server' and a 'Client'?
+Kube-apiserver
+
+Which CIS security benchmarks would TLS encryption implement?
+1.2.24 - 27
+
+Which type of admission controller can modify the object related to the request they admit?
+Mutating
+
+Which built-in admission controller helps avoid a problem where the Kubernetes API gets flooded with requests to store new events?
+EventRateLimit
+
+What can be used if your organisation wants to enforce custom security standards or bespoke pod deployment checks specific to its organisation?
+Admission Controller Webhooks 
+
+What are the names of the two built-in admission controllers that call upon a defined admission controller webhook? Format: Answer1, Answer2
+ValidatingAdmissionWebhook, MutatingAdmissionWebhook
+
+What Kubernetes resource is used to restrict pod-to-pod communication?
+NetworkPolicy
+
+If we had an app running with the label "database", what field would we put this label in if we wanted to restrict traffic to this app?
+spec:PodSelector:matchLabels:app
+
+What is the Encoded Policy?
+U3BlYzoKICBQb2RTZWxlY3RvcjogICAgIGFwcD1iYWNrZW5kLXNlcnZpY2UyCiAgQWxsb3dpbmcgaW5ncmVzcyB0cmFmZmljOgogICAgVG8gUG9ydDogODg4OC9UQ1AKICAgIEZyb206CiAgICAgIFBvZFNlbGVjdG9yOiBhcHA9YmFja2VuZC1zZXJ2aWNlMQogIE5vdCBhZmZlY3RpbmcgZWdyZXNzIHRyYWZmaWMKICBQb2xpY3kgVHlwZXM6IEluZ3Jlc3M=

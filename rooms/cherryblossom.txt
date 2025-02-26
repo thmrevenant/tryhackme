@@ -1,0 +1,11 @@
+CherryBlossom
+https://tryhackme.com/room/cherryblossom
+
+Journal Flag
+THM{054a8f1db7618f8f6a41a0b3349baa11}
+
+User Flag
+THM{cb064113d54e24dc84f26b1f63bf3098}
+
+Root Flag
+THM{d4b5e228a567288d12e301f2f0bf5be0}

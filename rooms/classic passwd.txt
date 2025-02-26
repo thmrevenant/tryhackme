@@ -1,0 +1,5 @@
+Classic Passwd
+https://tryhackme.com/room/classicpasswd
+
+What is the flag?
+THM{65235128496}

@@ -1,0 +1,42 @@
+Burp Suite: Intruder
+https://tryhackme.com/room/burpsuiteintruder
+
+In which Intruder tab can we define the "Attack type" for our planned attack?
+Positions
+
+What symbol defines the start and the end of a payload position?
+§
+
+Which Payload processing rule could we use to add characters at the end of each payload in the set?
+Add suffix
+
+What attack type cycles through the payloads inserting one payload at a time into each position defined in the request?
+Sniper
+
+If you were using Sniper to fuzz three parameters in a request with a wordlist containing 100 words, how many requests would Burp Suite need to send to complete the attack?
+300
+
+How many sets of payloads will Sniper accept for conducting an attack?
+1
+
+What would the body parameters of the first request that Burp Suite sends be?
+username=admin&password=admin
+
+What is the maximum number of payload sets we can load into Intruder in Pitchfork mode?
+20
+
+How many requests will Intruder make using these payload sets in a Cluster bomb attack?
+6000
+
+What username and password combination indicates a successful login attempt? The answer format is "username:password".
+m.rivera:letmein1
+
+Which attack type is best suited for this task?
+Sniper
+
+What is the flag?
+THM{MTMxNTg5NTUzMWM0OWRlYzUzMDVjMzJl}
+
+What username and password combination indicates a successful login attempt? The answer format is "username:password".
+o.bennett:bella1
+

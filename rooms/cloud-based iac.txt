@@ -1,0 +1,65 @@
+Cloud-based IaC
+https://tryhackme.com/room/cloudbasediac
+
+Terraform Core takes its input from two sources; this source keeps track of what the infrastructure currently looks like. What is the name of this source?
+State
+
+The other source defines what you want infrastructure to look like. What is the name of this source?
+Terraform Config files
+
+If there is a difference between what the infrastructure currently looks like and what you want it to look like, this will require a change. This change will be actioned by a....?
+Provider
+
+When defining the VPC (in the first example) before the resource block, what was defined?
+provider
+
+When modulating your infrastructure, what file acts as the central configuration file? 
+main.tf
+
+Instead of repeatedly defining values across multiple infrastructure modules these values can be collected in one file and referenced. What is the name of this file? 
+variables.tf
+
+What command would you run to action the steps outlined to take your infrastructure from the desired state to the actual state?
+terraform apply
+
+What command would you run to prepare your workspace?
+terraform init
+
+What command, when run, would provide you with a series of actions that would be required to take your infrastructure from the desired state to the actual state?
+terraform plan
+
+What is generated during stack creation?
+events
+
+Can you define rollback triggers in a template? (yay or nay)
+yay
+
+What allows you to refer to resources in another stack?
+Cross-Stack References
+
+Does CloudFormation support intrinsic functions? (yay or nay)
+yay
+
+What feature helps you understand the impact of modifications before they are applied?
+change sets
+
+Is CloudFormation cloud agnostic? (yay or nay)
+nay
+
+Which IaC tool has deep AWS integration?
+CloudFormation
+
+Which IaC tool has accessible community-driven modules?
+Terraform
+
+What can you do instead of hardcoding secrets in IaC code?
+Parameterise Sensitive Data
+
+What collaborative process can catch security issues early?
+Code Reviews
+
+What policies can you implement in CloudFormation for update controls?
+Stack Policies
+
+Can you use your Cloud-based IaC knowledge to get the flag?
+THM{c10uD-b@z3d-1@SeE}

@@ -1,0 +1,17 @@
+Cyber Scotland 2021
+https://tryhackme.com/room/cyberweek2021
+
+Terminal is a powerful tool that you can use to give instructions to the AttackBox computer and can be used to run applications. To find out the name of the account you're using type whoami into the terminal and press the ENTER key on your keyboard. Write out the response in the answer field below.
+root
+
+Question; What is the first option under the 'Penetration Testing (Fast Track)' menu?
+Microsoft SQL Bruter
+
+Switch to the "Contact" page. What is the phone number given for the company?
+08081 570087
+
+What is Theo's password?
+Inverkeithing
+
+What is this flag?
+SBRC{ODhiOTQ3ZTk0NzJhMWI1NTE5MGUyY2Vj}

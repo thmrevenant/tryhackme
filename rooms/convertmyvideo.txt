@@ -1,0 +1,14 @@
+ConvertMyVideo
+https://tryhackme.com/room/convertmyvideo
+
+What is the name of the secret folder?
+admin
+
+What is the user to access the secret folder?
+itsmeadmin
+
+What is the user flag?
+flag{0d8486a0c0c42503bb60ac77f4046ed7}
+
+What is the root flag?
+flag{d9b368018e912b541a4eb68399c5e94a}

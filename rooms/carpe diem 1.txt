@@ -1,0 +1,8 @@
+Carpe Diem 1
+https://tryhackme.com/room/carpediem1
+
+What is flag 1?
+THM{So_Far_So_Good_So_What}
+
+What is flag 2?
+THM{You_Found_TheFlag_Well_done!}

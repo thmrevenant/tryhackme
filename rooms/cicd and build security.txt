@@ -1,0 +1,74 @@
+CI/CD and Build Security
+https://tryhackme.com/room/cicdandbuildsecurity
+
+What element of a CI/CD pipeline coordinates and manages the automation of build and deployment environments?
+build orchestrator
+
+What element of a CI/CD pipeline builds, tests, and packages code?
+build agents
+
+What fundamental of CI/CD promotes developers in having access to the latest builds and code in order to understand and see the changes that have been made?
+maximum visibility
+
+What is the name of the build agent that can be used with Gitlab?
+Gitlab Runner
+
+What is the value of the flag you receive once authenticated to Timekeep?
+THM{Welcome.to.CICD.Pipelines}
+
+Which file specifies which directories and files should be excluded for version control?
+.gitignore
+
+What can you protect to ensure direct pushes and vulnerable code changes are avoided?
+branches
+
+What issue does lack of access control and unauthorised code changes lead to?
+unauthorised tampering
+
+What is the API key stored within the Mobile application that can be accessed by any Gitlab user?
+THM{You.Found.The.API.Key}
+
+Where should you store artefacts to prevent tampering?
+secure registry
+
+What mechanism should you always use to store and inject sensitive data?
+secret management
+
+What attack can malicious actors perform to inject malicious code in the build process?
+dependency confusion
+
+Authenticate to Mother and follow the process to claim Flag 1. What is Flag 1?
+THM{7753f7e9-6543-4914-90ad-7153609831c3}
+
+What can be used to ensure that remote access to the build server can be performed securely?
+VPN
+
+What can be used to add an additional layer of authentication security for build agents?
+Token-based authentication
+
+Authenticate to Mother and follow the process to claim Flag 2. What is Flag 2?
+THM{1769f776-e03c-40b6-b2eb-b298297c15cc}
+
+What can we add so that merges are raised for review instead of pushing the changes to code directly?
+merge requests
+
+What should we do so that only trusted runners execute CI/CD jobs?
+limit runner access
+
+Authenticate to Mother and follow the process to claim Flag 3. What is Flag 3?
+THM{2411b26f-b213-462e-b94c-39d974e503e6}
+
+What should you do so that a compromised environment doesn't affect other environments?
+isolate environments
+
+Authenticate to Mother and follow the process to claim Flag 4 from the DEV environment. What is Flag 4?
+THM{28f36e4a-7c35-4e4d-bede-be698ddf0883}
+
+Authenticate to Mother and follow the process to claim Flag 5 from the PROD environment. What is Flag 5?
+THM{e9f99dbe-6bae-4849-adf7-18a449c93fe6}
+
+Is using environment variables enough to protect the build secrets? (yay or nay)
+nay
+
+What is the value of the PROD API_KEY?
+THM{Secrets.are.meant.to.be.kept.Secret}

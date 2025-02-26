@@ -1,0 +1,62 @@
+CTF collection Vol.1
+https://tryhackme.com/room/ctfcollectionvol1
+
+Feed me the flag!
+THM{ju57_d3c0d3_7h3_b453}
+
+I'm hungry, I need the flag.
+THM{3x1f_0r_3x17}
+
+It is sad. Feed me the flag.
+THM{500n3r_0r_l473r_17_15_0ur_7urn}
+
+Did you find the flag?
+THM{wh173_fl46}
+
+More flag please!
+THM{qr_m4k3_l1f3_345y}
+
+Found the flag?
+THM{345y_f1nd_345y_60}
+
+Oh, Oh, Did you get it?
+THM{17_h45_l3553r_l3773r5}
+
+What did you get?
+THM{hail_the_caesar}
+
+I'm hungry now... I need the flag
+THM{4lw4y5_ch3ck_7h3_c0m3mn7}
+
+What is the content?
+THM{y35_w3_c4n}
+
+Did you found the hidden flag?
+THM{50c14l_4cc0un7_15_p4r7_0f_051n7}
+
+Can you decode it?
+THM{0h_my_h34d}
+
+Did you crack it? Feed me now!
+THM{3xclu51v3_0r}
+
+Flag! Flag! Flag!
+THM{y0u_w4lk_m3_0u7}
+
+What does the flag said?
+THM{7h3r3_15_h0p3_1n_7h3_d4rkn355}
+
+What does the bot said?
+THM{SOUNDINGQR}
+
+Did you found my past?
+THM{ch3ck_th3_h4ckb4ck}
+
+The deciphered text
+TRYHACKME{YOU_FOUND_THE_KEY}
+
+What is the flag?
+THM{17_ju57_4n_0rd1n4ry_b4535}
+
+Did you captured my neighbor's flag?
+THM{d0_n07_574lk_m3}

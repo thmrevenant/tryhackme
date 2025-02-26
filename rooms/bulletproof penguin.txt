@@ -1,0 +1,47 @@
+Bulletproof Penguin
+https://tryhackme.com/room/bppenguin
+
+What is the redis_nopass flag?
+THM{ae4e5bb7aac2c2252363ca466f10ffd0}
+
+What is the snmp_public flag?
+THM{aa397a808d527fd71f023c78d3c04591}
+
+What is the nginx_asroot flag?
+THM{bebb02b22bb56b2f79ba706975714ee2}
+
+What other cleartext service is running on port 69/udp?
+TFTP
+
+What is the cleartext_services flag?
+THM{33704d74ec53c8cf50daf817bea836a1}
+
+What is the ssh_weak_macs flag?
+THM{e3d6b82f291b64f95213583dcd89b659}
+
+What is the ssh_weak_kex flag?
+THM{d9baf598ee934d79346f425a81bd693a}
+
+What is the ssh_weak_ciphers flag?
+THM{9ff9c182cad601291d45951c01d0b2c7}
+
+What is the anon_ftp flag?
+THM{f20b5ff5a3d4c779e99c3a93d1f68c6d}
+
+What is the change_pass flag?
+THM{be74a521c3982298d2e9b0e347a3807d}
+
+What is the unused_accounts flag?
+THM{1b354db0e71f75057abe69de26a637ab}
+
+What is the sudoers_munra flag?
+THM{1e9ee13fb42fea2a9eb2730c51448241}
+
+What is the sudoers_mary flag?
+THM{a0bcb9b72fd26d0ad55cdcdcd21698f1}
+
+What is the mysql_port_public flag?
+THM{526e33142b54e13bb47b17056823ab60}
+
+What is the redis_port_public flag?
+THM{20a809866dbcf94109189c5bafabc5c2}

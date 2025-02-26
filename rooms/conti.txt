@@ -1,0 +1,32 @@
+Conti
+https://tryhackme.com/room/contiransomwarehgh
+
+Can you identify the location of the ransomware?
+C:\Users\Administrator\Documents\cmd.exe
+
+What is the Sysmon event ID for the related file creation event?
+11
+
+Can you find the MD5 hash of the ransomware?
+290c7dfb01e50cea9e19da81a781af2c
+
+What file was saved to multiple folder locations?
+readme.txt
+
+What was the command the attacker used to add a new user to the compromised system?
+net user /add securityninja hardToHack123$
+
+The attacker migrated the process for better persistence. What is the migrated process image (executable), and what is the original process image (executable) when the attacker got on the system?
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,C:\Windows\System32\wbem\unsecapp.exe
+
+The attacker also retrieved the system hashes. What is the process image used for getting the system hashes?
+C:\Windows\System32\lsass.exe
+
+What is the web shell the exploit deployed to the system?
+i3gfPctK1c2x.aspx
+
+What is the command line that executed this web shell?
+attrib.exe  -r \\\\win-aoqkg2as2q7.bellybear.local\C$\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\i3gfPctK1c2x.aspx
+
+What three CVEs did this exploit leverage?
+CVE-2020-0796,CVE-2018-13374,CVE-2018-13379

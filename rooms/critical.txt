@@ -1,0 +1,47 @@
+Critical
+https://tryhackme.com/room/critical
+
+What type of memory is analyzed during a forensic memory task?
+RAM
+
+In which phase will you create a memory dump of the target system?
+Memory Acquisition
+
+Which plugin can help us to get information about the OS running on the target machine?
+Windows.info
+
+Which tool referenced above can help us take a memory dump on a Linux OS?
+LIME
+
+Which command will display the help menu using Volatility on the target machine?
+vol -h
+
+Is the architecture of the machine x64 (64bit) Y/N?
+Y
+
+What is the Verison of the Windows OS
+10
+
+What is the base address of the kernel?
+0xf8066161b000
+
+Using the plugin "windows.netscan" can you identify the IP address that establish a connection on port 80?
+192.168.182.128
+
+Using the plugin "windows.netscan," can you identify the program (owner) used to access through port 80?
+msedge.exe
+
+Analyzing the process present on the dump, what is the PID of the child process of critical_updat?
+1612
+
+What is the time stamp time for the process with the truncated name critical_updat?
+2024-02-24 22:51:50.000000
+
+Analyzing the "windows.filescan" output, what is the full path and name for critical_updat?
+C:\Users\user01\Documents\critical_update.exe
+
+Analyzing the "windows.mftscan.MFTScan" what is the Timestamp for the created date of important_document.pdf?
+2024-02-24 20:39:42.000000
+
+Analyzing the updater.exe memory output, can you observe the HTTP request and determine the server used by the attacker?
+SimpleHTTP/0.6 Python/3.10.4

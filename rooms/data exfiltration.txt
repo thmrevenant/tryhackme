@@ -1,0 +1,47 @@
+Data Exfiltration
+https://tryhackme.com/room/dataxexfilt
+
+In which case scenario will sending and receiving traffic continue during the connection?
+Tunneling
+
+In which case scenario will sending and receiving traffic be in one direction?
+traditional data exfiltration
+
+Exfiltration using TCP sockets relies on ____________ protocols! 
+non-standard
+
+All packets sent using the Data Exfiltration technique over SSH are encrypted! (T=True/F=False)
+T
+
+Check the Apache log file on web.thm.com  and get the flag!
+THM{H77P-G37-15-f0un6}
+
+When you visit the http://flag.thm.com/flag website through the uploader machine via the HTTP tunneling technique, what is the flag?
+THM{H77p_7unn3l1n9_l1k3_l337}
+
+In which ICMP packet section can we include our data?
+Data
+
+Follow the technique discussed in this task to establish a C2 ICMP connection between JumpBox and ICMP-Host. Then execute the "getFlag" command. What is the flag?
+THM{g0t-1cmp-p4k3t!}
+
+Once the DNS configuration works fine, resolve the flag.thm.com  domain name. What is the IP address?
+172.20.0.120
+
+What is the maximum length for the subdomain name (label)?
+63
+
+The Fully Qualified FQDN domain name must not exceed ______ characters.
+255
+
+Execute the C2 communication over the DNS protocol of the flag.tunnel.com. What is the flag?
+THM{C-tw0-C0mmun1c4t10ns-0v3r-DN5}
+
+When the iodine connection establishes to Attacker, run the ifconfig command. How many interfaces are? (including the loopback interface)
+4
+
+What is the network interface name created by iodined? 
+dns0
+
+Use the DNS tunneling to prove your access to the webserver, http://192.168.0.100/test.php . What is the flag?
+THM{DN5-Tunn311n9-1s-c00l

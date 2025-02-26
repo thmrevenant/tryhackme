@@ -1,0 +1,65 @@
+Content Security Policy
+https://tryhackme.com/room/csp
+
+What does CSP stand for?
+Content Security Policy
+
+CSP is designed to add an additional layer of protection against the exploitation of what vulnerability?
+XSS
+
+In which part of the HTTP response does the server usually send the policy to the client?
+header
+
+Which directive can we use to restrict the loading of scripts on our website?
+script-src
+
+Which directive can we use to restrict the loading of videos on our website?
+media-src
+
+If we want to log CSP violations, which directive do we need to set to have the browser report violations to us?
+report-uri
+
+If we want to allow script execution via functions such as eval() from already trusted scripts, what source should we allow in our script-src directive?
+'unsafe-eval'
+
+What directive-source combination should we add to our policy if we want to specifically block all JavaScript content from running on our website?
+script-src 'none'
+
+What hashing algorithm can you use to verify the scripts being loaded? (Without the numbers)
+SHA
+
+Can you include the URLs of the permitted scripts directly in your security policy? (Yes / No)
+Yes
+
+If Ajax/XHR requests are blocked, can we still exfiltrate sensitive information? (Yes / No)
+Yes
+
+Flag for attack-1
+THM{Th4t_W4s_Pr3tty_3asy}
+
+Flag for attack-2
+THM{Us1ng_data:_1snt_Any_S4fer}
+
+Flag for attack-3
+THM{Th4ts_N0t_4n_1m4ge!!}
+
+Flag for attack-4
+THM{Style_Y0ur_W3bs1teS}
+
+Flag for attack-5
+THM{N0_JSONP_D0mains_Plz}
+
+Flag for attack-6
+THM{Trust_N0_CDN}
+
+Flag for attack-7
+THM{Th1s_4udio_S0unds_N1ce}
+
+What is the flag for defend-1?
+THM{N0_0utside_S0urces}
+
+What is the flag for defend-2?
+THM{M4k3_Sure_Y0ur_N0nce_1s_R4ndom}
+
+What is the flag for defend-3?
+THM{Hash_Y0ur_1nl1ne_Scr1pts}

@@ -1,0 +1,35 @@
+Burp Suite: The Basics
+https://tryhackme.com/room/burpsuitebasics
+
+Which edition of Burp Suite runs on a server and provides constant scanning for target web apps?
+Burp Suite Enterprise
+
+Burp Suite is frequently used when attacking web applications and ______ applications.
+Mobile
+
+Which Burp Suite feature allows us to intercept requests between ourselves and the target?
+Proxy
+
+Which Burp tool would we use to brute-force a login form?
+Intruder
+
+What menu provides information about the actions performed by Burp Suite, such as starting the proxy, and details about connections made through Burp?
+Event log
+
+Which tab Ctrl + Shift + P will switch us to?
+Proxy tab
+
+In which category can you find a reference to a "Cookie jar"?
+Sessions
+
+In which base category can you find the "Updates" sub-category, which controls the Burp Suite update behaviour?
+Suite
+
+What is the name of the sub-category which allows you to change the keybindings for shortcuts in Burp Suite?
+Hotkeys
+
+If we have uploaded Client-Side TLS certificates, can we override these on a per-project basis (yea/nay)?
+yea
+
+What is the flag you receive after visiting the unusual endpoint?
+THM{NmNlZTliNGE1MWU1ZTQzMzgzNmFiNWVk}

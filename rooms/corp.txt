@@ -1,0 +1,21 @@
+Corp
+https://tryhackme.com/room/corp
+
+Access the file and obtain the flag.
+flag{a12a41b5f8111327690f836e9b302f0b}
+
+Running that command, we find an existing SPN. What user is that for?
+fela
+
+Crack the hash. What is the users password in plain text?
+rubenF124
+
+Login as this user. What is his flag?
+flag{bde1642535aa396d2439d86fe54a36e4}
+
+What is the decoded password?
+tqjJpEX9Qv8ybKI3yHcc=L!5e(!wW;​ $T 
+
+Now we have the Administrator's password, login as them and obtain the last flag.
+THM{g00d_j0b_SYS4DM1n_M4s73R}
+

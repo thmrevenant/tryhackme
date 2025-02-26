@@ -1,0 +1,26 @@
+Buffer Overflows
+https://tryhackme.com/room/bof1
+
+Where is dynamically allocated memory stored?
+heap
+
+Where is information about functions(e.g. local arguments) stored?
+stack
+
+what direction does the stack grown(l for lower/h for higher)
+l
+
+what instruction is used to add data onto the stack?
+push
+
+What register stores the return address?
+rax
+
+What is the minimum number of characters needed to overwrite the variable?
+15
+
+Use the above method to open a shell and read the contents of the secret.txt file.
+omgyoudidthissocool!!
+
+Use the same method to read the contents of the secret file!
+wowanothertime!!

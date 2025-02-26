@@ -1,0 +1,8 @@
+Cheese CTF
+https://tryhackme.com/room/cheesectfv10
+
+What is the user.txt flag?
+THM{9f2ce3df1beeecaf695b3a8560c682704c31b17a}
+
+What is the root.txt flag?
+THM{dca75486094810807faf4b7b0a929b11e5e0167c}

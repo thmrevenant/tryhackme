@@ -1,0 +1,35 @@
+Brute It
+https://tryhackme.com/room/bruteit
+
+How many ports are open?
+2
+
+What version of SSH is running?
+OpenSSH 7.6p1
+
+What version of Apache is running?
+2.4.29
+
+Which Linux distribution is running?
+Ubuntu
+
+What is the hidden directory?
+/admin
+
+What is the user:password of the admin panel?
+admin:xavier
+
+What is John's RSA Private Key passphrase?
+rockinroll
+
+user.txt
+THM{a_password_is_not_a_barrier}
+
+Web flag
+THM{brut3_f0rce_is_e4sy}
+
+What is the root's password?
+football
+
+root.txt
+THM{pr1v1l3g3_3sc4l4t10n}

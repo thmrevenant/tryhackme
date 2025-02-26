@@ -1,0 +1,38 @@
+Cactus
+https://tryhackme.com/room/cactus
+
+What is the HTTP header used to bypass the authentication on remote_agent.php?
+X-Forwarded-For
+
+What is the name of the hidden folder located in /var/www/html?
+f39f9db5a7695930f1b267a4d33b092b
+
+What is the content of the flag.txt file located in the hidden folder?
+THM{de0c87d30debe82e7747c594574db1eb}
+
+What is the Source IP of the adversary that successfully exploited the vulnerability last July 20?
+10.10.135.237
+
+What is the base64-decoded flag being submitted by this adversary?
+THM{d0nT_4g3t_b64_d3c0d3}
+
+What is the original value of default-path-rule that must be replaced with  /etc/suricata/rules?
+/var/lib/suricata/rules
+
+What field handled the value remote_agent.php in the Elastic Query string?
+url.original
+
+Excluding the localhost IPs, what is the Source IP of the adversary that exploited the vulnerability last July 20, 2023?
+10.10.135.237
+
+Excluding entries from the localhost IPs, what is the encoded base64 string used by the attacker during the exploitation attempt last July 20, 2023?
+YmFzaCAtYyAnZXhlYyBiYXNoIC1pICY+L2Rldi90Y3AvMTAuMTAuMTM1LjIzNy8zMTMzNyA8JjEn
+
+Based on the patch, what is the function used to restrict the input on poller_id parameter to integers only?
+get_filter_request_var
+
+Based on the patch, what is the function used to sanitize strings which helps in preventing command injection?
+cacti_escapeshellarg
+
+Based on the patch, what is the function that was modified to prevent the authentication bypass?
+get_client_addr

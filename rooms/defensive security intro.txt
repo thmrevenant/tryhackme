@@ -1,0 +1,17 @@
+Defensive Security Intro
+https://tryhackme.com/room/defensivesecurityintro
+
+Which team focuses on defensive security?
+Blue Team
+
+What would you call a team of cyber security professionals that monitors a network and its systems for malicious events?
+Security Operations Center
+
+What does DFIR stand for?
+Digital Forensics and Incident Response
+
+Which kind of malware requires the user to pay money to regain access to their files?
+Ransomware
+
+What is the flag that you obtained by following along?
+THM{THREAT-BLOCKED}

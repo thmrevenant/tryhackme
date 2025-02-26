@@ -1,0 +1,8 @@
+Brute
+https://tryhackme.com/room/ettubrute
+
+What is the user flag?
+THM{PoI$0n_tH@t_L0g}
+
+What is the root flag?
+THM{C0mm@nD_Inj3cT1on_4_D@_BruT3}

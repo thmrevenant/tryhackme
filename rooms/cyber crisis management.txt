@@ -1,0 +1,45 @@
+Cyber Crisis Management
+https://tryhackme.com/room/cybercrisismanagement
+
+What would the severity rating of an incident be where multiple users are affected and the impact is medium?
+Moderate
+
+What would the severity rating of an incident be where multiple users are affected and the impact is low?
+Low
+
+What would the severity rating of an incident be where an entire business unit is affected and the impact is high?
+Critical
+
+Who is responsible for leading the CMT session?
+Chair
+
+Who is responsible for ensuring that the actions taken by the CMT do not break the law?
+Legal
+
+Who is responsible for making sure that the stakeholders are informed during the CMT?
+Communication
+
+Who is responsible for providing more technical information to the CMT to ensure that they can take the appropriate actions?
+Subject Matter Experts
+
+What is the first step that has to be performed during the CMT golden hour?
+Assembly
+
+In the event of a cyber crisis, who provides the update to the CMT?
+CSIRT
+
+What is the term used to describe the process by which the CMT determines the severity of the crisis?
+Triage
+
+Who is ultimately responsible for ensuring that the CMT takes action?
+CMT Chair
+
+Who will ultimately be held accountable for the crisis?
+CEO
+
+Who is responsible for providing the CMT with technical and in-depth information to allow them to make an informed decision during the crisis?
+Subject Matter Experts
+
+What is the value of the flag you receive after successfully dealing with the cyber crisis?
+THM{The.Crisis.has.been.managed!}
+

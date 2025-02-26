@@ -1,0 +1,17 @@
+Crocc Crew
+https://tryhackme.com/room/crocccrew
+
+What is the User flag?
+THM{Gu3st_Pl3as3}
+
+What is the name of the account Crocc Crew planted?
+admcrocccrew
+
+What is the Privileged User's flag?
+THM{0n-Y0ur-Way-t0-DA}
+
+What is the Second Privileged User's flag?
+THM{Wh4t-t0-d0...Wh4t-t0-d0}
+
+What is the Root flag?
+THM{Cr0ccCrewStr1kes!}

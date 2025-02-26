@@ -1,0 +1,6 @@
+Burp Suite: Extensions
+https://tryhackme.com/room/burpsuiteextensions
+
+Are extensions invoked in ascending (A) or descending (D) order?
+D
+

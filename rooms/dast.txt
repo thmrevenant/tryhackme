@@ -1,0 +1,47 @@
+DAST
+https://tryhackme.com/room/dastzap
+
+Is DAST a replacement for SAST or SCA? (Yea/Nay)
+Nay
+
+What is the process of mapping an application's surface and parameters usually called?
+Spidering/Crawling
+
+Does DAST check the code of an application for vulnerabilities? (Yea/Nay)
+Nay
+
+ZAP can run an AJAX spider by using browsers without a Graphical User Interface(GUI). What are these browsers called?
+Headless
+
+Analysing the Sites tab, what HTTP parameters can be passed to login.php using the POST method? (In alphabetical order and separated by commas)
+pass, user
+
+What other .php resource, besides nospiders-gallery.php was found by the AJAX spider but not by the regular spider?
+/view.php
+
+Will disabling some test categories help speed up the scanning phase? (Yea/Nay)
+Yea
+
+There should be two high-risk alerts in your scan results. One is Path Traversal. What's the name of the other one?
+Cross Site Scripting (Reflected)
+
+Which type of script was used to record the authentication process to our site in ZAP?
+ZEST scripts
+
+What additional high-risk vulnerability was found on the site after running the authenticated scan?
+Remote OS Command Injection
+
+What high-risk vulnerability was found on the /asciiart/generate endpoint?
+Remote OS Command Injection
+
+Read the details on the Path Traversal vulnerability detected. Based solely on the information presented by the scanner, would you categorise this finding as a false positive? (yea/nay)
+yea
+
+Download the ZAP report for the simple-webapp repository. How many medium-risk vulnerabilities were found?
+3
+
+Check the main branch of the simple-api repository on Jenkins. One of the builds failed during the Build the Docker image step. What is the number of the pre-existing failed build?
+4
+
+Download the ZAP report for the simple-api repository. What high-risk vulnerability was found?
+Remote OS Command Injection

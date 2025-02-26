@@ -1,0 +1,38 @@
+CMSpit
+https://tryhackme.com/room/cmspit
+
+What is the name of the Content Management System (CMS) installed on the server?
+cockpit
+
+What is the version of the Content Management System (CMS) installed on the server?
+0.11.1
+
+What is the path that allow user enumeration?
+/auth/check
+
+How many users can you identify when you reproduce the user enumeration attack?
+4
+
+What is the path that allows you to change user account passwords?
+/auth/resetpassword
+
+Compromise the Content Management System (CMS). What is Skidy's email.
+skidy@tryhackme.fakemail
+
+What is the web flag?
+thm{f158bea70731c48b05657a02aaf955626d78e9fb}
+
+Compromise the machine and enumerate collections in the document database installed in the server. What is the flag in the database?
+thm{c3d1af8da23926a30b0c8f4d6ab71bf851754568}
+
+What is the user.txt flag?
+thm{c5fc72c48759318c78ec88a786d7c213da05f0ce}
+
+What is the CVE number for the vulnerability affecting the binary assigned to the system user? Answer format: CVE-0000-0000
+CVE-2021-22204
+
+What is the utility used to create the PoC file?
+djvumake
+
+Escalate your privileges. What is the flag in root.txt?
+thm{bf52a85b12cf49b9b6d77643771d74e90d4d5ada}

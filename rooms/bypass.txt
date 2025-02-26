@@ -1,0 +1,29 @@
+Bypass
+https://tryhackme.com/room/bypass
+
+What is the flag value after accessing the endpoint cctv.thm/fpassword.php?id=1?
+THM{10001}
+
+What is the flag value after accessing the endpoint cctv.thm/fpassword.php?id=2?
+THM{10125}
+
+What is the flag value after accessing the endpoint cctv.thm/fpassword.php?id=3?
+THM{13231}
+
+What is the flag value after accessing the endpoint cctv.thm/fpassword.php?id=4?
+THM{33120}
+
+What is the flag value after accessing the endpoint cctv.thm/fpassword.php?id=5?
+THM{12319}
+
+What is the password value for the first layer of security for the CCTV web panel?
+THM{10001}THM{10125}THM{13231}THM{33120}THM{12319}
+
+What is the lsb_release -r -s command output from the attached machine?
+20.04
+
+What is the username for the CCTV web panel?
+bypass
+
+What is the flag value after logging into the CCTV web panel?
+THM{CCTV_HACKED_1011110}

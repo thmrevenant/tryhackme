@@ -1,0 +1,23 @@
+Common Attacks
+https://tryhackme.com/room/commonattacks
+
+What was the original target of Stuxnet?
+The Iran Nuclear Programme
+
+What is the flag?
+THM{I_CAUGHT_ALL_THE_PHISH}
+
+[Research] What currency did the Wannacry attackers request payment in?
+Bitcoin
+
+What is the password?
+TryHackMe123!
+
+Where you have the option, which should you use as a second authentication factor between SMS based TOTPs or Authenticator App based TOTPs (SMS or App)?
+App
+
+What is the minimum number of up-to-date backups you should make?
+3
+
+Of these, how many (at minimum) should be stored in another location?
+1

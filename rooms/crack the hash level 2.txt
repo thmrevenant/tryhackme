@@ -1,0 +1,59 @@
+Crack The Hash Level 2
+https://tryhackme.com/room/crackthehashlevel2
+
+What kind of hash it is?
+RIPEMD-320
+
+What is Keccak-256 Hashcat code?
+17800
+
+What is Keccak-256 John the Ripper code?
+raw-keccak-256
+
+Which option do you need to add to the previous command to search into local archives instead of remote ones?
+-l
+
+If you run wordlistctl search -l rockyou one more time, what is the path where is stored the wordlist?
+/usr/share/wordlists/passwords/rockyou.txt
+
+What is the name of the first wordlist in the usernames category?
+CommonAdminBase64
+
+What was the password?
+moonligh56
+
+Crack the following md5 hash with the wordlist generated in the previous steps.
+mOlo$$u$
+
+What is the last word of the list?
+information
+
+Crack this md5 hash with combination.txt.
+1551-li
+
+Advice n°1 b16f211a8ad7f97778e5006c7cecdf31
+Zachariah1234*
+
+Advice n°2 7463fcb720de92803d179e7f83070f97
+Angelita35!
+
+Advice n°3 f4476669333651be5b37ec6d81ef526f
+Tl@xc@l@ncing0
+
+Advice n°4 a3a321e1c246c773177363200a6c0466a5030afc
+DavIDgUEtTApAn
+
+Advice n°5 d5e085772469d544a447bc8250890949
+uoy ot miws ot em rof peed oot ro ediw oot si revir oN
+
+Advice n°6 377081d69d23759c5946a95d1b757adc
++17215440375
+
+Advice n°7 ba6e8f9cd4140ac8b8d2bf96c9acd2fb58c0827d556b78e331d1113fcbfe425ca9299fe917f6015978f7e1644382d1ea45fd581aed6298acde2fa01e7d83cdbd
+!@#redrose!@#
+
+Advice n°8 9f7376709d3fe09b389a27876834a13c6f275ed9a806d4c8df78f0ce1aad8fb343316133e810096e0999eaf1d2bca37c336e1b7726b213e001333d636e896617
+hackinghackinghackinghacking
+
+Advice n°9 $6$kI6VJ0a31.SNRsLR$Wk30X8w8iEC2FpasTo0Z5U7wke0TpfbDtSwayrNebqKjYWC4gjKoNEJxO/DkP.YFTLVFirQ5PEh4glQIHuKfA/
+kakashi1

@@ -1,0 +1,44 @@
+Brute Force Heroes
+https://tryhackme.com/room/bruteforceheroes
+
+What does HTTP response code 302 mean?
+Found
+
+What's an easy way for us to tell the difference between a failed and a successful login attempt in the above?
+Location Response Header
+
+Can we use Burp Suite to effectively brute force the login in this instance? (Yay/Nay)
+Nay
+
+What action can we use to show only the correct password (the answer includes '  ')?
+-x ignore:fgrep='Location: login.php'
+
+What is the admin password? 
+1qaz@WSX
+
+What is the username you found?
+buster
+
+What is their password?
+rhymes
+
+What is the SSH username?
+tommyboy1
+
+What is their password (the encoded version) ?
+1qaz@WSX__
+
+What kind of encoding is this? 
+URL
+
+Which user can we crack the password for?
+crackme
+
+What mode do we need for the user's hash?
+1800
+
+What is the cracked password
+cr4ck
+
+What is the mask value we need to use?
+?l?l?d?l?l

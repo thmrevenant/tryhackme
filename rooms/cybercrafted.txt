@@ -1,0 +1,35 @@
+CyberCrafted
+https://tryhackme.com/room/cybercrafted
+
+Ready.. Set...
+Go
+
+How many ports are open?
+3
+
+What service runs on the highest port?
+minecraft
+
+Any subdomains? (Alphabetical order)
+admin store www
+
+On what page did you find the vulnerability?
+search.php
+
+What is the admin's username? (Case-sensitive)
+xXUltimateCreeperXx
+
+What is the web flag?
+THM{bbe315906038c3a62d9b195001f75008}
+
+Can you get the Minecraft server flag?
+THM{ba93767ae3db9f5b8399680040a0c99e}
+
+What is the name of the sketchy plugin?
+LoginSystem
+
+What is the user's flag?
+THM{b4aa20aaf08f174473ab0325b24a45ca}
+
+Finish the job and give me the root flag!
+THM{8bb1eda065ceefb5795a245568350a70}

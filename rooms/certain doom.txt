@@ -1,0 +1,11 @@
+CERTain Doom
+https://tryhackme.com/room/certaindoom
+
+What is the web flag?
+THM{c4T_g07_73H_d353r14L1z4710N_8lu3z}
+
+What is the user's flag?
+THM{1n73Rn4L_53rV1C35_n07_45_H1dD3N_4S_7H3Y_533|\/|}
+
+What is the super secret flag?
+THM{H1dD3|\|_1n_Pl41N_516h7}

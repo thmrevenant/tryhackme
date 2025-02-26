@@ -1,0 +1,47 @@
+Container Hardening
+https://tryhackme.com/room/containerhardening
+
+What would the command be if we wanted to create a Docker profile?
+docker context create
+
+What would the command be if we wanted to switch to a Docker profile?
+docker context use
+
+What argument would we provide when running a Docker container to enforce how many CPU cores the container can utilise?
+--cpus
+
+What would the command be if we wanted to inspect a docker container named "Apache"?
+docker inspect apache
+
+What is the name of the capability that allows services to bind to ports (specifically those under 1024)?
+CAP_NET_BIND_SERVICE
+
+What argument would we provide when starting a Docker container to add a capability?
+--cap-add
+
+Finally, what command (with argument) would we use to print the capabilities assigned to a process?
+capsh --print
+
+If we wanted to enforce the container to only be able to read files located in /home/tryhackme, what type of profile would we use? Seccomp or AppArmor?
+AppArmor
+
+If we wanted to disallow the container from a system call (such as clock_adjtime), what type of profile would we use? Seccomp or AppArmor?
+Seccomp
+
+Finally, what command would we use if we wanted to list the status of AppArmor?
+aa-status
+
+What is the name of the framework published by the National Institute of Standards and Technology?
+NIST SP 800-190
+
+What is the name of the analysis tool provided by Docker? 
+Docker Scout
+
+Use Docker to list the running containers on the system. What is the name of the container that is currently running?
+couchdb
+
+Use Grype to analyse the "struts2" image. What is the name of the library marked as "Critical"? 
+struts2-core
+
+Use Grype to analyse the exported container filesystem located at /root/container.tar. What severity is the "CVE-2023-45853" rated as? 
+Critical

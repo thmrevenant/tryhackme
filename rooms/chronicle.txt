@@ -1,0 +1,8 @@
+Chronicle
+https://tryhackme.com/room/chronicle
+
+user.txt
+7ba840222ecbdb57af4d24eb222808ad
+
+root.txt
+f21979de76c0302154cc001884143ab2

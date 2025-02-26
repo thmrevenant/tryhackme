@@ -1,0 +1,5 @@
+ContainMe
+https://tryhackme.com/room/containme1
+
+What is the flag?
+THM{_Y0U_F0UND_TH3_C0NTA1N3RS_}

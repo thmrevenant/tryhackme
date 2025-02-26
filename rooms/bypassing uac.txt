@@ -1,0 +1,26 @@
+Bypassing UAC
+https://tryhackme.com/room/bypassinguac
+
+What is the highest integrity level (IL) available on Windows?
+system
+
+What is the IL associated with an administrator's elevated token?
+high
+
+What is the full name of the service in charge of dealing with UAC elevation requests?
+application information service
+
+What flag is returned by running the msconfig exploit?
+THM{UAC_HELLO_WORLD}
+
+What flag is returned by running the azman.msc exploit?
+THM{GUI_UAC_BYPASSED_AGAIN}
+
+What flag is returned by running the fodhelper exploit?
+THM{AUTOELEVATE4THEWIN}
+
+What flag is returned by running the fodhelper-curver exploit?
+THM{AV_UAC_BYPASS_4_ALL}
+
+What flag is returned by running the DiskCleanup exploit?
+THM{SCHEDULED_TASKS_AND_ENVIRONMENT_VARS}

@@ -1,0 +1,5 @@
+Capture!
+https://tryhackme.com/room/capture
+
+What is the value of flag.txt?
+7df2eabce36f02ca8ed7f237f77ea416

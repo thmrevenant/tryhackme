@@ -1,0 +1,17 @@
+Dave's Blog
+https://tryhackme.com/room/davesblog
+
+Flag 1
+THM{SuperSecureAdminPassword123}
+
+Flag 2 / User flag
+THM{5fa1f779d1835367fdcfa4741bebb88a}
+
+Flag 3
+THM{993e107fc66844482bb5dd0e4c485d5b}
+
+Flag 4
+THM{runn1ng_str1ngs_1s_b4sic4lly_RE}
+
+Flag 5 / Root flag
+THM{a0a9c4f6809c84e212ac889d39b9cb48}

@@ -1,0 +1,11 @@
+Cat Pictures 2
+https://tryhackme.com/room/catpictures2
+
+What is Flag 1?
+10d916eaea54bb5ebe36b59538146bb5
+
+What is Flag 2?
+5e2cafbbf180351702651c09cd797920
+
+What is Flag 3?
+6d2a9f8f8174e86e27d565087a28a971

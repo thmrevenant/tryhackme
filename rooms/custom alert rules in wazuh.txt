@@ -1,0 +1,32 @@
+Custom Alert Rules in Wazuh
+https://tryhackme.com/room/customalertrulesinwazuh
+
+Looking at the Sysmon Log, what will the value of sysmon.commandLine be?
+"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" "-file" "C:\Users\Alberto\Desktop\test.ps1"
+
+What would the extracted value be if the regex is set to "User: \S*"?
+WIN-P57C9KN929H\Alberto
+
+From the Ruleset Test results, what is the <mitre> ID of rule id 184666?
+T1055
+
+According to the Wazuh documentation, what is the description of the rule with a classification level of 12?
+High importance event
+
+In the Ruleset Test page, change the value of  "sysmon.image" to "taskhost.exe', and press the "Test" button again. What is the ID of the rule that will get triggered?
+184736
+
+In the sysmon_rules.xml file, what is the Rule ID of the parent of 184717?
+184716
+
+What is the regex field name used in the local_rules.xml?
+audit.cwd
+
+Looking at the log, what is the current working directory (cwd) from where the command was executed?
+/var/log/audit
+
+If the filename in the logs is "test.php", what rule ID will be triggered?
+100003
+
+If the filename in the logs is "malware-checker.sh", what is the rule classification level in the generated alert?
+12

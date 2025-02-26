@@ -1,0 +1,47 @@
+Crylo
+https://tryhackme.com/room/crylo4a
+
+How many ports are open?
+2
+
+What is the 403/forbidden web page?
+/debug
+
+What is the name of the first username?
+admin
+
+What is the password for the above user?
+trigger
+
+Which library is used for encryption and decryption?
+CryptoJS
+
+Which JSON parameter was used to validate the pin?
+pin_set
+
+Which encryption method is used?
+AES
+
+What extra header can be used to bypass the page?
+X-Forwarded-For
+
+Which IP is allowed to access the page?
+127.0.0.1
+
+What is the name of the vulnerability used to gain system access?
+OS command injection
+
+What is the current system’s username?
+crylo
+
+What is the user flag?
+fa3e352b00adf9d4e967ad0e34d5e59d
+
+Which user is part of the sudo group?
+anof
+
+What is the password for the above user?
+@Pass123@666666666
+
+What is the root flag?
+201ea4139d9755d6c9384783df06dc7e

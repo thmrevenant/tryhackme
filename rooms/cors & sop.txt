@@ -1,0 +1,24 @@
+CORS & SOP
+https://tryhackme.com/room/corsandsop
+
+What policy instructs web browsers how they should interact between web pages?
+Same-origin Policy
+
+What HTTP header specifies which domains are allowed to access the resources hosted in its server?
+Access-Control-Allow-Origin
+
+What origin configuration permits requests from any origin, is the least secure configuration, and should be used cautiously?
+Wildcard Origin
+
+What CORS misconfiguration occurs when a server accepts requests from the "null" origin?
+Null Origin Misconfiguration
+
+What is the flag from arbitrary.php?
+THM{4rB1tr4rY}
+
+What is the flag from badregex.php?
+THM{B4D_r363X}
+
+What is the flag from null.php?
+THM{nULL_0r1G1N}
+

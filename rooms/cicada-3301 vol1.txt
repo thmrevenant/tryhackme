@@ -1,0 +1,32 @@
+Cicada-3301 Vol:1
+https://tryhackme.com/room/cicada3301vol1
+
+What is the link inside of the audio?
+https://pastebin.com/wphPq0Aa
+
+What is the decrypted passphrase?
+Hm5R_4_P455mhp453!
+
+What is the decrypted key?
+Cicada
+
+What is the final passphrase
+Ju5T_4_P455phr453!
+
+What link is given?
+https://imgur.com/a/c0ZSZga
+
+What tool did you use to find the hidden file
+outguess
+
+What is the Hash type?
+SHA512
+
+What is the Link from the hash?
+https://pastebin.com/6FNiVLh5
+
+What is the link?
+https://bit.ly/39pw2NH
+
+What is the song linked?
+The Instar Emergence

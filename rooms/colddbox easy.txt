@@ -1,0 +1,8 @@
+ColddBox: Easy
+https://tryhackme.com/room/colddboxeasy
+
+user.txt
+RmVsaWNpZGFkZXMsIHByaW1lciBuaXZlbCBjb25zZWd1aWRvIQ==
+
+root.txt
+wqFGZWxpY2lkYWRlcywgbcOhcXVpbmEgY29tcGxldGFkYSE=

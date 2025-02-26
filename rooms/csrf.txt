@@ -1,0 +1,62 @@
+CSRF
+https://tryhackme.com/room/csrfV2
+
+Which of the following is a possible effect of CSRF? Write the correct option only.
+d
+
+Does the attacker usually know the web application requests and response format while launching a CSRF attack (yea/nay)?
+yea
+
+What is usually the extension of a malicious flash file used during a CSRF attack?
+.swf
+
+Which type of CSRF exploitation is carried out when operations are initiated without a complete page request-response cycle?
+Asynchronous
+
+What is the flag value after a successful transfer from Josh's account?
+THM{SUCCESSFUL_ATTACK}
+
+What is the flag value once the CSRF attack is detected?
+THM{INVALID_CSRF_TOKEN}
+
+Does the hidden image exploitation require the img tag's src attribute to be linked toward a legitimate image file (yea/nay)?
+nay
+
+What is the decoded value of the CSRF token for Josh's account?
+GB82MYBANK5699
+
+What is the updated password for Josh's account?
+GB82MYBANK5697
+
+What is the flag value if someone clicks on malicious links after the IT team of MyBank has successfully employed a random token generation algorithm?
+THM{SECURED_CSRF}
+
+What is the hidden field name that the MyBank IT team added to avoid CSRF attacks?
+csrf_token
+
+Is it technically possible to hijack a session cookie in a web application (yea/nay)?
+yea
+
+What is the logout cookie value?
+7kRt2x9LpQyW
+
+What is the flag value after successfully logging out Josh from the mybank.thm application?
+THM{LOGGED_OUT}
+
+Once logged into the mybank.thm:8080 application, change the logout cookie value to hellothm, and try to click on the malicious link. What is the flag value after detecting a CSRF attack?
+THM{ATTACK_DETECTED}
+
+After updating the isBanned cookie value to true through a CSRF attack, what is the flag value?
+THM{USER_IS_B@NNED}
+
+What is the general policy name that forbids cross-origin requests?
+same-origin policy
+
+Strictly speaking, while updating an email address of Josh through the API endpoint, is Access-Control-Allow-Origin: * a vulnerable header (yea/nay)?
+yea
+
+What is the header called that stores the URL of the last page the user visited before making a request?
+referer
+
+Is it a good practice to keep the anti-CSRF token predictable so that secure coders can quickly implement them? (yea/nay)
+nay

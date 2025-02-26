@@ -1,0 +1,20 @@
+CCT2019
+https://tryhackme.com/room/cct2019
+
+Find the flag.
+CCT{h3’s_a_pc@p_w1z@rd_th3re_h4s_g0t_to_6e_a_7w1st}
+
+What is the key to re3? (Hey, that rhymes)
+31C02DCFDE2FCF727016E2A7054B6DA5
+
+What is the flag?
+CCT{Well_that_wasn’t_such_a_chore_now_was_it?}
+
+What is the flag for crypto1a?
+CCT{Actu411y_a_w@rmup}
+
+What is the flag for crypto1b?
+CCT{th@t_w4s_th4_ea5y_bu770n!}
+
+What is the flag for crypto1c?
+CCT{I_see_dead_ciphers_all_the_time}

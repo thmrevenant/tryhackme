@@ -1,0 +1,5 @@
+Compiled
+https://tryhackme.com/room/compiled
+
+What is the password?
+DoYouEven_init

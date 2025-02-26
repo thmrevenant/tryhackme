@@ -1,0 +1,8 @@
+Debug
+https://tryhackme.com/room/debug
+
+user.txt
+7e37c84a66cc40b1c6bf700d08d28c20
+
+root.txt
+3c8c3d0fe758c320d158e32f68fabf4b

@@ -1,0 +1,23 @@
+Burp Suite: Repeater
+https://tryhackme.com/room/burpsuiterepeater
+
+Which sections gives us a more intuitive control over our requests?
+Inspector
+
+Which view will populate when sending a request from the Proxy module to Repeater?
+Request
+
+Which option allows us to visualize the page as it would appear in a web browser?
+Render
+
+Which section in Inspector is specific to POST requests?
+Body Parameters
+
+What is the flag you receive?
+THM{Yzg2MWI2ZDhlYzdlNGFiZTUzZTIzMzVi}
+
+What is the flag you receive when you cause a 500 error in the endpoint?
+THM{N2MzMzFhMTA1MmZiYjA2YWQ4M2ZmMzhl}
+
+What is the flag?
+THM{ZGE3OTUyZGMyMzkwNjJmZjg3Mzk1NjJh}

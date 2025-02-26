@@ -1,0 +1,29 @@
+Core Windows Processes
+https://tryhackme.com/room/btwindowsinternals
+
+What PID should System always be?
+4
+
+Aside from csrss.exe, what process does smss.exe spawn in Session 1?
+winlogon.exe
+
+What was the process which had PID 384 and PID 488?
+smss.exe
+
+Which process might you not see running if Credential Guard is not enabled?
+lsaiso.exe
+
+How many instances of services.exe should be running on a Windows system?
+1
+
+What single letter parameter should always be visible in the Command line or Binary path?
+k
+
+What is the parent process for LSASS?
+wininit.exe
+
+What is the non-existent parent process for winlogon.exe?
+smss.exe
+
+What is the non-existent process for explorer.exe?
+userinit.exe

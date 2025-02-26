@@ -1,0 +1,20 @@
+Dead End?
+https://tryhackme.com/room/deadend
+
+What binary gives the most apparent sign of suspicious activity in the given memory image?
+C:\Tools\svchost.exe
+
+The answer above shares the same parent process with another binary that references a .txt file - what is the full path of this .txt file?
+C:\Users\Bobby\Documents\tmp\part2.txt
+
+What binary gives the most apparent sign of suspicious activity in the given disk image?
+C:\Tools\windows-networking-tools-master\windows-networking-tools-master\LatestBuilds\x64\Autoconnector.exe
+
+What is the full registry path where the existence of the binary above is confirmed?
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\bam\State\UserSettings\S-1-5-21-1966530601-3185510712-10604624-1008
+
+What is the content of "Part2"?
+faDB3XzJfcDF2T1R9
+
+What is the flag?
+THM{6l4D_y0u_kNOw_h0w_2_p1vOT}

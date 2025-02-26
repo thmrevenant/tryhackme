@@ -1,0 +1,17 @@
+Chrome
+https://tryhackme.com/room/chrome
+
+What is the first password that we find?
+bubbles
+
+What is the URL found in the first index? Fully defang the URL
+hxxps[://]mysecuresite[.]thm/
+
+What is the password found in the first index?
+Sup3rPaS$w0rd1
+
+What is the URL found in the second index? Fully defang the URL
+hxxps[://]worksite[.]thm/
+
+What is the password found in the second index?
+Sup3rSecuR3!

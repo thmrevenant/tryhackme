@@ -1,0 +1,18 @@
+Container Vulnerabilities
+https://tryhackme.com/room/containervulnerabilitiesDG
+
+Perform the exploit in this task on the target machine. What is the value of the flag that has now been added to the container?
+THM{MOUNT_MADNESS}
+
+Name the directory path which contains the docker.sock file on the container.
+/var/run
+
+Perform the exploit in this task on the target machine. What is the value of the flag located at /root/flag.txt on the host operating system?
+THM{NEVER-ENOUGH-SOCKS}
+
+What port number, by default, does the Docker Engine use?
+2375
+
+Perform the exploit in this task on the target machine. What is the flag located in /home/tryhackme/flag.txt?
+THM{YOUR-SPACE-MY-SPACE}
+
