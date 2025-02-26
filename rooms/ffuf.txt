@@ -1,0 +1,56 @@
+ffuf
+https://tryhackme.com/room/ffuf
+
+What is the first file you found with a 200 status code?
+favicon.ico
+
+What text file did you find?
+robots.txt
+
+What two file extensions were found for the index page?
+php,phps
+
+What page has a size of 4840?
+about.php
+
+How many directories are there?
+4
+
+After applying the fc filter, how many results were returned?
+11
+
+After applying the mc filter, how many results were returned?
+6
+
+Which valuable file would have been hidden if you used -fc 403 instead of -fr?
+wp-forum.phps
+
+What is the parameter you found?
+id
+
+What is the highest valid id?
+14
+
+What is Dummy's password?
+p@ssword
+
+How do you save the output to a markdown file (ffuf.md)?
+-of md -o ffuf.md
+
+How do you re-use a raw http request file?
+-request
+
+How do you strip comments from a wordlist?
+-ic
+
+How would you read a wordlist from STDIN?
+-w -
+
+How do you print full URLs and redirect locations?
+-v
+
+What option would you use to follow redirects?
+-r
+
+How do you enable colorized output?
+-c

@@ -1,0 +1,47 @@
+DOM-Based Attacks
+https://tryhackme.com/room/dombasedattacks
+
+What does DOM stand for?
+Document Object Model
+
+What JavaScript command can be used to create new HTML elements?
+createElement
+
+What JavaScript command can be used to get the cookie values from the DOM?
+document.cookie
+
+What does SPA stand for?
+Single Page Application
+
+Should security be implemented client-side or server-side?
+Server-Side
+
+What control can be implemented to ensure that bad user data does not make its way through?
+Input Validation
+
+What do we call the location where untrusted user input made its way into the data pipeline?
+Source
+
+What do we call the function where untrusted user input is reflected back in the application, leading to a successful attack?
+Sink
+
+What was the most common source for DOM-based XSS attacks?
+URL Fragments
+
+What control implemented by modern browsers prevent us from using this source?
+URL Encoding
+
+What flag prevents JavaScript from gaining access to cookie values?
+HTTPOnly
+
+What security control, that limits where content can be loaded from, makes it harder to weaponise XSS?
+Content Security Policy
+
+What is the source field name that makes the application vulnerable to XSS?
+person
+
+What is the sink Vue directive that makes the application vulnerable to XSS?
+v-html
+
+What is the value of the flag that you receive once you deleted all the birthdays?
+THM{Weaponising.DOM.Based.XSS.For.Fun.And.Profit}

@@ -1,0 +1,5 @@
+Eavesdropper
+https://tryhackme.com/room/eavesdropper
+
+What is the flag in root's home directory?
+flag{14370304172628f784d8e8962d54a600}

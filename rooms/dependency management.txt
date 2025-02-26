@@ -1,0 +1,35 @@
+Dependency Management
+https://tryhackme.com/room/dependencymanagement
+
+What do we call the libraries and SDKs that are imported into our application?
+Dependencies
+
+Would an authentication library that we created be considered an internal or external dependency?
+Internal
+
+Would JQuery be considered an internal or external dependency?
+External
+
+Which Advance Persistent Threat group is notorious for their supply chain attacks?
+MageCart
+
+What is the password of the intercepted credentials?
+supersecretpassword12345@
+
+What is the value of the flag you receive on the website after authenticating with the intercepted credentials?
+THM{Supply.Chain.Attacks.Are.Super.Powerful}
+
+What do we call a dependency that we have created ourselves and are responsible for maintaining?
+Internal dependency
+
+What is the name of a common supply chain attack that relies on users mistyping the names of packages that they wish to install?
+Typosquatting
+
+Dependency confusion relies on a race condition of what of a package?
+Version
+
+What is the name of the attack that can be launched to create a race condition between internal and external dependencies with the same name?
+Dependency Confusion
+
+What is the flag's value that is stored in the /root/ directory on the docker container where you get remote code execution?
+THM{RCE.Through.Dependency.Confusion}

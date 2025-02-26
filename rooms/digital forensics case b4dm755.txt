@@ -1,0 +1,104 @@
+Digital Forensics Case B4DM755
+https://tryhackme.com/room/caseb4dm755
+
+What is your official role?
+Forensics Lab Analyst
+
+What role was assigned to you for this specific scenario?
+DFIR First Responder
+
+What do you have to gather?
+digital artefacts and evidence
+
+What document is needed before performing any legal search?
+search warrant
+
+Before imaging drives, what must we check them for?
+drive encryption
+
+What should be done to ensure and maintain the integrity of original files in the Chain of Custody?
+Hash and copy
+
+What must be done before sending obtained artefacts to the Forensics Laboratory?
+Bag, Seal, and Tag the obtained artefacts
+
+What is the only possible artefact found in the suspect's residence?
+flash drive
+
+Based on the scenario and the previous task, what should be done with that acquired suspect artefact?
+Taking an image
+
+What is the crucial aspect of the Chain of Custody that ensures individual accountability and guarantees a transparent and untainted transfer of artefacts and evidence?
+Ensure proper documentation
+
+What device will prevent tampering when acquiring a forensic disk image?
+write-blocking device
+
+What is the UI element of FTK Imager which displays a hierarchical view of the added evidence sources?
+Evidence Tree Pane
+
+Is the attached flash drive encrypted? (Y/N)
+N
+
+What is the UI element of FTK Imager which displays a list of files and folders?
+File List Pane
+
+What is the UI element of FTK Imager which displays the content of selected files?
+Viewer Pane
+
+What is the SHA1 hash of the physical drive and forensic image?
+d82f393a67c6fc87a023b50c785a7247ab1ac395
+
+Including hidden files, how many files are currently stored on the flash drive?
+8
+
+How many files were deleted in total?
+6
+
+How many recovered files are corrupted (e.g., 0 file size)?
+3
+
+Aside from FTK Imager, what is the directory name of the other tool located in the tools directory under Desktop?
+exiftool-12.47
+
+What is the visible extension of the "hideout" file?
+.pdf
+
+View the metadata of the "hideout" file. What is its actual extension?
+.jpg
+
+A phone was used to photograph the "hideout". What is the phone's model?
+ONEPLUS A6013
+
+A phone was used to photograph the "warehouse". What is the phone's model?
+Mi 9 Lite
+
+Are there any indications that the suspect is involved in other illegal activity? (Y/N)
+Y
+
+Who was the point of contact of Mr William S. McClean in 2022?
+Karl Renato Abelardo
+
+A meetup occurred in 2022. What are the GPS coordinates during that time?
+14°26'25.7"N 120°59'00.8"E
+
+What is the password to extract the contents of pandorasbox.zip?
+DarkVault$Pandora=DONOTOPEN!K1ngCr1ms0n!
+
+From which company did the source code in the pandorasbox directory originate?
+SwiftSpend Financial
+
+In one of the documents that the suspect has yet to sign, who was listed as the beneficiary?
+Mr. Giovanni Vittorio DeVentura
+
+What is the hidden flag?
+THM{sCr0LL_sCr0LL_cL1cK_cL1cK_4TT3NT10N_2_D3T41L5_15_CRUC14L!!}
+
+In which phase is a warrant obtained for search, seizure, and examination of the suspect's computer data due to violations of domestic and international laws?
+Pre-search
+
+In which phase is a forensic analysis performed on the acquired digital evidence requested from various sources?
+Post-search
+
+Which phase involves presenting forensic artefacts and evidence with proper documentation in a court of law?
+Trial

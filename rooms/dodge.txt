@@ -1,0 +1,8 @@
+Dodge
+https://tryhackme.com/room/dodge
+
+What is the content of user.txt?
+THM{0649b2285e507b38b10620e57f9c8610}
+
+What is the content of root.txt?
+THM{7b88ac4f52cd8723a8d0c632c2d930ba}

@@ -1,0 +1,53 @@
+Enumeration
+https://tryhackme.com/room/enumerationpe
+
+What command would you use to start the PowerShell interactive command line?
+powershell.exe
+
+In SSH key-based authentication, which key does the client need?
+private key
+
+What is the name of the Linux distribution used in the VM?
+Ubuntu
+
+What is its version number?
+20.04.4
+
+What is the name of the user who last logged in to the system?
+randa
+
+What is the highest listening TCP port number?
+6667
+
+What is the program name of the service listening on it?
+inspircd
+
+There is a script running in the background. Its name starts with THM. What is the name of the script?
+THM-24765.sh
+
+What is the full OS Name?
+Microsoft Windows Server 2019 Datacenter
+
+What is the OS Version?
+10.0.17763
+
+How many hotfixes are installed on this MS Windows Server?
+30
+
+What is the lowest TCP port number listening on the system?
+22
+
+What is the name of the program listening on that port?
+sshd.exe
+
+Knowing that the domain name on the MS Windows Server of IP MACHINE_IP is redteam.thm, use dig to carry out a domain transfer. What is the flag that you get in the records?
+THM{DNS_ZONE}
+
+What is the name of the share available over SMB protocol and starts with THM?
+THM{829738}
+
+Knowing that the community string used by the SNMP service is public, use snmpcheck to collect information about the MS Windows Server of IP MACHINE_IP. What is the location specified?
+THM{SNMP_SERVICE}
+
+What utility from Sysinternals Suite shows the logged-in users?
+PsLoggedOn

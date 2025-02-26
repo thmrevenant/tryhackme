@@ -1,0 +1,8 @@
+DX1: Liberty Island
+https://tryhackme.com/room/dx1libertyislandplde
+
+What is the User flag?
+thm{6ae787a98fff512ae33335e1264f0dd3}
+
+What is the Root flag?
+thm{985bb3c88bfe66f9b465b00198692866}

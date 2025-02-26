@@ -1,0 +1,36 @@
+Erit Securus I
+https://tryhackme.com/room/eritsecurusi
+
+How many ports are open?
+2
+
+What ports are open? Comma separated, lowest first: **,**
+22,80
+
+What CMS is the website built on?
+Bolt
+
+In the exploit from 2020-04-05, what language is used to write the exploit?
+python
+
+What is the username of the user running the web server?
+www-data
+
+What is the users password?
+snickers
+
+Flag 1
+THM{Hey!_Welcome_in}
+
+User wileec can sudo! What can he sudo?
+(jsmith) NOPASSWD: /usr/bin/zip
+
+Flag 2
+THM{Welcome_Home_Wile_E_Coyote!}
+
+What sudo rights does jsmith have?
+(ALL : ALL) NOPASSWD: ALL
+
+Flag 3
+THM{Great_work!_You_pwned_Erit_Securus_1!}
+

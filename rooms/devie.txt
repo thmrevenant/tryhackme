@@ -1,0 +1,11 @@
+Devie
+https://tryhackme.com/room/devie
+
+What is the first flag?
+THM{Car3ful_witH_3v@l}
+
+What is the second flag?
+THM{X0R_XoR_XOr_xOr}
+
+What is the root flag?
+THM{J0k3r$_Ar3_W1ld}

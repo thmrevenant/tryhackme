@@ -1,0 +1,11 @@
+En-pass
+https://tryhackme.com/room/enpass
+
+Name The Path.
+/web/resources/infoseek/configure/key
+
+What is the user flag?
+1c5ccb6ce6f3561e302e0e516c633da9
+
+What is the root flag?
+5d45f08ee939521d59247233d3f8fafd

@@ -1,0 +1,44 @@
+DNS Manipulation
+https://tryhackme.com/room/dnsmanipulation
+
+If you were on Windows, what command could you use to query a txt record for 'youtube.com'?
+nslookup -type=txt youtube.com
+
+If you were on Linux, what command could you use to query a txt record for 'facebook.com'?
+dig facebook.com TXT
+
+AAAA stores what type of IP Address along with the hostname?
+IPv6
+
+Maximum characters for a DNS TXT Record is 256. (Yay/Nay)
+Nay
+
+What DNS Record provides a domain name in reverse-lookup? (Research)
+PTR
+
+What would the reverse-lookup be for the following IPv4 Address? (192.168.203.2) (Research)
+2.203.168.192.in-addr.arpa
+
+What is the maximum length of a DNS name? (Research) (Length includes dots!)
+253
+
+What is the Transaction name? (Type it as you see it)
+Network Equip.
+
+How much was the Firewall? (Without the $)
+2500
+
+Which file contains suspicious DNS queries?
+cap3.pcap
+
+Enter the plain-text after you have decoded the data using packetyGrabber.py found in ~/dns-exfil-infil/ folder.
+administrator:s3cre7P@ssword
+
+What type of DNS Record is usually used to infiltrate data into a network?
+TXT
+
+Enter the output from the executed python file
+4.4.0-186-generic
+
+What program was used to Tunnel HTTP over DNS?
+iodine

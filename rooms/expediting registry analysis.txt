@@ -1,0 +1,53 @@
+Expediting Registry Analysis
+https://tryhackme.com/room/expregistryforensics
+
+When we take a forensic data collection from the disk image of a system, what type of acquisition is it called?
+cold acquisition
+
+Is speed one of the advantages of collecting registry data from FTK Imager? Y or N?
+N
+
+What will be the contents of a _kape.cli file if we want to collect data from the C drive and save it to the D drive using the target RegistryHives?
+--tsource C: --tdest D:\ --target RegistryHives
+
+What is the Computer Name of the computer we are analysing?
+4N6
+
+What is the TimeZoneKeyName of the computer we are analysing?
+UTC
+
+What is the LastKnownGood control set of the system?
+2
+
+Which account was created last?
+suspicious
+
+What is the Password Reset Date of this account?
+2024-03-03 11:51:04Z
+
+What is the RID of the account 4n6lab?
+1008
+
+Which 3 accounts are part of the Administrators group? (Format: account1, account2, account3 in ascending order of RID)
+administrator, 4n6lab, suspicious
+
+What is the network's gateway MAC address, which was last connected in 2021?
+0A-41-2A-ED-DB-34
+
+When was this network last connected?
+3/17/2021 14:59
+
+When was "Network 2" first connected?
+3/17/2021 15:08
+
+What is the name of this system?
+JAMES
+
+Which user, other than administrator, is part of the administrators group?
+art-test
+
+A VPN connection was established on this system. What was the name of the network that connected to a VPN?
+ProtonVPN
+
+To which organization is the Windows OS registered?
+Amazon.com

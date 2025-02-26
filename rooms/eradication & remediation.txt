@@ -1,0 +1,62 @@
+Eradication & Remediation
+https://tryhackme.com/room/eradicationandremediation
+
+What is it that may cause an attacker to think that you already have a complex and detailed eradication plan in motion?
+Premature eradication
+
+What is an informal term used to describe the cycle wherein you keep discovering and identifying bad, eradicating it, finding it elsewhere, and doing it all over again?
+whack-a-mole
+
+Of the two main goals of this phase, what is the first one?
+Eradicate the bad guys
+
+What technique is most effective on less sophisticated threats that employ well-known malicious tooling?
+Automated Eradication
+
+What technique is the most straightforward way to eradicate attacker traces?
+Complete System Rebuild
+
+What downside does the complete system rebuild technique have? This approach entails what for the system?
+Downtime
+
+Success of a targeted system cleanup is heavily reliant on how well the what has been done?
+Scoping
+
+What should take place in conjunction with Eradication techniques in order for its effects to last? An effective what?
+Remediation and Recovery strategy
+
+What remediation step ensures only absolutely necessary communication takes place between computers and subnets?
+Network Segmentation
+
+What do you call the principle that posits that a user account should have access to only the absolutely necessary pieces of data, applications, or resources?
+Principle of least privilege
+
+Changes done during the remediation phase are geared towards strengthening the what of the organization?
+Security Posture
+
+What kind of tests should be employed to check if the remediation tactics actually work?
+Penetration tests and attack simulations
+
+Which account gave the threat actors a foothold on the server?
+swiftspend_admin
+
+What is the default password for the admin account of the Jenkins service?
+f4fe137aeb154299ab1b7349952f6088
+
+What is the email address of the other account within the Jenkins service?
+infra_admin@swiftspend.finance
+
+What is the command being invoked by the project found in the Jenkins dashboard?
+/bin/bash /var/lib/jenkins/backup.sh
+
+How many times has the project been run before?
+0
+
+You will find a suspicious IP address. Which country is it hosted in? (Use AbuseIPDB; answer as written)
+Russian Federation
+
+Based on the MITRE ATT&CK Matrix, which Tactic is being applied by the threat actor here?
+Exfiltration
+
+Based on the Lockheed Martin version of the cyber kill chain, in what phase is the threat actor already in on this server?
+Actions on Objectives

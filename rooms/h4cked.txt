@@ -1,0 +1,44 @@
+h4cked
+https://tryhackme.com/room/h4cked
+
+The attacker is trying to log into a specific service. What service is this?
+FTP
+
+There is a very popular tool by Van Hauser which can be used to brute force a series of services. What is the name of this tool?
+Hydra
+
+The attacker is trying to log on with a specific username. What is the username?
+Jenny
+
+What is the user's password?
+password123
+
+What is the current FTP working directory after the attacker logged in?
+/var/www/html
+
+The attacker uploaded a backdoor. What is the backdoor's filename?
+shell.php
+
+The backdoor can be downloaded from a specific URL, as it is located inside the uploaded file. What is the full URL?
+http://pentestmonkey.net/tools/php-reverse-shell
+
+Which command did the attacker manually execute after getting a reverse shell?
+whoami
+
+What is the computer's hostname?
+wir3
+
+Which command did the attacker execute to spawn a new TTY shell?
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+
+Which command was executed to gain a root shell?
+sudo su
+
+The attacker downloaded something from GitHub. What is the name of the GitHub project?
+Reptile
+
+The project can be used to install a stealthy backdoor on the system. It can be very hard to detect. What is this type of backdoor called?
+Rootkit
+
+Read the flag.txt file inside the Reptile directory
+ebcefd66ca4b559d17b440b6e67fd0fd

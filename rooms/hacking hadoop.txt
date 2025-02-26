@@ -1,0 +1,83 @@
+Hacking Hadoop
+https://tryhackme.com/room/hackinghadoop
+
+Which node is responsible for actively keeping the directory tree structure of the datalake?
+Primary NameNode
+
+What type of node provides applications for users?
+Edge Node
+
+What Hadoop service is responsible for scheduling jobs?
+YARN
+
+What Hadoop service provides granular access control to resources?
+Ranger
+
+What is the term provided to a datalake that makes use of Kerberos for security?
+Kerberised
+
+Who owns the largest Hadoop cluster in the world?
+Facebook
+
+What edge node service is running on this host?
+Zeppelin
+
+What file is responsible for the authentication configuration for this service?
+shiro.ini
+
+What is the username and password combination that gives you your initial entry? (Format: <username>:<password>)
+user1:password2
+
+Once authenticated, submit the flag that is hiding nicely in one of the notebooks.
+THM{Whats.That.Smell.On.The.Hindenburg?}
+
+What is the password of the user allowed to interface with the interpreters and provided notebook?
+p@ssw0rd12345
+
+Which active interpreter can be used to execute code?
+python
+
+What OS user does the application run as?
+zp
+
+What is the value of the flag found in the user's home directory (flag2.txt)?
+THM{It.Was.Hydrogen!}
+
+Which directory stores the keytabs for the Hadoop services?
+/etc/security/keytabs/
+
+What is the keytab file's name associated with the compromised user?
+zp.service.keytab
+
+What is the first principal stored in this keytab file?
+zp/hadoop.docker.com@EXAMPLE.COM
+
+What is the full verbose command to authenticate with this keytab using the full file path?
+kinit zp/hadoop.docker.com@EXAMPLE.COM -k -V -t /etc/security/keytabs/zp.service.keytab
+
+What is the value of the flag stored in the compromised user's HDFS home directory (flag3.txt)?
+THM{Now.We.Are.Talking.About.Distributed.Storage}
+
+What is the name of the service we will attempt to impersonate for privilege escalation?
+yarn
+
+What is the value of the flag in the impersonated user's HDFS home directory (flag4.txt)?
+THM{Little.Kitty.Goes.Meow}
+
+What is the value of the flag in the impersonated user's OS home directory (flag5.txt)?
+THM{Little.Kitty.Got.Its.Ball.Of.Yarn}
+
+What is the value of the flag associated with the NodeManager's HDFS home directory (flag6.txt)?
+THM{Regional.Assistant.Manager}
+
+What is the value of the flag associated with the NodeManager's OS home directory (flag7.txt)?
+THM{Assistant.To.The.Regional.Manager}
+
+What is the value of the flag in the root user's home directory (flag8.txt)?
+THM{This.Has.Got.To.Be.The.Saddest.Root.Privesc.Ever}
+
+What is the value of the flag in the root user's HDFS home directory (flag9.txt)?
+THM{Nothing.Can.Stop.You.Now!}
+
+What is the value of the flag in the root user's directory on the secondary cluster node (flag10.txt)?
+THM{This.Just.Keeps.Getting.Sadder.And.Sadder}

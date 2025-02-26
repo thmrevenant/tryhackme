@@ -1,0 +1,20 @@
+Forensic Imaging
+https://tryhackme.com/room/forensicimaging
+
+What command can be used to list all block devices in Linux OS?
+lsblk
+
+Which bash command displays all commands executed in a session?
+history
+
+What is the MD5 hash of the image "exercise.img" located in /home/analyst/?
+1f1da616156f73083521478c334841bb
+
+Mount the image "exercise.img" located in the analyst home directory folder. What is the content of the file "flag.txt" located within exercise.img?
+THM{mounttt-mounttt-me}
+
+Create an image of the attached 1gb loop device. What is the MD5 hash of the image?
+1fab86e499934dda789c9c4aaf27101d
+
+Mount the image from the 1 GB loop device. What is the content of the file "flag.txt"?
+THM{well-done-imaginggggggg}

@@ -1,0 +1,11 @@
+Fusion Corp
+https://tryhackme.com/room/fusioncorp
+
+User 1
+THM{c105b6fb249741b89432fada8218f4ef}
+
+User 2
+THM{b4aee2db2901514e28db4242e047612e}
+
+User 3
+THM{f72988e57bfc1deeebf2115e10464d15}

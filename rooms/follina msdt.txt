@@ -1,0 +1,50 @@
+Follina MSDT
+https://tryhackme.com/room/follinamsdt
+
+What year was MSDT first discovered to be vulnerable to code execution?
+2020
+
+Who is the author of the bachelor's thesis which first detailed this vulnerability?
+Benjamin Altpeter
+
+What is the name of the APT hunting group who first reported evidence of exploitation in the wild of MSDT to MSRC? 
+Shadowchasing1
+
+What's one thing you need that the support will provide you when you're using the MSDT legitimately?
+Passkey
+
+What application got executed upon opening of the maldoc that signified compromise? Answer format is "<app>.exe"
+win32calc.exe
+
+What is the filename of the .docx file that has been discovered in the wild? Write it exactly as you see it.
+05-2022-0438.doc
+
+The PoC that we used has the capability to establish a reverse shell upon exploit - what binary is being used to accomplish this?
+netcat
+
+Where is this binary being downloaded?
+C:\Windows\Tasks
+
+In the original exploit execution, two parent processes are of interest in the list of running processes in Process Explorer, one of them is WINWORD.EXE. Can you find the other one?
+sdiagnhost.exe
+
+What is the child process of WINWORD.EXE?
+msdt.exe
+
+What is the child process of the other interesting parent process?
+conhost.exe
+
+What process would be the most obvious piece of evidence to conclude that the "Zero Click" implementation of the exploit was used?
+prevhost.exe
+
+What encoding is used in the string Y2FsYw==
+base64
+
+What is the parent process of calc.exe?
+sdiagnhost.exe
+
+Diagnostic package index information is loaded from what file path?
+C:\Windows\Diagnostics\Index
+
+What error message did the document give upon opening?
+You'll need a new app to open this ms-msdt

@@ -1,0 +1,8 @@
+Frank and Herby try again.....
+https://tryhackme.com/room/frankandherbytryagain
+
+User flag?
+THM{I-2h0uld-f1r3-fr4nK}
+
+Root Flag? 
+THM{frank-and-herby-still-suck}

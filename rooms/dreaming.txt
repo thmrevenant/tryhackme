@@ -1,0 +1,11 @@
+Dreaming
+https://tryhackme.com/room/dreaming
+
+What is the Lucien Flag?
+THM{TH3_L1BR4R14N}
+
+What is the Death Flag?
+THM{1M_TH3R3_4_TH3M}
+
+What is the Morpheus Flag?
+THM{DR34MS_5H4P3_TH3_W0RLD}

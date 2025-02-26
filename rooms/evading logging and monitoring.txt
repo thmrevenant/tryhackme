@@ -1,0 +1,48 @@
+Evading Logging and Monitoring
+https://tryhackme.com/room/monitoringevasion
+
+What ETW component will build and configure sessions?
+Controllers
+
+What event ID logs when a user account was deleted?
+4726
+
+How many total events can be used to track event tampering? 
+3
+
+What event ID logs when the log file was cleared?
+104
+
+What reflection assembly is used?
+PSEtwLogProvider
+
+What field is overwritten to disable ETW?
+m_enabled
+
+What is the base address for the ETW security check before it is patched?
+779f245b
+
+What is the non-delimited opcode used to patch ETW for x64 architecture?
+c21400
+
+How many total events are enabled through script block and module providers?
+2
+
+What event ID will log script block execution?
+4104
+
+What event IDs can be disabled using this technique? (lowest to highest separated by a comma)
+4103, 4104
+
+What provider setting controls 4104 events?
+EnableScriptBlockLogging
+
+What type of logging will this method prevent?
+Module logging
+
+What target module will disable logging for all Microsoft utility modules?
+Microsoft.PowerShell.Utility
+
+Enter the flag obtained from the desktop after executing the binary.
+THM{51l3n7_l1k3_4_5n4k3}
+

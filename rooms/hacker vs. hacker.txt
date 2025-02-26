@@ -1,0 +1,8 @@
+Hacker vs. Hacker
+https://tryhackme.com/room/hackervshacker
+
+What is the user.txt flag?
+thm{af7e46b68081d4025c5ce10851430617}
+
+What is the proof.txt flag?
+thm{7b708e5224f666d3562647816ee2a1d4}

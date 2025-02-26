@@ -1,0 +1,14 @@
+Enumeration & Brute Force
+https://tryhackme.com/room/enumerationbruteforce
+
+What type of error messages can unintentionally provide attackers with confirmation of valid usernames?
+Verbose Errors
+
+What is the valid email address from the list?
+canderson@gmail.com
+
+What is the flag?
+THM{50_pr3d1ct4BL333!!}
+
+What is the flag?
+THM{b4$$1C_AuTTHHH}

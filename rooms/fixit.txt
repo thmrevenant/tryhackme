@@ -1,0 +1,38 @@
+Fixit
+https://tryhackme.com/room/fixit
+
+What is the full path of the FIXIT app directory?
+/opt/splunk/etc/apps/fixit
+
+What Stanza will we use to define Event Boundary in this multi-line Event case?
+BREAK_ONLY_BEFORE
+
+In the inputs.conf, what is the full path of the network-logs script?
+/opt/splunk/etc/apps/fixit/bin/network-logs
+
+What regex pattern will help us define the Event's start?
+\[Network-log\]
+
+What is the captured domain?
+Cybertees.THM
+
+How many countries are captured in the logs?
+12
+
+How many departments are captured in the logs?
+6
+
+How many usernames are captured in the logs?
+28
+
+How many source IPs are captured in the logs?
+52
+
+Which configuration files were used to fix our problem? [Alphabetic order: File1, file2, file3]
+fields.conf, props.conf, transforms.conf
+
+What are the TOP two countries the user Robert tried to access the domain from? [Answer in comma-separated and in Alphabetic Order][Format: Country1, Country2]
+Canada, United States
+
+Which user accessed the secret-document.pdf on the website?
+Sarah Hall

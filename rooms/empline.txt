@@ -1,0 +1,8 @@
+Empline
+https://tryhackme.com/room/empline
+
+User.txt
+91cb89c70aa2e5ce0e0116dab099078e
+
+Root.txt
+74fea7cd0556e9c6f22e6f54bc68f5d5

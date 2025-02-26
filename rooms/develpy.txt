@@ -1,0 +1,8 @@
+Develpy
+https://tryhackme.com/room/bsidesgtdevelpy
+
+user.txt
+cf85ff769cfaaa721758949bf870b019
+
+root.txt
+9c37646777a53910a347f387dce025ec

@@ -1,0 +1,17 @@
+Gallery
+https://tryhackme.com/room/gallery666
+
+How many ports are open?
+2
+
+What's the name of the CMS?
+Simple Image Gallery
+
+What's the hash password of the admin user?
+a228b12a08b6527e7978cbe5d914531c
+
+What's the user flag?
+THM{af05cd30bfed67849befd546ef}
+
+What's the root flag?
+THM{ba87e0dfe5903adfa6b8b450ad7567bafde87}

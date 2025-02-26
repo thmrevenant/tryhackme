@@ -1,0 +1,38 @@
+Forensics
+https://tryhackme.com/room/forensics
+
+What is the Operating System of this Dump file? (OS name)
+windows
+
+What is the PID of SearchIndexer?
+2180
+
+What is the last directory accessed by the user?
+deleted_files
+
+There are many suspicious open ports; which one is it? (ANSWER format: protocol:port)
+UDP:5005
+
+Vads tag and execute protection are strong indicators of malicious processes; can you find which they are? (ANSWER format: Pid1;Pid2;Pid3) 
+1860;1820;2464
+
+'www.go****.ru' (write full url without any quotation marks)
+www.goporn.ru
+
+'www.i****.com' (write full url without any quotation marks)
+www.ikaka.com
+
+'www.ic******.com'
+www.icsalabs.com
+
+202.***.233.*** (Write full IP)
+202.107.233.211
+
+***.200.**.164 (Write full IP)
+209.200.12.164
+
+209.190.***.***
+209.190.122.186
+
+What is the unique environmental variable of PID 2464?
+OANOCACHE

@@ -1,0 +1,8 @@
+Flatline
+https://tryhackme.com/room/flatline
+
+What is the user.txt flag?
+THM{64bca0843d535fa73eecdc59d27cbe26}
+
+What is the root.txt flag?
+THM{8c8bc5558f0f3f8060d00ca231a9fb5e}

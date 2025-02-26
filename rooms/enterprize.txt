@@ -1,0 +1,8 @@
+EnterPrize
+https://tryhackme.com/room/enterprize
+
+user.txt
+THM{a99acf52687be464db48eca3b3359572}
+
+root.txt
+THM{568a171c9460d2b3871618b9d5232919}

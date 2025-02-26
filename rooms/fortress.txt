@@ -1,0 +1,8 @@
+Fortress
+https://tryhackme.com/room/fortress
+
+What is the flag in user.txt?
+84589a1bb8a932e46643b242a55489c0
+
+Escalate your privileges, what is the flag in root.txt?
+3a17cfcca1aabc245a2d5779615643ae

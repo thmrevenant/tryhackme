@@ -1,0 +1,8 @@
+Git and Crumpets
+https://tryhackme.com/room/gitandcrumpets
+
+User Flag
+thm{fd7ab9ffd409064f257cd70cf3d6aa16}
+
+Root Flag
+thm{6320228dd9e315f283b75887240dc6a1}

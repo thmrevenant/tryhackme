@@ -1,0 +1,8 @@
+Exfilibur
+https://tryhackme.com/room/exfilibur
+
+What is the user flag?
+THM{HACKERS_EXFILTRATE_DATA_NOT_DRAGONS}
+
+What is the root flag?
+THM{STOP_ABUSING_PRIVILEGES_IN_CAMELOT}

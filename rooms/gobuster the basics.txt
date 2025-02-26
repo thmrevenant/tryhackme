@@ -1,0 +1,26 @@
+Gobuster: The Basics
+https://tryhackme.com/room/gobusterthebasics
+
+What flag to we use to specify the target URL?
+-u
+
+What command do we use for the subdomain enumeration mode?
+dns
+
+Which flag do we have to add to our command to skip the TLS verification? Enter the long flag notation.
+--no-tls-validation
+
+Enumerate the directories of www.offensivetools.thm. Which directory catches your attention?
+secret
+
+Continue enumerating the directory found in question 2. You will find an interesting file there with a .js extension. What is the flag found in this file?
+THM{ReconWasASuccess}
+
+Apart from the dns keyword and the -w flag, which shorthand flag is required for the command to work?
+-d
+
+Use the commands learned in this task, how many subdomains are configured for the offensivetools.thm domain?
+4
+
+Use the commands learned in this task to answer the following question: How many vhosts on the offensivetools.thm domain reply with a status code 200?
+4

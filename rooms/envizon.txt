@@ -1,0 +1,11 @@
+envizon
+https://tryhackme.com/room/envizon
+
+What password is used by the current envizon instance?
+rE8Z*qyM!DTKNP8fGu4T3CtW*aurBQwLF
+
+local.txt
+7953ba7f83b3fd00279627de052bc078
+
+root.txt
+40963d170c949f8325783c552e150236

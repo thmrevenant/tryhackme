@@ -1,0 +1,11 @@
+DockMagic
+https://tryhackme.com/room/dockmagic
+
+What is the value of flag 1?
+THM{c674a7e5c42cc4cae67ee0a03e26743c}
+
+What is the value of flag 2?
+THM{2c8203d84b1269a605a362bf4200c691}
+
+What is the value of flag 3?
+THM{dc887d7a23fa028d7892bc85389bc381}

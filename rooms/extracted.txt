@@ -1,0 +1,8 @@
+Extracted
+https://tryhackme.com/room/extractedroom
+
+What's the initial part of the password?
+NoWaYIcanF0rGetThis123
+
+What's the flag?
+THM{B3tt3r_Upd4t3_Y0ur_K33p455}

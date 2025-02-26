@@ -1,0 +1,44 @@
+GoldenEye
+https://tryhackme.com/room/goldeneye
+
+Use nmap to scan the network for all ports. How many ports are open?
+4
+
+Who needs to make sure they update their default password?
+boris
+
+Whats their password?
+InvincibleHack3r
+
+If those creds don't seem to work, can you use another program to find other users and passwords? Maybe Hydra?Whats their new password?
+secret1!
+
+Inspect port 55007, what services is configured to use this port?
+telnet
+
+What can you find on this service?
+emails
+
+What user can break Boris' codes?
+natalya
+
+Try using the credentials you found earlier. Which user can you login as?
+xenia
+
+Have a poke around the site. What other user can you find?
+doak
+
+What was this users password?
+goat
+
+What is the next user you can find from doak?
+dr_doak
+
+What is this users password?
+4England!
+
+Whats the kernel version?
+3.13.0-32-generic
+
+What is the root flag?
+568628e0d993b1973adc718237da6e93

@@ -1,0 +1,17 @@
+Frosteau Busy with Vim
+https://tryhackme.com/room/busyvimfrosteau
+
+What is the value of the first flag?
+THM{Let.the.game.begin}
+
+What is the value of the second flag?
+THM{Seems.like.we.are.getting.busy}
+
+What is the value of the third flag?
+THM{Not.all.roots.and.routes.are.equal}
+
+What is the value of the fourth flag?
+THM{Frosteau.would.be.both.proud.and.disappointed}
+
+What is the value of the third Yetikey that has been placed in the root directory to verify the compromise?
+3-d2dc6a02db03401177f0511a6c99007e945d9cb9b96b8c6294f8c5a2c8e01f60

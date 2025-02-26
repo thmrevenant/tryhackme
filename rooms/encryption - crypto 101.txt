@@ -1,0 +1,47 @@
+Encryption - Crypto 101
+https://tryhackme.com/room/encryptioncrypto101
+
+Are SSH keys protected with a passphrase or a password?
+passphrase
+
+What does SSH stand for?
+Secure Shell
+
+How do webservers prove their identity?
+certificates
+
+What is the main set of standards you need to comply with if you store or process payment card details?
+PCI-DSS
+
+What's 30 % 5?
+0
+
+What's 25 % 7
+4
+
+What's 118613842 % 9091
+3565
+
+Should you trust DES? Yea/Nay
+Nay
+
+What was the result of the attempt to make DES more secure so that it could be used for longer?
+Triple DES
+
+Is it ok to share your public key? Yea/Nay
+Yea
+
+p = 4391, q = 6659. What is n?
+29239669
+
+What can you use to verify that a file has not been modified and is the authentic file as the author intended?
+Digital Signature
+
+What algorithm does the key use?
+RSA
+
+Crack the password with John The Ripper and rockyou, what's the passphrase for the key?
+delicious
+
+You have the private key, and a file encrypted with the public key. Decrypt the file. What's the secret word?
+Pineapple

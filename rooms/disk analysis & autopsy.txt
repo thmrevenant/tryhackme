@@ -1,0 +1,47 @@
+Disk Analysis & Autopsy
+https://tryhackme.com/room/autopsy2ze0
+
+What is the MD5 hash of the E01 image?
+3f08c518adb3b5c1359849657a9b2079
+
+What is the computer account name?
+DESKTOP-0R59DJ3
+
+List all the user accounts. (alphabetical order)
+H4S4N,joshwa,keshav,sandhya,shreya,sivapriya,srini,suba
+
+Who was the last user to log into the computer?
+sivapriya
+
+What was the IP address of the computer?
+192.168.130.216
+
+What was the MAC address of the computer? (XX-XX-XX-XX-XX-XX)
+08-00-27-2c-c4-b9
+
+What is the name of the network card on this computer?
+Intel(R) PRO/1000 MT Desktop Adapter
+
+What is the name of the network monitoring tool?
+Look@LAN
+
+A user bookmarked a Google Maps location. What are the coordinates of the location?
+12°52'23.0"N 80°13'25.0"E
+
+A user has his full name printed on his desktop wallpaper. What is the user's full name?
+Anto Joshwa
+
+A user had a file on her desktop. It had a flag but she changed the flag using PowerShell. What was the first flag?
+flag{HarleyQuinnForQueen}
+
+The same user found an exploit to escalate privileges on the computer. What was the message to the device owner?
+flag{I-hacked-you}
+
+2 hack tools focused on passwords were found in the system. What are the names of these tools? (alphabetical order)
+Lazagne,Mimikatz
+
+There is a YARA file on the computer. Inspect the file. What is the name of the author?
+Benjamin DELPY (gentilkiwi)
+
+One of the users wanted to exploit a domain controller with an MS-NRPC based exploit. What is the filename of the archive that you found? (include the spaces in your answer) 
+2.2.0 20200918 Zerologon encrypted.zip

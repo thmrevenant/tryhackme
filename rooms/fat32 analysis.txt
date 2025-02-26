@@ -1,0 +1,65 @@
+FAT32 Analysis
+https://tryhackme.com/room/fat32analysis
+
+What is the name of the attack that targeted the Iranian nuclear program?
+Stuxnet
+
+What category of tactic is MITRE ATT&CK TA0005?
+Defense Evasion
+
+We have a hypothetical file B  and its cluster chain starts at cluster F and ends at cluster 10 . What would be the value of the FAT entry at cluster F? Provide the value as you would read it in the HxD editor. (Without spaces). Note: File B is not a file on the image. 
+10000000
+
+Using the FAT32_structure.001 image, answer the following question: At which offset does the  FAT2 table start ( give in the offset value without spaces)? Remember, FAT1 starts right after the Reserved Sectors and FAT2 starts right after FAT1.
+00387E00
+
+What is the filename of the file that starts at cluster 9?
+careers.txt
+
+What is the creation time of the file that starts at cluster 9? Please provide the hexadecimal value of the Creation time field.
+F484
+
+Which analysis technique can we use to look for hidden files and directories?
+Directory Structure and File Name Analysis
+
+What is the short file name of the hidden file in the M@lL0v3 directory?
+BEMYVA~1
+
+What is the flag found during automated analysis?
+THM{F0uNdTh3H!Dd3nF1l3}
+
+What is the Accessed timestamp of the discovered suspicious file?
+2018-01-10 00:00:00
+
+What is the flag found during the automated analysis?
+THM{T1m3St0Mp3D}
+
+Which hexadecimal sequence identifies a deleted file?
+E5
+
+What is the output of the deleted PowerShell script after executing it? Note: In real-life investigations, we will only execute a suspicious file in a sandboxed environment.
+THM{r3Tr!3v3D_3v!d3nC3}
+
+At which offset does the FAT1 table begin? Fill in the complete offset number XXXXXXXX.
+0020FC00
+
+What is the name of the hidden directory on the image? (Excluding the System Volume Information folder and the Recycle Bin).
+Exfiltrated_data
+
+What is the flag found in the hidden directory? 
+THM{D@t@3xf!lL}
+
+What is the size (bytes) of the archive file in the hidden directory?
+10862
+
+What is the name of the deleted file that is present on the image?
+Reverseshell.py
+
+What is the flag included in the deleted file?
+THM{B@ckD00rF0unD}
+
+What is the name of the file that has suspicious timestamp(s) (name.extension)?
+Legal_Affairs_Notes.txt
+
+What is the flag included in the file with suspicious timestamps?
+THM{D@t@g@tH3r!nG} 

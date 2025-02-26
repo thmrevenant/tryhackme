@@ -1,0 +1,17 @@
+File Inclusion, Path Traversal
+https://tryhackme.com/room/filepathtraversal
+
+What kind of pathing refers to locating files based on the current directory?
+Relative Pathing
+
+What kind of pathing involves the file's complete path, which usually starts from the root directory?
+Absolute Pathing
+
+What part of PHP's functionality allows users access to various data streams that can also access or execute code through built-in protocols?
+PHP Wrappers
+
+What technique does an attacker use to inject executable code into a web server's log file and then use a file inclusion vulnerability to include and execute the malicious code?
+Log Poisoning
+
+What is the content of the hidden text file in the flags folder?
+THM{fl4g_cd3c67e5079de2700af6cea0a405f9cc}

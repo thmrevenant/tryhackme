@@ -1,0 +1,11 @@
+GLITCH
+https://tryhackme.com/room/glitch
+
+What is your access token?
+this_is_not_real
+
+What is the content of user.txt?
+THM{i_don't_know_why}
+
+What is the content of root.txt?
+THM{diamonds_break_our_aching_minds}

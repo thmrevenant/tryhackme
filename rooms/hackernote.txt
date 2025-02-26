@@ -1,0 +1,32 @@
+hackerNote
+https://tryhackme.com/room/hackernote
+
+Which ports are open? (in numerical order)
+22,80,8080
+
+What programming language is the backend written in?
+go
+
+How many usernames from the list are valid?
+1
+
+What are/is the valid username(s)?
+james
+
+How many passwords were in your wordlist?
+180
+
+What was the user's password?
+blue7
+
+What's the user's SSH password?
+dak4ddb37b
+
+What's the user flag?
+thm{56911bd7ba1371a3221478aa5c094d68}
+
+What is the CVE number for the exploit?
+CVE-2019-18634
+
+What is the root flag?
+thm{af55ada6c2445446eb0606b5a2d3a4d2}

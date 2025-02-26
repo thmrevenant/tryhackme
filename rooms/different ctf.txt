@@ -1,0 +1,17 @@
+Different CTF
+https://tryhackme.com/room/adana
+
+How many ports are open ?
+2
+
+What is the name of the secret directory ?
+/announcements/
+
+Web flag ?
+THM{343a7e2064a1d992c01ee201c346edff}
+
+User flag ?
+THM{8ba9d7715fe726332b7fc9bd00e67127}
+
+Root flag ?
+THM{c5a9d3e4147a13cbd1ca24b014466a6c}

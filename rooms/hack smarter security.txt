@@ -1,0 +1,8 @@
+Hack Smarter Security
+https://tryhackme.com/room/hacksmartersecurity
+
+What is user.txt? 
+THM{4ll15n0tw3llw1thd3ll}
+
+Which organizations is the Hack Smarter group targeting next? 
+CyberLens, WorkSmarter, SteelMountain

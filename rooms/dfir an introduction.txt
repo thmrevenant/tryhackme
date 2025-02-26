@@ -1,0 +1,23 @@
+DFIR: An Introduction
+https://tryhackme.com/room/introductoryroomdfirmodule
+
+What does DFIR stand for?
+Digital Forensics and Incident Response
+
+DFIR requires expertise in two fields. One of the fields is Digital Forensics. What is the other field?
+Incident Response
+
+From amongst the RAM and the hard disk, which storage is more volatile?
+RAM
+
+Complete the timeline creation exercise in the attached static site. What is the flag that you get after completion?
+THM{DFIR_REPORT_DONE}
+
+At what stage of the IR process are disrupted services brought back online as they were before the incident?
+Recovery
+
+At what stage of the IR process is the threat evicted from the network after performing the forensic analysis?
+Eradication
+
+What is the NIST-equivalent of the step called "Lessons learned" in the SANS process?
+Post-incident Activity

@@ -1,0 +1,14 @@
+Ghizer
+https://tryhackme.com/room/ghizerctf
+
+What are the credentials you found in the configuration file? 
+Anny:P4$W0RD!!#S3CUr3!
+
+What is the login path for the wordpress installation?
+/?devtools
+
+Compromise the machine and locate user.txt
+THM{EB0C770CCEE1FD73204F954493B1B6C5E7155B177812AAB47EFB67D34B37EBD3}
+
+Escalate privileges and obtain root.txt
+THM{02EAD328400C51E9AEA6A5DB8DE8DD499E10E975741B959F09BFCF077E11A1D9}

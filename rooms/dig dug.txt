@@ -1,0 +1,5 @@
+Dig Dug
+https://tryhackme.com/room/digdug
+
+Retrieve the flag from the DNS server!
+flag{0767ccd06e79853318f25aeb08ff83e2}

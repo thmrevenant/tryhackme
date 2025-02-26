@@ -1,0 +1,17 @@
+Grep
+https://tryhackme.com/room/greprtp
+
+What is the API key that allows a user to register on the website?
+ffe60ecaa8bba2f12b43d1a4b15b8f39
+
+What is the first flag?
+THM{4ec9806d7e1350270dc402ba870ccebb}
+
+What is the email of the "admin" user?
+admin@searchme2023cms.grep.thm
+
+What is the host name of the web application that allows a user to check an email for a possible password leak?
+leakchecker.grep.thm
+
+What is the password of the "admin" user?
+admin_tryhackme!

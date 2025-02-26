@@ -1,0 +1,8 @@
+Gatekeeper
+https://tryhackme.com/room/gatekeeper
+
+Locate and find the User Flag.
+{H4lf_W4y_Th3r3}
+
+Locate and find the Root Flag
+{Th3_M4y0r_C0ngr4tul4t3s_U}

@@ -1,0 +1,38 @@
+Dynamic Analysis: Debugging
+https://tryhackme.com/room/advanceddynamicanalysis
+
+Malware sometimes checks the time before and after the execution of certain instructions to find out if it is being analysed. What type of analysis technique is bypassed by this attack?
+basic dynamic analysis
+
+What is a popular technique used by malware authors to obfuscate malware code from static analysis and unwrap it at runtime?
+Packing
+
+Can we recover the pre-compilation code of a compiled binary for debugging purposes? Write Y for Yes or N for No
+N
+
+Which type of debugger is used for debugging compiled binaries?
+assembly-level debugger
+
+Which debugger works at the lowest level among the discussed debuggers?
+Kernel-level debugger
+
+In which tab is the disassembly view shown in x32dbg?
+CPU tab
+
+If a process opens a file or a process, where can we see information regarding that opened file or process?
+Handles tab
+
+The attached VM has a crackme in the directory Desktop > crackme-arebel. In that crackme, there is a TLS callback with a conditional jump. Is this conditional jump taken? Write Y for Yes or N for No
+N
+
+What is the value of the Zero Flag in the above-mentioned conditional jump?
+1
+
+Which API call in the mentioned sample is used for enumerating running processes?
+CreateToolhelp32Snapshot
+
+From which Windows DLL is the API SuspendThread being called?
+Kernel32.dll
+
+What is it called when a binary's assembly code is permanently altered to get the desired execution path?
+Patching

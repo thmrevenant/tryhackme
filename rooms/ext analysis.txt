@@ -1,0 +1,26 @@
+EXT Analysis
+https://tryhackme.com/room/extanalysis
+
+What is the member of the ext4_super_block struct that holds the offset value to the first data block?
+s_first_data_block
+
+What is the offset where we can find the member s_blocks_count_lo in the ext4_super_block struct? (decimal format)
+4
+
+What is the inode number for the file /etc/passwd in the VM?
+10083
+
+What is the btime for the file /etc/passwd? 
+2024-11-28 21:52:28.724316576
+
+Select Data Sources > ext4_case.img_1 Host > ext4_case.img and select the file normal_file.txt. Analyze the data in the File Metadata tab on the bottom pane. What is the inode number of the file?
+12
+
+What is the creation time of the file timestomped.txt? (Format: YYYY-MM-DD hh:mm:ss)
+2025-01-06 03:34:09
+
+Identify the timestomped file in the mounted file system in /mnt/ext_exercises. What is the original creation date of the file? (Format: YYYY-MM-DD hh:mm:ss)
+2025-01-09 02:27:53
+
+What is the flag in the deleted file that starts with the characters "FFFFFFFFFF" in the mounted file system in /mnt/ext_exercises?
+TMH{sup3r-d3l3Ted-fil3-you-g0tit-nice}

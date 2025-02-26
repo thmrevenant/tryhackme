@@ -1,0 +1,68 @@
+Enumerating Active Directory
+https://tryhackme.com/room/adenumeration
+
+What native Windows binary allows us to inject credentials legitimately into memory?
+runas.exe
+
+What parameter option of the runas binary will ensure that the injected credentials are used for all network connections?
+/netonly
+
+What network folder on a domain controller is accessible by any authenticated AD account and stores GPO information?
+SYSVOL
+
+When performing dir \\za.tryhackme.com\SYSVOL, what type of authentication is performed by default?
+Kerberos Authentication
+
+How many Computer objects are part of the Servers OU?
+2
+
+How many Computer objects are part of the Workstations OU?
+1
+
+How many departments (Organisational Units) does this organisation consist of?
+7
+
+How many Admin tiers does this organisation have?
+3
+
+What is the value of the flag stored in the description attribute of the t0_tinus.green account?
+THM{Enumerating.Via.MMC}
+
+Apart from the Domain Users group, what other group is the aaron.harris account a member of?
+Internet Access
+
+Is the Guest account active? (Yay,Nay)
+Nay
+
+How many accounts are a member of the Tier 1 Admins group?
+7
+
+What is the account lockout duration of the current password policy in minutes?
+30
+
+What is the value of the Title attribute of Beth Nolan (beth.nolan)?
+Senior
+
+What is the value of the DistinguishedName attribute of Annette Manning (annette.manning)?
+CN=annette.manning,OU=Marketing,OU=People,DC=za,DC=tryhackme,DC=com
+
+When was the Tier 2 Admins group created?
+2/24/2022 10:04:41 PM
+
+What is the value of the SID attribute of the Enterprise Admins group?
+S-1-5-21-3330634377-1326264276-632209373-519
+
+Which container is used to store deleted AD objects?
+CN=Deleted Objects,DC=za,DC=tryhackme,DC=com
+
+What command can be used to execute Sharphound.exe and request that it recovers Session information only from the za.tryhackme.com domain without touching domain controllers?
+Sharphound.exe --CollectionMethods Session --Domain za.tryhackme.com --ExcludeDCs
+
+Apart from the krbtgt account, how many other accounts are potentially kerberoastable?
+4
+
+How many machines do members of the Tier 1 Admins group have administrative access to?
+2
+
+How many users are members of the Tier 2 Admins group?
+15

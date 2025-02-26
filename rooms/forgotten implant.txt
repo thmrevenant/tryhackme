@@ -1,0 +1,8 @@
+Forgotten Implant
+https://tryhackme.com/room/forgottenimplant
+
+What is the user flag?
+THM{902e8e8b1f49dfeb678e419935be23ef}
+
+What is the root flag?
+THM{7762118e4a93b277cb2fb221745d2cf1}

@@ -1,0 +1,14 @@
+Empire
+https://tryhackme.com/room/rppsempire
+
+What module allows you to use any mimikatz command?
+powershell/credentials/mimikatz/command
+
+What MITRE ATT&CK technique is associated with powershell/trollsploit/voicetroll?
+T1491
+
+What module implants a keylogger on the device?
+powershell/collection/keylogger
+
+What MITRE ATT&CK technique is associated with the module above?
+T1056

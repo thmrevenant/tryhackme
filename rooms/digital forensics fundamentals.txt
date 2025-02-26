@@ -1,0 +1,29 @@
+Digital Forensics Fundamentals
+https://tryhackme.com/room/digitalforensicsfundamentals
+
+Which team was handed the case by law enforcement?
+digital Forensics
+
+Which phase of digital forensics is concerned with correlating the collected data to draw any conclusions from it?
+Analysis
+
+Which phase of digital forensics is concerned with extracting the data of interest from the collected evidence?
+Examination
+
+Which tool is used to ensure data integrity during the collection?
+write blocker
+
+What is the name of the document that has all the details of the collected digital evidence?
+chain of custody
+
+Which type of forensic image is taken to collect the volatile data from the operating system?
+Memory Image
+
+Using pdfinfo, find out the author of the attached PDF file, ransom-letter.pdf.
+Ann Gree Shepherd
+
+Using exiftool or any similar tool, try to find where the kidnappers took the image they attached to their document. What is the name of the street?
+Milk Street
+
+What is the model name of the camera used to take this photo?
+Canon EOS R6

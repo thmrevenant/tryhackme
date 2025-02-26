@@ -1,0 +1,17 @@
+DLL HIJACKING
+https://tryhackme.com/room/dllhijacking
+
+Which process may work with psinject?
+explorer
+
+What is the Windows build number?
+1903
+
+What is the name of the DLL that is written to System32?
+ualapi.dll
+
+What is the other user on the machine?
+John
+
+What is the other user's password?
+1q2w3e!Q@W#E1q2w3e

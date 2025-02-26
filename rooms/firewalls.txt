@@ -1,0 +1,74 @@
+Firewalls
+https://tryhackme.com/room/redteamfirewalls
+
+If you want to block telnet, which TCP port number would you deny?
+23
+
+You want to allow HTTPS, which TCP port number do you need to permit?
+443
+
+What is an alternate TCP port number used for HTTP? It is described as “HTTP Alternate.”
+8080
+
+You need to allow SNMP over SSH, snmpssh. Which port should be permitted?
+5161
+
+What is the most basic type of firewall?
+Packet-Filtering Firewall
+
+What is the most advanced type of firewall that you can have on company premises?
+Next-Generation Firewall
+
+What is the size of the IP packet when using a default Nmap stealth (SYN) scan?
+44
+
+How many bytes does the TCP segment hold in its data field when using a default Nmap stealth (SYN) scan?
+0
+
+Approximately, how many packets do you expect Nmap to send when running the command nmap -sS -F MACHINE_IP? Approximate to the nearest 100, such as 100, 200, 300, etc.
+200
+
+Approximately, how many packets do you expect Nmap to send when running the command nmap -sS -Pn -D RND,10.10.55.33,ME,RND -F MACHINE_IP? Approximate to the nearest 100, such as 100, 200, 300, etc.
+800
+
+What do you expect the target to see as the source of the scan when you run the command nmap -sS -Pn --proxies 10.10.13.37 MACHINE_IP
+10.10.13.37
+
+What company has registered the following Organizationally Unique Identifier (OUI), i.e., the first 24 bits of a MAC address, 00:02:DC?
+Fujitsu General Ltd
+
+To mislead the opponent, you decided to make your port scans appear as if coming from a local access point that has the IP address 10.10.0.254. What option needs to be added to your Nmap command to spoof your address accordingly?
+-S 10.10.0.254
+
+What do you need to add to your Nmap command to set the source port number to 53?
+-g 53
+
+What is the size of the IP packet when running Nmap with the -f option?
+28
+
+What is the maximum size of the IP packet when running Nmap with the -ff option?
+36
+
+What is the maximum size of the IP packet when running Nmap with --mtu 36 option?
+56
+
+What is the maximum size of the IP packet when running Nmap with --data-length 128 option?
+148
+
+Scan the attached MS Windows machine using --ttl 2 option. How many ports appear to be open?
+3
+
+Scan the attached MS Windows machine using the --badsum option. How many ports appear to be open?
+0
+
+Using this simple technique, discover which port number of the following destination TCP port numbers are reachable from the protected system.
+21
+
+We have a web server listening on the HTTP port, 80. The firewall is blocking traffic to port 80 from the untrusted network; however, we have discovered that traffic to TCP port 8008 is not blocked. We’re continuing to use the web-form from Task 6 to set up the ncat listener that forwards the packets received to the forwarded port. Using port tunneling, browse to the web server and retrieve the flag.
+THM{1298331956}
+
+We’re continuing to use the web-form from Task 6 to set up the ncat listener. Knowing that the firewall does not block packets to destination port 8081, use ncat to listen for incoming connections and execute Bash shell. Use the AttackBox to connect to the listening shell. What is the user name associated with which you are logged in?
+thmredteam
+
+What is the number of the highest OSI layer that an NGFW can process?
+7
