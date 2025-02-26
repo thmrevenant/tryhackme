@@ -1,0 +1,62 @@
+SQL Fundamentals
+https://tryhackme.com/room/sqlfundamentals
+
+What type of database should you consider using if the data you're going to be storing will vary greatly in its format?
+Non-relational database
+
+What type of database should you consider using if the data you're going to be storing will reliably be in the same structured format?
+relational database
+
+In our example, once a record of a book is inserted into our "Books" table, it would be represented as a ___ in that table?
+row
+
+Which type of key provides a link from one table to another?
+foreign key
+
+Which type of key ensures a record is unique within a table?
+primary key
+
+What serves as an interface between a database and an end user?
+DBMS
+
+What query language can be used to interact with a relational database?
+SQL
+
+Using the statement you've learned to list all databases, it should reveal a database with a flag for a name; what is it?
+THM{575a947132312f97b30ee5aeebba629b723d30f9}
+
+In the list of available databases, you should also see the  task_4_db database. Set this as your active database and list all tables in this database; what is the flag present here?
+THM{692aa7eaec2a2a827f4d1a8bed1f90e5e49d2410}
+
+Using the tools_db database, what is the name of the tool in the hacking_tools table that can be used to perform man-in-the-middle attacks on wireless networks?
+Wi-Fi Pineapple
+
+Using the tools_db database, what is the shared category for both USB Rubber Ducky and Bash Bunny?
+USB attacks
+
+Using the tools_db database, what is the total number of distinct categories in the hacking_tools table?
+6
+
+Using the tools_db database, what is the first tool (by name) in ascending order from the hacking_tools table?
+Bash Bunny
+
+Using the tools_db database, what is the first tool (by name) in descending order from the hacking_tools table?
+Wi-Fi Pineapple
+
+Using the tools_db database, which tool falls under the Multi-tool category and is useful for pentesters and geeks?
+Flipper Zero
+
+Using the tools_db database, what is the category of tools with an amount greater than or equal to 300?
+RFID cloning
+
+Using the tools_db database, which tool falls under the Network intelligence category with an amount less than 100?
+Lan Turtle
+
+Using the tools_db database, what is the tool with the longest name based on character length?
+USB Rubber Ducky
+
+Using the tools_db database, what is the total sum of all tools?
+1444
+
+Using the tools_db database, what are the tool names where the amount does not end in 0, and group the tool names concatenated by " & ".
+Flipper Zero & iCopy-XS

@@ -1,0 +1,17 @@
+Super-Spam
+https://tryhackme.com/room/superspamr
+
+What CMS and version is being used? (format: wordpress x.x.x)
+concrete5 8.5.2
+
+What is the user flag?
+flag{-eteKc=skineogyls45«ey?t+du8}
+
+What type of encryption did super-spam use to send his encrypted messages?
+XOR
+
+What key information was embedded in one of super-spam's encrypted messages?
+$$L3qwert30kcool
+
+What is the root flag?
+flag{iteeKdbu==hjK6§YuUu7-6N_}

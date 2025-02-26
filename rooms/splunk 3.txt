@@ -1,0 +1,101 @@
+Splunk 3
+https://tryhackme.com/room/splunk3zs
+
+List out the IAM users that accessed an AWS service (successfully or unsuccessfully) in Frothly's AWS environment? Answer guidance: Comma separated without spaces, in alphabetical order. (Example: ajackson,mjones,tmiller)
+bstoll,btun,splunk_access,web_admin
+
+What field would you use to alert that AWS API activity has occurred without MFA (multi-factor authentication)? Answer guidance: Provide the full JSON path. (Example: iceCream.flavors.traditional)
+userIdentity.sessionContext.attributes.mfaAuthenticated
+
+What is the processor number used on the web servers? Answer guidance: Include any special characters/punctuation. (Example: The processor number for Intel Core i7-8650U is i7-8650U.)
+E5-2676
+
+Bud accidentally makes an S3 bucket publicly accessible. What is the event ID of the API call that enabled public access? Answer guidance: Include any special characters/punctuation.
+ab45689d-69cd-41e7-8705-5350402cf7ac
+
+What is Bud's username?
+bstoll
+
+What is the name of the S3 bucket that was made publicly accessible?
+frothlywebcode
+
+What is the name of the text file that was successfully uploaded into the S3 bucket while it was publicly accessible? Answer guidance: Provide just the file name and extension, not the full path. (Example: filename.docx instead of /mylogs/web/filename.docx)
+OPEN_BUCKET_PLEASE_FIX.txt
+
+What is the FQDN of the endpoint that is running a different Windows operating system edition than the others?
+BSTOLL-L.froth.ly
+
+A Frothly endpoint exhibits signs of coin mining activity. What is the name of the second process to reach 100 percent CPU processor utilization time from this activity on this endpoint? Answer guidance: Include any special characters/punctuation.
+chrome#5
+
+What is the short hostname of the only Frothly endpoint to actually mine Monero cryptocurrency? (Example: ahamilton instead of ahamilton.mycompany.com)
+BSTOLL-L
+
+Using Splunk's event order functions, what is the first seen signature ID of the coin miner threat according to Frothly's Symantec Endpoint Protection (SEP) data?
+30358
+
+What is the name of the attack?
+JSCoinminer Download 8
+
+According to Symantec's website, what is the severity of this specific coin miner threat?
+Medium
+
+What is the short hostname of the only Frothly endpoint to show evidence of defeating the cryptocurrency threat? (Example: ahamilton instead of ahamilton.mycompany.com)
+BTUN-L
+
+What IAM user access key generates the most distinct errors when attempting to access IAM resources?
+AKIAJOGCDXJ5NW5PXUPA
+
+Bud accidentally commits AWS access keys to an external code repository. Shortly after, he receives a notification from AWS that the account had been compromised. What is the support case ID that Amazon opens on his behalf?
+5244329601
+
+AWS access keys consist of two parts: an access key ID (e.g., AKIAIOSFODNN7EXAMPLE) and a secret access key (e.g., wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY). What is the secret access key of the key that was leaked to the external code repository?
+Bx8/gTsYC98T0oWiFhpmdROqhELPtXJSR9vFPNGk
+
+Using the leaked key, the adversary makes an unauthorized attempt to create a key for a specific resource. What is the name of that resource? Answer guidance: One word.
+nullweb_admin
+
+Using the leaked key, the adversary makes an unauthorized attempt to describe an account. What is the full user agent string of the application that originated the request?
+ElasticWolf/5.1.6
+
+What is the full user agent string that uploaded the malicious link file to OneDrive?
+Mozilla/5.0 (X11; U; Linux i686; ko-KP; rv: 19.1br) Gecko/20130508 Fedora/1.9.1-2.5.rs3.0 NaenaraBrowser/3.5b4
+
+What was the name of the macro-enabled attachment identified as malware?
+Frothly-Brewery-Financial-Planning-FY2019-Draft.xlsm
+
+What is the name of the executable that was embedded in the malware? Answer guidance: Include the file extension. (Example: explorer.exe)
+HxTsr.exe
+
+What is the password for the user that was successfully created by the user "root" on the on-premises Linux system?
+ilovedavidverve
+
+What is the name of the user that was created after the endpoint was compromised?
+svcvnc
+
+Based on the previous question, what groups was this user assigned to after the endpoint was compromised? Answer guidance: Comma separated without spaces, in alphabetical order.
+administrators,user
+
+What is the process ID of the process listening on a "leet" port?
+14356
+
+What is the MD5 value of the file downloaded to Fyodor's endpoint system and used to scan Frothly's network?
+586ef56f4d8963dd546163ac31c865d7
+
+What port number did the adversary use to download their attack tools?
+3333
+
+Based on the information gathered for question 1, what file can be inferred to contain the attack tools? Answer guidance: Include the file extension.
+logos.png
+
+During the attack, two files are remotely streamed to the /tmp directory of the on-premises Linux server by the adversary. What are the names of these files? Answer guidance: Comma separated without spaces, in alphabetical order, include the file extension where applicable.
+colonel.c,definitelydontinvestigatethisfile.sh
+
+The Taedonggang adversary sent Grace Hoppy an email bragging about the successful exfiltration of customer data. How many Frothly customer emails were exposed or revealed?
+8
+
+What is the path of the URL being accessed by the command and control server? Answer guidance: Provide the full path. (Example: The full path for the URL https://imgur.com/a/mAqgt4S/lasd3.jpg is /a/mAqgt4S/lasd3.jpg)
+/admin/get.php
+
+At least two Frothly endpoints contact the adversary's command and control infrastructure. What are their short hostnames? Answer guidance: Comma separated without spaces, in alphabetical order.
+ABUNGST-L,FYODOR-L

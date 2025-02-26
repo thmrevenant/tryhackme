@@ -1,0 +1,17 @@
+The Return of the Yeti
+https://tryhackme.com/room/adv3nt0fdbopsjcap
+
+What's the name of the WiFi network in the PCAP?
+FreeWifiBFC
+
+What's the password to access the WiFi network?
+Christmas
+
+What suspicious tool is used by the attacker to extract a juicy file from the server?
+mimikatz
+
+What is the case number assigned by the CyberPolice to the issues reported by McSkidy?
+31337-0
+
+What is the content of the yetikey1.txt file?
+1-1f9548f131522e85ea30e801dfd9b1a4e526003f9e83301faad85e6154ef2834

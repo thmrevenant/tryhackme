@@ -1,0 +1,47 @@
+Source Code Security
+https://tryhackme.com/room/sourcecodesecurity
+
+When was Git released?
+2005
+
+What did Linux Kernel use for a DVCS previous to git?
+BitKeeper
+
+What type of version control is Git?
+Distributed
+
+When was Github founded? 
+2007
+
+Where do Cloud-Based VCS store code?
+repositories
+
+What is a solution to store secrets securely without revealing them?
+environment variables
+
+Does using environment variables mean you are free from secrets being compromised (Yes or No)?
+No
+
+How does Git refer to isolated lines of development?
+branches
+
+What term does Git use to refer to the original repository you cloned from?
+origin
+
+What command can you use to "copy" the contents in a remote repository?
+git clone
+
+What is the name of the package that you need to import to make use of os.getenv?
+os
+
+What is the hidden flag?
+THM-3LL3N-RIPL3Y 
+
+What is the hidden flag?
+THM_S3CUr3_4L13NS
+
+What do you need to keep source code secure besides environment variables?
+secret management
+
+Which file handles the configuration to run CI/CD jobs?
+.gitlab-ci.yml

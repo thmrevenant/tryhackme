@@ -1,0 +1,26 @@
+SQLMap The Basics
+https://tryhackme.com/room/sqlmapthebasics
+
+Which language builds the interaction between a website and its database?
+sql
+
+Which boolean operator checks if at least one side of the operator is true for the condition to be true?
+or
+
+Is 1=1 in an SQL query always true? (YEA/NAY)
+YEA
+
+Which flag in the SQLMap tool is used to extract all the databases available?
+--dbs
+
+What would be the full command of SQLMap for extracting all tables from the "members" database? (Vulnerable URL: http://sqlmaptesting.thm/search/cat=1)
+sqlmap -u http://sqlmaptesting.thm/search/cat=1 -D members --tables
+
+How many databases are available in this web application?
+6
+
+What is the name of the table available in the "ai" database?
+user
+
+What is the password of the email test@chatai.com?
+12345678

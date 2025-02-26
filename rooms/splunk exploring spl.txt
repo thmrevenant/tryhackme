@@ -1,0 +1,53 @@
+Splunk: Exploring SPL
+https://tryhackme.com/room/splunkexploringspl
+
+What is the name of the host in the Data Summary tab?
+cyber-host
+
+In the search History, what is the 7th search query in the list? (excluding your searches from today)
+index=windowslogs | chart count(EventCode) by Image
+
+In the left field panel, which Source IP has recorded max events?
+172.90.12.11
+
+How many events are returned when we apply the time filter to display events on 04/15/2022 and Time from 08:05 AM to 08:06 AM?
+134
+
+How many Events are returned when searching for Event ID 1 AND User as *James*?
+4
+
+How many events are observed with Destination IP 172.18.39.6 AND destination Port 135?
+4
+
+What is the Source IP with highest count returned with this Search query?
+172.90.12.11
+
+In the index windowslogs, search for all the events that contain the term cyber how many events returned?
+0
+
+Now search for the term cyber*, how many events are returned?
+12256
+
+What is the third EventID returned against this search query?
+4103
+
+Use the dedup command against the Hostname field before the reverse command in the query mentioned in Question 1. What is the first username returned in the Hostname field?
+Salena.Adam
+
+Using the Reverse command with the search query index=windowslogs | table _time EventID Hostname SourceName - what is the HostName that comes on top?
+James.browne
+
+What is the last EventID returned when the query in question 1 is updated with the tail command?
+4103
+
+Sort the above query against the SourceName. What is the top SourceName returned?
+Microsoft-Windows-Directory-Services-SAM
+
+List the top 8 Image processes using the top command -  what is the total count of the 6th Image?
+196
+
+Using the rare command, identify the user with the least number of activities captured?
+James
+
+Create a pie-chart using the chart command - what is the count for the conhost.exe process?
+70

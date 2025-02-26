@@ -1,0 +1,11 @@
+The Great Escape
+https://tryhackme.com/room/thegreatescape
+
+Find the flag hidden in the webapp
+THM{b801135794bf1ed3a2aafaa44c2e5ad4}
+
+Find the root flag?
+THM{0cb4b947043cb5c0486a454b75a10876}
+
+Find the real root flag
+THM{c62517c0cad93ac93a92b1315a32d734}

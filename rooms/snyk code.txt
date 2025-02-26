@@ -1,0 +1,38 @@
+Snyk Code
+https://tryhackme.com/room/snykcode
+
+How many dependencies do we have for this new feature?
+3
+
+How many vulnerabilities are flagged on the search-feature.js file?
+4
+
+How many high-severity vulnerabilities are flagged on the search-feature.js file?
+2
+
+What are the two medium-severity vulnerabilities flagged on the search-feature.js file? (in alphabetical order)
+Cross-Site Request Forgery, Information Exposure
+
+What is the CWE for Cross-site Scripting?
+CWE-79
+
+What is the CWE for SQL injection?
+CWE-89
+
+What is the unsanitised user input in the chat-controller.js file?
+searchTerm
+
+What is the new vulnerability introduced with the XSS fix?
+Allocation of Resources Without Limits or Throttling
+
+Which Express method is used to fix the XSS vulnerability in the code snippet?
+res.render
+
+What is the updated code in the code snippet using to fix the SQL injection?
+parameterised queries
+
+Establishing sensible alert thresholds in continuous monitoring practices involves considering the severity, frequency, and rate of change of vulnerabilities. (y/n)
+y
+
+Which OWASP framework serves as a guide to strengthen the relationship between development teams and information security teams?
+OWASP security shampion playbook

@@ -1,0 +1,23 @@
+TheHive Project
+https://tryhackme.com/room/thehiveproject
+
+Which open-source platform supports the analysis of observables within TheHive?
+Cortex
+
+Which pre-configured account cannot manage any cases?
+Admin
+
+Which permission allows a user to create, update or delete observables?
+manageObservable
+
+Which permission allows a user to execute actions?
+manageAction
+
+Where are the TTPs imported from?
+MITRE ATT&CK
+
+According to the Framework, what type of Detection "Data source" would our investigation be classified under?
+Network Traffic
+
+Upload the pcap file as an observable. What is the flag obtained from https://MACHINE_IP//files/flag.html
+THM{FILES_ARE_OBSERVABLES}

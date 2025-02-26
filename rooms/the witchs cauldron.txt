@@ -1,0 +1,8 @@
+The Witch's Cauldron
+https://tryhackme.com/room/cauldron
+
+What is the flag that is returned after completing The Witch's Cauldron?
+THM{y0u_br3w3d_7h3_53cr37}
+
+What is the flag that is returned after decrypting encrypted_spell.enc?
+THM{525403e42fbda51dfd0572025d78062f}

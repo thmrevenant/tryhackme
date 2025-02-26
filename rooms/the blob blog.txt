@@ -1,0 +1,8 @@
+The Blob Blog
+https://tryhackme.com/room/theblobblog
+
+User Flag
+THM{C0NGR4t$_g3++ing_this_fur}
+
+Root Flag
+THM{G00D_J0B_G3++1NG+H3R3!}

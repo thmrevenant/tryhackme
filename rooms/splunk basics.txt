@@ -1,0 +1,23 @@
+Splunk: Basics
+https://tryhackme.com/room/splunk101
+
+Which component is used to collect and send data over the Splunk instance?
+Forwarder
+
+In the Add Data tab, which option is used to collect data from files and ports?
+Monitor
+
+Upload the data attached to this task and create an index "VPN_Logs". How many events are present in the log file?
+2862
+
+How many log events by the user Maleena are captured?
+60
+
+What is the name associated with IP 107.14.182.38?
+Smith
+
+What is the number of events that originated from all countries except France?
+2814
+
+How many VPN Events were observed by the IP 107.3.206.58?
+14

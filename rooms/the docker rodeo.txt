@@ -1,0 +1,32 @@
+The Docker Rodeo
+https://tryhackme.com/room/dockerrodeo
+
+Does Docker run on a Hypervisor? (Yay/Nay)
+Nay
+
+What is the port number of the 2nd Docker registry?
+7000
+
+What is the name of the repository within this registry?
+securesolutions/webserver
+
+What is the name of the tag that has been published?
+production
+
+What is the Username in the database configuration?
+admin
+
+What is the Password in the database configuration?
+production_admin
+
+What is the "IMAGE_ID" for the "challenge" Docker image that you just downloaded?
+2a0a63ea5d88
+
+Using Dive, how many "Layers" are there in this image?
+7
+
+What user is successfully added?
+uogctf
+
+Contents of "flag.txt" from the host operating system
+thm{you_escaped_the_chains}

@@ -1,0 +1,8 @@
+Takedown
+https://tryhackme.com/room/takedown
+
+Enter the value of user.txt
+THM{c2_servers_have_vulnerabilities_t00}
+
+Enter the value of root.txt
+THM{th3_r00t_of_the_pr0blem}

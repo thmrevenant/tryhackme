@@ -1,0 +1,59 @@
+SSDLC
+https://tryhackme.com/room/securesdlc
+
+How much more does it cost to identify vulnerabilities during the testing phase?
+15
+
+What should you understand before implementing Secure SDLC processes?
+Security Posture
+
+During which stages should you perform a Risk Assessment?
+Planning and Requirements
+
+What should be carried out during the design phase?
+Threat Modelling
+
+What is a formula to assign a Qualitative Risk level?
+Severity x Likelihood
+
+Which type of Risk Assessment assigns numerical values to determine risk?
+Quantitative Risk Assessment
+
+What threat modelling methodology assigns a rating system based on risk probability?
+DREAD
+
+What threat modelling methodology is built upon the CIA triad?
+STRIDE
+
+What threat modelling methodology helps align technical requirements with business objectives?
+PASTA
+
+Is it recommended to use SAST analysis at the beginning of the SDLC? (y/n)
+y
+
+Which type of code analysis uses the black-box method?
+DAST
+
+Which type of code analysis uses the white-box method?
+SAST
+
+Which form of assessment is more budget-friendly and takes less time?
+Vulnerability Assessment
+
+Which type of assessment identifies vulnerabilities and attempts to exploit them?
+Penetration Testing
+
+When do you typically carry out Vulnerability Assessments or Pentests?
+Operations & Maintenance
+
+What methodology follows a set of mandatory procedures embedded in the SDLC?
+Microsoft SDL
+
+What Maturity Model helps you measure tailored risks facing your organisation?
+SAMM
+
+What maturity model acts as a measuring stick to determine your security posture?
+BSIMM
+
+What is the flag?
+THM{D0-A-Barr3l-R011}

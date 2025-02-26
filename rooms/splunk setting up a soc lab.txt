@@ -1,0 +1,44 @@
+Splunk: Setting up a SOC Lab
+https://tryhackme.com/room/splunklab
+
+What is the default port for Splunk?
+8000
+
+In Splunk, what is the command to search for the term coffely in the logs?
+./bin/splunk search coffely
+
+What is the default port, on which Splunk Forwarder runs on?
+8089
+
+Follow the same steps and ingest /var/log/auth.log file into Splunk index Linux_logs. What is the value in the sourcetype field?
+syslog
+
+Create a new user named analyst using the command adduser analyst. Once created, look at the events generated in Splunk related to the user creation activity. How many events are returned as a result of user creation?
+6
+
+What is the path of the group the user is added after creation?
+/etc/group
+
+What is the default port Splunk runs on?
+8000
+
+Click on the Add Data tab; how many methods are available for data ingestion?
+3
+
+Click on the Monitor option; what is the first option shown in the monitoring list?
+Local Event Logs
+
+What is the full path in the C:\Program Files where Splunk forwarder is installed?
+C:\Program Files\SplunkUniversalForwarder
+
+What is the default port on which Splunk configures the forwarder?
+9997
+
+While selecting Local Event Logs to monitor, how many Event Logs are available to select from the list to monitor?
+5
+
+Search for the events with EventCode=4624. What is the value of the field Message?
+An account was successfully logged on.
+
+In the lab, visit http://coffely.thm/secret-flag.html; it will display the history logs of the orders made so far. Find the flag in one of the logs. 
+{COffely_Is_Best_iN_TOwn}

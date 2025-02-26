@@ -1,0 +1,50 @@
+Threat Hunting: Introduction
+https://tryhackme.com/room/introductiontothreathunting
+
+What do you call the approach to finding cyber security threats where there's an active effort done to look for signs of malicious activity?
+Threat hunting
+
+In this task, what are we contrasting threat hunting with?
+Incident response
+
+Incident response is innately reactive. What is done first thing when an initial notification or alert is received? (It is _______.)
+Triaged
+
+Threat hunting is innately proactive. What is it guided by?
+Threat Intelligence
+
+Threat Hunting and Incident Response are two different approaches that aim to ensure one specific goal is met. It is to strengthen the organisation's what?
+Security posture
+
+What is the most obvious and straightforward example of a Unique Threat Intelligence?
+Indicators of Compromise
+
+Malwares are constantly being used in the toolkits of threat actors. What is the live malware repository that we touched upon above?
+theZoo
+
+What example of Threat Intelligence blends well with environmental noise?
+Attack Residues
+
+What should the organisation be extra vigilant in monitoring for announcements of?
+Zero-day vulnerabilities
+
+How is it done most effectively?
+Attack Signatures and IOCs
+
+Which tactic has the most techniques highlighted?
+Discovery
+
+Which technique does the three threats have in common?
+Exploitation of Remote Services
+
+What technique does WannaCry and Conficker have in common?
+Inhibit System Recovery
+
+What’s the score of techniques that Stuxnet and Conficker have in common?
+6
+
+What is the primary goal of Threat Hunting?
+Minimise a threat actor's dwell time
+
+Upon profiling threats through our Threat Hunting efforts, what should these profiles be translated to?
+Detection mechanisms

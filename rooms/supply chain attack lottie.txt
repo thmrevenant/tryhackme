@@ -1,0 +1,20 @@
+Supply Chain Attack: Lottie
+https://tryhackme.com/room/supplychainattacks
+
+Which of the following Lottie Player's versions were vulnerable? Enter the correct option only.
+a
+
+What is the name of the C2 server used for registration/authentication? Use the Redacted/defanged version.
+castleservices01[.]com
+
+Per the above code, what updated package version does the attacker push on npm.thm?
+1.1.0
+
+What is the port number on which the attacker will receive data?
+9090
+
+What is the name of the form validator JS file being fetched from the CDN?
+form-validator.bundle.js
+
+What is the flag value after uploading the package v1.1.0? Visit the flag validator page to get the flag.
+THM{MALICIOUS_PACKAGE_UPLOADED007}

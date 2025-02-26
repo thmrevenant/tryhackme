@@ -1,0 +1,86 @@
+Splunk 2
+https://tryhackme.com/room/splunk2gcd5
+
+Amber Turing was hoping for Frothly to be acquired by a potential competitor which fell through, but visited their website to find contact information for their executive team. What is the website domain that she visited?
+www.berkbeer.com
+
+Amber found the executive contact information and sent him an email. What image file displayed the executive's contact information? Answer example: /path/image.ext
+/images/ceoberk.png
+
+What is the CEO's name? Provide the first and last name.
+Martin Berk
+
+What is the CEO's email address?
+mberk@berkbeer.com
+
+After the initial contact with the CEO, Amber contacted another employee at this competitor. What is that employee's email address?
+hbernhard@berkbeer.com
+
+What is the name of the file attachment that Amber sent to a contact at the competitor?
+Saccharomyces_cerevisiae_patent.docx
+
+What is Amber's personal email address?
+ambersthebest@yeastiebeastie.com
+
+What version of TOR Browser did Amber install to obfuscate her web browsing? Answer guidance: Numeric with one or more delimiter.
+7.0.4
+
+What is the public IPv4 address of the server running www.brewertalk.com?
+52.42.208.228
+
+Provide the IP address of the system used to run a web vulnerability scan against www.brewertalk.com.
+45.77.65.211
+
+The IP address from Q#2 is also being used by a likely different piece of software to attack a URI path. What is the URI path? Answer guidance: Include the leading forward slash in your answer. Do not include the query string or other parts of the URI. Answer example: /phpinfo.php
+/member.php
+
+What SQL function is being abused on the URI path from the previous question?
+updatexml
+
+What was the value of the cookie that Kevin's browser transmitted to the malicious URL as part of an XSS attack? Answer guidance: All digits. Not the cookie name or symbols like an equal sign.
+1502408189
+
+What brewertalk.com username was maliciously created by a spear phishing attack?
+kIagerfield
+
+Mallory's critical PowerPoint presentation on her MacBook gets encrypted by ransomware on August 18. What is the name of this file after it was encrypted?
+Frothly_marketing_campaign_Q317.pptx.crypt
+
+There is a Games of Thrones movie file that was encrypted as well. What season and episode is it? 
+S07E02
+
+Kevin Lagerfield used a USB drive to move malware onto kutekitten, Mallory's personal MacBook. She ran the malware, which obfuscates itself during execution. Provide the vendor name of the USB drive Kevin likely used. Answer Guidance: Use time correlation to identify the USB drive.
+Alcor Micro Corp.
+
+What programming language is at least part of the malware from the question above written in?
+Perl
+
+When was this malware first seen in the wild? Answer Guidance: YYYY-MM-DD
+2017-01-17
+
+The malware infecting kutekitten uses dynamic DNS destinations to communicate with two C&C servers shortly after installation. What is the fully-qualified domain name (FQDN) of the first (alphabetically) of these destinations?
+eidk.duckdns.org
+
+From the question above, what is the fully-qualified domain name (FQDN) of the second (alphabetically) contacted C&C server?
+eidk.hopto.org
+
+A Federal law enforcement agency reports that Taedonggang often spear phishes its victims with zip files that have to be opened with a password. What is the name of the attachment sent to Frothly by a malicious Taedonggang actor?
+invoice.zip
+
+What is the password to open the zip file?
+912345678
+
+The Taedonggang APT group encrypts most of their traffic with SSL. What is the "SSL Issuer" that they use for the majority of their traffic? Answer guidance: Copy the field exactly, including spaces.
+C = US
+
+What unusual file (for an American company) does winsys32.dll cause to be downloaded into the Frothly environment?
+나는_데이비드를_사랑한다.hwp
+
+What is the first and last name of the poor innocent sap who was implicated in the metadata of the file that executed PowerShell Empire on the first victim's workstation? Answer example: John Smith
+Ryan Kovar
+
+Within the document, what kind of points is mentioned if you found the text?
+CyberEastEgg
+
+To maintain persistence in the Frothly network, Taedonggang APT configured several Scheduled Tasks to beacon back to their C2 server. What single webpage is most contacted by these Scheduled Tasks? Answer example: index.php or images.html
+process.php

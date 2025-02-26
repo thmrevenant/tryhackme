@@ -1,0 +1,44 @@
+SSRF
+https://tryhackme.com/room/ssrfhr
+
+What is the average weighted impact for the SSRF vulnerability as per the OWASP Top 10?
+6.72
+
+What is the username for the HRMS login panel?
+hrmsadmin
+
+What is the password for the HRMS login panel?
+hrmsadmin@123
+
+What is the admin URL as per the config file?
+http://192.168.2.10/admin.php
+
+What is the flag value after successfully logging in to the HRMS web panel?
+THM_{1NiT_S$rF}
+
+Is accessing non-routable addresses possible if a server is vulnerable to SSRF (yea/nay)?
+yea
+
+What is the flag value after accessing the admin panel?
+THM_{B@$ic_s$rF}
+
+Does Out-of-band SSRF always include a technique in which an attacker always receives direct responses from the server (yea/nay)?
+nay
+
+What is the value for Virtual Directory Support on the PHP server per the logged data?
+disabled
+
+What is the value of the PHP Extension Build on the server?
+API20190902,NTS
+
+Which type of SSRF doesn't give us a direct response or feedback?
+Blind
+
+What is the flag value after loading a big image exceeding 100KB?
+THM_{$$rF_Cr@$h3D}
+
+Which of the following is the suggested approach while handling trusted URLs? Write the correct option only.
+b
+
+Since SSRF mainly exploits server-side requests, is it optional to sanitise the input URLs or parameters (yea/nay)?
+nay

@@ -1,0 +1,5 @@
+The Impossible Challenge
+https://tryhackme.com/room/theimpossiblechallenge
+
+Flag is in the format THM{}
+THM{Zero_Width_Characters_EZPZ}

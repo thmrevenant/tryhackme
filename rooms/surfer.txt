@@ -1,0 +1,5 @@
+Surfer
+https://tryhackme.com/room/surfer
+
+Uncover the flag on the hidden application page.
+flag{6255c55660e292cf0116c053c9937810}

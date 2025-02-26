@@ -1,0 +1,26 @@
+Tony the Tiger
+https://tryhackme.com/room/tonythetiger
+
+What is a great IRL example of an "Object"?
+lamp
+
+What is the acronym of a possible type of attack resulting from a "serialisation" attack?
+dos
+
+What lower-level format does data within "Objects" get converted into?
+byte streams
+
+What service is running on port "8080"
+Apache Tomcat/Coyote JSP engine 1.1
+
+What is the name of the front-end application running on "8080"?
+JBoss
+
+This flag will have the formatting of "THM{}"
+THM{Tony_Sure_Loves_Frosted_Flakes}
+
+This flag has the formatting of "THM{}"
+THM{50c10ad46b5793704601ecdad865eb06}
+
+The final flag does not have the formatting of "THM{}"
+zxcvbnm123456789

@@ -1,0 +1,21 @@
+SOAR
+https://tryhackme.com/room/soar
+
+Under which SOC generation did SIEM tools emerge?
+Second
+
+How would you describe the experience of having an overload of security events being triggered within a SOC?
+Alert Fatigue
+
+The act of connecting and integrating security tools and systems into seamless workflows is known as?
+Security Orchestration
+
+What do we call a predefined list of actions to handle an incident?
+Playbook
+
+Are manual analyses vital within a SOAR workflow? yay or nay?
+yay
+
+What is the flag received?
+THM{AUT0M@T1N6_S3CUR1T¥}
+

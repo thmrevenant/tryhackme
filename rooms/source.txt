@@ -1,0 +1,8 @@
+Source
+https://tryhackme.com/room/source
+
+user.txt
+THM{SUPPLY_CHAIN_COMPROMISE}
+
+root.txt
+THM{UPDATE_YOUR_INSTALL}

@@ -1,0 +1,35 @@
+Traverse
+https://tryhackme.com/room/traverse
+
+What type of encoding is used by the hackers to obfuscate the JavaScript file?
+HEX
+
+What is the flag value after deobfuscating the file?
+DIRECTORY LISTING IS THE ONLY WAY
+
+Logging is an important aspect. What is the name of the file containing email dumps?
+email_dump.txt
+
+The logs folder contains email logs and has a message for the software team lead. What is the name of the directory that Bob has created?
+planning
+
+What is the key file for opening the directory that Bob has created for Mark?
+THM{100100111}
+
+What is the email address for ID 5 using the leaked API endpoint?
+john@traverse.com
+
+What is the ID for the user with admin privileges?
+3
+
+What is the endpoint for logging in as the admin? Mention the last endpoint instead of the URL. For example, if the answer is URL is tryhackme.com/admin - Just write /admin.
+/realadmin
+
+The attacker uploaded a web shell and renamed a file used for managing the server. Can you find the name of the web shell that the attacker has uploaded?
+thm_shell.php
+
+What is the name of the file renamed by the attacker for managing the web server?
+renamed_file_manager.php
+
+Can you use the file manager to restore the original website by removing the "FINALLY HACKED" message? What is the flag value after restoring the main website?
+THM{WEBSITE_RESTORED}

@@ -1,0 +1,11 @@
+TryHack3M: TriCipher Summit
+https://tryhackme.com/room/tryhack3mencryptionchallenge
+
+What is Flag 1?
+THM{the.quieter.you.become.the.more.you.will.hear}
+
+What is Flag 2?
+THM{Custom.crypto.can't.stop.you}
+
+What is Flag 3?
+THM{emptying_the_deposit_3_million}

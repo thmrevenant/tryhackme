@@ -1,0 +1,35 @@
+Snyk Open Source
+https://tryhackme.com/room/snykopensource
+
+Which JSON-formatted manifest file serves as the central hub for Node.js projects, listing metadata, scripts, and dependency declarations?
+package.json
+
+How many dependencies do we have for this new feature?
+5
+
+Which term describes indirect package dependencies formed through shared prerequisites, possibly concealing vulnerabilities and demanding cautious assessment?
+transitive dependencies
+
+What single authentication mechanism allows users to transition smoothly amongst various linked platforms and services?
+single sign-on
+
+What is the version of the vulnerable lodash package?
+2.4.2
+
+Which vulnerability allows an attacker to modify an Object?
+prototype pollution
+
+What does CVSS stand for?
+common vulnerability scoring system
+
+Should the development team bulk fix all the vulnerabilities found in this new feature? (y/n)
+n
+
+How does CircleCI help streamline pipeline configuration and standardisation?
+orb
+
+What file defines the GitHub Actions workflow configuration that enables automation and customised sequences for building, testing, and deploying?
+yaml
+
+Which collaborative DevOps practice combines real-time communication channels, automation, and operational agility?
+chatops

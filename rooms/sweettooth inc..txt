@@ -1,0 +1,26 @@
+Sweettooth Inc.
+https://tryhackme.com/room/sweettoothinc
+
+Do a TCP portscan. What is the name of the database software running on one of these ports?
+influxdb
+
+What is the database user you find?
+o5yY6yya
+
+What was the temperature of the water tank at 1621346400 (UTC Unix Timestamp)?
+22.5
+
+What is the highest rpm the motor of the mixer reached?
+4875
+
+What username do you find in one of the databases?
+uzJk6Ry98d8C
+
+user.txt
+THM{V4w4FhBmtp4RFDti}
+
+/root/root.txt
+THM{5qsDivHdCi2oabwp}
+
+The second /root/root.txt
+THM{nY2ZahyFABAmjrnx}

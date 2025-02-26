@@ -1,0 +1,44 @@
+SQLMAP
+https://tryhackme.com/room/sqlmap
+
+Which flag or option will allow you to add a URL to the command?
+-u
+
+Which flag would you use to add data to a POST request?
+--data
+
+There are two parameters: username and password. How would you tell sqlmap to use the username parameter for the attack?
+-p username
+
+Which flag would you use to show the advanced help menu?
+-hh
+
+Which flag allows you to retrieve everything?
+-a
+
+Which flag allows you to select the database name?
+-D
+
+Which flag would you use to retrieve database tables?
+--tables
+
+Which flag allows you to retrieve a table’s columns?
+--columns
+
+Which flag allows you to dump all the database table entries?
+--dump-all
+
+Which flag will give you an interactive SQL Shell prompt?
+--sql-shell
+
+You know the current db type is 'MYSQL'. Which flag allows you to enumerate only MySQL databases?
+--dbms=mysql
+
+What is the name of the interesting directory ?
+blood
+
+Who is the current db user? 
+root
+
+What is the final flag? 
+thm{sqlm@p_is_L0ve}

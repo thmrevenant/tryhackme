@@ -1,0 +1,32 @@
+The Lay of the Land
+https://tryhackme.com/room/thelayoftheland
+
+Before going any further, ensure the attached machine is deployed and try what we discussed. Is the attached machine part of the AD environment? (Y|N)
+Y
+
+If it is part of an AD environment, what is the domain name of the AD?
+thmredteam.com
+
+Use the Get-ADUser -Filter * -SearchBase command to list the available user accounts within THM OU in the thmredteam.com domain. How many users are available?
+6
+
+Once you run the previous command, what is the UserPrincipalName (email) of the admin account?
+thmadmin@thmredteam.com
+
+Enumerate the attached Windows machine and check whether the host-based firewall is enabled or not! (Y|N)
+N
+
+Using PowerShell cmdlets such Get-MpThreat can provide us with threats details that have been detected using MS Defender. Run it and answer the following: What is the file name that causes this alert to record?
+PowerView.ps1
+
+Enumerate the firewall rules of the attached Windows machine. What is the port that is allowed under the THM-Connection rule?
+17337
+
+Finally, we can see it is listening on port 8080. Now try to apply what we discussed and find the port number for THM Service. What is the port number?
+13337
+
+Visit the localhost on the port you found in Question #1. What is the flag?
+THM{S3rv1cs_1s_3numerat37ed}
+
+Now enumerate the domain name of the domain controller, thmredteam.com, using the nslookup.exe, and perform a DNS zone transfer. What is the flag for one of the records?
+THM{DNS-15-Enumerated!}

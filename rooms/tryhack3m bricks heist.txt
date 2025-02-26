@@ -1,0 +1,20 @@
+TryHack3M: Bricks Heist
+https://tryhackme.com/room/tryhack3mbricksheist
+
+What is the content of the hidden .txt file in the web folder?
+THM{fl46_650c844110baced87e1606453b93f22a}
+
+What is the name of the suspicious process?
+nm-inet-dialog
+
+What is the service name affiliated with the suspicious process?
+ubuntu.service
+
+What is the log file name of the miner instance?
+inet.conf
+
+What is the wallet address of the miner instance?
+bc1qyk79fcp9hd5kreprce89tkh4wrtl8avt4l67qa
+
+The wallet address used has been involved in transactions between wallets belonging to which threat group?
+LockBit

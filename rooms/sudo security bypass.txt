@@ -1,0 +1,8 @@
+Sudo Security Bypass
+https://tryhackme.com/room/sudovulnsbypass
+
+What command are you allowed to run with sudo?
+/bin/bash
+
+What is the flag in /root/root.txt?
+THM{l33t_s3cur1ty_bypass}

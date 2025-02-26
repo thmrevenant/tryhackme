@@ -1,0 +1,8 @@
+Stealth
+https://tryhackme.com/room/stealth
+
+What is the content of the user level flag?
+THM{1010_EVASION_LOCAL_USER}
+
+What is the content of the root level flag?
+THM{101011_ADMIN_ACCESS}

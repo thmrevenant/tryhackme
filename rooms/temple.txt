@@ -1,0 +1,8 @@
+Temple
+https://tryhackme.com/room/temple
+
+Find flag1.txt
+7362bee1e78243f4811f26565137d5e20cbd9af0
+
+Find flag2.txt
+f620630155081293669dbb7949f975fa9386f1cd

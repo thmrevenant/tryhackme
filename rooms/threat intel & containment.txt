@@ -1,0 +1,26 @@
+Threat Intel & Containment
+https://tryhackme.com/room/intelcreationandcontainment
+
+What does the acronym IDS mean?
+Intrusion Detection System
+
+What is the name of the containment strategy used when the responders closely monitor the adversary?
+Controlled Isolation
+
+What containment strategy is considered to be the most aggressive?
+Entire Isolation
+
+What is the term for a set of characters that can be used to give an attribution to a file?
+Hash
+
+What is the name of the classic arcade game that has been referenced in this task?
+Whack-a-mole
+
+What is the IP address of the adversary?
+3.250.38.141
+
+What is the name of the file that gets downloaded from the adversary's infrastructure?
+dropper.exe
+
+What is the SHA-256 hash value of the value of the executable on the Desktop?
+463F1B1E11D4CA4C7A0C9AAC540513FF7E681D9E5144BDA2AF24B86E438D3F4F

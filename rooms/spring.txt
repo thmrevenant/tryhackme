@@ -1,0 +1,11 @@
+Spring
+https://tryhackme.com/room/spring
+
+What's the flag in foothold.txt?
+THM{dont_expose_.git_to_internet}
+
+What's the flag in user.txt?
+THM{this_is_still_password_reuse}
+
+What's the flag in root.txt?
+THM{sshd_does_not_mind_the_junk}

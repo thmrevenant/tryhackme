@@ -1,0 +1,32 @@
+Threat Hunting: Endgame
+https://tryhackme.com/room/threathuntingendgame
+
+What is the term used for the adversary lifetime in the network?
+Dwell Time
+
+What is the Process ID of the process that downloads the malicious script?
+3388
+
+What is the logged mail account?
+hunted-victim2323@gmail.com
+
+What is the total number of sent ICMP packets?
+21
+
+How many bytes (chunk) is the amount of data carried in each packet?
+15
+
+What is the name of the exfiltrated document?
+chrome_local_profile.db
+
+What is the server's IP address (defanged) where the exfiltrated document is sent?
+10[.]10[.]87[.]116
+
+What is the name of the system executable used to remove shadow copies?
+vssadmin.exe
+
+What is the main shell image that started the attack chain?
+powershell.exe
+
+What is the process ID that started the attack chain?
+6512

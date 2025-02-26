@@ -1,0 +1,5 @@
+TakeOver
+https://tryhackme.com/room/takeover
+
+What's the value of the flag?
+flag{beea0d6edfcee06a59b83fb50ae81b2f}

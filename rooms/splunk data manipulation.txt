@@ -1,0 +1,50 @@
+Splunk: Data Manipulation
+https://tryhackme.com/room/splunkdatamanipulation
+
+How many Python scripts are present in the ~/Downloads/scripts directory?
+3
+
+Which stanza is used in the configuration files to break the events after the provided pattern?
+BREAK_ONLY_AFTER
+
+Which stanza is used to specify the pattern for the line break within events?
+LINE_BREAKER
+
+Which configuration file is used to define transformations and enrichments on indexed fields?
+transforms.conf
+
+Which configuration file is used to define inputs and ways to collect data from different sources?
+inputs.conf
+
+If you create an App on Splunk named THM, what will be its full path on this machine?
+/opt/splunk/etc/apps/THM
+
+Which configuration file is used to specify parsing rules?
+props.conf
+
+What regex is used in the above case to break the Events?
+(DISCONNECT|CONNECT)
+
+Which stanza is used in the configuration to force Splunk to break the event after the specified pattern?
+MUST_BREAK_AFTER
+
+If we want to disable line merging, what will be the value of the stanza SHOULD_LINEMERGE?
+false
+
+Which stanza is used to break the event boundary before a pattern is specified in the above case?
+BREAK_ONLY_BEFORE
+
+Which regex pattern is used to identify the event boundaries in the above case?
+\[Authentication\]
+
+Which stanza is used to break the event after the specified regex pattern?
+MUST_BREAK_AFTER
+
+What is the pattern of using SEDCMD in the props.conf to mask or replace the sensitive fields?
+s/oldValue/newValue/g
+
+Extract the Username field from the sourcetype purchase_logs we worked on earlier. How many Users were returned in the Username field after extraction?
+14
+
+Extract Credit-Card values from the sourcetype purchase_logs, how many unique credit card numbers are returned against the Credit-Card field?
+16

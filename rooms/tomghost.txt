@@ -1,0 +1,8 @@
+tomghost
+https://tryhackme.com/room/tomghost
+
+Compromise this machine and obtain user.txt
+THM{GhostCat_1s_so_cr4sy}
+
+Escalate privileges and obtain root.txt
+THM{Z1P_1S_FAKE}

@@ -1,0 +1,29 @@
+Tokyo Ghoul
+https://tryhackme.com/room/tokyoghoul666
+
+How many ports are open ? 
+3
+
+What is the OS used ?
+ubuntu
+
+Did you find the note that the others ghouls gave you? where did you find it ? 
+jasonroom.html
+
+What is the key for Rize executable?
+kamishiro
+
+What the message mean did you understand it ? what it says?
+d1r3c70ry_center
+
+What is rize username ?
+kamishiro
+
+What is rize password ?
+password123
+
+user.txt
+e6215e25c0783eb4279693d9f073594a
+
+root.txt
+9d790bb87898ca66f724ab05a9e6000b

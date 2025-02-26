@@ -1,0 +1,8 @@
+TryHack3M: Burg3r Bytes
+https://tryhackme.com/room/burg3rbytes
+
+What is the web app flag?
+THM{TryH4ck3M-APP-H4CK}
+
+What is the host flag?
+THM{Try4ck3M-TFTP-FUN}

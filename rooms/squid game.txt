@@ -1,0 +1,125 @@
+Squid Game
+https://tryhackme.com/room/squidgameroom
+
+Accept the invitation? (Yes/No)
+Yes
+
+What is the malicious C2 domain you found in the maldoc where an executable download was attempted?
+fpetraardella.band/xap_102b-AZ1/704e.php?l=litten4.gas
+
+What executable file is the maldoc trying to drop?
+QdZGP.exe
+
+In what folder is it dropping the malicious executable? (hint: %Folder%)
+%ProgramData%
+
+Provide the name of the COM object the maldoc is trying to access.
+ShellBrowserWindow
+
+Include the malicious IP and the php extension found in the maldoc. (Format: IP/name.php)
+176.32.35.16/704e.php
+
+Find the phone number in the maldoc. (Answer format: xxx-xxx-xxxx)
+213-446-1757
+
+Doing some static analysis, provide the type of maldoc this is under the keyword “AutoOpen”.
+AutoExec
+
+Provide the subject for this maldoc. (make sure to remove the extra whitespace)
+West Virginia Samanta
+
+Provide the time when this document was last saved. (Format: YEAR-MONTH-DAY XX:XX:XX)
+2019-02-07 23:45:30
+
+Provide the stream number that contains a macro.
+8
+
+Provide the name of the stream that contains a macro.
+ThisDocument
+
+Provide the streams (numbers) that contain macros.
+12, 13, 14, 16
+
+Provide the size (bytes) of the compiled code for the second stream that contains a macro.
+13867
+
+Provide the largest number of bytes found while analyzing the streams.
+63641
+
+Find the command located in the ‘fun’ field ( make sure to reverse the string).
+cmd /k cscript.exe C:\ProgramData\pin.vbs
+
+Provide the first domain found in the maldoc.
+priyacareers.com/u9hDQN9Yy7g/pt.html
+
+Provide the second domain found in the maldoc.
+perfectdemos.com/Gv1iNAuMKZ/pt.html
+
+Provide the name of the first malicious DLL it retrieves from the C2 server.
+www1.dll
+
+How many DLLs does the maldoc retrieve from the domains?
+5
+
+Provide the path of where the malicious DLLs are getting dropped onto?
+C:\ProgramData
+
+What program is it using to run DLLs?
+rundll32.exe
+
+How many seconds does the function in the maldoc sleep for to fully execute the malicious DLLs?
+15
+
+Under what stream did the main malicious script use to retrieve DLLs from the C2 domains? (Provide the name of the stream).
+Macros/Form/o
+
+Provide the executable name being downloaded.
+1.exe
+
+What program is used to run the executable?
+Certutil
+
+Provide the malicious URI included in the maldoc that was used to download the binary (without http/https).
+8cfayv.com/bolb/jaent.php?l=liut6.cab
+
+What folder does the binary gets dropped in?
+ProgramData
+
+Which stream executes the binary that was downloaded?
+A3
+
+Provide the first decoded string found in this maldoc.
+MSXML2.XMLHTTP
+
+Provide the name of the binary being dropped.
+DYIATHUQLCW.exe 
+
+Provide the folder where the binary is being dropped to.
+TEMP
+
+Provide the name of the second binary.
+bin.exe
+
+Provide the full URI from which the second binary was downloaded (exclude http/https).
+gv-roth.de/js/bin.exe
+
+What is the caption you found in the maldoc?
+CobaltStrikeIsEverywhere
+
+What is the XOR decimal value found in the decoded-base64 script?
+35
+
+Provide the C2 IP address of the Cobalt Strike server. 
+176.103.56.89
+
+Provide the full user-agent found.
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727)
+
+Provide the path value for the Cobalt Strike shellcode.
+/SjMR
+
+Provide the port number of the Cobalt Strike C2 Server.
+8080
+
+Provide the first two APIs found.
+LoadLibraryA, InternetOpenA

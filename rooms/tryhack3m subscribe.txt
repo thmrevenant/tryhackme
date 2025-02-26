@@ -1,0 +1,32 @@
+TryHack3M: Subscribe
+https://tryhackme.com/room/subscribe
+
+What is the invite code for the hackme.thm website?
+VkXgo:Invited30MnUsers
+
+What is the password for the user guest@hackme.thm?
+wedidit1010
+
+What is the secure token for accessing the admin panel?
+ACC#SS_TO_ADM1N_P@NEL
+
+What is the flag value after enabling the registration feature and getting 3M subscribers on the platform?
+TryHack3M{3MSUBSCRIBERS}
+
+How many logs are ingested in the Splunk instance?
+10530
+
+What is the web hacking tool used by the attacker to exploit the vulnerability on the website?
+sqlmap
+
+How many total events were observed related to the attack?
+158
+
+What is the observed IP address of the attacker?
+83.45.212.17
+
+How many events were observed from the attacker's IP?
+184
+
+What is the table used by the attacker to execute the attack?
+TryHack3M_users

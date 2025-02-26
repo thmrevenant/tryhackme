@@ -1,0 +1,17 @@
+Traffic Analysis Essentials
+https://tryhackme.com/room/trafficanalysisessentials
+
+Which Security Control Level covers contain creating security policies?
+Administrative
+
+Which Access Control element works with data metrics to manage data flow?
+Load Balancing
+
+Which technology helps correlate different tool outputs and data sources?
+SOAR
+
+What is the flag?
+THM{PACKET_MASTER}
+
+What is the flag?
+THM{DETECTION_MASTER}

@@ -1,0 +1,5 @@
+Sudo Buffer Overflow
+https://tryhackme.com/room/sudovulnsbof
+
+What's the flag in /root/root.txt?
+THM{buff3r_0v3rfl0w_rul3s}

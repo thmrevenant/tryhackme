@@ -1,0 +1,8 @@
+Team
+https://tryhackme.com/room/teamcw
+
+user.txt
+THM{6Y0TXHz7c2d}
+
+root.txt
+THM{fhqbznavfonq}

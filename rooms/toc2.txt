@@ -1,0 +1,8 @@
+toc2
+https://tryhackme.com/room/toc2
+
+Find and retrieve the user.txt flag
+thm{63616d70657276616e206c696665}
+
+Escalate your privileges and acquire root.txt
+thm{7265616c6c696665}

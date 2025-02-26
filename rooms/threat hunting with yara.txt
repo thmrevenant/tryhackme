@@ -1,0 +1,48 @@
+Threat Hunting With YARA
+https://tryhackme.com/room/threathuntingwithyara
+
+What technique does ID T1134 describe?
+Access Token Manipulation
+
+What does the detection rule M_APT_Dropper_Rootsaw_Obfuscated detect?
+Detects obfuscated ROOTSAW payloads
+
+Which threat hunting style is proactive and uses indicators of attack and TTPs?
+structured hunting
+
+In which phase of the threat hunting process, tools like YARA or Volatility are used?
+Investigation
+
+You have received a threat intelligence report consisting only of Indicators of Compromise. What threat hunting style do you recommend to use?
+unstructured hunting
+
+Apart from the rule name, which other section is also required in a YARA rule?
+condition
+
+What modifier should be used if you want to search for 2-byte encoded characters?
+wide
+
+What condition should be used if you want to exclude the defined strings from the matching process?
+none of them
+
+What option do you need to pass to ensure you scan all directories recursively?
+-r
+
+What does DAIR stand for?
+Dynamic Approach to Incident Response
+
+What is the flag found in exercise 1?
+THM{Threathuntingisawesome}
+
+What is the filename found in exercise 2? (Format: filename.extension)
+file10.txt
+
+What is the filename found in exercise 3? (Format: filename.extension)
+file13.txt
+
+What was the XOR key used for encryption in exercise 4?
+0x01
+
+What encrypted string did you find in exercise 4?
+UILzGntoeRnlduihofIheedo|
+

@@ -1,0 +1,26 @@
+Steel Mountain
+https://tryhackme.com/room/steelmountain
+
+Who is the employee of the month?
+Bill Harper
+
+Scan the machine with nmap. What is the other port running a web server on?
+8080
+
+Take a look at the other web server. What file server is running?
+Rejetto HTTP File Server
+
+What is the CVE number to exploit this file server?
+2014-6287
+
+Use Metasploit to get an initial shell. What is the user flag?
+b04763b6fcf51fcd7c13abc7db4fd365
+
+Take close attention to the CanRestart option that is set to true. What is the name of the service which shows up as an unquoted service path vulnerability?
+AdvancedSystemCareService9
+
+What is the root flag?
+9af5f314f57607c00fd09803a587db80
+
+What powershell -c command could we run to manually find out the service name?
+powershell -c "Get-Service"

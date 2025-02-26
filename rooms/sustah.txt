@@ -1,0 +1,20 @@
+Sustah
+https://tryhackme.com/room/sustah
+
+What is the number that revealed the path?
+10921
+
+Name the path.
+/YouGotTh3P@th/
+
+What is the name of CMS?
+Mara
+
+What version of the CMS is running?
+7.5
+
+What is the user flag?
+6b18f161b4de63b5f72577c737b7ebc8
+
+What is the root flag?
+afbb1696a893f35984163021d03f6095

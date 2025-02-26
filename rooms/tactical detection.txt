@@ -1,0 +1,50 @@
+Tactical Detection
+https://tryhackme.com/room/tacticaldetection
+
+What did we use to transform IOCs as detection rules in a vendor-agnostic format?
+Sigma
+
+What is the original indicator found by the authors of the documentation? Write it as written in the spreadsheet.
+bad3xe69connection.io
+
+What is the full file path of the malicious file downloaded from the internet?
+C:\Downloads\bad3xe69.exe
+
+In the Sigma Rule baddomains.yml, what is the logsource category used by the author?
+proxy
+
+Upon translating the Follina Sigma Rule, what is the index name that the rule will be using, as shown in the output?
+winlogbeat-*
+
+What is the Alerter subclass, as shown in the output?
+debug
+
+Which part of the ElastAlert output looks exactly like the Elastic Query?
+filter
+
+What is the alert severity, as shown in the output?
+3
+
+What is the dispatch.earliest_time value, as shown in the output?
+-60m@m
+
+What is the source, as shown in the output?
+WinEventLog:Security
+
+What is the "Accesses" value in the log details when you try reading our Secret Document's contents via cmd?
+ReadData (or ListDirectory)
+
+Event ID 4663 is always preceded by?
+4656
+
+What Event ID signifies the closure of an "object"?
+4658
+
+Event ID 4658 helps determine how long a specific object was open. What description field will you check in between events to be able to do so?
+Handle ID
+
+Fill in the Blanks: The Tempest and Follina rooms are examples of leveraging ______ ____ tactics.
+Purple Team
+
+What CVE is the Follina MSDT room about?
+CVE-2022-30190

@@ -1,0 +1,14 @@
+Theseus
+https://tryhackme.com/room/theseus
+
+What is the Minos flag?
+THM{499a89a2a064426921732e7d31bc08a}
+
+What is the Labyrinth flag?
+THM{6154ea526254375613650183962bf431}
+
+What is the Minotaur flag?
+THM{c307b8045208fac06b9faa90e68d2ad4}
+
+What is the Athens flag?
+THM{bb2af471e0aea04e982c2e5d0a6fa404}

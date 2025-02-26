@@ -1,0 +1,35 @@
+TryHack3M: Sch3Ma D3Mon
+https://tryhackme.com/room/sch3mad3mon
+
+What is the suspect’s username?
+lannister
+
+What is the suspect’s password?
+hrpTfL42wMv3
+
+What does RDBMS stand for?
+Relational Database Management System
+
+What does CRUD stand for?
+Create Read Update Delete
+
+What does SQL stand for?
+Structured Query Language
+
+What's the hidden path?
+os_sqli.php
+
+What is the output of pwd when run via an SQL injection attack?
+/var/lib/mysql
+
+What is the malware’s location?
+/home/products/malware/4sale/pal4t1n3/MisterMeist3r/2DC6C0
+
+What programming language was used to develop the malware?
+nim
+
+Reading the source code, what file type is added to the end of encrypted files?
+.boogey
+
+What is the flag that appears after compiling the defanged malware?
+THM{3FDbU2nNy2FW7yMvMoH6WTMMM}

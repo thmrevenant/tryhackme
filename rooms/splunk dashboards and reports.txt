@@ -1,0 +1,26 @@
+Splunk: Dashboards and Reports
+https://tryhackme.com/room/splunkdashboardsandreports
+
+Which search term will show us results from all indices in Splunk?
+index=*
+
+Create a report from the network-server logs host that lists the ports used in network connections and their count. What is the highest number of times any port is used in network connections?
+5
+
+While creating reports, which option do we need to enable to get to choose the time range of the report?
+Time Range Picker
+
+Create a dashboard from the web-server logs that show the status codes in a line chart. Which status code was observed for the least number of times?
+400
+
+What is the name of the traditional Splunk dashboard builder?
+Classic 
+
+What feature can we use to make Splunk take some actions on our behalf?
+Trigger Action
+
+Which alert type will trigger the instant an event occurs?
+Real-time
+
+Which option, when enabled, will only send a single alert in the specified time even if the trigger conditions re-occur?
+Throttle

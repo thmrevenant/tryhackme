@@ -1,0 +1,35 @@
+ToolsRus
+https://tryhackme.com/room/toolsrus
+
+What directory can you find, that begins with a "g"?
+guidelines
+
+Whose name can you find from this directory?
+bob
+
+What directory has basic authentication?
+protected
+
+What is bob's password to the protected part of the website?
+bubbles
+
+What other port that serves a webs service is open on the machine?
+1234
+
+What is the name and version of the software running on the port from question 5?
+Apache Tomcat/7.0.88
+
+How many documentation files did Nikto identify?
+5
+
+What is the server version?
+Apache/2.4.18
+
+What version of Apache-Coyote is this service using?
+1.1
+
+What user did you get a shell as?
+root
+
+What flag is found in the root directory?
+ff1fc4a81affcc7688cf89ae7dc6e0e1

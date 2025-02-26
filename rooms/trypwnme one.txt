@@ -1,0 +1,23 @@
+TryPwnMe One
+https://tryhackme.com/room/trypwnmeone
+
+What is the content of the file flag.txt on the target?
+THM{Oooooooooooooovvvvverrrflloowwwwww}
+
+What is the content of the file flag.txt on the target?
+THM{why_just_the_A_have_all_theFun?}
+
+What is the content of the file flag.txt on the target?
+THM{Tr1Execm3_with_s0m3_sh3llc0de_w00t}
+
+What is the content of the file flag.txt on the target?
+THM{a_r3t_to_w1n_by_thm}
+
+What is the content of the file flag.txt on the target?
+THM{Th1s_R4ndom_acc3ss_m3mories_tututut_byp4ssed}
+
+What is the content of the file flag.txt on the target?
+THM{YAY_You_r3t_t0_libc_well_d0n3}
+
+What is the content of the file flag.txt on the target?
+THM{l3arn1ng_f0rm4t_str1ngs_awes0m3}

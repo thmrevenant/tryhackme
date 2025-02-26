@@ -1,0 +1,11 @@
+The Marketplace
+https://tryhackme.com/room/marketplace
+
+What is flag 1?
+THM{c37a63895910e478f28669b048c348d5}
+
+What is flag 2? (User.txt)
+THM{c3648ee7af1369676e3e4b15da6dc0b4}
+
+What is flag 3? (Root.txt)
+THM{d4f76179c80c0dcf46e0f8e43c9abd62}

@@ -1,0 +1,17 @@
+SSTI
+https://tryhackme.com/room/learnssti
+
+What sequence of characters causes the application to throw an error?
+{{
+
+What template engine is being used in this application?
+Jinja2
+
+How do you start a comment in Jinja2?
+{#
+
+What is the result of the "whoami" shell command?
+jake
+
+What payload was used to confirm SSTI?
+{{ '7'*7 }}

@@ -1,0 +1,11 @@
+The Bandit Surfer
+https://tryhackme.com/room/surfingyetiiscomingtotown
+
+What is the user flag?
+THM{SQli_SsRF_2_WeRkZeuG_PiN_ExPloit}
+
+What is the root flag?
+THM{BaNDiT_YeTi_Lik3s_PATH_HijacKing}
+
+What is the yetikey4.txt flag?
+4-3f$FEBwD6AoqnyLjJ!!Hk4tc*V6w$UuK#evLWkBp

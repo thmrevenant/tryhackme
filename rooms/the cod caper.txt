@@ -1,0 +1,41 @@
+The Cod Caper
+https://tryhackme.com/room/thecodcaper
+
+How many ports are open on the target machine?
+2
+
+What is the http-title of the web server?
+Apache2 Ubuntu Default Page: It works
+
+What version is the ssh service?
+OpenSSH 7.2p2 Ubuntu 4ubuntu2.8
+
+What is the version of the web server?
+Apache/2.4.18
+
+What is the name of the important file on the server?
+administrator.php
+
+What is the admin username?
+pingudad
+
+What is the admin password?
+secretpass
+
+How many forms of SQLI is the form vulnerable to?
+3
+
+How many files are in the current directory?
+3
+
+Do I still have an account
+yes
+
+What is my ssh password?
+pinguapingu
+
+What is the interesting path of the interesting suid file
+/opt/secret/root
+
+What is the root password!
+love2fish

@@ -1,0 +1,20 @@
+Summit
+https://tryhackme.com/room/summit
+
+What is the first flag you receive after successfully detecting sample1.exe?
+THM{f3cbf08151a11a6a331db9c6cf5f4fe4}
+
+What is the second flag you receive after successfully detecting sample2.exe?
+THM{2ff48a3421a938b388418be273f4806d}
+
+What is the third flag you receive after successfully detecting sample3.exe?
+THM{4eca9e2f61a19ecd5df34c788e7dce16}
+
+What is the fourth flag you receive after successfully detecting sample4.exe?
+THM{c956f455fc076aea829799c0876ee399}
+
+What is the fifth flag you receive after successfully detecting sample5.exe?
+THM{46b21c4410e47dc5729ceadef0fc722e}
+
+What is the final flag you receive from Sphinx?
+THM{c8951b2ad24bbcbac60c16cf2c83d92c}

@@ -1,0 +1,41 @@
+SQL Injection
+https://tryhackme.com/room/sqlinjectionlm
+
+What does SQL stand for?
+Structured Query Language
+
+What is the acronym for the software that controls a database?
+DBMS
+
+What is the name of the grid-like structure which holds the data?
+table
+
+What SQL statement is used to retrieve data?
+SELECT
+
+What SQL clause can be used to retrieve data from multiple tables?
+UNION
+
+What SQL statement is used to add data?
+INSERT
+
+What character signifies the end of an SQL query?
+;
+
+What is the flag after completing level 1?
+THM{SQL_INJECTION_3840}
+
+What is the flag after completing level two? (and moving to level 3)
+THM{SQL_INJECTION_9581}
+
+What is the flag after completing level three?
+THM{SQL_INJECTION_1093}
+
+What is the final flag after completing level four?
+THM{SQL_INJECTION_MASTER}
+
+Name a protocol beginning with D that can be used to exfiltrate data from a database.
+DNS
+
+Name a method of protecting yourself from an SQL Injection exploit.
+Prepared Statements
