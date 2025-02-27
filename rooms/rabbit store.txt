@@ -2,7 +2,7 @@ Rabbit Store
 https://tryhackme.com/room/rabbitstore
 
 What is user.txt?
-
+98d3a30fa86523c580144d317be0c47e
 
 What is root.txt?
 eabf7a0b05d3f2028f3e0465d2fd0852
