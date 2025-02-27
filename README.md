@@ -2,7 +2,7 @@
 
 <img src="./picture.jpg" alt="Alt-Text" width="200" height="200">
 
-My own private TryHackMe Database to lookup for Answers.
+My own private TryHackMe Database to lookup for answers.
 
 # Rooms
 
