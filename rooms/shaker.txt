@@ -8,5 +8,5 @@ Can you find Bob's flag?
 
 
 Now that you're here, go on, root me :)
-
+THM{NzFkZGRjNmRkZWQzNWMxZTM3MjM0ZGFlMmVkZDk3MTc=}
 
