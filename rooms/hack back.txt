@@ -2,7 +2,7 @@ Hack Back
 https://tryhackme.com/room/hackback
 
 What is the root flag?
-
+THM{TIME_TO_GET_BACK_THE_MONEY}
 
 What is the final flag?
 THM{HELLO_WEB3}
