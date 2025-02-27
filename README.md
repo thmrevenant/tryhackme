@@ -133,14 +133,6 @@ My own private TryHackMe Database to lookup for Answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2022.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2022.txt</a></td>
 </tr>
 <tr>
-<td align=left>Advent of Cyber 2023
-</td>
-<td align=left><a href="https://tryhackme.com/room/adventofcyber2023
-" target="_blank">https://tryhackme.com/room/adventofcyber2023
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2023.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2023.txt</a></td>
-</tr>
-<tr>
 <td align=left>Advent of Cyber 2024
 </td>
 <td align=left><a href="https://tryhackme.com/room/adventofcyber2024
@@ -149,12 +141,12 @@ My own private TryHackMe Database to lookup for Answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2024.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2024.txt</a></td>
 </tr>
 <tr>
-<td align=left>Advent of Cyber '24 Side Quest
+<td align=left>Advent of Cyber 2023
 </td>
-<td align=left><a href="https://tryhackme.com/room/adventofcyber24sidequest
-" target="_blank">https://tryhackme.com/room/adventofcyber24sidequest
+<td align=left><a href="https://tryhackme.com/room/adventofcyber2023
+" target="_blank">https://tryhackme.com/room/adventofcyber2023
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/Advent of Cyber 24 Side Quest.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/Advent of Cyber 24 Side Quest.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2023.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2023.txt</a></td>
 </tr>
 <tr>
 <td align=left>Advent of Cyber '23 Side Quest
@@ -163,6 +155,14 @@ My own private TryHackMe Database to lookup for Answers.
 " target="_blank">https://tryhackme.com/room/adventofcyber23sidequest
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 23 side quest.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 23 side quest.txt</a></td>
+</tr>
+<tr>
+<td align=left>Advent of Cyber '24 Side Quest
+</td>
+<td align=left><a href="https://tryhackme.com/room/adventofcyber24sidequest
+" target="_blank">https://tryhackme.com/room/adventofcyber24sidequest
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 24 side quest.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 24 side quest.txt</a></td>
 </tr>
 <tr>
 <td align=left>Advent of Cyber 3 (2021)
@@ -1010,7 +1010,7 @@ My own private TryHackMe Database to lookup for Answers.
 <td align=left><a href="https://tryhackme.com/room/capturereturns
 " target="_blank">https://tryhackme.com/room/capturereturns
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/Capture Returns.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/Capture Returns.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/capture returns.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/capture returns.txt</a></td>
 </tr>
 <tr>
 <td align=left>Careers in Cyber
@@ -1850,7 +1850,7 @@ My own private TryHackMe Database to lookup for Answers.
 <td align=left><a href="https://tryhackme.com/room/dx2hellskitchen
 " target="_blank">https://tryhackme.com/room/dx2hellskitchen
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/DX2 Hells Kitchen.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/DX2 Hells Kitchen.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dx2 hells kitchen.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dx2 hells kitchen.txt</a></td>
 </tr>
 <tr>
 <td align=left>Easy Peasy
@@ -2402,7 +2402,7 @@ My own private TryHackMe Database to lookup for Answers.
 <td align=left><a href="https://tryhackme.com/room/hackback
 " target="_blank">https://tryhackme.com/room/hackback
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/Hack Back.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/Hack Back.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hack back.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hack back.txt</a></td>
 </tr>
 <tr>
 <td align=left>Hack Smarter Security
@@ -3346,7 +3346,7 @@ My own private TryHackMe Database to lookup for Answers.
 <td align=left><a href="https://tryhackme.com/room/k2room
 " target="_blank">https://tryhackme.com/room/k2room
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/K2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/K2.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/k2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/k2.txt</a></td>
 </tr>
 <tr>
 <td align=left>K8s Best Security Practices
@@ -4794,7 +4794,7 @@ My own private TryHackMe Database to lookup for Answers.
 <td align=left><a href="https://tryhackme.com/room/plottedlms
 " target="_blank">https://tryhackme.com/room/plottedlms
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/Plotted-LMS.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/Plotted-LMS.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/plotted-lms.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/plotted-lms.txt</a></td>
 </tr>
 <tr>
 <td align=left>Plotted-TMS
@@ -5066,7 +5066,7 @@ My own private TryHackMe Database to lookup for Answers.
 <td align=left><a href="https://tryhackme.com/room/rabbitstore
 " target="_blank">https://tryhackme.com/room/rabbitstore
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/Rabbit Store.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/Rabbit Store.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/rabbit store.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/rabbit store.txt</a></td>
 </tr>
 <tr>
 <td align=left>Race Conditions Challenge
@@ -5546,7 +5546,7 @@ My own private TryHackMe Database to lookup for Answers.
 <td align=left><a href="https://tryhackme.com/room/shaker
 " target="_blank">https://tryhackme.com/room/shaker
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/Shaker.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/Shaker.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/shaker.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/shaker.txt</a></td>
 </tr>
 <tr>
 <td align=left>Shells Overview
