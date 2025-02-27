@@ -1,0 +1,8 @@
+Bandit
+https://tryhackme.com/room/bandit
+
+What is the user flag?
+THM{ALL_THIS_ESCAPING_MAKES_ME_TIRED_AM_I_DONE?}
+
+What is the root flag?
+THM{FULL_PRIVILEGES_HERE_THE_ESCAPE_IS_DONE}
