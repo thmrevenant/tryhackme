@@ -26,7 +26,7 @@ What is the Administrator's NTLM hash?
 9545b61858c043477c350ae86c37b32f
 
 What is the user flag?
-
+THM{400002b4b9fa7decb59019364388b8a3}
 
 What is the root flag?
-
+THM{2000099729df1a4ec18bc0346d36b5ba}
