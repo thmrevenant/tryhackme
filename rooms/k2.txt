@@ -16,14 +16,14 @@ James Bold, Rose Bud
 What is the user flag?
 
 
-What are the usernames found on the server? List the usernames in alphabetical order separated by a comma. Exclude the Administrator user.
-
+What are the usernames found on the server? 
+j.bold,j.smith,r.bud
 
 What is the root flag?
 
 
 What is the Administrator's NTLM hash?
-
+9545b61858c043477c350ae86c37b32f
 
 What is the user flag?
 
