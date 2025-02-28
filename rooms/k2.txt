@@ -14,7 +14,7 @@ Two users have their full names on display. What are their names? In Alphabetica
 James Bold, Rose Bud
 
 What is the user flag?
-
+THM{3e5a19a9ba91881f4d7852d92126a97f}
 
 What are the usernames found on the server? 
 j.bold,j.smith,r.bud
