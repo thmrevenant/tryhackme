@@ -20,7 +20,7 @@ What are the usernames found on the server?
 j.bold,j.smith,r.bud
 
 What is the root flag?
-
+THM{a7e9c8149fec53865eff983143b1f5ba}
 
 What is the Administrator's NTLM hash?
 9545b61858c043477c350ae86c37b32f
