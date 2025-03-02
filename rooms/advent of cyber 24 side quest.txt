@@ -32,10 +32,10 @@ What is the content of flag.txt?
 THM{unlock_the_door_to_darkness_0nly_f0r_the_brave}
 
 What is the content of user.txt?
-
+THM{krampu5_h00ked_y0ur_l00t}
 
 What is the content of root.txt?
-
+THM{krampu5_&_p0tat0_5alad}
 
 What is the value of flag 1?
 THM{09a3f8918a32ea38a2c833c98214336a}
