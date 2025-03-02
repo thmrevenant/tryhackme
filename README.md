@@ -1429,6 +1429,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cryptography for dummies.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cryptography for dummies.txt</a></td>
 </tr>
 <tr>
+<td align=left>Crypto Failures
+</td>
+<td align=left><a href="https://tryhackme.com/room/cryptographyfordummies
+" target="_blank">https://tryhackme.com/room/cryptofailures
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/crypto failures.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/crypto failures.txt</a></td>
+</tr>
+<tr>
 <td align=left>CSRF
 </td>
 <td align=left><a href="https://tryhackme.com/room/csrfV2
