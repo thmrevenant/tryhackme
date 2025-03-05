@@ -4405,6 +4405,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nosql injection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nosql injection.txt</a></td>
 </tr>
 <tr>
+<td align=left>NTFS Analysis
+</td>
+<td align=left><a href="https://tryhackme.com/room/ntfsanalysis
+" target="_blank">https://tryhackme.com/room/ntfsanalysis
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ntfs analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ntfs analysis.txt</a></td>
+</tr>
+<tr>
 <td align=left>OAuth Vulnerabilities
 </td>
 <td align=left><a href="https://tryhackme.com/room/oauthvulnerabilities
