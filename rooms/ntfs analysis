@@ -1,0 +1,47 @@
+NTFS Analysis
+https://tryhackme.com/room/ntfsanalysis
+
+Which feature does NTFS use to keep track of the changes within the file system?
+journaling
+
+Double-click on the $UsnJrnl file in the $Extend folder; what is the first evidence file you find?
+$J
+
+Which column indicates that the file is no longer present on the disk?
+In Use
+
+Examine the MFT record; what is the network sniffer installed on this system in the \Program Files\ directory?
+wireshark
+
+An anti-forensics tool responsible for wiping out an attacker’s traces was installed in the \Downloads\Tools folder. What is the name of the tool?
+DiskWipe.exe
+
+According to the MFT record, is the anti-forensics tool currently present on the disk? (yay or nay)
+nay
+
+Examining the MFT record, it seems there is a record of a flag.txt file. What is the parent path of the file? 
+.\tmp\secret_directory
+
+What is the content of the flag.txt file?
+WelDone_You_F0und_M3
+
+What is the file name associated with the MFT entry number "584574"?
+SharpHound.ps1
+
+What is the text file name associated with entry number 95071 before renaming it?
+New Text Document.txt
+
+According to the record, what is the first operation performed on the file in the question above?
+FileCreate
+
+According to the record in $J, what is the count of the rename operation found against secret_code.txt?
+2
+
+According to the record, when was the secret_code.txt file deleted?
+2025-01-15 08:10:04
+
+How many deleted files or folders are present in the $I30 attribute file that was extracted in this task?
+52
+
+What is the parent MFT entry of the nmap directory?
+512386
