@@ -229,6 +229,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/allsignspoint2pwnage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/allsignspoint2pwnage.txt</a></td>
 </tr>
 <tr>
+<td align=left>Amazon EC2 - Attack & Defense
+</td>
+<td align=left><a href="https://tryhackme.com/room/amazonec2attackdefense
+" target="_blank">https://tryhackme.com/room/amazonec2attackdefense
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/amazon ec2 - attack & defense.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/amazon ec2 - attack & defense.txt</a></td>
+</tr>
+<tr>
 <td align=left>Amazon EC2 - Data Exfiltration
 </td>
 <td align=left><a href="https://tryhackme.com/room/amazonec2dataexfiltration
@@ -483,6 +491,22 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/avengers
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/avengers blog.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/avengers blog.txt</a></td>
+</tr>
+<tr>
+<td align=left>AWS Basic Concepts
+</td>
+<td align=left><a href="https://tryhackme.com/room/awsbasicconcepts
+" target="_blank">https://tryhackme.com/room/awsbasicconcepts
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws basic concepts.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws basic concepts.txt</a></td>
+</tr>
+<tr>
+<td align=left>AWS: Cloud 101
+</td>
+<td align=left><a href="https://tryhackme.com/room/cloud101aws
+" target="_blank">https://tryhackme.com/room/cloud101aws
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws cloud 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws cloud 101.txt</a></td>
 </tr>
 <tr>
 <td align=left>AWS VPC - Attack and Defense
