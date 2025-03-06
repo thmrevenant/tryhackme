@@ -1,0 +1,11 @@
+Resource Policies & SCPs
+https://tryhackme.com/room/resourcepoliciesscps
+
+Try running the S3api command "get-bucket-ownership-controls" against the tryhackme-public-bucket. What is the ObjectOwnership value set to?
+BucketOwner Preferred
+
+Try invoking the Lambda function "TryHackMe-quote" in the same 019181489476 Account. What's the quote returned from the function?
+Most heard comment at #reinvent 'dude, lambda is the coolest shit, ever' -- Werner Vogles 2014
+
+What are the last four words of the error message you get when attempting to disable GuardDuty with this command?
+with an explicit deny
