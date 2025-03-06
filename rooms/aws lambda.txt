@@ -1,0 +1,29 @@
+AWS Lambda
+https://tryhackme.com/room/awslambda
+
+Go to the AWS Lambda Page in your account named TryHackMeLambdaRoom-sample-function. Generate a "hello-world" test event, and invoke the lambda. See what information is returned. What is the value of the context key "memory_limit_in_mb"?
+128
+
+What is the RunTime of the function?
+python3.7
+
+What error message did you receive when the get-function command tried to read the environment variables?
+Lambda was unable to decrypt your environment variables because the KMS access was denied. Please check your KMS permissions. KMS Exception: AccessDeniedException KMS Message: The ciphertext referes to a customer master key that does not exist, doest not exist in this region, or you are not allowed to access.
+
+Using curl, download the zip file referenced by the Code Location. Open the file, and enter the contents of the "question3.txt" file.
+Of all the lambda functions in all the accounts in all the regions, you had to download mine.
+
+The handler function is missing from the zip file. What should the filename be?
+function.py
+
+Using the Command "aws lambda get-policy --query Policy --output text --function-name <function arn from task 3>" retrieve the invocation policy for this sample function. What is the Action for the most permissive Statement?
+lambda:UpdateFunctionCode
+
+In your account, there is a function named "TryHackMeLambdaRoom-envars-function" Invoke this function (via the console). What is the value of SECRET_CONNECTION_STRING?
+https://falken:joshua@wopr.norad.mil/globalthermonuclearwar
+
+What file is deployed by the Lambda Layer attached to the "TryHackMeLambdaRoom-envars-function"?
+flag.txt
+
+Modify the "TryHackMeLambdaRoom-envars-function" to echo the contents of the flag.txt
+The only winning move is not to play.
