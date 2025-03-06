@@ -1,0 +1,26 @@
+Lambda - Data Exfiltration
+https://tryhackme.com/room/lambdadataexfiltration
+
+What is the NotAction value in the policy for the coins bucket?
+S3:PutObject
+
+What is the Name of the VPC we need to target?
+Mauhur's VPC - Do not Use
+
+Which Lambda function has the AWSLambda_FullAccess managed policy attached to it?
+list-images
+
+Which Lambda function has the IAM permissions to access any S3 Object in any S3 Bucket in this account?
+download-images
+
+Who gave the list-images function's author the vulnerable CLI command to run?
+Uglúk
+
+What's the value of the AWS_EXECUTION_ENV environment variable?
+AWS_Lambda_python3.9
+
+What is the secret phrase in the password.txt
+Do you know how the orc first came to be? They were elves once taken by the dark powers. Tortured and mutilated, a ruined and terrible form of life.
+
+Which managed policy seems harmless but should not be used lightly?
+ReadOnlyAccess
