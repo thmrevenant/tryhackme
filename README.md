@@ -2677,6 +2677,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hypervisor internals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hypervisor internals.txt</a></td>
 </tr>
 <tr>
+<td align=left>IAM Credentials
+</td>
+<td align=left><a href="https://tryhackme.com/room/iamcredentials
+" target="_blank">https://tryhackme.com/room/iamcredentials
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam credentials.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam credentials.txt</a></td>
+</tr>
+<tr>
 <td align=left>IAM Permissions
 </td>
 <td align=left><a href="https://tryhackme.com/room/iampermissions
