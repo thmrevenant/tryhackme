@@ -1,0 +1,35 @@
+AWS S3 - Attack and Defense
+https://tryhackme.com/room/awss3service
+
+What is the name of the file storage container where you keep your data in S3?
+bucket
+
+What characteristic makes Bucket Policies preferable to ACLs in S3?
+human-readable syntax
+
+What are CloudFront Origins?
+the resource hosted behind cloudfront
+
+What are the two primary methods of identifying public S3 buckets?
+Search Engine Indexing and DNS Recon
+
+What subdomain did we identify by searching certificates at crt.sh?
+assets.bestcloudcompany.org
+
+What AWS CLI command can you run to dump an S3 bucket in its entirety?
+aws s3 sync
+
+What use of S3 means that it can involve more than data exposure only (e.g., code execution, etc.)?
+AWS Service Substrate
+
+What service uses Amazon Machine Images and often uses S3 as storage for the images?
+ec2
+
+What is the username for the default WordPress user on the AMI we identified?
+user
+
+What is the password for the default WordPress user on the AMI we identified?
+nd4lR0IQ43Hd
+
+What is the flag in the WordPress profile of the user?
+47e94f90-cbb7-4c6a-aacc-f6ff765dc54a
