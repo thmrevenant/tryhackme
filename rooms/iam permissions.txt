@@ -1,0 +1,23 @@
+IAM Permissions
+https://tryhackme.com/room/iampermissions
+
+What is the PolicyId of the ReadOnlyAccess managed policy?
+ANPAILL3HVNFSB6DCOWYQ
+
+What action "Grants permission to create access key and secret access key for the specified IAM user"? You can find a hint in the Service Authorization docs for IAM
+iam:CreateAccessKey
+
+In your account, there is a bucket that begins with "tryhackme-bucket-" and ends with your unique account ID. What is the ARN of that bucket excluding the last 12 digit account ID?
+arn:aws:s3:::tryhackme-bucket
+
+Given the policy above, can this user get the HR Password (Y/N)?
+N
+
+Look in your Account. What is the Principal that is allowed to assume the OrganizationAccountAccessRole role?
+"AWS": "arn:aws:iam::116457965582:root"
+
+The Glue Service, running in vpc-12345, can write an object to the my-logs-bucket? (T/F)
+F
+
+Would he have access to the ForbiddenForest if the second policy were in place? (Y/N)
+Y
