@@ -1,0 +1,35 @@
+AWS API Gateway
+https://tryhackme.com/room/awsapigateway
+
+What is the URL location of an API called?
+endpoint
+
+What request type commonly doesn't include a request body?
+GET
+
+What does the WebSocket API additionally allow, compared to REST or HTTP/S APIs?
+bi-directional communication
+
+What default function does Lambda perform for API Gateway endpoints?
+AWS service proxy
+
+What is a special secondary function of Lambda?
+authorizer
+
+What are the two aspects that WebSockets for API Gateway provides? (Answer format: Answer1, Answer2)
+real-time, bidirectional communication
+
+What is the serverless capability that AWS API Gateway represents?
+reverse proxy
+
+What does rotating IP addresses allow you to bypass?
+IP-based restrictions
+
+What is the api_key for the /test/test user?
+testing123
+
+What is the api_key value for the /test/admin user?
+20089511220d4c8d9877bb979d560342
+
+What is the api_key value for the /prod/admin user?
+af84b63da20b4d04a62aca8abdfc3813
