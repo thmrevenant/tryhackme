@@ -1,0 +1,17 @@
+The Quest for Least Privilege
+https://tryhackme.com/room/thequestforleastprivilege
+
+If you are denied access while you have this policy, what type of policy is blocking you?
+Service Control Policy
+
+What action is needed in place of XXX?
+S3
+
+What is the redacted EC2 Action required in place of YYY?
+Describe
+
+What is the redacted S3 Action required in place of XXX?
+List
+
+What is the element needed in place of XXXX to represent the AWS Region (Singapore)?
+ap-southeast-1
