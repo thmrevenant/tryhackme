@@ -1,0 +1,35 @@
+AWS VPC - Attack and Defense
+https://tryhackme.com/room/attackingdefendingvpcs
+
+What is the CIDR Range of the VPC named VPCRoom?
+10.100.0.0/21
+
+For the VPC in your account, the Private Subnets have a route to a fictional on-prem network via a VGW. What is the CIDR Range of the fictional on-prem network?
+172.18.0.0/16
+
+What CIDR Range in the Security Group "VPCRoom-Instances" is Allowed to SSH?
+18.206.107.24/29
+
+What port range is permitted to the private subnets from the on-prem network range?
+22-443
+
+List the ENIs in your account. What is the description of the ENI with the IP Address 10.100.2.79?
+Hardcoded DHCP Assignment
+
+You have a VPC Endpoint in your VPC. What is the destination in the route table?
+pl-63a5400a
+
+What is the service name for the VPC Endpoint?
+com.amazonaws.us-east-1.s3
+
+What is the IP address of the "task6.vpcroom.tryhackme.com" entry in the Route53 Console?
+169.254.169.254
+
+Go visit the CloudWatch Logs page. What is the name of the log group with the VPC Flow Logs?
+/aws/vpcFlowLogs/VPCRoom
+
+Can you find the IP address of the customer gateway for the VPN defined in your account?
+198.54.117.215
+
+What is the routing target prefix for the VPC Peering connection?
+pcx-
