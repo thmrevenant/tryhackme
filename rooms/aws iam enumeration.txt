@@ -1,0 +1,23 @@
+AWS IAM Enumeration
+https://tryhackme.com/room/awsiamenumeration
+
+Can you get information about an AWS account, including its IAM principals - without authenticating?
+yes
+
+If an IAM Principal does not exist, what does an attempt to update the resource-based policy to include the "Principal" return?
+error message
+
+What is John's username?
+john.cervantes
+
+What is Adam's last name?
+foreman
+
+What type of S3 policy allows you to enumerate root user email addresses?
+ACL
+
+How many roles does Quiet Riot identify in your account when you run the Service Footprinting option?
+5
+
+What services appear enabled based on the results?
+guardduty,organizations,support,trustedadvisor
