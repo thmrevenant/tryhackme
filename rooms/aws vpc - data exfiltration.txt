@@ -1,0 +1,17 @@
+AWS VPC - Data Exfiltration
+https://tryhackme.com/room/awsvpcdataexfiltration
+
+What was the value of "PublicIpv4Pool" in the aws ec2 allocate-address response?
+amazon
+
+What was the Name of the IGW?
+VPC-Capstone-IGW
+
+What is the description of the security group you just compromised?
+Super Secure Security Group
+
+How many Subnets are associated with the "VPC-Capstone Private Subnet NACL"?
+2
+
+What is the name of the secret space weapon?
+Illudium Q-36 Explosive Space Modulator
