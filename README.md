@@ -229,6 +229,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/allsignspoint2pwnage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/allsignspoint2pwnage.txt</a></td>
 </tr>
 <tr>
+<td align=left>Amazon EC2 - Data Exfiltration
+</td>
+<td align=left><a href="https://tryhackme.com/room/amazonec2dataexfiltration
+" target="_blank">https://tryhackme.com/room/amazonec2dataexfiltration
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/amazon ec2 - data exfiltration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/amazon ec2 - data exfiltration.txt</a></td>
+</tr>
+<tr>
 <td align=left>Analysing Volatile Memory
 </td>
 <td align=left><a href="https://tryhackme.com/room/analysingvolatilememory
