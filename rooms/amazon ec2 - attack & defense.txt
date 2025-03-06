@@ -1,0 +1,35 @@
+Amazon EC2 - Attack & Defense
+https://tryhackme.com/room/amazonec2attackdefense
+
+Connect to your EC2 Instance via Instance Connect. Run the id command, and answer what user you're logged in as:
+ec2-user
+
+Now connect via SSM Session Manager. Run the id command. What user are you connected as?
+ssm-user
+
+Using either the Instance Connect or SSM Session Manager session, run "sudo passwd root" and set a password for the root user. Can you now log in with the EC2 Serial Console (Yea or Nay)
+yay
+
+What is the role_name attached to your Instance?
+Ec2RoomInstanceProfile
+
+What was the "Type" of the Credentials returned?
+AWS-HMAC
+
+What are the first four characters of the IMDSv2 token returned?
+AQAE
+
+What HTTP Error Code do you get if you attempt to use the metadata service without the token?
+401
+
+What is the value of the PrivateIpAddresses.Association.IpOwnerId of the ENI you discovered?
+amazon
+
+What CTO is quoted in the flag you found on the volume?
+Werner Vogels
+
+What is the AMI ID of the AMI named "EC2RoomCapstone-SecretDataInstance-2022-Mar-25.0"?
+ami-07d271a5875d66846
+
+What is the password that is written to the file in /etc?
+Winter2022!
