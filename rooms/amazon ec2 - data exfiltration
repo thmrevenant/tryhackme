@@ -1,0 +1,17 @@
+Amazon EC2 - Data Exfiltration
+https://tryhackme.com/room/amazonec2dataexfiltration
+
+What is the name of the Role attached to the instance vulnerable to the SSRF?
+StarStarWAFRole
+
+What is the cloud-config line to enable password-based ssh authentication?
+ssh_pwauth: True
+
+What is the name of the shell script in ec2-user's home directory?
+create_instance.sh
+
+What was the password you needed to get into SecretDataInstance?
+TryHackMe
+
+Enter the secret phrase.
+Congrats! You've found and are able to exfiltrate the secret data.
