@@ -1,0 +1,20 @@
+IAM Principals
+https://tryhackme.com/room/iamprincipals
+
+There are two IAM Users in your account. The one you're using is the 12-digit account ID. What is the name of the other user?
+TryHackMe-IAM-User
+
+There are several roles in your account. What is the Trusted Entitiy for the OrganizationAccountAccessRole role?
+arn:aws:iam::116457965582:root
+
+What is the MasterAccountEmail for your TryHackMe account?
+aws-security-labs@tryhackme.com
+
+What is the name of the IAM Group your IAM User is currently a member of?
+IAMModule-Group
+
+What AWS Service is trusted to assume the Role "AWSServiceRoleForCloudFormationStackSetsOrgMember"?
+member.org.stacksets.cloudformation.amazonaws.com
+
+What is the name of the Sample SAML Identiy Provider in your account?
+TryHackMe-IAM-SAMLProvider
