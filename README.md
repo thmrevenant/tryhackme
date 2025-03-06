@@ -509,6 +509,22 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws cloud 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws cloud 101.txt</a></td>
 </tr>
 <tr>
+<td align=left>AWS IAM Enumeration
+</td>
+<td align=left><a href="https://tryhackme.com/room/awsiamenumeration
+" target="_blank">https://tryhackme.com/room/awsiamenumeration
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws iam enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws iam enumeration.txt</a></td>
+</tr>
+<tr>
+<td align=left>AWS S3 - Attack and Defense
+</td>
+<td align=left><a href="https://tryhackme.com/room/awss3service
+" target="_blank">https://tryhackme.com/room/awss3service
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws s3 - attack and defense.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws s3 - attack and defense.txt</a></td>
+</tr>
+<tr>
 <td align=left>AWS VPC - Attack and Defense
 </td>
 <td align=left><a href="https://tryhackme.com/room/attackingdefendingvpcs
