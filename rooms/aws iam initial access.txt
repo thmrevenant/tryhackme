@@ -1,0 +1,23 @@
+AWS IAM Initial Access
+https://tryhackme.com/room/awsiaminitialaccess
+
+What is the primary mechanism of access in aws?
+IAM Credentials
+
+What file should prevent files from being included when they are uploaded to a remote git repository?
+.gitignore
+
+What CloudFormation resource can be used for phishing AWS administrators?
+stackset
+
+What is the IP address of the AWS EC2 Metadata Endpoint?
+169.254.169.254
+
+What is an IAM Role called that is automatically loaded on an EC2 instance?
+InstanceProfile
+
+What are the first four words in the name of the assumed-role when you retrieve the permissions for the IAM role?
+StackSet-iam-initial-access
+
+Once you have assumed the role with the stolen credentials, what two-word string from the role name fits in the answer?
+simple-lambda
