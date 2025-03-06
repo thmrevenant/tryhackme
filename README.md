@@ -485,6 +485,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/avengers blog.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/avengers blog.txt</a></td>
 </tr>
 <tr>
+<td align=left>AWS VPC - Attack and Defense
+</td>
+<td align=left><a href="https://tryhackme.com/room/attackingdefendingvpcs
+" target="_blank">https://tryhackme.com/room/attackingdefendingvpcs
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws vpc - attack and defense.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws vpc - attack and defense.txt</a></td>
+</tr>
+<tr>
 <td align=left>AWS VPC - Data Exfiltration
 </td>
 <td align=left><a href="https://tryhackme.com/room/awsvpcdataexfiltration
