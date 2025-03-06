@@ -1,0 +1,41 @@
+AWS Basic Concepts
+https://tryhackme.com/room/awsbasicconcepts
+
+How many digits are in an AWS Account ID
+12
+
+Does AWS require customers to enforce MFA by default for root user credentials? (yea/nay)
+nay
+
+What logic can be used to determine the access of an AWS IAM Principal?
+policy evaluation
+
+What policy determines if an IAM principal has the ability to gain the priviliges of a particular IAM role?
+assume-role
+
+What AWS service has both global and regional API endpoints?
+STS
+
+If your AWS account was created prior to 2017, what is your account's default region?
+us-east-1
+
+What year was AWS Organizations made generally available for AWS customers?
+2017
+
+What is the sub-container for accounts in AWS Organizations?
+Organizational Unit
+
+What AWS Organizations account does Service Control Policies not apply to?
+Organization Management
+
+What AWS service hosts the AWS DNS resolver?
+Route 53
+
+What VPC feature was used for privilege escalation during the 2019 CapitalOne Breach?
+imds
+
+What type of VPC endpoint will allow for network traffic inspection?
+Gateway Load Balancer
+
+What is the flag after completing the exercise?
+THM{AWS_CONCEPTS_001}
