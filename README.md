@@ -493,6 +493,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/avengers blog.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/avengers blog.txt</a></td>
 </tr>
 <tr>
+<td align=left>AWS API Gateway
+</td>
+<td align=left><a href="https://tryhackme.com/room/awsapigateway
+" target="_blank">https://tryhackme.com/room/awsapigateway
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws api gateway.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws api gateway.txt</a></td>
+</tr>
+<tr>
 <td align=left>AWS Basic Concepts
 </td>
 <td align=left><a href="https://tryhackme.com/room/awsbasicconcepts
@@ -515,6 +523,22 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/awsiamenumeration
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws iam enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws iam enumeration.txt</a></td>
+</tr>
+<tr>
+<td align=left>AWS IAM Initial Access
+</td>
+<td align=left><a href="https://tryhackme.com/room/awsiaminitialaccess
+" target="_blank">https://tryhackme.com/room/awsiaminitialaccess
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws iam initial access.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws iam initial access.txt</a></td>
+</tr>
+<tr>
+<td align=left>AWS Lambda
+</td>
+<td align=left><a href="https://tryhackme.com/room/awslambda
+" target="_blank">https://tryhackme.com/room/awslambda
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws lambda.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws lambda.txt</a></td>
 </tr>
 <tr>
 <td align=left>AWS S3 - Attack and Defense
@@ -5379,6 +5403,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/resetui
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/reset.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/reset.txt</a></td>
+</tr>
+<tr>
+<td align=left>Resource Policies & SCPs
+</td>
+<td align=left><a href="https://tryhackme.com/room/resourcepoliciesscps
+" target="_blank">https://tryhackme.com/room/resourcepoliciesscps
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/resource policies & scps.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/resource policies & scps.txt</a></td>
 </tr>
 <tr>
 <td align=left>ret2libc
