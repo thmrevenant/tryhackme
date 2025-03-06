@@ -2741,6 +2741,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam permissions.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam permissions.txt</a></td>
 </tr>
 <tr>
+<td align=left>IAM Principals
+</td>
+<td align=left><a href="https://tryhackme.com/room/iamprincipals
+" target="_blank">https://tryhackme.com/room/iamprincipals
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam principals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam principals.txt</a></td>
+</tr>
+<tr>
 <td align=left>Ice
 </td>
 <td align=left><a href="https://tryhackme.com/room/ice
@@ -3083,6 +3091,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/introtoav
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to antivirus.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to antivirus.txt</a></td>
+</tr>
+<tr>
+<td align=left>Introduction to AWS IAM
+</td>
+<td align=left><a href="https://tryhackme.com/room/introductiontoawsiam
+" target="_blank">https://tryhackme.com/room/introductiontoawsiam
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to aws iam.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to aws iam.txt</a></td>
 </tr>
 <tr>
 <td align=left>Introduction to Cryptography
@@ -3539,6 +3555,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/layer2
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/l2 mac flooding & arp spoofing.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/l2 mac flooding & arp spoofing.txt</a></td>
+</tr>
+<tr>
+<td align=left>Lambda - Data Exfiltration
+</td>
+<td align=left><a href="https://tryhackme.com/room/lambdadataexfiltration
+" target="_blank">https://tryhackme.com/room/lambdadataexfiltration
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lambda - data exfiltration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lambda - data exfiltration.txt</a></td>
 </tr>
 <tr>
 <td align=left>Lateral Movement and Pivoting
@@ -6013,6 +6037,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/steel mountain.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/steel mountain.txt</a></td>
 </tr>
 <tr>
+<td align=left>STS Credentials Lab
+</td>
+<td align=left><a href="https://tryhackme.com/room/stscredentialslab
+" target="_blank">https://tryhackme.com/room/stscredentialslab
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sts credentials lab.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sts credentials lab.txt</a></td>
+</tr>
+<tr>
 <td align=left>StuxCTF
 </td>
 <td align=left><a href="https://tryhackme.com/room/stuxctf
@@ -6299,6 +6331,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/marketplace
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the marketplace.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the marketplace.txt</a></td>
+</tr>
+<tr>
+<td align=left>The Quest for Least Privilege
+</td>
+<td align=left><a href="https://tryhackme.com/room/thequestforleastprivilege
+" target="_blank">https://tryhackme.com/room/thequestforleastprivilege
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the quest for least privilege.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the quest for least privilege.txt</a></td>
 </tr>
 <tr>
 <td align=left>The Return of the Yeti
