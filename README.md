@@ -693,6 +693,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/biblioteca.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/biblioteca.txt</a></td>
 </tr>
 <tr>
+<td align=left>Billing
+</td>
+<td align=left><a href="https://tryhackme.com/room/billing
+" target="_blank">https://tryhackme.com/room/billing
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/billing.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/billing.txt</a></td>
+</tr>
+<tr>
 <td align=left>Binary Heaven
 </td>
 <td align=left><a href="https://tryhackme.com/room/binaryheaven
