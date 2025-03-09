@@ -1,0 +1,8 @@
+FilePeek
+https://tryhackme.com/room/filepeek
+
+User Flag!
+THM{hmm!_got_user}
+
+Root Flag!
+THM{Congratulations_for_root!_LFI_Learned}
