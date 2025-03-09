@@ -2101,6 +2101,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/eviction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/eviction.txt</a></td>
 </tr>
 <tr>
+<td align=left>Examinerx9
+</td>
+<td align=left><a href="https://tryhackme.com/room/Examinerctfx9
+" target="_blank">https://tryhackme.com/room/Examinerctfx9
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/examinerx9.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/examinerx9.txt</a></td>
+</tr>
+<tr>
 <td align=left>Exfilibur
 </td>
 <td align=left><a href="https://tryhackme.com/room/exfilibur
