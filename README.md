@@ -2197,6 +2197,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/file inclusion.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/file inclusion.txt</a></td>
 </tr>
 <tr>
+<td align=left>FilePeek
+</td>
+<td align=left><a href="https://tryhackme.com/room/filepeek
+" target="_blank">https://tryhackme.com/room/filepeek
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/filepeek.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/filepeek.txt</a></td>
+</tr>
+<tr>
 <td align=left>Firewall Fundamentals
 </td>
 <td align=left><a href="https://tryhackme.com/room/firewallfundamentals
