@@ -5517,6 +5517,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/road.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/road.txt</a></td>
 </tr>
 <tr>
+<td align=left>Robots
+</td>
+<td align=left><a href="https://tryhackme.com/room/robots
+" target="_blank">https://tryhackme.com/room/robots
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/robots.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/robots.txt</a></td>
+</tr>
+<tr>
 <td align=left>Rocket
 </td>
 <td align=left><a href="https://tryhackme.com/room/rocket
