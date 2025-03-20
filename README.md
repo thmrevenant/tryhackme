@@ -6557,6 +6557,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tokyo ghoul.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tokyo ghoul.txt</a></td>
 </tr>
 <tr>
+<td align=left>Tomcat: CVE-2024-50379
+</td>
+<td align=left><a href="https://tryhackme.com/room/tomcatcve202450379
+" target="_blank">https://tryhackme.com/room/tomcatcve202450379
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tomcat cve-2024-50379.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tomcat cve-2024-50379.txt</a></td>
+</tr>
+<tr>
 <td align=left>tomghost
 </td>
 <td align=left><a href="https://tryhackme.com/room/tomghost
