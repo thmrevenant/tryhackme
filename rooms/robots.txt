@@ -1,0 +1,7 @@
+Robots
+https://tryhackme.com/room/robots
+
+What is the value of the user flag?
+
+
+What is the value of the root flag?
