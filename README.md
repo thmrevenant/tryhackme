@@ -2189,6 +2189,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ffuf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ffuf.txt</a></td>
 </tr>
 <tr>
+<td align=left>File Carving
+</td>
+<td align=left><a href="https://tryhackme.com/room/filecarving
+" target="_blank">https://tryhackme.com/room/filecarving
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/file carving.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/file carving.txt</a></td>
+</tr>
+<tr>
 <td align=left>File Inclusion, Path Traversal
 </td>
 <td align=left><a href="https://tryhackme.com/room/filepathtraversal
