@@ -1,0 +1,44 @@
+File Carving
+https://tryhackme.com/room/filecarving
+
+What file signature is used to identify JPEG files?
+FFD8FFE0
+
+What file signature is used to identify Windows Shortcut files? Answer with no spaces.
+4C00000001140200
+
+What is the ending offset address of the PNG file in Challenge1_Manual_Carve_usb.img?
+0001526426
+
+From the disk file Challenge1_Manual_Carve_usb.img, what is the flag hidden within the recovered file?
+THM{F1le_Carving_1s_FuN}
+
+What is the file size of the recovered image file in KB from Challenge2_slack_space.img?
+31
+
+What is the name of the extracted file that has no extension from Challenge2_slack_space.img?
+randomstuff
+
+What is the flag hidden within the recovered file from Challenge2_slack_space.img?
+THM{Fragm3nt_C@rv1ng}
+
+What is the original name of the recovered PDF file?
+DataSyncTHM_project_phoenix.txt
+
+What is the flag in the file?
+THM{ProjectPhoenix_123}
+
+What is the flag in the image file recovered?
+THM{Aut0mat3d_C@rv1ng}
+
+Using Binwalk and the hex editor, what is the beginning and ending offset of the XML file in the disk image? Answer: Starting,Ending
+134946816,135012619
+
+What is the actual file type of the file found in Question 1?
+SVG
+
+How long is the playback from the audio file? (Answer is in seconds)
+18.29
+
+What flag is hidden in the image file found?
+THM{D4t3_0f_D3l3t10n_2024-12-10}
