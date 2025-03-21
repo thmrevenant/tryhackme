@@ -73,10 +73,10 @@ THM{n0t_s3cur3_f1l3_sh4r1ng}
 29 Shadow Phishing 2
 
 
-30 Crypto Cipher’s Secret Message
+30 Cipher’s Secret Message
 THM{a_sm4ll_crypt0_message_to_st4rt_with_THM_cracks}
 
-31 Crypto Cryptosystem
+31 Cryptosystem
 THM{Just_s0m3_small_amount_of_RSA!}
 
 32 Flag Vault
@@ -85,13 +85,13 @@ THM{password_0v3rfl0w}
 33 Flag Vault 2
 THM{format_issues}
 
-34 Cloud Cloud Sanity Check
+34 Cloud Sanity Check
 THM{for_your_eyes_only}
 
-35 Cloud A Bucket of Phish
+35 A Bucket of Phish
 THM{this_is_not_what_i_meant_by_public}
 
-36 Cloud Encrypted Data
+36 Encrypted Data
 THM{crypto_cloud_conundrum}
 
 37 Avengers Hub
@@ -114,3 +114,4 @@ THM{just_a_simple_encryption_for_you_to_r3}
 
 44 What's the flag at the end of the Feedback Form?
 THM{thanks_for_playing}
+
