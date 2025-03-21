@@ -32,7 +32,7 @@ THM{d0nt_l34k_y0ur_w34k_m0dulu5}
 THM{1nj3ctBr34k3r5}
 
 16 Shadow Phishing
-
+THM{3m41l_ph1sh1ng_1s_3z}
 
 17 PassCode
 THM{web3_h4ck1ng_code}
@@ -59,10 +59,10 @@ THM{AI_NOT_AI}
 THM{n0t_s3cur3_f1l3_sh4r1ng}
 
 25 Infinity Shell
-
+THM{sup3r_34sy_w3bsh3ll}
 
 26 Sneaky Patch
-
+THM{sup3r_sn34ky_d00r}
 
 27 Hide and Seek
 
@@ -110,7 +110,7 @@ THM{just_a_simple_encryption_for_you_to_r3}
 
 
 42 Serverless
-
+THM{SSE_can't_stop_ME}
 
 44 Thanks for Playing!
 THM{thanks_for_playing}
