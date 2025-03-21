@@ -112,6 +112,6 @@ THM{just_a_simple_encryption_for_you_to_r3}
 42 Serverless
 
 
-44 What's the flag at the end of the Feedback Form?
+44 Thanks for Playing!
 THM{thanks_for_playing}
 
