@@ -1,5 +1,41 @@
 Hackfinity Battle
 https://tryhackme.com/room/HackfinityBattle
 
+Catch Me if You Can
+thm{Coringa_do_Beco}
+
+Catch Me if You Can 2
+THM{torii_portal}
+
+Catch Me if You Can 3
+THM{83_galvao_bueno}
+
+Notepad Online
+THM{i_can_see_your_notes}
+
+Web Dark Encryptor
+THM{pgp_cant_stop_me}
+
+Crypto Order
+THM{the_hackfinity_highschool}
+
+Crypto Cipher’s Secret Message
+THM{a_sm4ll_crypt0_message_to_st4rt_with_THM_cracks}
+
+Crypto Cryptosystem
+THM{Just_s0m3_small_amount_of_RSA!}
+
+Cloud Cloud Sanity Check
+THM{for_your_eyes_only}
+
+Cloud A Bucket of Phish
+THM{this_is_not_what_i_meant_by_public}
+
+Cloud Encrypted Data
+THM{crypto_cloud_conundrum}
+
+Stolen Mount
+THM{n0t_s3cur3_f1l3_sh4r1ng}
+
 What's the flag at the end of the Feedback Form?
 THM{thanks_for_playing}
