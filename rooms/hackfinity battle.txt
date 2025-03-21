@@ -1,41 +1,119 @@
 Hackfinity Battle
 https://tryhackme.com/room/HackfinityBattle
 
-Catch Me if You Can
+ 6 Catch Me if You Can
 thm{Coringa_do_Beco}
 
-Catch Me if You Can 2
+ 7 Catch Me if You Can 2
 THM{torii_portal}
 
-Catch Me if You Can 3
+ 8 Catch Me if You Can 3
 THM{83_galvao_bueno}
 
-Notepad Online
+ 9 Notepad Online
 THM{i_can_see_your_notes}
 
-Web Dark Encryptor
+10 Dark Encryptor
 THM{pgp_cant_stop_me}
 
-Crypto Order
+11 Dark Encryptor 2
+
+
+12 Order
 THM{the_hackfinity_highschool}
 
-Crypto Cipher’s Secret Message
-THM{a_sm4ll_crypt0_message_to_st4rt_with_THM_cracks}
+13 Dark Matter
+THM{d0nt_l34k_y0ur_w34k_m0dulu5}
 
-Crypto Cryptosystem
-THM{Just_s0m3_small_amount_of_RSA!}
+14 Ghost Phishing
 
-Cloud Cloud Sanity Check
-THM{for_your_eyes_only}
 
-Cloud A Bucket of Phish
-THM{this_is_not_what_i_meant_by_public}
+15 Dump
+THM{1nj3ctBr34k3r5}
 
-Cloud Encrypted Data
-THM{crypto_cloud_conundrum}
+16 Shadow Phishing
 
-Stolen Mount
+
+17 PassCode
+THM{web3_h4ck1ng_code}
+
+18 Heist
+THM{web3_h31st_d0ne}
+
+19 The Game
+THM{I_CAN_READ_IT_ALL}
+
+20 The Game v2
+THM{MEMORY_CAN_CHANGE_4R34L$-$}
+
+21 Evil-GPT
+THM{AI_HACK_THE_FUTURE}
+
+22 Evil-GPT v2
+THM{AI_NOT_AI}
+
+23 Royal Router
+
+
+24 Stolen Mount
 THM{n0t_s3cur3_f1l3_sh4r1ng}
 
-What's the flag at the end of the Feedback Form?
+25
+
+
+26
+
+
+27
+
+
+28
+
+
+29
+
+
+30 Crypto Cipher’s Secret Message
+THM{a_sm4ll_crypt0_message_to_st4rt_with_THM_cracks}
+
+31 Crypto Cryptosystem
+THM{Just_s0m3_small_amount_of_RSA!}
+
+32 Flag Vault
+THM{password_0v3rfl0w}
+
+33 Flag Vault 2
+THM{format_issues}
+
+34 Cloud Cloud Sanity Check
+THM{for_your_eyes_only}
+
+35 Cloud A Bucket of Phish
+THM{this_is_not_what_i_meant_by_public}
+
+36 Cloud Encrypted Data
+THM{crypto_cloud_conundrum}
+
+37
+
+
+38 Compute Magic
+THM{s0m3_mag1c_that_can_b3_computed}
+
+39 Old Authentication
+THM{just_a_simple_encryption_for_you_to_r3}
+
+40 Void Execution
+
+
+41 Precision
+
+
+42 Serverless
+
+
+43
+
+
+44 What's the flag at the end of the Feedback Form?
 THM{thanks_for_playing}
