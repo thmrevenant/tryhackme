@@ -95,6 +95,10 @@ THM{this_is_not_what_i_meant_by_public}
 THM{crypto_cloud_conundrum}
 
 37 Avengers Hub
+What is the user flag?
+
+
+What is the root flag?
 
 
 38 Compute Magic
@@ -110,7 +114,14 @@ THM{just_a_simple_encryption_for_you_to_r3}
 
 
 42 Serverless
+What's the value of the first flag?
 THM{SSE_can't_stop_ME}
+
+What's the value of the secondflag?
+
+
+What's the value of the final flag?
+
 
 44 Thanks for Playing!
 THM{thanks_for_playing}
