@@ -58,19 +58,19 @@ THM{AI_NOT_AI}
 24 Stolen Mount
 THM{n0t_s3cur3_f1l3_sh4r1ng}
 
-25
+25 Infinity Shell
 
 
-26
+26 Sneaky Patch
 
 
-27
+27 Hide and Seek
 
 
-28
+28 Sequel Dump
 
 
-29
+29 Shadow Phishing 2
 
 
 30 Crypto Cipher’s Secret Message
@@ -114,3 +114,4 @@ THM{just_a_simple_encryption_for_you_to_r3}
 
 44 What's the flag at the end of the Feedback Form?
 THM{thanks_for_playing}
+
