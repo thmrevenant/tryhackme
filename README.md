@@ -2557,6 +2557,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackernote.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackernote.txt</a></td>
 </tr>
 <tr>
+<td align=left>Hackfinity Battle
+</td>
+<td align=left><a href="https://tryhackme.com/room/HackfinityBattle
+" target="_blank">https://tryhackme.com/room/HackfinityBattle
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle.txt</a></td>
+</tr>
+<tr>
 <td align=left>Hackfinity Battle Encore
 </td>
 <td align=left><a href="https://tryhackme.com/room/HackfinityBattleEncore
