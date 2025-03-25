@@ -1,0 +1,5 @@
+Hackfinity Battle
+https://tryhackme.com/room/HackfinityBattle
+
+44 Thanks for Playing!
+THM{thanks_for_playing}
