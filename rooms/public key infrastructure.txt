@@ -26,12 +26,13 @@ What is the best way to check a certificate's revocation status?
 OCSP
 
 What's the locality of the self-signed certificate used by the TryHatMe website?
-
+Meowing
 
 What's the hidden flag in the credentials dumped?
-
+THM{Pa55w0rdHats!}
 
 What's the first hat ordered by cap_collector?
-
+witch hat
 
 What other hat requests are lurking in the TryHatMe orders?
+THM{HaTTriCxZ}
