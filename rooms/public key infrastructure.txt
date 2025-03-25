@@ -1,0 +1,37 @@
+Public Key Infrastructure
+https://tryhackme.com/room/publickeyinfrastructure
+
+In asymmetric cryptography, which key is openly shared with others?
+public key
+
+What certificate component shows information about the certificate entity that issued a certificate?
+CN
+
+What do we call a trusted entity for third-party verification of certificates?
+certificate authority
+
+What certificate servers act as an intermediary connecting root certificates with intermediate certificates?
+Intermediate server
+
+What certificate format is often used in Windows servers?
+PFX
+
+What certificate format is commonly used in Linux?
+PEM
+
+What is another name for a "chain certificate"?
+intermediate certificate
+
+What is the best way to check a certificate's revocation status?
+OCSP
+
+What's the locality of the self-signed certificate used by the TryHatMe website?
+
+
+What's the hidden flag in the credentials dumped?
+
+
+What's the first hat ordered by cap_collector?
+
+
+What other hat requests are lurking in the TryHatMe orders?
