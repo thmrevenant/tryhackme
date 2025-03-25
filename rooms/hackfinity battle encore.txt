@@ -1,119 +1,119 @@
 Hackfinity Battle
 https://tryhackme.com/room/HackfinityBattle
 
- 6 Catch Me if You Can
+ 2 Catch Me if You Can
 thm{Coringa_do_Beco}
 
- 7 Catch Me if You Can 2
+ 3 Catch Me if You Can 2
 THM{torii_portal}
 
- 8 Catch Me if You Can 3
+ 4 Catch Me if You Can 3
 THM{83_galvao_bueno}
 
- 9 Notepad Online
+ 5 Notepad Online
 THM{i_can_see_your_notes}
 
-10 Dark Encryptor
+ 6 Dark Encryptor
 THM{pgp_cant_stop_me}
 
-11 Dark Encryptor 2
+ 7 Dark Encryptor 2
+THM{going_in_bl1nd_2394}
 
-
-12 Order
+ 8 Order
 THM{the_hackfinity_highschool}
 
-13 Dark Matter
+ 9 Dark Matter
 THM{d0nt_l34k_y0ur_w34k_m0dulu5}
 
-14 Ghost Phishing
+10 Ghost Phishing
+THM{gh0st_ph1sh1ng_exp0s3d}
 
-
-15 Dump
+11 Dump
 THM{1nj3ctBr34k3r5}
 
-16 Shadow Phishing
+12 Shadow Phishing
 THM{3m41l_ph1sh1ng_1s_3z}
 
-17 PassCode
+13 PassCode
 THM{web3_h4ck1ng_code}
 
-18 Heist
+14 Heist
 THM{web3_h31st_d0ne}
 
-19 The Game
+15 The Game
 THM{I_CAN_READ_IT_ALL}
 
-20 The Game v2
+16 The Game v2
 THM{MEMORY_CAN_CHANGE_4R34L$-$}
 
-21 Evil-GPT
+17 Evil-GPT
 THM{AI_HACK_THE_FUTURE}
 
-22 Evil-GPT v2
+18 Evil-GPT v2
 THM{AI_NOT_AI}
 
-23 Royal Router
+19 Royal Router
+THM{EXFILTRATING_A_MIPS_ROUTER}
 
-
-24 Stolen Mount
+20 Stolen Mount
 THM{n0t_s3cur3_f1l3_sh4r1ng}
 
-25 Infinity Shell
+21 Infinity Shell
 THM{sup3r_34sy_w3bsh3ll}
 
-26 Sneaky Patch
+22 Sneaky Patch
 THM{sup3r_sn34ky_d00r}
 
-27 Hide and Seek
+23 Hide and Seek
 THM{y0u_g0t_3v3ryth1ng_d0wn}
 
-28 Sequel Dump
+24 Sequel Dump
+THM{r3tr13v1ng_th3_dump}
 
+25 Shadow Phishing 2
+THM{3m41l_ph1sh1ng_1s_n0t_s0_3z}
 
-29 Shadow Phishing 2
-
-
-30 Cipher’s Secret Message
+26 Cipher’s Secret Message
 THM{a_sm4ll_crypt0_message_to_st4rt_with_THM_cracks}
 
-31 Cryptosystem
+27 Cryptosystem
 THM{Just_s0m3_small_amount_of_RSA!}
 
-32 Flag Vault
+28 Flag Vault
 THM{password_0v3rfl0w}
 
-33 Flag Vault 2
+29 Flag Vault 2
 THM{format_issues}
 
-34 Cloud Sanity Check
+30 Cloud Sanity Check
 THM{for_your_eyes_only}
 
-35 A Bucket of Phish
+31 A Bucket of Phish
 THM{this_is_not_what_i_meant_by_public}
 
-36 Encrypted Data
+32 Encrypted Data
 THM{crypto_cloud_conundrum}
 
-37 Avengers Hub
+33 Avengers Hub
 What is the user flag?
-
+THM{us3r_f00th0ld}
 
 What is the root flag?
+THM{l3ts_t4k3_1t_b4ck}
 
-
-38 Compute Magic
+34 Compute Magic
 THM{s0m3_mag1c_that_can_b3_computed}
 
-39 Old Authentication
+35 Old Authentication
 THM{just_a_simple_encryption_for_you_to_r3}
 
-40 Void Execution
+36 Void Execution
 THM{a_void_in_the_memory_c0de}
 
-41 Precision
+37 Precision
 
 
-42 Serverless
+38 Serverless
 What's the value of the first flag?
 THM{SSE_can't_stop_ME}
 
@@ -121,3 +121,4 @@ What's the value of the secondflag?
 
 
 What's the value of the final flag?
+THM{Und3r_c0nstruct1on}
