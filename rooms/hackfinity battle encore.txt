@@ -118,11 +118,6 @@ What's the value of the first flag?
 THM{SSE_can't_stop_ME}
 
 What's the value of the secondflag?
-THM{sl1th3ry_tw33tz_4nd_l34ky_r3pl13s!}
+
 
 What's the value of the final flag?
-
-
-44 Thanks for Playing!
-THM{thanks_for_playing}
-
