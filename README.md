@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (943)
+# Rooms (944)
 
 <table>
 <tr>
@@ -5155,6 +5155,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/publickeycrypto
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/public key cryptography basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/public key cryptography basics.txt</a></td>
+</tr>
+<tr>
+<td align=left>Public Key Infrastructure
+</td>
+<td align=left><a href="https://tryhackme.com/room/publickeyinfrastructure
+" target="_blank">https://tryhackme.com/room/publickeyinfrastructure
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/public key infrastructure.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/public key infrastructure.txt</a></td>
 </tr>
 <tr>
 <td align=left>Publisher
