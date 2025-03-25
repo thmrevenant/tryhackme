@@ -4493,6 +4493,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/new hire old artifacts.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/new hire old artifacts.txt</a></td>
 </tr>
 <tr>
+<td align=left>Next.js: CVE-2025-29927
+</td>
+<td align=left><a href="https://tryhackme.com/room/nextjscve202529927
+" target="_blank">https://tryhackme.com/room/tnextjscve202529927
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/next.js cve-2025-29927.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/next.js cve-2025-29927.txt</a></td>
+</tr>
+<tr>
 <td align=left>New York Flankees
 </td>
 <td align=left><a href="https://tryhackme.com/room/thenewyorkflankees
