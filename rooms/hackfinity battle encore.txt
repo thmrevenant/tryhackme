@@ -118,7 +118,7 @@ What's the value of the first flag?
 THM{SSE_can't_stop_ME}
 
 What's the value of the secondflag?
-
+THM{lambdas_run_linux?}
 
 What's the value of the final flag?
 THM{Und3r_c0nstruct1on}
