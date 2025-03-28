@@ -1,0 +1,37 @@
+Diskrupt
+https://tryhackme.com/room/diskrupt
+
+What are the corrupted bytes in the boot sector that caused the disk to be damaged?
+
+
+What are the bytes representing the total sector of the second partition? (Little Endian)
+
+
+What is the size of the first partition in GB? (up to 2 decimals e.g: 15.25)
+
+
+What is the size of the second partition in GB? (up to 2 decimals e.g: 15.25)
+
+
+In the NTFS partition, when was the text file related to the password created on the system?
+
+
+What is the full name of the sensitive pdf document accessed on this disk?
+
+
+When this file was first found on this disk?
+
+
+What is the entry number of the directory in the Journal that was created and then deleted for exfiltration purposes on the disk?
+
+
+What is the starting offset of the first zip file found after the offset 4E7B00000?
+
+
+What is the ending offset of the zip file?
+
+
+What is the flag hidden within the file inside the zip file?
+
+
+In the FAT32 partition, a tool related to the disk wiping was installed and then deleted. Can you find the name of that executable?
