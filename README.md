@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (944)
+# Rooms (945)
 
 <table>
 <tr>
@@ -1835,6 +1835,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/autopsy2ze0
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/disk analysis & autopsy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/disk analysis & autopsy.txt</a></td>
+</tr>
+<tr>
+<td align=left>Diskrupt
+</td>
+<td align=left><a href="https://tryhackme.com/room/diskrupt
+" target="_blank">https://tryhackme.com/room/diskrupt
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/diskrupt.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/diskrupt.txt</a></td>
 </tr>
 <tr>
 <td align=left>Dissecting PE Headers
