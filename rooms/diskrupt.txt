@@ -32,6 +32,6 @@ What is the ending offset of the zip file?
 
 
 What is the flag hidden within the file inside the zip file?
-
+FLAG:{RECOVERED_SECRET_THM}
 
 In the FAT32 partition, a tool related to the disk wiping was installed and then deleted. Can you find the name of that executable?
