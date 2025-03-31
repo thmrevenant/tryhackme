@@ -5,7 +5,7 @@ What are the corrupted bytes in the boot sector that caused the disk to be damag
 ACBD
 
 What are the bytes representing the total sector of the second partition? (Little Endian)
-
+0x01387800
 
 What is the size of the first partition in GB? (up to 2 decimals e.g: 15.25)
 30.23
