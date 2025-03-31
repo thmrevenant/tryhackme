@@ -32,3 +32,4 @@ Using the script, what is the first character that is leaked from the oracle?
 O
 
 Now for the challenge, upgrade the script to recover the entire secret from the oracle. What is this secret?
+OracleKnows
