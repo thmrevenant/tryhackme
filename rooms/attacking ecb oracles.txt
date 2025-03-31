@@ -1,0 +1,34 @@
+Attacking ECB Oracles
+https://tryhackme.com/room/attackingecboracles
+
+In what year did NIST hold a competition to find a new encryption algorithm that correctly implemented the three fundamental rules of cryptography?
+1997
+
+What is the AES cipher otherwise known as?
+Rijndael Cipher
+
+What type of encryption is AES? (Symmetric/Asymmetric)
+Symmetric
+
+What is used when the last AES block of the original message isn't completely filled?
+padding
+
+What is the ciphertext when encrypting the message CryptographyAndADreamToSecurity using the secret NotAGreatSecret!?
+c35a97106295a3101b6be8a9af954d198462b30f0af7f669d46766cbeea7eabf
+
+What cipher principle does ECB not perform sufficiently, leading to it being vulnerable?
+diffusion
+
+What types of files are notoriously difficult for ECB to encrypt?
+images
+
+What do we need to determine in the first step to attack an ECB oracle?
+Block Size
+
+What is the second element that we need to determine to attack an ECB oracle?
+Offset
+
+Using the script, what is the first character that is leaked from the oracle?
+O
+
+Now for the challenge, upgrade the script to recover the entire secret from the oracle. What is this secret?
