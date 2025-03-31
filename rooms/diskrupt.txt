@@ -17,7 +17,7 @@ In the NTFS partition, when was the text file related to the password created on
 2025-03-19 22:01:57
 
 What is the full name of the sensitive pdf document accessed on this disk?
-
+Quantum-Resistant Cryptographic Algorithms.pdf
 
 When this file was first found on this disk?
 
