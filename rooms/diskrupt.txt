@@ -2,19 +2,19 @@ Diskrupt
 https://tryhackme.com/room/diskrupt
 
 What are the corrupted bytes in the boot sector that caused the disk to be damaged?
-
+ACBD
 
 What are the bytes representing the total sector of the second partition? (Little Endian)
 
 
 What is the size of the first partition in GB? (up to 2 decimals e.g: 15.25)
-
+30.23
 
 What is the size of the second partition in GB? (up to 2 decimals e.g: 15.25)
-
+9.76
 
 In the NTFS partition, when was the text file related to the password created on the system?
-
+2025-03-19 22:01:57
 
 What is the full name of the sensitive pdf document accessed on this disk?
 
