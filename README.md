@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (945)
+# Rooms (946)
 
 <table>
 <tr>
@@ -403,6 +403,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/attackerkb
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/attackerkb.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/attackerkb.txt</a></td>
+</tr>
+<tr>
+<td align=left>Attacking ECB Oracles
+</td>
+<td align=left><a href="https://tryhackme.com/room/attackingecboracles
+" target="_blank">https://tryhackme.com/room/attackingecboracles
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacking ecb oracles.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacking ecb oracles.txt</a></td>
 </tr>
 <tr>
 <td align=left>Attacking ICS Plant #1
