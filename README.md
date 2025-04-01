@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (946)
+# Rooms (947)
 
 <table>
 <tr>
@@ -5843,6 +5843,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/easyctf
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/simple ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/simple ctf.txt</a></td>
+</tr>
+<tr>
+<td align=left>SimpleHelp: CVE-2024-57727
+</td>
+<td align=left><a href="https://tryhackme.com/room/simplehelpcve202457727
+" target="_blank">https://tryhackme.com/room/simplehelpcve202457727
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/simplehelp cve-2024-57727.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/simplehelp cve-2024-57727.txt</a></td>
 </tr>
 <tr>
 <td align=left>Skynet
