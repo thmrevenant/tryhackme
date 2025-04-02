@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Retired Rooms (2)
+# Retired Rooms (3)
 
 <table>
 <tr>
@@ -19,6 +19,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/iso27001
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/iso27001.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/iso27001.txt</a></td>
+</tr>
+<tr>
+<td align=left>WebOSINT
+</td>
+<td align=left><a href="https://tryhackme.com/room/webosint
+" target="_blank">https://tryhackme.com/room/webosint
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/webosint.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/webosint.txt</a></td>
 </tr>
 <tr>
 <td align=left>Windows Base
