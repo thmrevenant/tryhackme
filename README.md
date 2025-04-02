@@ -4,13 +4,21 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Retired Rooms (3)
+# Retired Rooms (4)
 
 <table>
 <tr>
 	<th align=left>Room</th>
 	<th align=left>Link</th>
 	<th align=left>Solutions</th>
+</tr>
+<tr>
+<td align=left>Hackfinity Battle Encore
+</td>
+<td align=left><a href="https://tryhackme.com/room/HackfinityBattleEncore
+" target="_blank">https://tryhackme.com/room/HackfinityBattleEncore
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/hackfinity battle encore.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/hackfinity battle encore.txt</a></td>
 </tr>
 <tr>
 <td align=left>ISO27001
@@ -2613,14 +2621,6 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/HackfinityBattle
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hackfinity Battle Encore
-</td>
-<td align=left><a href="https://tryhackme.com/room/HackfinityBattleEncore
-" target="_blank">https://tryhackme.com/room/HackfinityBattleEncore
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle encore.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle encore.txt</a></td>
 </tr>
 <tr>
 <td align=left>Hacking Hadoop
