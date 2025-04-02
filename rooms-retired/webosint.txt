@@ -1,0 +1,77 @@
+WebOSINT
+https://tryhackme.com/room/webosint
+
+What is the name of the company the domain was registered with?
+Namecheap Inc
+
+What phone number is listed for the registration company?
+6613102107
+
+What is the first nameserver listed for the site?
+Ns1.BRAINYDNS.com
+
+What is listed for the name of the registrant?
+Redacted for Privacy
+
+What country is listed for the registrant?
+Panama
+
+What is the first name of the blog’s author?
+Steve
+
+What city and country was the author writing from?
+Gwangju, South Korea
+
+What is the name (in English) of the temple inside the National Park the author frequently visits?
+Jeungsimsa Temple
+
+What was RepublicOfKoffee.com’s IP address as of October 2016?
+173.248.188.152
+
+Based on the other domains hosted on the same IP address, what kind of hosting service can we safely assume our target uses?
+Shared
+
+How many times has the IP address changed in the history of the domain?
+4
+
+What is the second nameserver listed for the domain?
+NS2.HEAT.NET
+
+What IP address was the domain listed on as of December 2011?
+72.52.192.240
+
+Based on domains that share the same IP, what kind of hosting service is the domain owner using?
+shared
+
+On what date did was the site first captured by the internet archive?
+06/01/97
+
+What is the first sentence of the first body paragraph from the final capture of 2001?
+After years of great online gaming, it’s time to say good-bye.
+
+Using your search engine skills, what was the name of the company that was responsible for the original version of the site?
+SegaSoft
+
+What does the first header on the site on the last capture of 2010 say?
+Heat.net — Heating and Cooling
+
+How many internal links are in the text of the article?
+5
+
+How many external links are in the text of the article?
+1
+
+Website in the article’s only external link ( that isn’t an ad)
+Purchase.org
+
+Try to find the Google Analytics code linked to the site
+UA-251372-24
+
+Is the the Google Analytics code in use on another website? Yay or nay
+Nay
+
+Does the link to this website have any obvious affiliate codes embedded with it? Yay or Nay
+Nay
+
+Use the tools in Task 4 to confirm the link between the two sites. Try hard to figure it out without the hint.
+Liquid Web, L.L.C
