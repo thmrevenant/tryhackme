@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (944)
+# Rooms (945)
 
 <table>
 <tr>
@@ -4077,6 +4077,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/m4tr1xexitdenied
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/m4tr1x exit denied.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/m4tr1x exit denied.txt</a></td>
+</tr>
+<tr>
+<td align=left>macOS Forensics: The Basics
+</td>
+<td align=left><a href="https://tryhackme.com/room/macosforensicsbasics
+" target="_blank">https://tryhackme.com/room/macosforensicsbasics
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/macos forensics the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/macos forensics the basics.txt</a></td>
 </tr>
 <tr>
 <td align=left>Madeye's Castle
