@@ -35,6 +35,7 @@ What is the name of the user who used this Mac device?
 thm
 
 There is a text file in the User directory of the above-mentioned user. What is the name of this file?
-
+creds.txt
 
 It looks like the file contains credentials for different users and their passwords. What is the password of the user we identified above?
+12345
