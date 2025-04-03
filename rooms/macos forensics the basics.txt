@@ -1,0 +1,40 @@
+macOS Forensics: The Basics
+https://tryhackme.com/room/macosforensicsbasics
+
+In which year was the APFS file system introduced by Apple?
+2017
+
+Which file system is common amongst all Apple devices, including iOS, watchOS, and tvOS?
+APFS
+
+What is the latest date that the HFS+ file system supports? Format DD/MM/YYYY
+06/02/2040
+
+In the HFS+ file system, which file contains a list of all the files and directories present in the file system?
+Catalog file
+
+In macOS, which command can be used to list all available APFS volumes?
+diskutil apfs list
+
+Files in which domain can't be modified even by using sudo privileges?
+System
+
+Which domain is the most forensically important domain from a user activity point of view?
+User
+
+Which of the file types discussed above are similar to device drivers in Windows?
+.kext files
+
+Which command can be used to disable SIP?
+csrutil disable
+
+In the disk image provided in the attached VM, what is the UUID of the volume containing user data?
+84E5F2BD-503F-4E3A-8105-EEBEBC1925B4
+
+What is the name of the user who used this Mac device?
+thm
+
+There is a text file in the User directory of the above-mentioned user. What is the name of this file?
+
+
+It looks like the file contains credentials for different users and their passwords. What is the password of the user we identified above?
