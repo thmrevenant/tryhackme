@@ -1,0 +1,41 @@
+DiskFiltration
+https://tryhackme.com/room/diskfiltration
+
+What is the serial number of the USB device Liam used for exfiltration? 
+2651931097993496666
+
+What is the profile name of the personal hotspot Liam used to evade network-level detection?
+Liam's Iphone
+
+What is the name of the zip file Liam copied from the USB to the machine for exfiltration instructions?
+Shadow_Plan.zip
+
+What is the password for this zip file?
+Qwerty@123
+
+Time to reveal the external entity helping Liam! Who is the author of the PDF file stored in the zip file?
+Henry
+
+What is the correct extension of the file that has no extension in the zip folder?
+PNG
+
+It looks like Liam searched for some files inside the file explorer. What are the names of these files? (alphabetical order)
+Financial, Revenue
+
+What are the names of the folders that were present on the USB device? (alphabetical order)
+Critical Data TECH THM, Exfiltration Plan
+
+The external entity didn't fully trust Liam for the exfiltration so they asked him to execute file_uploader.exe, through the instructions in PDF. When was this file last executed and how many times was it executed? (YYYY-MM-DD HH:MM:SS, number of execution times)
+2025-01-29 11:26:09, 2
+
+Liam received a hidden flag inside a file (in the zip folder) from the external entity helping him. What was that?
+FLAGT{THM_TECH_DATA}
+
+It seems like Liam caused one last damage before leaving. When did Liam delete "Tax Records.docx"? (YYYY-MM-DD HH:MM:SS)
+2025-01-29 11:29:02
+
+Which social media site did Liam search for using his web browser? Likely to avoid suspicion, thinking somebody was watching him. (Full URL)
+https://www.facebook.com/
+
+What is the PowerShell command Liam executed as per the plan?
+Get-WmiObject -Class Win32_Share | Select-Object Name, Path
