@@ -1887,6 +1887,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/disk analysis & autopsy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/disk analysis & autopsy.txt</a></td>
 </tr>
 <tr>
+<td align=left>DiskFiltration
+</td>
+<td align=left><a href="https://tryhackme.com/room/diskfiltration
+" target="_blank">https://tryhackme.com/room/diskfiltration
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/diskfiltration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/diskfiltration.txt</a></td>
+</tr>
+<tr>
 <td align=left>Diskrupt
 </td>
 <td align=left><a href="https://tryhackme.com/room/diskrupt
