@@ -24,6 +24,20 @@
     <tr><th valign="top" align="left">1500 Day Streak</th><th valign="top" align="left">Achieving a 1500 day hacking streak</th></tr>
 </table>
 
+# Weekly Leagues Badges
+
+<table>
+  <tr>
+    <td align=left>Badge</td>
+    <td align=left>Way you can earn it</td>
+  </tr>
+    <tr><th valign="top" align="left">Bronze League</th><th valign="top" align="left">Bronze League 1st place</th></tr>
+    <tr><th valign="top" align="left">Silver League</th><th valign="top" align="left">Silver League 1st place</th></tr>
+    <tr><th valign="top" align="left">Gold League</th><th valign="top" align="left">Gold League 1st place</th></tr>
+    <tr><th valign="top" align="left">Diamond League</th><th valign="top" align="left">Diamond League 1st place</th></tr>
+    <tr><th valign="top" align="left">Saphire League</th><th valign="top" align="left">Saphire League 1st place</th></tr>
+</table>
+
 # Other Badges
 
 <table>
