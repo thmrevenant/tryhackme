@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (946)
+# Rooms (947)
 
 <table>
 <tr>
@@ -941,6 +941,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/breakoutthecage1
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/break out the cage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/break out the cage.txt</a></td>
+</tr>
+<tr>
+<td align=left>Breaking Crypto the Simple Way
+</td>
+<td align=left><a href="https://tryhackme.com/room/breakingcryptothesimpleway
+" target="_blank">https://tryhackme.com/room/breakingcryptothesimpleway
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/breaking crypto the simple way.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/breaking crypto the simple way.txt</a></td>
 </tr>
 <tr>
 <td align=left>Breaking RSA
