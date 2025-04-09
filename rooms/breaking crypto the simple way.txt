@@ -1,0 +1,14 @@
+Breaking Crypto the Simple Way
+https://tryhackme.com/room/breakingcryptothesimpleway
+
+What is the flag?
+THM{Psssss_4nd_Qsssssss}
+
+What is the secret used to encrypt the message?
+sunshine
+
+What is the flag?
+THM{3nD_2_3nd_is_n0t_c0mpl1c4ted}
+
+What is the flag?
+THM{flip_n_flip}
