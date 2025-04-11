@@ -5,13 +5,13 @@ What is the number of alerts you see in the SOC dashboard?
 5
 
 What is the name of the most recent alert you see?
-
+Double-Extension File Creation
 
 What was the verdict for the "Unusual VPN Login Location" alert?
 False Positive
 
 What user was mentioned in the "Unusual VPN Login Location" alert?
-
+M.Clark
 
 Should you first prioritise medium over low severity alerts? (Yea/Nay)
 Yea
