@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (947)
+# Rooms (949)
 
 <table>
 <tr>
