@@ -1391,6 +1391,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/compiled.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/compiled.txt</a></td>
 </tr>
 <tr>
+<td align=left>Compromised Windows Analysis
+</td>
+<td align=left><a href="https://tryhackme.com/room/compromisedwindowsanalysis
+" target="_blank">https://tryhackme.com/room/compromisedwindowsanalysis
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/compromised windows analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/compromised windows analysis.txt</a></td>
+</tr> 
+<tr>
 <td align=left>Confidential
 </td>
 <td align=left><a href="https://tryhackme.com/room/confidential
