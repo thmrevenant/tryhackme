@@ -1,0 +1,42 @@
+Compromised Windows Analysis
+https://tryhackme.com/room/compromisedwindowsanalysis
+
+What is the user's name whose system generated suspicious SSH traffic to a malicious IP?
+Aashir
+
+Which tool makes it easier to analyze CSV files?
+Timeline Explorer
+
+What is the name of the scheduled task created by the attacker?
+CnC
+
+What is the IP of the malicious server to which SSH requests are made?
+101.55.125.10
+
+What is the name of the RAR file created during the attack?
+Cursed.rar
+
+When was the RAR file created in the system? Format YYYY-MM-DD HH:MM:SS
+2025-03-29 10:26:07
+
+What is the name of the malicious executable file?
+Cipher.exe
+
+How many times was this file executed?
+2
+
+When was the last time that this file was executed? Format YYYY-MM-DD HH:MM:SS
+2025-03-29 10:29:12
+
+What is the full path of the malicious file?
+c:\users\administrator\desktop\cursed\cipher.exe
+
+What is the SHA1 hash of this file?
+5b15c9d9ef36cae9f24ce63eebd190ac381bb734
+
+When was Defender disabled? Answer in 12 hour clock format. e.g. hours:minutes:seconds AM/PM
+10:25:14 AM
+
+What is the IP address of the attacker's system?
+10.11.90.211
+
