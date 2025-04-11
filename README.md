@@ -6015,6 +6015,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc fundamentals.txt</a></td>
 </tr>
 <tr>
+<td align=left>SOC L1 Alert Triage
+</td>
+<td align=left><a href="https://tryhackme.com/room/socl1alerttriage
+" target="_blank">https://tryhackme.com/room/socl1alerttriage
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert triage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert triage.txt</a></td>
+</tr>
+<tr>
 <td align=left>Solar, exploiting log4j
 </td>
 <td align=left><a href="https://tryhackme.com/room/solar
