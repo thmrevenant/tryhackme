@@ -21,7 +21,7 @@ Nay
 
 Assign yourself to the first-priority alert and change its status to In Progress.
 The name of your selected alert will be the answer to the question.
-
+Potential Data Exfiltration
 
 Which flag did you receive after you correctly triaged the first-priority alert?
 
