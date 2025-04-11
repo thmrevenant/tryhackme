@@ -24,9 +24,10 @@ The name of your selected alert will be the answer to the question.
 Potential Data Exfiltration
 
 Which flag did you receive after you correctly triaged the first-priority alert?
-
+THM{looks_like_lots_of_zoom_meetings}
 
 Which flag did you receive after you correctly triaged the second-priority alert?
-
+THM{how_could_this_user_fall_for_it?}
 
 Which flag did you receive after you correctly triaged the third-priority alert?
+THM{should_we_allow_github_for_devs?}
