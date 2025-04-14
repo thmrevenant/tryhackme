@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (949)
+# Rooms (950)
 
 <table>
 <tr>
@@ -2197,6 +2197,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/exfilibur
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/exfilibur.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/exfilibur.txt</a></td>
+</tr>
+<tr>
+<td align=left>ExfilNode
+</td>
+<td align=left><a href="https://tryhackme.com/room/exfilnode
+" target="_blank">https://tryhackme.com/room/exfilnode
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/exfilnode.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/exfilnode.txt</a></td>
 </tr>
 <tr>
 <td align=left>Expediting Registry Analysis
