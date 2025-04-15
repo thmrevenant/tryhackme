@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (950)
+# Rooms (951)
 
 <table>
 <tr>
@@ -7517,6 +7517,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/x86assemblycrashcourse
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/x86 assembly crash course.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/x86 assembly crash course.txt</a></td>
+</tr>
+<tr>
+<td align=left>XDR Introduction
+</td>
+<td align=left><a href="https://tryhackme.com/room/xdrintroduction
+" target="_blank">https://tryhackme.com/room/xdrintroduction
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/xdr introduction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/xdr introduction.txt</a></td>
 </tr>
 <tr>
 <td align=left>XSS
