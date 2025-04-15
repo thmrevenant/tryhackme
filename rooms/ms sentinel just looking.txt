@@ -1,0 +1,89 @@
+MS Sentinel: Just Looking
+https://tryhackme.com/room/justlooking
+
+What's the row count for SigninLogs_CL table?
+930
+
+What's the row count for AuditLogs_CL table?
+58
+
+Key combination for running KQL queries in Query Editor?
+Shift
+
+MITRE ATT&CK sub-technique for rule: Account Created and Deleted in Short Timeframe
+T1078.004
+
+Rule frequency (in hrs) for rule: Attempts to sign in to disabled accounts
+1
+
+ResultType filter in rule: Explicit MFA Deny
+500121
+
+AppDisplayName filter in rule: Brute force attack against Azure Portal
+Azure Portal
+
+Category filter in rule: Privileged Role Assigned Outside PIM
+RoleManagement
+
+How many accounts were created and deleted in a short time frame?
+5
+
+Which entity deleted these accounts?
+thmMultiTenantApp
+
+Tactic for this incident?
+Initial Access
+
+Workflow Id involved in this incident?
+b3f33fbcc5a541dc803a9b9bb7a5105f
+
+UPNSuffix
+tryhackmelabs.onmicrosoft.com
+
+What's the IP Address involved in this incident?
+181.214.151.205
+
+IP Geolocation (City)
+Miami
+
+Disabled account?
+marcus@tryhackmelabs.onmicrosoft.com
+
+ResultType filter in rule?
+50057
+
+Tactic for this incident?
+Credential Access
+
+How about its technique?
+Brute Force
+
+What's the error code when MFA is denied?
+500121
+
+What's the name of the Access Policy that triggered this MFA during authentication?
+Security Defaults
+
+Which authentication method was used for this MFA?
+Mobile app notification
+
+Browser version of the device initiated this authentication?
+125.0
+
+How many entities are mapped in this incident?
+2
+
+Which UPN escalated Marcus' privileges?
+breakglass@tryhackmelabs.onmicrosoft.com
+
+Which privileged role has been assigned to Marcus?
+Privileged Role Administrator
+
+In which source table has this privilege escalation been logged?
+AuditLogs_CL
+
+Which other user has been a target?
+usr-24052103@tryhackmelabs.onmicrosoft.com
+
+What's the initiating IP Address?
+2.59.157.197
