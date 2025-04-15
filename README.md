@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (951)
+# Rooms (952)
 
 <table>
 <tr>
@@ -4397,6 +4397,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/mrphisher
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mr. phisher.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mr. phisher.txt</a></td>
+</tr>
+<tr>
+<td align=left>MS Sentinel: Just Looking
+</td>
+<td align=left><a href="https://tryhackme.com/room/justlooking
+" target="_blank">https://tryhackme.com/room/justlooking
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ms sentinel just looking.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ms sentinel just looking.txt</a></td>
 </tr>
 <tr>
 <td align=left>Multi-Factor Authentication
