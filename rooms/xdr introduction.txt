@@ -1,0 +1,41 @@
+XDR: Introduction
+https://tryhackme.com/room/xdrintroduction
+
+What is EDR (Endpoint Detection and Response) visibility limited to?
+Endpoints
+
+Is Microsoft Defender XDR purpose-built for organizations using Microsoft products? Yea/Nay
+Yea
+
+Which of the Defender XDR signals focuses on email security?
+Microsoft Defender for Office 365
+
+Which querying language does Microsoft Defender XDR use for threat hunting?
+Kusto Query Language
+
+Monitoring risky Lateral movement is a feature of which Microsoft product?
+Defender for Identity
+
+Where can security admins exclude users from automated response actions?
+Identity automated response
+
+From which tab can security admins create custom roles for specific Microsoft Defender Products?
+Permissions
+
+In how many ways can Microsoft Defender XDR unified role-based access control (RBAC) be activated?
+2
+
+Aside from the Activate workload option. Which other option can be used to activate Microsoft Defender XDR unified role-based access control (RBAC) from the permissions and roles page?
+Workload settings
+
+Besides the Incidents and Email & collaboration alerts tabs, what other tab can be found under Incidents & alerts?
+alerts
+
+Which option do you need to click to modify the incident details?
+Manage incident
+
+How many permission groups are available to customize?
+3
+
+Which permission group is for security admins in charge of configuring security controls?
+Authorization and settings
