@@ -1,0 +1,38 @@
+KQL (Kusto): Introduction
+https://tryhackme.com/room/kqlkustointroduction
+
+In addition to being a SIEM solution, what else is Microsoft Sentinel? (use the abbreviation)
+SOAR
+
+How does MS Sentinel support other security solutions that are not included in the built-in connectors? 
+REST API Integration
+
+What initial service was KQL created for?
+Azure Data Explorer
+
+Analyze the example query from the task. How many computers will the query return?
+10
+
+What table is the example query retrieving its data from?
+Heartbeat
+
+What operator can be used to output results in graphical form?
+render
+
+What operator can be used to filter a specified table based on specified conditions?
+where
+
+What user account name was queried in our second example query above?
+JBOX00$
+
+What is the name of the table queried in our example query?
+SecurityEvent
+
+Analyze the example query from the task. What does the query aggregate per computer?
+EventCount
+
+Run the first example query from the task. What is event ID 4625?
+An account failed to log on
+
+Run the second example query from the task. What is the account type found?
+User
