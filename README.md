@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (954)
+# Rooms (956)
 
 <table>
 <tr>
@@ -3687,6 +3687,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/koth hackers.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/koth hackers.txt</a></td>
 </tr>
 <tr>
+<td align=left>KQL (Kusto): Introduction
+</td>
+<td align=left><a href="https://tryhackme.com/room/kqlkustointroduction
+" target="_blank">https://tryhackme.com/room/kqlkustointroduction
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/kql kusto introduction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/kql kusto introduction.txt</a></td>
+</tr>
+<tr>
 <td align=left>Kubernetes for Everyone
 </td>
 <td align=left><a href="https://tryhackme.com/room/kubernetesforyouly
@@ -4405,6 +4413,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/mrphisher
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mr. phisher.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mr. phisher.txt</a></td>
+</tr>
+<tr>
+<td align=left>MS Sentinel: Introduction
+</td>
+<td align=left><a href="https://tryhackme.com/room/sentinelintroduction
+" target="_blank">https://tryhackme.com/room/sentinelintroduction
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ms sentinel introduction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ms sentinel introduction.txt</a></td>
 </tr>
 <tr>
 <td align=left>MS Sentinel: Just Looking
