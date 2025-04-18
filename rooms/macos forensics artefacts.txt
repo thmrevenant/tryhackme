@@ -1,0 +1,54 @@
+macOS Forensics: Artefacts
+https://tryhackme.com/room/macosforensicsartefacts
+
+What command can be used to mount the image named mac-disk.img to the directory ~/mac in the attached VM, making sure the Data volume is mounted?
+
+
+In the attached VM, which utility can we use to parse plist files?
+plistutil
+
+When was the OS installed on the disk image present in the attached VM? Write your answer as GMT in the format: YYYY-MM-DD hh:mm:ss 
+
+
+What is the country code for this machine?
+
+
+When was the last time this machine booted up? Write your answer as GMT in the format: YYYY-MM-DD hh:mm:ss
+
+
+What is the name of the machine's built-in network interface?
+en0
+
+What is the IP address of the router this machine was last connected to?
+
+
+What is the name of the last logged in user?
+
+
+What is the password hint for the user?
+
+
+When was the last time a user logged out of the machine? Format MMM DD hh:mm:ss
+
+
+What was the last command executed by the user on the machine?
+
+
+What is the GUID of the terminal session in which this command was executed?
+
+
+When was the last time the user closed the terminal? Format YYYY-MM-DD hh:mm:ss
+
+
+For how many seconds was the terminal in focus during this session?
+
+
+What are the viewing options for the Users/thm folder?
+
+
+What is the last directory visited by the user using the Finder application?
+
+
+Which stream in the knowledgeC database contains information about connected Bluetooth devices?
+
+
