@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (952)
+# Rooms (954)
 
 <table>
 <tr>
@@ -4111,6 +4111,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/m4tr1x exit denied.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/m4tr1x exit denied.txt</a></td>
 </tr>
 <tr>
+<td align=left>macOS Forensics: Artefacts
+</td>
+<td align=left><a href="https://tryhackme.com/room/macosforensicsartefacts
+" target="_blank">https://tryhackme.com/room/macosforensicsartefacts
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/macos forensics artefacts.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/macos forensics artefacts.txt</a></td>
+</tr>
+<tr>
 <td align=left>macOS Forensics: The Basics
 </td>
 <td align=left><a href="https://tryhackme.com/room/macosforensicsbasics
@@ -6029,6 +6037,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/socfundamentals
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc fundamentals.txt</a></td>
+</tr>
+<tr>
+<td align=left>SOC L1 Alert Reporting
+</td>
+<td align=left><a href="https://tryhackme.com/room/socl1alertreporting
+" target="_blank">https://tryhackme.com/room/socl1alertreporting
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert reporting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert reporting.txt</a></td>
 </tr>
 <tr>
 <td align=left>SOC L1 Alert Triage
