@@ -1,0 +1,44 @@
+MS Sentinel: Introduction
+https://tryhackme.com/room/sentinelintroduction
+
+What security unit is responsible for protecting the organization against security threats?
+Security Operations Center
+
+Generally, which level of SOC Analyst is responsible for responding to incidents?
+SOC Level 2 Analyst
+
+Besides monitoring, what else do SOC Level 1 Analysts spend the majority of their time with?
+triage
+
+Microsoft Sentinel is a combination of two security concepts, namely SIEM and which other one?
+SOAR
+
+Creating security alerts and incidents is part of which security concept?
+SIEM
+
+By means of how many pillars does Microsoft Sentinel help us to perform security operations?
+4
+
+What is used to ingest data into Sentinel?
+data connectors
+
+Where are the ingested logs stored for further correlation and analysis?
+log analytics workspaces
+
+Workbooks are essentially _______ used for visualization.
+dashboards
+
+When SOC teams are flooded with security alerts and incidents, this is called?
+alert fatigue
+
+In Microsoft Sentinel, automation is done via automated workflows, known as?
+playbooks
+
+The output of running Analytics rules includes security alerts and?
+Incidents
+
+Organizations use Microsoft Sentinel mainly because they need to _______ their cloud infrastructure.
+monitor
+
+With Microsoft Sentinel, there is no need for server provisioning. This means it is?
+cloud-native
