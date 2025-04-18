@@ -1,0 +1,32 @@
+SOC L1 Alert Reporting
+https://tryhackme.com/room/socl1alertreporting
+
+What is the process of passing suspicious alerts to an L2 analyst for review?
+Alert Escalation
+
+What is the process of formally describing alert details and findings?
+Alert Reporting
+
+According to the SOC dashboard, which user email leaked the sensitive document?
+m.boslan@tryhackme.thm
+
+Looking at the new alerts, who is the "sender" of the suspicious, likely phishing email?
+support@microsoft.com
+
+Using the Five Ws template, what flag did you receive after writing a good report?
+
+
+Who is your current L2 in the SOC dashboard that you can assign (escalate) the alerts to?
+
+
+What flag did you receive after correctly escalating the alert from the previous task to L2?
+
+
+After you finish your triage, you should receive a flag, which is your answer!
+
+
+Should you first try to contact your manager in case of a critical threat (Yea/Nay)?
+Nay
+
+Should you immediately contact your L2 if you think you missed the attack (Yea/Nay)?
+Yea
