@@ -2,7 +2,7 @@ macOS Forensics: Artefacts
 https://tryhackme.com/room/macosforensicsartefacts
 
 What command can be used to mount the image named mac-disk.img to the directory ~/mac in the attached VM, making sure the Data volume is mounted?
-
+apfs-fuse -v 4 mac-disk.img ~/mac
 
 In the attached VM, which utility can we use to parse plist files?
 plistutil
