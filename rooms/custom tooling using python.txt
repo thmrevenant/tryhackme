@@ -1,0 +1,40 @@
+Custom Tooling Using Python
+https://tryhackme.com/room/customtoolingpython
+
+Does a scripting language perform better than a compiled language? (Yea/Nay)
+Nay
+
+Which compiled language is easy to cross-compile?
+Go
+
+Which scripting language is best suited for web-based exploits?
+JavaScript
+
+What is one of the renowned Python libraries used to send HTTP requests, interact with web applications, and analyse responses?
+
+
+What is the flag value after logging in as admin?
+
+
+Can you attempt to log in as Mark, whose password follows a specific pattern? His password consists of the first three characters as digits (000-999) followed by a single uppercase letter (A-Z). What is the flag value?
+
+
+How many vulnerabilities will be identified if we use the above scanner.py script with the updated URL http://python.thm/labs/lab2/departments.php?name=? (without changing the original code)
+0
+
+After tweaking the above script to use the appropriate GET parameter, how many payloads are found? (with changing the original code)
+2
+
+Which of the following is the valid type of vulnerability? Write the correct option only.
+b
+
+What is the name of the renowned library that is used to make concurrent requests to an endpoint?
+
+
+What is the flag value?
+
+
+What is the flag?
+
+
+
