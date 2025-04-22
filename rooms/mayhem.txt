@@ -1,0 +1,19 @@
+Mayhem
+https://tryhackme.com/room/mayhemroom
+
+What is the SID of the user that the attacker is executing everything under?
+S-1-5-21-679395392-3966376528-1349639417-1103
+
+What is the Link-local IPv6 Address of the server? Enter the answer exactly as you see it.
+fe80::e134:1b0c:c8d5:3020%6
+
+The attacker printed a flag for us to see. What is that flag?
+
+
+The attacker added a new account as a persistence mechanism. What is the username and password of that account? Format is username:password
+
+
+The attacker found an important file on the server. What is the full path of that file?
+C:\Users\paco\Desktop\Files\clients.csv
+
+What is the flag found inside the file from question 5?
