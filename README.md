@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (956)
+# Rooms (958)
 
 <table>
 <tr>
@@ -1629,6 +1629,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/customalertrulesinwazuh
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom alert rules in wazuh.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom alert rules in wazuh.txt</a></td>
+</tr>
+<tr>
+<td align=left>Custom Tooling Using Python
+</td>
+<td align=left><a href="https://tryhackme.com/room/customtoolingpython
+" target="_blank">https://tryhackme.com/room/customtoolingpython
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom tooling using python.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom tooling using python.txt</a></td>
 </tr>
 <tr>
 <td align=left>CVE-2021-41773/42013
@@ -4213,6 +4221,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/mastermindsxlq
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/masterminds.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/masterminds.txt</a></td>
+</tr>
+<tr>
+<td align=left>Mayhem
+</td>
+<td align=left><a href="https://tryhackme.com/room/mayhemroom
+" target="_blank">https://tryhackme.com/room/mayhemroom
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mayhem.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mayhem.txt</a></td>
 </tr>
 <tr>
 <td align=left>MBR and GPT Analysis
