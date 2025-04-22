@@ -11,7 +11,7 @@ Which scripting language is best suited for web-based exploits?
 JavaScript
 
 What is one of the renowned Python libraries used to send HTTP requests, interact with web applications, and analyse responses?
-
+requests
 
 What is the flag value after logging in as admin?
 
@@ -29,7 +29,7 @@ Which of the following is the valid type of vulnerability? Write the correct opt
 b
 
 What is the name of the renowned library that is used to make concurrent requests to an endpoint?
-
+Threading
 
 What is the flag value?
 
