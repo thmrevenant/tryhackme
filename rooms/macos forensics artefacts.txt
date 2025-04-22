@@ -8,47 +8,47 @@ In the attached VM, which utility can we use to parse plist files?
 plistutil
 
 When was the OS installed on the disk image present in the attached VM? Write your answer as GMT in the format: YYYY-MM-DD hh:mm:ss 
-
+2024-12-08 17:42:28
 
 What is the country code for this machine?
-
+AE
 
 When was the last time this machine booted up? Write your answer as GMT in the format: YYYY-MM-DD hh:mm:ss
-
+2025-01-19 15:47:05
 
 What is the name of the machine's built-in network interface?
 en0
 
 What is the IP address of the router this machine was last connected to?
-
+192.168.64.1
 
 What is the name of the last logged in user?
-
+thm
 
 What is the password hint for the user?
-
+count to 5
 
 When was the last time a user logged out of the machine? Format MMM DD hh:mm:ss
-
+Jan 19 07:52:43
 
 What was the last command executed by the user on the machine?
-
+vim creds.txt
 
 What is the GUID of the terminal session in which this command was executed?
-
+452AEA93-AEE7-420B-871E-C57053E15DD0
 
 When was the last time the user closed the terminal? Format YYYY-MM-DD hh:mm:ss
-
+2025-01-19 15:52:33
 
 For how many seconds was the terminal in focus during this session?
-
+176
 
 What are the viewing options for the Users/thm folder?
-
+Open in list view
 
 What is the last directory visited by the user using the Finder application?
-
+Recents
 
 Which stream in the knowledgeC database contains information about connected Bluetooth devices?
-
+Bluetooth/isConnected
 
