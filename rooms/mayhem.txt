@@ -8,12 +8,13 @@ What is the Link-local IPv6 Address of the server? Enter the answer exactly as y
 fe80::e134:1b0c:c8d5:3020%6
 
 The attacker printed a flag for us to see. What is that flag?
-
+THM{HavOc_C2_DeCRypTing_is_Fun_Fun_FUN}
 
 The attacker added a new account as a persistence mechanism. What is the username and password of that account? Format is username:password
-
+administrato:WfD3hz3AXZ4n
 
 The attacker found an important file on the server. What is the full path of that file?
 C:\Users\paco\Desktop\Files\clients.csv
 
 What is the flag found inside the file from question 5?
+THM{I_Can_SEE_ThE_fiL3_YoU_ToOk}
