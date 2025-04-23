@@ -14,19 +14,19 @@ What disk-based area temporarily stores RAM data when memory is full?
 swap
 
 What tool is commonly used by attackers to extract credentials from memory?
-
+Mimikatz
 
 What type of memory dump captures all RAM, including user and kernel space?
-
+full
 
 What Linux tool can be used to extract memory for forensic purposes?
-
+lime
 
 Which file on Windows systems stores memory during hibernation?
-
+hiberfil.sys
 
 What anti-forensics technique hides processes by altering kernel structures?
-
+DKOM
 
 What technique involves replacing a trusted process’s memory with malicious code?
 
