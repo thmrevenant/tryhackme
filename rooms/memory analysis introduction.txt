@@ -44,5 +44,5 @@ Which MITRE technique involves setting tasks that persist through reboots (e.g.,
 T1053.005
 
 What is the value of the flag?
-
+THM{m3mory_analyst_g00d_job}
 
