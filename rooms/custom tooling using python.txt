@@ -14,10 +14,10 @@ What is one of the renowned Python libraries used to send HTTP requests, interac
 requests
 
 What is the flag value after logging in as admin?
-
+THM{Brute_Force_Success007}
 
 Can you attempt to log in as Mark, whose password follows a specific pattern? His password consists of the first three characters as digits (000-999) followed by a single uppercase letter (A-Z). What is the flag value?
-
+THM{Brute_Force_Success_Mark001}
 
 How many vulnerabilities will be identified if we use the above scanner.py script with the updated URL http://python.thm/labs/lab2/departments.php?name=? (without changing the original code)
 0
@@ -32,9 +32,9 @@ What is the name of the renowned library that is used to make concurrent request
 Threading
 
 What is the flag value?
-
+THM{basic_exploit_using_python}
 
 What is the flag?
-
+THM{6470e394cbf6dab6a91682cc8585059b}
 
 
