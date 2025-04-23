@@ -1,0 +1,48 @@
+Memory Analysis Introduction
+https://tryhackme.com/room/memoryanalysisintroduction
+
+What type of memory is prioritized because its data disappears after shutdown?
+
+
+What is the slowest component in the memory hierarchy?
+
+
+Which memory region typically contains dynamically allocated data like encryption keys?
+
+
+What disk-based area temporarily stores RAM data when memory is full?
+
+
+What tool is commonly used by attackers to extract credentials from memory?
+
+
+What type of memory dump captures all RAM, including user and kernel space?
+
+
+What Linux tool can be used to extract memory for forensic purposes?
+
+
+Which file on Windows systems stores memory during hibernation?
+
+
+What anti-forensics technique hides processes by altering kernel structures?
+
+
+What technique involves replacing a trusted process’s memory with malicious code?
+
+
+Which Windows service provides PowerShell remoting?
+
+
+What MITRE technique ID is associated with in-memory PowerShell execution?
+
+
+What command-line tool enables remote execution and is linked to lateral movement (T1021.002)?
+
+
+Which MITRE technique involves setting tasks that persist through reboots (e.g., schtasks.exe)?
+
+
+What is the value of the flag?
+
+
