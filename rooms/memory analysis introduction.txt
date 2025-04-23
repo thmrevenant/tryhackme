@@ -2,16 +2,16 @@ Memory Analysis Introduction
 https://tryhackme.com/room/memoryanalysisintroduction
 
 What type of memory is prioritized because its data disappears after shutdown?
-
+RAM
 
 What is the slowest component in the memory hierarchy?
-
+disk
 
 Which memory region typically contains dynamically allocated data like encryption keys?
-
+heap
 
 What disk-based area temporarily stores RAM data when memory is full?
-
+swap
 
 What tool is commonly used by attackers to extract credentials from memory?
 
