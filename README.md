@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (960)
+# Rooms (961)
 
 <table>
 <tr>
@@ -4381,6 +4381,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/mma
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mobile malware analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mobile malware analysis.txt</a></td>
+</tr>
+<tr>
+<td align=left>Moebius
+</td>
+<td align=left><a href="https://tryhackme.com/room/moebius
+" target="_blank">https://tryhackme.com/room/moebius
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/moebius.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/moebius.txt</a></td>
 </tr>
 <tr>
 <td align=left>Monday Monitor
