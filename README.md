@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (959)
+# Rooms (960)
 
 <table>
 <tr>
@@ -2173,6 +2173,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/eritsecurusi
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/erit securus I.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/erit securus I.txt</a></td>
+</tr>
+<tr>
+<td align=left>Erlang/OTP SSH: CVE-2025-32433
+</td>
+<td align=left><a href="https://tryhackme.com/room/erlangotpsshcve202532433
+" target="_blank">https://tryhackme.com/room/erlangotpsshcve202532433
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/erlang otp ssh cve-2025-32433.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/erlang otp ssh cve-2025-32433.txt</a></td>
 </tr>
 <tr>
 <td align=left>Evading Logging and Monitoring
