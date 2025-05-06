@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (961)
+# Rooms (964)
 
 <table>
 <tr>
@@ -3783,6 +3783,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/learning cyber security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/learning cyber security.txt</a></td>
 </tr>
 <tr>
+<td align=left>Ledger
+</td>
+<td align=left><a href="https://tryhackme.com/room/ledger
+" target="_blank">https://tryhackme.com/room/ledger
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ledger.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ledger.txt</a></td>
+</tr>
+<tr>
 <td align=left>Legal Considerations in DFIR
 </td>
 <td align=left><a href="https://tryhackme.com/room/dfirprocesslegalconsiderations
@@ -4061,6 +4069,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/loggingforaccountability
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/logging for accountability.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/logging for accountability.txt</a></td>
+</tr>
+<tr>
+<td align=left>Logless Hunt
+</td>
+<td align=left><a href="https://tryhackme.com/room/loglesshunt
+" target="_blank">https://tryhackme.com/room/loglesshunt
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/logless hunt.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/logless hunt.txt</a></td>
 </tr>
 <tr>
 <td align=left>Logs Fundamentals
@@ -6109,6 +6125,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/socl1alerttriage
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert triage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert triage.txt</a></td>
+</tr>
+<tr>
+<td align=left>SOC Workbooks and Lookups
+</td>
+<td align=left><a href="https://tryhackme.com/room/socworkbookslookups
+" target="_blank">https://tryhackme.com/room/socworkbookslookups
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc workbooks and lookups.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc workbooks and lookups.txt</a></td>
 </tr>
 <tr>
 <td align=left>Solar, exploiting log4j
