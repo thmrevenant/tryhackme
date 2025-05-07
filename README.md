@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (964)
+# Rooms (965)
 
 <table>
 <tr>
@@ -3157,6 +3157,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/introtoendpointsecurity
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to endpoint security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to endpoint security.txt</a></td>
+</tr>
+<tr>
+<td align=left>Intro to GraphQL Hacking
+</td>
+<td align=left><a href="https://tryhackme.com/room/introtographqlhacking
+" target="_blank">https://tryhackme.com/room/introtographqlhacking
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to graphql hacking.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to graphql hacking.txt</a></td>
 </tr>
 <tr>
 <td align=left>Intro to IaC
