@@ -2,6 +2,7 @@ Moebius
 https://tryhackme.com/room/moebius
 
 What is the value of the user flag?
-
+THM{ddb3254b89803ca177d7d11024e7935a}
 
 What is the value of the root flag?
+THM{2ba37995df993f1294e7c155ce7ef929}
