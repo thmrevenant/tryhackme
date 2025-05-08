@@ -1,0 +1,32 @@
+Memory Acquisition
+https://tryhackme.com/room/memoryacquisition
+
+What is the file name that contains the memory of a hibernated Windows system? The answer is in the format: filename.extension
+hiberfil.sys
+
+Which tool can you use to obtain a process memory dump on a linux host?
+gcore
+
+Start notepad.exe on the VM and use the procdump64.exe tool to write a 'triage' dump file of the process. Ensure that the dump file's name is formatted like PROCESSNAME_PID_YYMMDD_HHMMSS.dmp. Enter the complete command below. Note: Use PowerShell so to syntax is correct. No need to include the -accepteula flag
+.\procdump64.exe -mt notepad.exe PROCESSNAME_PID_YYMMDD_HHMMSS.dmp
+
+Which two tools can you use to extract or dump memory artifacts of the lsass.exe process? Enter the answers in alphabetic order, separated by a comma, and in the same format they are mentioned in the task.
+Mimikatz,procdump64.exe
+
+Modify the following command to ensure the memory dump is in the .raw format and is accessible over TCP port 5555: sudo insmod lime-6.8.0-1027-aws.ko "path=/tmp/memdump.lime format=lime"
+sudo insmod lime-6.8.0-1027-aws.ko "path=tcp:5555 format=raw"
+
+LiME includes a parameter to create a hash immediately after capturing the memory. Modify the following command and ensure a MD5 hash is calculated: sudo insmod lime-6.8.0-1027-aws.ko "path=/tmp/memdump.lime format=lime"
+sudo insmod lime-6.8.0-1027-aws.ko "path=/tmp/memdump.lime format=lime digest=md5"
+
+What is the name of the command line utility you use to take a memory dump on the VirtualBox hypervisor? Use the format filename.extension for answering.
+vboxmanage.exe
+
+Which command do you use to create a snapshot in Hyper-V?
+CheckPoint-VM
+
+What process describes keeping track of all hosts and their information?
+Asset Management
+
+A threat actor shuts down the target system after successfully exfiltrating data. What term can we use to categorize this action?
+anti-forensic techniques
