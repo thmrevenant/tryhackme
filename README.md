@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (965)
+# Rooms (966)
 
 <table>
 <tr>
@@ -4277,6 +4277,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/md2pdf
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/md2pdf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/md2pdf.txt</a></td>
+</tr>
+<tr>
+<td align=left>Memory Acquisition
+</td>
+<td align=left><a href="https://tryhackme.com/room/memoryacquisition
+" target="_blank">https://tryhackme.com/room/memoryacquisition
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/memory acquisition.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/memory acquisition.txt</a></td>
 </tr>
 <tr>
 <td align=left>Memory Analysis Introduction
