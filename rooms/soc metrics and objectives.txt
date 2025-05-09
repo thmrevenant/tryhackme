@@ -22,9 +22,10 @@ Should all SOC roles work together to keep metrics improving? (Yea/Nay)
 Yea
 
 What flag did you get after completing the first scenario?
-
+THM{mttr:quick_start_but_slow_response}
 
 What flag did you get after completing the second scenario?
-
+THM{mttd:time_between_attack_and_alert}
 
 What flag did you get after completing the third scenario?
+THM{fpr:the_main_cause_of_l1_burnout}
