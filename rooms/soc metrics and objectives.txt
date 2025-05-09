@@ -1,0 +1,30 @@
+SOC Metrics and Objectives
+https://tryhackme.com/room/socmetricsobjectives
+
+Is zero alerts for one month a good sign for your SOC team? (Yea/Nay)
+Nay
+
+What is the False Positive Rate if only 10 out of 50 alerts appear to be real threats?
+80%
+
+Imagine a scenario where the SOC team receives a critical alert on Saturday.
+If the team works 8/5, on which day of the week will they acknowledge the alert?
+Monday
+
+Imagine a scenario where an employee was lured into running data stealer malware.
+Provide the MTTD, MTTA, and MTTR via comma as your answer (e.g. 10,20,30).
+12,10,51
+
+What is the False Positive Rate limit you should aim not to reach?
+80%
+
+Should all SOC roles work together to keep metrics improving? (Yea/Nay)
+Yea
+
+What flag did you get after completing the first scenario?
+
+
+What flag did you get after completing the second scenario?
+
+
+What flag did you get after completing the third scenario?
