@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (966)
+# Rooms (967)
 
 <table>
 <tr>
@@ -6141,6 +6141,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/socl1alerttriage
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert triage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert triage.txt</a></td>
+</tr>
+<tr>
+<td align=left>SOC Metrics and Objectives
+</td>
+<td align=left><a href="https://tryhackme.com/room/socmetricsobjectives
+" target="_blank">https://tryhackme.com/room/socmetricsobjectives
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc metrics and objectives.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc metrics and objectives.txt</a></td>
 </tr>
 <tr>
 <td align=left>SOC Workbooks and Lookups
