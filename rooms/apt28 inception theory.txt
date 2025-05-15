@@ -1,0 +1,68 @@
+APT28 Inception Theory
+https://tryhackme.com/room/apt28inceptiontheory
+
+What does APT stand for in the context of cyber security?
+Advanced Persistent Threat
+
+Which APT group is believed to be behind the 2020 cyberattacks targeting COVID-19 vaccine research organisations in the UK, U.S., and Canada?
+APT29
+
+Which APT group is linked to the UAC-0028 threat actors responsible for spreading CredoMap_v2 malware in a phishing attack on Ukraine?
+APT28
+
+Which country is APT28 associated with?
+Russia
+
+What is the primary affiliation of APT28, and which military unit within the Russian government is specifically responsible for its operations?
+GRU Unit 26165
+
+When was APT28 first identified as an active cyber espionage group?
+2004
+
+What is the primary activity that APT28 engages in to support Russia's strategic objectives?
+cyber espionage
+
+Which French television company did APT28 compromise in 2015?
+TV5Monde
+
+Which parliament did APT28 compromise in 2020?
+Norwegian
+
+Which country reported that APT28 compromised its government institutions in May 2024?
+Poland
+
+What summit did APT28 spoof in their malicious emails in September 2023 to entice targets?
+BRICS Summit
+
+What agency in France warned in 2023 that the Russia-linked APT28 group had breached several critical networks, including those of government institutions and businesses?
+ANSSI
+
+Which CVE did APT28 use to exploit the Windows Print Spooler service for compromise?
+CVE-2022-38028
+
+Which CVE did APT28 exploit the Outlook vulnerability in 2023?
+CVE-2023-23397
+
+Which method did APT28 use for initial access in the DNC Hack in 2016?
+Phishing
+
+Which registry key does APT28 usually modify to establish persistence using Boot or Logon Initialisation Scripts?
+HKCU\Environment\UserInitMprLogonScript
+
+Which registry key did APT28 modify in 2020 to establish a persistence technique (T1137.002) in attacks targeting the European Union?
+HKCU\Software\Microsoft\Office test\Special\Perf
+
+Which CVE number identifies the escalation of privilege vulnerability in Windows exploited by APT28 during their 2017 attacks?
+CVE-2017-0263
+
+Which privilege escalation vulnerability affecting Outlook on Windows was exploited by APT28 in their campaigns against Ukrainian organisations and later targeted key sectors in the U.S., Europe, and the Middle East?
+CVE-2023-23397
+
+What is the MITRE ID for the lateral movement technique used by APT28 in the CERT-UA#8399 report released in December 2023?
+T1021.002
+
+What method did APT28 employ for lateral movement in the DNC hack, allowing them to authenticate without needing the actual passwords?
+Pass the Hash
+
+What malware did APT28 use in their August 2020 campaign targeting NATO-related entities to collect and exfiltrate sensitive data?
+Zebrocy
