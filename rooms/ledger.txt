@@ -2,5 +2,7 @@ Ledger
 https://tryhackme.com/room/ledger
 
 What is the user flag?
+THM{ENUMERATION_IS_THE_KEY}
 
 What is the root flag?
+THM{THE_BYPASS_IS_CERTIFIED!}
