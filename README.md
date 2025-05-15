@@ -46,7 +46,7 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 </table>
 
-# Rooms (967)
+# Rooms (970)
 
 <table>
 <tr>
@@ -357,6 +357,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/antireverseengineering
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/anti-reverse engineering.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/anti-reverse engineering.txt</a></td>
+</tr>
+<tr>
+<td align=left>APT28 Inception Theory
+</td>
+<td align=left><a href="https://tryhackme.com/room/apt28inceptiontheory
+" target="_blank">https://tryhackme.com/room/apt28inceptiontheory
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/apt28 inception theory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/apt28 inception theory.txt</a></td>
 </tr>
 <tr>
 <td align=left>APIWizards Breach
@@ -5887,6 +5895,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/security engineer intro.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/security engineer intro.txt</a></td>
 </tr>
 <tr>
+<td align=left>Security Footage
+</td>
+<td align=left><a href="https://tryhackme.com/room/securityfootage
+" target="_blank">https://tryhackme.com/room/securityfootage
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/security footage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/security footage.txt</a></td>
+</tr>
+<tr>
 <td align=left>Security Operations
 </td>
 <td align=left><a href="https://tryhackme.com/room/securityoperations
@@ -7621,6 +7637,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/wreath
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wreath.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wreath.txt</a></td>
+</tr>
+<tr>
+<td align=left>Writing Pentest Reports
+</td>
+<td align=left><a href="https://tryhackme.com/room/writingpentestreports
+" target="_blank">https://tryhackme.com/room/writingpentestreports
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/writing pentest reports.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/writing pentest reports.txt</a></td>
 </tr>
 <tr>
 <td align=left>WWBuddy
