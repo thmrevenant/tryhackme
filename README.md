@@ -4,49 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Retired Rooms (4)
-
-<table>
-<tr>
-	<th align=left>Room</th>
-	<th align=left>Link</th>
-	<th align=left>Solutions</th>
-</tr>
-<tr>
-<td align=left>Hackfinity Battle Encore
-</td>
-<td align=left><a href="https://tryhackme.com/room/HackfinityBattleEncore
-" target="_blank">https://tryhackme.com/room/HackfinityBattleEncore
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/hackfinity battle encore.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/hackfinity battle encore.txt</a></td>
-</tr>
-<tr>
-<td align=left>ISO27001
-</td>
-<td align=left><a href="https://tryhackme.com/room/iso27001
-" target="_blank">https://tryhackme.com/room/iso27001
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/iso27001.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/iso27001.txt</a></td>
-</tr>
-<tr>
-<td align=left>WebOSINT
-</td>
-<td align=left><a href="https://tryhackme.com/room/webosint
-" target="_blank">https://tryhackme.com/room/webosint
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/webosint.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/webosint.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Base
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsbase
-" target="_blank">https://tryhackme.com/room/windowsbase
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/windows base.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/windows base.txt</a></td>
-</tr>
-</table>
-
-# Rooms (970)
+# Rooms (974)
 
 <table>
 <tr>
@@ -2679,6 +2637,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle.txt</a></td>
 </tr>
 <tr>
+<td align=left>Hackfinity Battle Encore
+</td>
+<td align=left><a href="https://tryhackme.com/room/HackfinityBattleEncore
+" target="_blank">https://tryhackme.com/room/HackfinityBattleEncore
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/hackfinity battle encore.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/hackfinity battle encore.txt</a></td>
+</tr>
+<tr>
 <td align=left>Hacking Hadoop
 </td>
 <td align=left><a href="https://tryhackme.com/room/hackinghadoop
@@ -3493,6 +3459,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/islandorchestration
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/island orchestration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/island orchestration.txt</a></td>
+</tr>
+<tr>
+<td align=left>ISO27001
+</td>
+<td align=left><a href="https://tryhackme.com/room/iso27001
+" target="_blank">https://tryhackme.com/room/iso27001
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/iso27001.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/iso27001.txt</a></td>
 </tr>
 <tr>
 <td align=left>ItsyBitsy
@@ -7343,6 +7317,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/webgoat.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/webgoat.txt</a></td>
 </tr>
 <tr>
+<td align=left>WebOSINT
+</td>
+<td align=left><a href="https://tryhackme.com/room/webosint
+" target="_blank">https://tryhackme.com/room/webosint
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/webosint.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/webosint.txt</a></td>
+</tr>
+<tr>
 <td align=left>Wekor
 </td>
 <td align=left><a href="https://tryhackme.com/room/wekorra
@@ -7429,6 +7411,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/windowsapplications
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows applications forensics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows applications forensics.txt</a></td>
+</tr>
+<tr>
+<td align=left>Windows Base
+</td>
+<td align=left><a href="https://tryhackme.com/room/windowsbase
+" target="_blank">https://tryhackme.com/room/windowsbase
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/windows base.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/windows base.txt</a></td>
 </tr>
 <tr>
 <td align=left>Windows Command Line
