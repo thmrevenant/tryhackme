@@ -2642,7 +2642,7 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://tryhackme.com/room/HackfinityBattleEncore
 " target="_blank">https://tryhackme.com/room/HackfinityBattleEncore
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/hackfinity battle encore.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/hackfinity battle encore.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle encore.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle encore.txt</a></td>
 </tr>
 <tr>
 <td align=left>Hacking Hadoop
@@ -3466,7 +3466,7 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://tryhackme.com/room/iso27001
 " target="_blank">https://tryhackme.com/room/iso27001
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/iso27001.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/iso27001.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/iso27001.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/iso27001.txt</a></td>
 </tr>
 <tr>
 <td align=left>ItsyBitsy
@@ -7322,7 +7322,7 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://tryhackme.com/room/webosint
 " target="_blank">https://tryhackme.com/room/webosint
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/webosint.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/webosint.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/webosint.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/webosint.txt</a></td>
 </tr>
 <tr>
 <td align=left>Wekor
@@ -7418,7 +7418,7 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://tryhackme.com/room/windowsbase
 " target="_blank">https://tryhackme.com/room/windowsbase
 </a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/windows base.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms-retired/windows base.txt</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows base.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows base.txt</a></td>
 </tr>
 <tr>
 <td align=left>Windows Command Line
