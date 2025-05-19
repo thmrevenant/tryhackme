@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (974)
+# Rooms (975)
 
 <table>
 <tr>
@@ -7107,6 +7107,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/volatility
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/volatility.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/volatility.txt</a></td>
+</tr>
+<tr>
+<td align=left>Volt Typhoon
+</td>
+<td align=left><a href="https://tryhackme.com/room/volttyphoon
+" target="_blank">https://tryhackme.com/room/volttyphoon
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/volt typhoon.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/volt typhoon.txt</a></td>
 </tr>
 <tr>
 <td align=left>Vulnerabilities 101
