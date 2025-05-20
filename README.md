@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (975)
+# Rooms (977)
 
 <table>
 <tr>
@@ -67,6 +67,22 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/activerecon
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/active reconnaissance.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/active reconnaissance.txt</a></td>
+</tr>
+<tr>
+<td align=left>AD: Authenticated Enumeration
+</td>
+<td align=left><a href="https://tryhackme.com/room/adauthenticatedenumeration
+" target="_blank">https://tryhackme.com/room/adauthenticatedenumeration
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad authenticated enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad authenticated enumeration.txt</a></td>
+</tr>
+<tr>
+<td align=left>AD: Basic Enumeration
+</td>
+<td align=left><a href="https://tryhackme.com/room/adbasicenumeration
+" target="_blank">https://tryhackme.com/room/adbasicenumeration
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad basic enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad basic enumeration.txt</a></td>
 </tr>
 <tr>
 <td align=left>AD Certificate Templates
