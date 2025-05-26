@@ -17,7 +17,7 @@ How many domain user accounts are there?
 31
 
 What is the full name of the user rduke?
-
+Raoul Duke
 
 How many local user accounts are there on the WRK machine?
 5
