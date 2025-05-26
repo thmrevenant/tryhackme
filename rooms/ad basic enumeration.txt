@@ -2,22 +2,22 @@ AD: Basic Enumeration
 https://tryhackme.com/room/adbasicenumeration
 
 What is the domain name of our target?
-
+tryhackme.loc
 
 What version of Windows Server is running on the DC?
 Windows Server 2019 Datacenter
 
 What is the flag hidden in one of the shares?
-
+THM{88_SMB_88}
 
 What group is the user rduke part of?
-
+Domain Users
 
 What is this user's full name?
-
+Raoul Duke
 
 Which username is associated with RID 1634?
-
+katie.thomas
 
 What is the minimum password length?
 7
@@ -26,3 +26,4 @@ What is the locked account duration?
 2 minutes
 
 Perform password spraying using CrackMapExec. What valid credentials did you find? (format: username:password)
+rduke:Password1!
