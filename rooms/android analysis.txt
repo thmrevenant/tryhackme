@@ -1,0 +1,35 @@
+Android Analysis
+https://tryhackme.com/room/androidanalysis
+
+Navigate the directories in FTK Imager. Examine the build.prop file found in the system folder. What is the device's serial number?
+ABC123456789
+
+Examine the artifact containing information about the device's installed apps. What is the last package installed on this device?
+com.sneakcam.capture
+
+What is the flag hidden inside SMS? 
+FLAG{MSG_HIDDEN_INTENT}
+
+In the call logs, which number has the longest call duration?
++14155550011
+
+What is the second-to-last suspicious contact name in the list?
+Encrypted User
+
+Most Chrome searches indicate that the user was looking for sites to upload data. What is the last URL found in the list for a similar purpose?
+https://easyupload.io
+
+What is the name of the Bluetooth device found in the configuration?
+Pixel_6_User
+
+What is the name of the package found that could be used for the data exfiltration?
+com.data.exfiltool
+
+One of the MMS message indicates the website used to send the sensitive file? What is the name of that site?
+MediaFire
+
+In the contacts, what is the email address associated with the suspicious user named "Encrypted User"?
+ghost123@tutanota.com
+
+A sensitive PDF document was found on the device. Examine the document in the downloads folder. What is the flag hidden inside it?
+FLAG{INSIDER_ACCESS_42X9}
