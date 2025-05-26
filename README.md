@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (977)
+# Rooms (982)
 
 <table>
 <tr>
@@ -35,6 +35,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/learncyberin25days
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/25 days of cyber security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/25 days of cyber security.txt</a></td>
+</tr>
+<tr>
+<td align=left>A Bucket of Phish
+</td>
+<td align=left><a href="https://tryhackme.com/room/hfb1abucketofphish
+" target="_blank">https://tryhackme.com/room/hfb1abucketofphish
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/a bucket of phish.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/a bucket of phish.txt</a></td>
 </tr>
 <tr>
 <td align=left>Abusing Windows Internals
@@ -269,6 +277,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/analysing volatile memory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/analysing volatile memory.txt</a></td>
 </tr>
 <tr>
+<td align=left>Android Analysis
+</td>
+<td align=left><a href="https://tryhackme.com/room/androidanalysis
+" target="_blank">https://tryhackme.com/room/androidanalysis
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/android analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/android analysis.txt</a></td>
+</tr>
+<tr>
 <td align=left>Android Hacking 101
 </td>
 <td align=left><a href="https://tryhackme.com/room/androidhacking101
@@ -340,6 +356,14 @@ My own private TryHackMe Database to lookup for answers.
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/apt28 inception theory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/apt28 inception theory.txt</a></td>
 </tr>
+<tr>
+<td align=left>APT28 in the Snare
+</td>
+<td align=left><a href="https://tryhackme.com/room/apt28inthesnare
+" target="_blank">https://tryhackme.com/room/apt28inthesnare
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/apt28 in the snare.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/apt28 in the snare.txt</a></td>
+</tr>	
 <tr>
 <td align=left>APIWizards Breach
 </td>
@@ -2765,6 +2789,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/heartbleed.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/heartbleed.txt</a></td>
 </tr>
 <tr>
+<td align=left>Heist
+</td>
+<td align=left><a href="https://tryhackme.com/room/hfb1heist
+" target="_blank">https://tryhackme.com/room/hfb1heist
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/heist.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/heist.txt</a></td>
+</tr>
+<tr>
 <td align=left>Hijack
 </td>
 <td align=left><a href="https://tryhackme.com/room/hijack
@@ -5059,6 +5091,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/parrotpost
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/parrotpost phishing analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/parrotpost phishing analysis.txt</a></td>
+</tr>
+<tr>
+<td align=left>PassCode
+</td>
+<td align=left><a href="https://tryhackme.com/room/hfb1passcode
+" target="_blank">https://tryhackme.com/room/hfb1passcode
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/passcode.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/passcode.txt</a></td>
 </tr>
 <tr>
 <td align=left>Passive Reconnaissance
