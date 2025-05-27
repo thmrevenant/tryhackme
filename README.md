@@ -4437,6 +4437,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mnemonic.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mnemonic.txt</a></td>
 </tr>
 <tr>
+<td align=left>Mobile Acquisition
+</td>
+<td align=left><a href="https://tryhackme.com/room/mobileacquisition
+" target="_blank">https://tryhackme.com/room/mobileacquisition
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mobile acquisition.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mobile acquisition.txt</a></td>
+</tr>
+<tr>
 <td align=left>Mobile Malware Analysis
 </td>
 <td align=left><a href="https://tryhackme.com/room/mma
