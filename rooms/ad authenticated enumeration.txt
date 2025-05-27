@@ -11,7 +11,7 @@ What is the Hashcat mode used to crack AS-REP hashes?
 18200
 
 What is the password of the user asrepuser1?
-
+qwerty123!
 
 How many domain user accounts are there?
 31
@@ -26,7 +26,7 @@ How many domain groups are there?
 21
 
 What is the distinguishedName value of the asrepuser1 account?
-
+CN=ASREPUSER1,CN=USERS,DC=TRYHACKME,DC=LOC
 
 According to the "All Domain Admins" query, how many users are part of the Domain Admins group?
 4
