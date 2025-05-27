@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (982)
+# Rooms (983)
 
 <table>
 <tr>
