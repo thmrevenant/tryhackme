@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (983)
+# Rooms (984)
 
 <table>
 <tr>
@@ -1635,6 +1635,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/customalertrulesinwazuh
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom alert rules in wazuh.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom alert rules in wazuh.txt</a></td>
+</tr>
+<tr>
+<td align=left>Custom Tooling using Burp
+</td>
+<td align=left><a href="https://tryhackme.com/room/customtoolingviaburp
+" target="_blank">https://tryhackme.com/room/customtoolingviaburp
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom tooling using burp.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom tooling using burp.txt</a></td>
 </tr>
 <tr>
 <td align=left>Custom Tooling Using Python
