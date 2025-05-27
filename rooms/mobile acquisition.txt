@@ -1,0 +1,44 @@
+Mobile Acquisition
+https://tryhackme.com/room/mobileacquisition
+
+In what country was it where there is a famous example of mobile devices being used within investigations?
+South Africa
+
+What is the technical term for a device that has become the initial access method of an attacker?
+Entrypoint
+
+Which manufacturer protection prevents untrusted code from loading during boot?
+Secure boot process
+
+Are encryption keys stored in software or hardware?
+hardware
+
+What feature on the iPhone can remotely wipe the device in the event of theft?
+Find My
+
+What app store was found to have malicious applications available to users?
+Google Play
+
+What is the name of the sophisticated malware that used a combination of "one click" and "zero click" attacks?
+Pegasus
+
+If I wanted to recover deleted data, what acquisition method would I try?
+Physical
+
+Which acquisition method involves using features of the Operating System to extract data?
+Logical Acquisition
+
+What is the name of the tool that can be used to perform a backup of an Iphone, via the CLI?
+idevicebackup2
+
+What is the name of the tool that can be used to perform a backup of an Android, via the CLI?
+ADB
+
+What is the name of the technique that boots the device into a temporary Operating System, often bypassing security mechanisms?
+Custom Boot Loading
+
+What is the name of the technique that exploits a known vulnerability within the device? Granting it full or "root" access?
+Jailbreaking
+
+What is the flag displayed once the capture is complete?
+THM{MOBILE_ACQUISITION}
