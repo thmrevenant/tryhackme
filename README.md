@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (988)
+# Rooms (989)
 
 <table>
 <tr>
@@ -6694,6 +6694,14 @@ My own private TryHackMe Database to lookup for answers.
 </tr>
 <tr>
 <td align=left>The Game
+</td>
+<td align=left><a href="https://tryhackme.com/room/hfb1thegamev2
+" target="_blank">https://tryhackme.com/room/hfb1thegamev2
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the game v2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the game v2.txt</a></td>
+</tr>
+<tr>
+<td align=left>The Game v2
 </td>
 <td align=left><a href="https://tryhackme.com/room/hfb1thegame
 " target="_blank">https://tryhackme.com/room/hfb1thegame
