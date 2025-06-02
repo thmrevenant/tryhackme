@@ -1,0 +1,38 @@
+Windows Memory & Processes
+https://tryhackme.com/room/windowsmemoryandprocs
+
+What field is used to keep track of all the active processes? Only enter the fields' name.
+ActiveProcessLinks
+
+What field is used to store the PID of a process? Only enter the fields' name.
+UniqueProcessId
+
+What is the PID of the csrss.exe process that has 12 threads? You can use the pslist.txt file to find the answer.
+440
+
+What is the (memory) Offset(V) of the process with PID 5672? You can use the pslist.txt file to find the answer.
+0x990b29293080 
+
+What is the parentID (PPID) of the services.exe (PID 664) process? Use the processtree.txt file to answer the question.
+524
+
+What is the ImageFileName of the process that has the PID 7788? Use the processtree.txt file to answer the question.
+FTK Imager.exe
+
+What is the number of processes that have 0 Threads? Use the psscan.txt file to answer the question.
+3
+
+What is the number of processes that have the Exit Time filled in? Use the psxview.txt file to answer the question.
+3
+
+What is the path of the process with PID 7788?
+C:\Program Files\AccessData\FTK Imager\FTK Imager.exe
+
+Dump the process with PID 7788. What is the name of the dumped file that represents the executable?
+file.0x990b2ae1ed40.0x990b29954a20.ImageSectionObject.FTK Imager.exe.img
+
+What is the name of the likely compromised user?
+operator
+
+What is the ID assigned to the MITRE Tactic Command and Control?
+TA0011
