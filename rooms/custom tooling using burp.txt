@@ -23,6 +23,7 @@ What is the name of the function that performs brute forcing in the Burp extensi
 startBruteForce
 
 What is the secret of ecorp_admin?
-
+THM{You.Will.Never.Guess.This.Super.Secure.Secret}
 
 What is the flag?
+THM{end_2_end_encryption!}
