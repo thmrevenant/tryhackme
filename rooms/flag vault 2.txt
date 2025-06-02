@@ -1,0 +1,5 @@
+Flag Vault 2
+https://tryhackme.com/room/hfb1flagvault2
+
+What is the flag?
+THM{format_issues}
