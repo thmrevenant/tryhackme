@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (987)
+# Rooms (988)
 
 <table>
 <tr>
@@ -5291,6 +5291,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/powershellforpentesters
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/powershell for pentesters.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/powershell for pentesters.txt</a></td>
+</tr>
+<tr>
+<td align=left>Precision
+</td>
+<td align=left><a href="https://tryhackme.com/room/hfb1precision
+" target="_blank">https://tryhackme.com/room/hfb1precision
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/precision.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/precision.txt</a></td>
 </tr>
 <tr>
 <td align=left>Preparation
