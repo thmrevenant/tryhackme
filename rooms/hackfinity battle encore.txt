@@ -1,5 +1,5 @@
-Hackfinity Battle
-https://tryhackme.com/room/HackfinityBattle
+Hackfinity Battle Encore
+https://tryhackme.com/room/HackfinityBattleEncore
 
  2 Catch Me if You Can
 thm{Coringa_do_Beco}
