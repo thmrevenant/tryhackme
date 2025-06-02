@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (986)
+# Rooms (987)
 
 <table>
 <tr>
@@ -6683,6 +6683,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/dockerrodeo
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the docker rodeo.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the docker rodeo.txt</a></td>
+</tr>
+<tr>
+<td align=left>The Game
+</td>
+<td align=left><a href="https://tryhackme.com/room/hfb1thegame
+" target="_blank">https://tryhackme.com/room/hfb1thegame
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the game.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the game.txt</a></td>
 </tr>
 <tr>
 <td align=left>The Great Escape
