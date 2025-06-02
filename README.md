@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (990)
+# Rooms (992)
 
 <table>
 <tr>
@@ -83,6 +83,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/adauthenticatedenumeration
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad authenticated enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad authenticated enumeration.txt</a></td>
+</tr>
+<tr>
+<td align=left>AD: BadSuccessor
+</td>
+<td align=left><a href="https://tryhackme.com/room/adbadsuccessor
+" target="_blank">https://tryhackme.com/room/adbadsuccessor
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad badsuccessor.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad badsuccessor.txt</a></td>
 </tr>
 <tr>
 <td align=left>AD: Basic Enumeration
