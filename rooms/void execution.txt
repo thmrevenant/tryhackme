@@ -1,0 +1,5 @@
+Void Execution
+https://tryhackme.com/room/hfb1voidexecution
+
+What is the flag?
+THM{a_void_in_the_memory_c0de}
