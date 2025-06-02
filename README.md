@@ -7205,6 +7205,14 @@ My own private TryHackMe Database to lookup for answers.
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/virtualization and containers.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/virtualization and containers.txt</a></td>
 </tr>
 <tr>
+<td align=left>Void Execution
+</td>
+<td align=left><a href="https://tryhackme.com/room/hfb1voidexecution
+" target="_blank">https://tryhackme.com/room/hfb1voidexecution
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/void execution.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/void execution.txt</a></td>
+</tr>
+<tr>
 <td align=left>Volatility
 </td>
 <td align=left><a href="https://tryhackme.com/room/volatility
