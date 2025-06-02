@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (989)
+# Rooms (990)
 
 <table>
 <tr>
@@ -7635,6 +7635,14 @@ My own private TryHackMe Database to lookup for answers.
 " target="_blank">https://tryhackme.com/room/windowsnetworkanalysis
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows network analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows network analysis.txt</a></td>
+</tr>
+<tr>
+<td align=left>Windows Memory & Processes
+</td>
+<td align=left><a href="https://tryhackme.com/room/windowsmemoryandprocs
+" target="_blank">https://tryhackme.com/room/windowsmemoryandprocs
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows memory & processes.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows memory & processes.txt</a></td>
 </tr>
 <tr>
 <td align=left>Windows PowerShell
