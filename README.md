@@ -4,7 +4,7 @@
 
 My own private TryHackMe Database to lookup for answers.
 
-# Rooms (984)
+# Rooms (985)
 
 <table>
 <tr>
@@ -2364,6 +2364,14 @@ My own private TryHackMe Database to lookup for answers.
 </a></td>
 <td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/fixit.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/fixit.txt</a></td>
 </tr>
+<tr>
+<td align=left>Flag Vault
+</td>
+<td align=left><a href="https://tryhackme.com/room/hfb1flagvault
+" target="_blank">https://tryhackme.com/room/hfb1flagvault
+</a></td>
+<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/flag vault.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/flag vault.txt</a></td>
+</tr>	
 <tr>
 <td align=left>FlareVM: Arsenal of Tools
 </td>
