@@ -1,0 +1,5 @@
+The Game
+https://tryhackme.com/room/hfb1thegame
+
+What is the flag?
+THM{I_CAN_READ_IT_ALL}
